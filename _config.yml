@@ -100,7 +100,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 
-theme: corporate
+theme: delicate
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
