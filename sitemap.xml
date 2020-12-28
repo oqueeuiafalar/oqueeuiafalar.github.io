@@ -2,6 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/resenha-um-amor-perdido-alyson-richman/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-um-ano-na-provence/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-um-porto-seguro/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-um-tom-mais-escuro-de-magia/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-v-de-vinganca/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-victoria-e-o-patife/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-voce-e-feliz-no-seu-trabalho/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-voce-se-lembra-de-mim/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-will-will-um-nome-um-destino/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/rever-os-amigos-e-pagar-mico-nao-tem-coisa-melhor/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/review-linha-cachos-sim-da-haskell/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/roupas-para-piquenique/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/saiba-tudo-sobre-casas-inteligentes/</loc>
     
     <lastmod>2020-12-28</lastmod>
@@ -367,6 +451,13 @@
   
   <url>
     <loc>http://example.com/saia-midi-com-botoes/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/resenha-escute-de-sarah-dessen/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
@@ -800,84 +891,21 @@
   </url>
   
   <url>
-    <loc>http://example.com/resenha-um-amor-perdido-alyson-richman/</loc>
+    <loc>http://example.com/o-melhor-do-cortella/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/resenha-um-ano-na-provence/</loc>
+    <loc>http://example.com/o-poder-naomi-alderman/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/resenha-um-porto-seguro/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/resenha-um-tom-mais-escuro-de-magia/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/resenha-v-de-vinganca/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/resenha-victoria-e-o-patife/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/resenha-voce-e-feliz-no-seu-trabalho/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/resenha-voce-se-lembra-de-mim/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/resenha-will-will-um-nome-um-destino/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/rever-os-amigos-e-pagar-mico-nao-tem-coisa-melhor/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/review-linha-cachos-sim-da-haskell/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/roupas-para-piquenique/</loc>
+    <loc>http://example.com/o-que-esperar-da-serie-houdini-que-sera-exibida-na-tv-aberta/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
@@ -1395,7 +1423,84 @@
   </url>
   
   <url>
-    <loc>http://example.com/resenha-escute-de-sarah-dessen/</loc>
+    <loc>http://example.com/dicas-presente-dia-dos-namorados/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/doce-de-leite-em-pedacos/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/encontro-de-blogueiras-na-esmalteria-nacional/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/esmaltes-candy-colors/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/falcao-negro-em-perigo/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/filme-a-boa-mentira/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/filme-a-culpa-e-das-estrelas/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/filme-a-esperanca-parte-1/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/filme-a-experiencia/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/filme-a-todo-volume/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/filme-beasts-of-no-nation/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/filme-clube-de-compras-dallas/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
@@ -1899,21 +2004,119 @@
   </url>
   
   <url>
-    <loc>http://example.com/o-melhor-do-cortella/</loc>
+    <loc>http://example.com/coisas-lindas-da-semana-30/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/o-poder-naomi-alderman/</loc>
+    <loc>http://example.com/coisas-lindas-da-semana-31/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/o-que-esperar-da-serie-houdini-que-sera-exibida-na-tv-aberta/</loc>
+    <loc>http://example.com/coisas-lindas-da-semana-32/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-33/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-34/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-35/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-36/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-37/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-38/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-39/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-4/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-40/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-41/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-42/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-44/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-45/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/coisas-lindas-da-semana-46/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
@@ -2333,84 +2536,140 @@
   </url>
   
   <url>
-    <loc>http://example.com/dicas-presente-dia-dos-namorados/</loc>
+    <loc>http://example.com/7-about-the-week-16/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/doce-de-leite-em-pedacos/</loc>
+    <loc>http://example.com/7-about-the-week-17/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/encontro-de-blogueiras-na-esmalteria-nacional/</loc>
+    <loc>http://example.com/7-about-the-week-18/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/esmaltes-candy-colors/</loc>
+    <loc>http://example.com/7-about-the-week-19/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/falcao-negro-em-perigo/</loc>
+    <loc>http://example.com/7-about-the-week-2/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/filme-a-boa-mentira/</loc>
+    <loc>http://example.com/7-about-the-week-3/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/filme-a-culpa-e-das-estrelas/</loc>
+    <loc>http://example.com/7-about-the-week-4/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/filme-a-esperanca-parte-1/</loc>
+    <loc>http://example.com/7-about-the-week-5/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/filme-a-experiencia/</loc>
+    <loc>http://example.com/7-about-the-week-8/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/filme-a-todo-volume/</loc>
+    <loc>http://example.com/7-about-the-week-9/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/filme-beasts-of-no-nation/</loc>
+    <loc>http://example.com/7-about-the-week/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/filme-clube-de-compras-dallas/</loc>
+    <loc>http://example.com/7-atores-que-tiveram-que-passar-por-mudancas-drasticas-em-nome-da-arte/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/7-dicas-para-quem-quer-comecar-a-caminhar/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/7o-livro-do-ano-a-queda/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/8-casas-containeres-para-se-inspirar/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/8-dicas-de-presentes-criativos-para-a-pascoa/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/8-dicas-para-voce-cuidar-de-suas-roupas-de-couro-em-casa/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/8-melhores-cancoes-de-desenho-animado/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/8o-livro-do-ano-o-fantasma/</loc>
+    
+    <lastmod>2020-12-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/9o-livro-do-ano-desta-vez-eu-emagreco/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
@@ -2858,125 +3117,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/coisas-lindas-da-semana-30/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-31/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-32/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-33/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-34/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-35/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-36/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-37/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-38/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-39/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-4/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-40/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-41/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-42/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-44/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-45/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/coisas-lindas-da-semana-46/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/02-videos-engracados-e-inteligentes-para-refletir-sobre-abusos-contra-as-mulheres/</loc>
     
     <lastmod>2020-12-28</lastmod>
@@ -3391,146 +3531,6 @@
   
   <url>
     <loc>http://example.com/7-about-the-week-15/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-16/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-17/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-18/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-19/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-2/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-3/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-4/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-5/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-8/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week-9/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-about-the-week/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-atores-que-tiveram-que-passar-por-mudancas-drasticas-em-nome-da-arte/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7-dicas-para-quem-quer-comecar-a-caminhar/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/7o-livro-do-ano-a-queda/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/8-casas-containeres-para-se-inspirar/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/8-dicas-de-presentes-criativos-para-a-pascoa/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/8-dicas-para-voce-cuidar-de-suas-roupas-de-couro-em-casa/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/8-melhores-cancoes-de-desenho-animado/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/8o-livro-do-ano-o-fantasma/</loc>
-    
-    <lastmod>2020-12-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/9o-livro-do-ano-desta-vez-eu-emagreco/</loc>
     
     <lastmod>2020-12-28</lastmod>
     
