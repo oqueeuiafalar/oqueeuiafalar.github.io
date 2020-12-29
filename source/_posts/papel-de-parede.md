@@ -10,7 +10,7 @@ categories:
 date: 2020-03-23 17:16:33
 ---
 
-O papel de parede é algo que pode mudar totalmente a decoração de um ambiente, ou mesmo acrescentar aquele toque final que o espaço precisava. Mas para escolher o papel de parede ideal para o seu ambiente é preciso levar alguns quesitos em consideração. E por conta disso, eu hoje resolvi falar um pouco mais sobre dicas de como escolher o papel de parede ideal para o seu ambiente,  conseguindo assim transformar a sua decoração e deixar a sua casa muito mais bonita e personaliza. Confira! ![casa decorada com papel de parede com estampa dos anos 70](http://natalia.blog.br/wp-content/uploads/2020/03/casa-decorada-com-papel-de-parede-com-estampa-dos-anos-70.jpg "casa decorada com papel de parede com estampa dos anos 70") 1. Um bom papel de parede pode fazer toda a diferença na decoração do seu ambiente - Foto: Papel de Parede Anos 70
+O papel de parede é algo que pode mudar totalmente a decoração de um ambiente, ou mesmo acrescentar aquele toque final que o espaço precisava. Mas para escolher o papel de parede ideal para o seu ambiente é preciso levar alguns quesitos em consideração. E por conta disso, eu hoje resolvi falar um pouco mais sobre dicas de como escolher o papel de parede ideal para o seu ambiente,  conseguindo assim transformar a sua decoração e deixar a sua casa muito mais bonita e personaliza. Confira! ![casa decorada com papel de parede com estampa dos anos 70](/images/2020/03/casa-decorada-com-papel-de-parede-com-estampa-dos-anos-70.jpg "casa decorada com papel de parede com estampa dos anos 70") 1. Um bom papel de parede pode fazer toda a diferença na decoração do seu ambiente - Foto: Papel de Parede Anos 70
 
 ## Como escolher papel de parede
 

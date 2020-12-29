@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: O que eu ia falar
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Natalia Santos
+language: pt-BR
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://oqueeuiafalar.github.io/site-hexo/
 root: /
 permalink: :title/
 permalink_defaults:
@@ -99,7 +99,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-
 theme: delicate
 
 # Deployment
