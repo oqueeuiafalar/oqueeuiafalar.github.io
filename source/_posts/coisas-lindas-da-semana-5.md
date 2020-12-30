@@ -11,18 +11,18 @@ Oi gente, tudo bem? Como foi a semana de vocês? Aproveitaram muito o carnaval? 
 
 ## Essa rua
 
-[![rua com túnel de flores](/images/2015/02/cffa00f0d0a8237881dd54619df6702a.jpg)](/images/2015/02/cffa00f0d0a8237881dd54619df6702a.jpg) Como não se apaixonar por um lugar maravilhoso desse? É tudo tão encantador, os banquinhos, esse túnel de flores, ai, é amor demais. Onde será que fica, né? Vou comprar a passagem assim que descobrir rs.
+[![rua com túnel de flores](/wp-content/uploads/2015/02/cffa00f0d0a8237881dd54619df6702a.jpg)](/wp-content/uploads/2015/02/cffa00f0d0a8237881dd54619df6702a.jpg) Como não se apaixonar por um lugar maravilhoso desse? É tudo tão encantador, os banquinhos, esse túnel de flores, ai, é amor demais. Onde será que fica, né? Vou comprar a passagem assim que descobrir rs.
 
 ## Essa janela
 
-[![janela rústica com flores](/images/2015/02/9fffe0a4eb9a3ff465b96e7eb659e2c8.jpg)](/images/2015/02/9fffe0a4eb9a3ff465b96e7eb659e2c8.jpg) Esse dias eu fiz um “Coisas lindas da semana” que coloquei um quintal maravilhoso que me lembrava a Itália e agora eu achei uma janela que me lembra a Itália, haha, me lembra filmes como “Cartas para Julieta” ou sei lá, só sei que é muito lindo e queria uma janela assim em casa.
+[![janela rústica com flores](/wp-content/uploads/2015/02/9fffe0a4eb9a3ff465b96e7eb659e2c8.jpg)](/wp-content/uploads/2015/02/9fffe0a4eb9a3ff465b96e7eb659e2c8.jpg) Esse dias eu fiz um “Coisas lindas da semana” que coloquei um quintal maravilhoso que me lembrava a Itália e agora eu achei uma janela que me lembra a Itália, haha, me lembra filmes como “Cartas para Julieta” ou sei lá, só sei que é muito lindo e queria uma janela assim em casa.
 
 ## Essa coroa de flores
 
-[![coroa de flores e penteado para noiva](/images/2015/02/fd364be7c01923733b8951c9b7b4240b-682x1024.jpg)](/images/2015/02/fd364be7c01923733b8951c9b7b4240b.jpg) Estou na semana das flores? Haha Já é a terceira foto que contém flores, mas é que flores são sempre lindas de se ver. Então nunca é demais, e essa coroa ta um encanto sem igual, o penteado também. Qual mulher não gostaria de usar um penteado e uma coroa linda assim, né?
+[![coroa de flores e penteado para noiva](/wp-content/uploads/2015/02/fd364be7c01923733b8951c9b7b4240b-682x1024.jpg)](/wp-content/uploads/2015/02/fd364be7c01923733b8951c9b7b4240b.jpg) Estou na semana das flores? Haha Já é a terceira foto que contém flores, mas é que flores são sempre lindas de se ver. Então nunca é demais, e essa coroa ta um encanto sem igual, o penteado também. Qual mulher não gostaria de usar um penteado e uma coroa linda assim, né?
 
 ## Essa árvore de fotos
 
-## [![porta retrato em formato de árvore](/images/2015/02/fe59e53ad37c94763617f28b9c91b931.jpg)](/images/2015/02/fe59e53ad37c94763617f28b9c91b931.jpg)
+## [![porta retrato em formato de árvore](/wp-content/uploads/2015/02/fe59e53ad37c94763617f28b9c91b931.jpg)](/wp-content/uploads/2015/02/fe59e53ad37c94763617f28b9c91b931.jpg)
 
 Eu amo fotos, e adoro fazer decoração com fotos e essa árvore de fotos ta um encanto, não acham?   E por hoje essa semana é só, para semana que vem tenho mais novidades, no meio da semana eu vou postar a resenha sobre um pré-lançamento da editora novo conceito sobre um menino que foge com seu cachorro em busca de uma montanha, alguém advinha qual é o livro? :P E no próximo sábado volto com ainda mais coisas lindas para dar aquela alegrada básica no final de semana de todos nós. Beijos!

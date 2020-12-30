@@ -11,7 +11,7 @@ O primeiro mês do ano ainda não acabou e você tem a chance de se planejar par
 
 ## 1\. Objetivo
 
-![Alvo acertado simbolizando um objetivo alcançado.](/images/2017/01/alvo-acertado-262438.jpg) Planeje o que gostaria de atingir no próximo ano. Os objetivos são os desejos que você quer ter alcançado ao olhar para trás daqui a um ano. É importante que eles sejam realizáveis e mensuráveis, mas também que tragam algum valor para sua vida. Exemplos de objetivo:
+![Alvo acertado simbolizando um objetivo alcançado.](/wp-content/uploads/2017/01/alvo-acertado-262438.jpg) Planeje o que gostaria de atingir no próximo ano. Os objetivos são os desejos que você quer ter alcançado ao olhar para trás daqui a um ano. É importante que eles sejam realizáveis e mensuráveis, mas também que tragam algum valor para sua vida. Exemplos de objetivo:
 
 *   Aprender inglês;
 *   Ter uma página bem sucedida no facebook;
@@ -25,7 +25,7 @@ As evidências tornam suas realizações mensuráveis e fornecem uma resposta pa
 
 ## 3\. Motivadores:
 
-![Casal junto em campo florido com sol nascendo ao fundo](/images/2017/01/casal-em-campo-de-margaridas-196666.jpg) Enquanto as evidências dão clareza ao seu progresso os motivadores precisam dar clareza aos seus desejos. Os motivadores tem naturezas tão diversas quanto o número objetivos e pessoas possível. Entretanto comumente muitos motivadores são: reconhecimento de um grupo, autonomia ou enriquecimento financeiro, liberdade, status e felicidade. Ao definir motivadores a honestidade e clareza são essenciais. Afinal de contas: por que você quer aquilo que você quer? Exemplos de motivadores:
+![Casal junto em campo florido com sol nascendo ao fundo](/wp-content/uploads/2017/01/casal-em-campo-de-margaridas-196666.jpg) Enquanto as evidências dão clareza ao seu progresso os motivadores precisam dar clareza aos seus desejos. Os motivadores tem naturezas tão diversas quanto o número objetivos e pessoas possível. Entretanto comumente muitos motivadores são: reconhecimento de um grupo, autonomia ou enriquecimento financeiro, liberdade, status e felicidade. Ao definir motivadores a honestidade e clareza são essenciais. Afinal de contas: por que você quer aquilo que você quer? Exemplos de motivadores:
 
 *   Quero aprender inglẽs para aumentar minhas chances de morar em países como Canadá/Inglaterra para ter mais qualidade de vida e segurança financeira;
 *   Quero ter uma página de sucesso para ser reconhecido pelo meu trabalho entre meus pares e trabalhar com o que gosto sentindo-me útil.
@@ -39,7 +39,7 @@ Sabotadores são comportamentos recorrentes que impedem o progresso na direção
 
 ## 5\. Estratégias:
 
-![Rapaz escreve diagramas em lousa branca fazendo planos](/images/2017/01/homem-lousa-branca-planejamento-7369.jpg) Pensando em um plano de um ano, a parte de estratégias é o primeiro dos tópicos que tende a ser atualizado durante o ano. Uma estratégia é uma hipótese sobre um conjunto de ações que tende a facilitar seu progresso em direção ao seu objetivo. É interessante que a eficiência das estratégias seja validade a curto prazo. Exemplos de estratégias:
+![Rapaz escreve diagramas em lousa branca fazendo planos](/wp-content/uploads/2017/01/homem-lousa-branca-planejamento-7369.jpg) Pensando em um plano de um ano, a parte de estratégias é o primeiro dos tópicos que tende a ser atualizado durante o ano. Uma estratégia é uma hipótese sobre um conjunto de ações que tende a facilitar seu progresso em direção ao seu objetivo. É interessante que a eficiência das estratégias seja validade a curto prazo. Exemplos de estratégias:
 
 *   Vou estudar duolingo durante 21 dias seguidos, em seguida tentarei ver um filme em inglês com legenda em inglês e me sentir confortável com meu entendimento;
 *   Vou organizar um grupo de estudo com meus amigos com conversas diárias sobre nossos progressos pessoais durante 3 semanas;
@@ -54,7 +54,7 @@ Valores tem um caráter muito pessoal e íntimo. Cada valor diz respeito a algo 
 
 ## 7\. Recursos:
 
-![Um homem e uma mulher correm juntos em uma ponte em Londres](/images/2017/01/pessoas-correndo-ponte-29578.jpg) Recursos constituem sua caixa de ferramentas na busca de seus objetivos. Os recursos tem naturezas diversas e podem ser materiais ou abstratos. Tudo aquilo que você precisa dispor para progredir em seus objetivos é um recurso. Exemplos de recursos:
+![Um homem e uma mulher correm juntos em uma ponte em Londres](/wp-content/uploads/2017/01/pessoas-correndo-ponte-29578.jpg) Recursos constituem sua caixa de ferramentas na busca de seus objetivos. Os recursos tem naturezas diversas e podem ser materiais ou abstratos. Tudo aquilo que você precisa dispor para progredir em seus objetivos é um recurso. Exemplos de recursos:
 
 *   Energia física e mental. Preciso dispor de energia física e mental para trabalhar no desenvolvimento de meus objetivos.
 *   Dinheiro. Preciso de certa quantidade de dinheiro que garanta minhas contas em dia e assim a tranquilidade para trabalhar em meus objetivos.
@@ -64,7 +64,7 @@ Valores tem um caráter muito pessoal e íntimo. Cada valor diz respeito a algo 
 
 ## 8\. Ações
 
-![Mãos masculinas escrevendo em papel em cima de uma mesa com vários post its e papéis](/images/2017/01/homem-organizando-papeis-237675.jpg) Ações constituem entregas de curto prazo na direção da concretização de seus objetivos. Ações devem ser mensais, semanais e diárias e revisadas de acordo com essa periodicidade. Ações diárias precisam ser pensadas e analisadas diariamente. Aqui é exercitada a capacidade de transformar grandes objetivos em ações de curto prazo. Exemplos de ações:
+![Mãos masculinas escrevendo em papel em cima de uma mesa com vários post its e papéis](/wp-content/uploads/2017/01/homem-organizando-papeis-237675.jpg) Ações constituem entregas de curto prazo na direção da concretização de seus objetivos. Ações devem ser mensais, semanais e diárias e revisadas de acordo com essa periodicidade. Ações diárias precisam ser pensadas e analisadas diariamente. Aqui é exercitada a capacidade de transformar grandes objetivos em ações de curto prazo. Exemplos de ações:
 
 *   Hoje vou terminar a aula 3 do duolingo de inglês;
 *   Hoje vou criar as 3 issues posts curtos para minha página do facebook;

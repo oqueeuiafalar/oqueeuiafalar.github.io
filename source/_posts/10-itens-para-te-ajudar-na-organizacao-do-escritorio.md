@@ -11,11 +11,11 @@ categories:
 date: 2017-09-28 14:49:55
 ---
 
-![decor - desktop minimalista ](/images/2017/01/clean-desktop.jpg) Eu devo confessar que prezo muito pela organização (chego a ser chata em relação a isso), mas é porque quando eu vejo tudo organizado eu consigo fazer as minhas **ideias fluírem** de forma muito melhor e meu **rendimento aumentar**. Tanto quando eu estou **trabalhando no blog** ou no meu outro trabalho como auxiliar administrativa eu gosto de ter a minha disposição bastante **post-it**, **agenda**, **canetas coloridas** e mais algumas coisinhas porque assim eu vou anotando todas as ideias e dicas que recebo e depois é só eu ir colocando-as em prática sem deixar nada para trás. Se você também quer ter um escritório organizado e pratico, fiz uma lista com 10 itens para te ajudar a colocar tudo em ordem:
+![decor - desktop minimalista ](/wp-content/uploads/2017/01/clean-desktop.jpg) Eu devo confessar que prezo muito pela organização (chego a ser chata em relação a isso), mas é porque quando eu vejo tudo organizado eu consigo fazer as minhas **ideias fluírem** de forma muito melhor e meu **rendimento aumentar**. Tanto quando eu estou **trabalhando no blog** ou no meu outro trabalho como auxiliar administrativa eu gosto de ter a minha disposição bastante **post-it**, **agenda**, **canetas coloridas** e mais algumas coisinhas porque assim eu vou anotando todas as ideias e dicas que recebo e depois é só eu ir colocando-as em prática sem deixar nada para trás. Se você também quer ter um escritório organizado e pratico, fiz uma lista com 10 itens para te ajudar a colocar tudo em ordem:
 
 ## 1- Agenda
 
-![agenda básica](/images/2017/01/agenda.jpg) Para qualquer pessoa que trabalhe/estude a agenda é fundamental, afinal de contas é ali que você marca todos os seus compromissos e rotinas diárias.
+![agenda básica](/wp-content/uploads/2017/01/agenda.jpg) Para qualquer pessoa que trabalhe/estude a agenda é fundamental, afinal de contas é ali que você marca todos os seus compromissos e rotinas diárias.
 
 ### Onde comprar agenda na internet:
 
@@ -23,7 +23,7 @@ date: 2017-09-28 14:49:55
 
 ## 2- Porta canetas
 
-![decoração - porta canetas dourado ](/images/2017/01/porta-canetas.jpg) Se você assim como eu gosta de anotar tudo um porta canetas é essencial, porque ali dá para você colocar muitas canetas e de várias cores, o que ajuda muito a dar destaque para coisas mais ou menos importantes.
+![decoração - porta canetas dourado ](/wp-content/uploads/2017/01/porta-canetas.jpg) Se você assim como eu gosta de anotar tudo um porta canetas é essencial, porque ali dá para você colocar muitas canetas e de várias cores, o que ajuda muito a dar destaque para coisas mais ou menos importantes.
 
 ### Onde comprar porta canetas na internet:
 
@@ -31,7 +31,7 @@ date: 2017-09-28 14:49:55
 
 ## 3- Post-it
 
-![como usar post it](/images/2017/01/organização-com-post-it.jpg) Tá ai mais um item indispensável para alguém que quer ter um **escritório organizado**, o mais legal é que você pode separa-los por categoria de urgência, como por exemplo os post-it rosas tarefas urgentes, verde o que pode esperar um pouco e azul as menos importantes.
+![como usar post it](/wp-content/uploads/2017/01/organização-com-post-it.jpg) Tá ai mais um item indispensável para alguém que quer ter um **escritório organizado**, o mais legal é que você pode separa-los por categoria de urgência, como por exemplo os post-it rosas tarefas urgentes, verde o que pode esperar um pouco e azul as menos importantes.
 
 ### Onde comprar post-it na internet:
 
@@ -39,7 +39,7 @@ date: 2017-09-28 14:49:55
 
 ## 4- Porta cartão
 
-![decor - porta cartão de acrílico ](/images/2017/01/porta-cartão-de-acrílico.jpg) Os porta cartões além de dá um charme a mais na mesa (é possível encontrar na internet alguns muito fofos) eles deixam os cartões que você mais usa bem organizados e de fácil acesso e caso você –assim como eu – possua cartões do seu próprio negócio, também é uma boa opção para deixa-los mais acessíveis aos seus clientes.
+![decor - porta cartão de acrílico ](/wp-content/uploads/2017/01/porta-cartão-de-acrílico.jpg) Os porta cartões além de dá um charme a mais na mesa (é possível encontrar na internet alguns muito fofos) eles deixam os cartões que você mais usa bem organizados e de fácil acesso e caso você –assim como eu – possua cartões do seu próprio negócio, também é uma boa opção para deixa-los mais acessíveis aos seus clientes.
 
 ### Onde comprar porta cartão na internet:
 
@@ -47,7 +47,7 @@ date: 2017-09-28 14:49:55
 
 ## 5- Marcador de página
 
-![marcadores de páginas divertidos ](/images/2017/01/marcadores-de-página-de-pom-pom.jpg) Assim como os post-it, os marcadores de páginas ajudam você a marcar na agenda os compromissos mais importantes.
+![marcadores de páginas divertidos ](/wp-content/uploads/2017/01/marcadores-de-página-de-pom-pom.jpg) Assim como os post-it, os marcadores de páginas ajudam você a marcar na agenda os compromissos mais importantes.
 
 ### Onde comprar marcadores de página na internet:
 
@@ -55,7 +55,7 @@ date: 2017-09-28 14:49:55
 
 ## 6- Organizador de mesa
 
-![como utilizar os organizadores de mesa](/images/2017/01/organizador-de-mesa-de-acrílico.jpg) Esses organizadores são ótimos para organizar contas que precisam ser pagas, documentações que precisam ser entregues nos bancos, correios  ou cartórios, por exemplo, mas não vale usar esses organizadores para acumular papel, hem.
+![como utilizar os organizadores de mesa](/wp-content/uploads/2017/01/organizador-de-mesa-de-acrílico.jpg) Esses organizadores são ótimos para organizar contas que precisam ser pagas, documentações que precisam ser entregues nos bancos, correios  ou cartórios, por exemplo, mas não vale usar esses organizadores para acumular papel, hem.
 
 ### Onde comprar organizador de mesa na internet:
 
@@ -63,7 +63,7 @@ date: 2017-09-28 14:49:55
 
 ## 7- Canetas
 
-![porta canetas de caneca ](/images/2017/01/muitas-canetas-coloridas.jpg) Quanto mais caneta melhor de preferencia tenha canetas coloridas para destacar nas agendar o que é mais importante a ser feito.
+![porta canetas de caneca ](/wp-content/uploads/2017/01/muitas-canetas-coloridas.jpg) Quanto mais caneta melhor de preferencia tenha canetas coloridas para destacar nas agendar o que é mais importante a ser feito.
 
 ### Onde comprar canetas coloridas na internet:
 
@@ -71,7 +71,7 @@ date: 2017-09-28 14:49:55
 
 ## 8- Bloco de notas
 
-![bloco de notas de cartonagem ](/images/2017/01/bloco-de-notas.jpg) Ao contrario dos post-it que serão usados para marcar recados e das agendas que são usadas para marcar compromissos, os blocos de nota são usados para fazer esboços de desenhos, caso você seja designer, ou futuros documentos que serão redigidos.
+![bloco de notas de cartonagem ](/wp-content/uploads/2017/01/bloco-de-notas.jpg) Ao contrario dos post-it que serão usados para marcar recados e das agendas que são usadas para marcar compromissos, os blocos de nota são usados para fazer esboços de desenhos, caso você seja designer, ou futuros documentos que serão redigidos.
 
 ### Onde comprar blocos de nota na internet:
 
@@ -79,7 +79,7 @@ date: 2017-09-28 14:49:55
 
 ## 9- Clips
 
-![porta clips divertido ](/images/2017/01/clips-dourado.jpg) Todo mundo que trabalha em escritório usa muito clips para manter documentos separados e anexar algumas coisinhas nas agendas sem precisar grampear e deixa-la feia haha.
+![porta clips divertido ](/wp-content/uploads/2017/01/clips-dourado.jpg) Todo mundo que trabalha em escritório usa muito clips para manter documentos separados e anexar algumas coisinhas nas agendas sem precisar grampear e deixa-la feia haha.
 
 ### Onde comprar clips dourado na internet:
 
@@ -87,7 +87,7 @@ date: 2017-09-28 14:49:55
 
 ## 10- Lixeira pequena
 
-![decoração - lixeira de cobre](/images/2017/01/lixeira-para-escritório.jpg) A gente vive na era da internet mas nem por isso deixamos os papéis de lado, né, então tenha uma lixeira  ao lado da sua mesa, aquelas pequenininhas mesmo, para poder ir jogando fora os papeis que não vai mais utilizar e não deixar tudo uma bagunça.
+![decoração - lixeira de cobre](/wp-content/uploads/2017/01/lixeira-para-escritório.jpg) A gente vive na era da internet mas nem por isso deixamos os papéis de lado, né, então tenha uma lixeira  ao lado da sua mesa, aquelas pequenininhas mesmo, para poder ir jogando fora os papeis que não vai mais utilizar e não deixar tudo uma bagunça.
 
 ### Onde comprar lixeira para escritório na internet:
 

@@ -8,7 +8,7 @@ categories:
 date: 2016-01-06 11:19:35
 ---
 
-[![compra online - chapéus de praia ](/images/2015/12/chapéus-de-praia-onde-comprar-795x1024.jpg)](/images/2015/12/chapéus-de-praia-onde-comprar.jpg)
+[![compra online - chapéus de praia ](/wp-content/uploads/2015/12/chapéus-de-praia-onde-comprar-795x1024.jpg)](/wp-content/uploads/2015/12/chapéus-de-praia-onde-comprar.jpg)
 
 O verão chegou, as férias chegaram e com certeza muita gente vai aproveitar muita praia nesses próximos meses, certo?
 

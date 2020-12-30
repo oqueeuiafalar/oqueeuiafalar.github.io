@@ -17,22 +17,22 @@ date: 2016-01-04 18:19:18
 
 *   [A série "Houdini" tem nota 7,4 de 10 no Internet Movie Database](http://www.imdb.com/title/tt3132738/);
 
-[![Capa do livro "The secrete life of Houdini"](/images/2016/01/the-secret-life-of-houdini-678x1024.jpg)](/images/2016/01/the-secret-life-of-houdini.jpg)
+[![Capa do livro "The secrete life of Houdini"](/wp-content/uploads/2016/01/the-secret-life-of-houdini-678x1024.jpg)](/wp-content/uploads/2016/01/the-secret-life-of-houdini.jpg)
 
 *   Entre as críticas negativas recebidas pela série está o fato da série supostamente incluir na história de Houdini fatos que não fizeram parte da vida real do ilusionista, como o fato da série mostrar Houdini como espião. Embora o livro "The secret life of Houdini" afirme que Houdini foi espião para a coroa Britânica, essa afirmação ainda é tema de controvérsia.
 
-[![Adrien Brody caracterizado como Houdini e um assistente](/images/2016/01/houdini-e-assistente-1024x466.jpg)](/images/2016/01/houdini-e-assistente.jpg)
+[![Adrien Brody caracterizado como Houdini e um assistente](/wp-content/uploads/2016/01/houdini-e-assistente-1024x466.jpg)](/wp-content/uploads/2016/01/houdini-e-assistente.jpg)
 
 *   O roteiro da série foi indicado ao Writers Guild of America em 2015.
 *   O roteiro busca se aprofundar em uma análise psicológica de Houdini e sua busca por se tornar uma lenda viva, baseando-se no livro "Houdini: A Mind in Chains: A Psychoanalytic Portrait";
 *   A série recebeu críticas positivas pela qualidade dos efeitos especiais durante as várias cenas em que Houdini escapa da morte.
 *   A trilha sonora da série mistura elementos sintetizadores e guitarras de heavy metal, conferindo a série um toque moderno e dramático;
 
-[![Adrien Brody X Harry Houdini - Comparação de fotos](/images/2016/01/adrien_brody_harry_houdini_a_l.jpg)](/images/2016/01/adrien_brody_harry_houdini_a_l.jpg) Adrien Brody X Harry Houdini
+[![Adrien Brody X Harry Houdini - Comparação de fotos](/wp-content/uploads/2016/01/adrien_brody_harry_houdini_a_l.jpg)](/wp-content/uploads/2016/01/adrien_brody_harry_houdini_a_l.jpg) Adrien Brody X Harry Houdini
 
-*   [Em entrevista durante o lançamento da série, Adrien Brody (que já ganhou o oscar de melhor ator em 2002) afirma sentir que se preparou a vida toda para viver Houdini](http://cultura.estadao.com.br/noticias/televisao,adrien-brody-conta-como-se-preparou-a-vida-toda-para-ser-houdini,1556412);[![houdini-minisserie-retrata-o-maior-magico-de-todos-os-tempos-11](/images/2016/01/houdini-minisserie-retrata-o-maior-magico-de-todos-os-tempos-11.jpg)](/images/2016/01/houdini-minisserie-retrata-o-maior-magico-de-todos-os-tempos-11.jpg)
+*   [Em entrevista durante o lançamento da série, Adrien Brody (que já ganhou o oscar de melhor ator em 2002) afirma sentir que se preparou a vida toda para viver Houdini](http://cultura.estadao.com.br/noticias/televisao,adrien-brody-conta-como-se-preparou-a-vida-toda-para-ser-houdini,1556412);[![houdini-minisserie-retrata-o-maior-magico-de-todos-os-tempos-11](/wp-content/uploads/2016/01/houdini-minisserie-retrata-o-maior-magico-de-todos-os-tempos-11.jpg)](/wp-content/uploads/2016/01/houdini-minisserie-retrata-o-maior-magico-de-todos-os-tempos-11.jpg)
 *   Pela sua atuação em Houdini, Adrien Brody foi indicado ao Grammy.
 *   A série deve ser capaz de representar algumas das melhores apresentações de Houdini com grande qualidade de vídeo, coisa que não era possível na época em que Houdini viveu, no final do século XIX e começo do século XX.
-*   [![Cena da serie Houdini com Adrien Brody - legenda: "Unlike other people I dont escape life"](/images/2016/01/houdini-gif-dont-escape-life.gif)](/images/2016/01/houdini-gif-dont-escape-life.gif) Ao contrário das outras pessoas. Eu não escapo da vida.
+*   [![Cena da serie Houdini com Adrien Brody - legenda: "Unlike other people I dont escape life"](/wp-content/uploads/2016/01/houdini-gif-dont-escape-life.gif)](/wp-content/uploads/2016/01/houdini-gif-dont-escape-life.gif) Ao contrário das outras pessoas. Eu não escapo da vida.
 
 Então é isso, galera. "Houdini" deverá  presentear seus espectadores com excelentes atuações, boa trilha sonora, excelente fotografia e efeitos especiais, além do bom roteiro adaptado sobre a história de um dos maiores ilusionistas que já viveu. A minissérie Houdini, que originalmente foi exibida em 2 episódios de 90 minutos pelo History Channel, será exibida na Globo em 4 episódios diários entre os dias 04 e 08 de Janeiro de 2016. Agora é só assistir e tirar suas próprias conclusões.

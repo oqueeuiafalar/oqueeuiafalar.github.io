@@ -7,7 +7,7 @@ categories:
 date: 2015-04-29 16:53:27
 ---
 
-[![cena do musical cantando na chuva](/images/2015/04/17830_zoom.jpg)](/images/2015/04/17830_zoom.jpg) Esses dias eu resolvi assistir “Os miseráveis” e amei, e daí comecei a pensar que eu sempre falei que detestava filmes musicais, mas aí percebí que nem tudo nessa vida é tão radical assim, hehe. Eu não gostava de musicais porque sempre os achei muito cansativos, geralmente as músicas são ótimas, grudam na cabeça, mas eu não tinha paciência, porém parando pra pensar, eu percebi que tem alguns musicais que eu adoro, e por isso eu resolvi criar essa pequena lista de seis filmes musicais para vocês que ainda não assistiram, poderem assistir, e para quem já viu, poder rever, afinal coisa boa nunca cansa, né?
+[![cena do musical cantando na chuva](/wp-content/uploads/2015/04/17830_zoom.jpg)](/wp-content/uploads/2015/04/17830_zoom.jpg) Esses dias eu resolvi assistir “Os miseráveis” e amei, e daí comecei a pensar que eu sempre falei que detestava filmes musicais, mas aí percebí que nem tudo nessa vida é tão radical assim, hehe. Eu não gostava de musicais porque sempre os achei muito cansativos, geralmente as músicas são ótimas, grudam na cabeça, mas eu não tinha paciência, porém parando pra pensar, eu percebi que tem alguns musicais que eu adoro, e por isso eu resolvi criar essa pequena lista de seis filmes musicais para vocês que ainda não assistiram, poderem assistir, e para quem já viu, poder rever, afinal coisa boa nunca cansa, né?
 
 ## Os miseráveis
 

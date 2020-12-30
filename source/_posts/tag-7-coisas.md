@@ -7,7 +7,7 @@ categories:
 date: 2015-09-30 11:47:48
 ---
 
-[![agenda escrita - escrevendo ](/images/2015/09/diário-escrito.jpeg)](/images/2015/09/diário-escrito.jpeg) A Camila do blog **[Poetizando Moda](http://www.poetizandomoda.com.br/)** me indicou pra responder a tag 7 coisas e como eu adorei a tag, não resisti e respondi haha, bora conferir:
+[![agenda escrita - escrevendo ](/wp-content/uploads/2015/09/diário-escrito.jpeg)](/wp-content/uploads/2015/09/diário-escrito.jpeg) A Camila do blog **[Poetizando Moda](http://www.poetizandomoda.com.br/)** me indicou pra responder a tag 7 coisas e como eu adorei a tag, não resisti e respondi haha, bora conferir:
 
 ## 7 coisas que eu quero fazer antes de morrer
 

@@ -7,7 +7,7 @@ categories:
 date: 2016-01-09 11:28:06
 ---
 
-[![bolo cocada com calda de maracujá - como fazer](/images/2016/01/receita-bolo-de-coco-com-calda-de-maracujá-1024x768.jpg)](/images/2016/01/receita-bolo-de-coco-com-calda-de-maracujá.jpg) Oi gente, tudo bem? Eu sou apaixonada por cocada desde que eu me conheço por gente. Lembro que quando criança minha tia Cida fazia uma cocada de comer rezando, e minha mãe faz uma cocada de comer de colher que meu Deus, é gostoso demais, não há dieta que resista haha, fora essas cocadas deliciosas dos mais diversos sabores que são vendidas nas ruas/parques. E além de toda essas cocadas mais tradicionais, minha mãe resolve as vezes fazer esse bolo cocada que é divino ( sério, vocês precisam experimentar) principalmente por causa dessa calda de maracujá que dá um azedinho todo especial. E claro eu não podia deixar de compartilhar essa gostosura toda com vocês, né. Papel e caneta na mão e bora anotar a receita. [![como fazer bolo de coco e calda de maracujá ](/images/2016/01/Bolo-cocada-com-maracujá-1024x768.jpg)](/images/2016/01/Bolo-cocada-com-maracujá.jpg)
+[![bolo cocada com calda de maracujá - como fazer](/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracujá-1024x768.jpg)](/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracujá.jpg) Oi gente, tudo bem? Eu sou apaixonada por cocada desde que eu me conheço por gente. Lembro que quando criança minha tia Cida fazia uma cocada de comer rezando, e minha mãe faz uma cocada de comer de colher que meu Deus, é gostoso demais, não há dieta que resista haha, fora essas cocadas deliciosas dos mais diversos sabores que são vendidas nas ruas/parques. E além de toda essas cocadas mais tradicionais, minha mãe resolve as vezes fazer esse bolo cocada que é divino ( sério, vocês precisam experimentar) principalmente por causa dessa calda de maracujá que dá um azedinho todo especial. E claro eu não podia deixar de compartilhar essa gostosura toda com vocês, né. Papel e caneta na mão e bora anotar a receita. [![como fazer bolo de coco e calda de maracujá ](/wp-content/uploads/2016/01/Bolo-cocada-com-maracujá-1024x768.jpg)](/wp-content/uploads/2016/01/Bolo-cocada-com-maracujá.jpg)
 
 ## Para o bolo:
 
@@ -24,7 +24,7 @@ date: 2016-01-09 11:28:06
 *   75 ml de água
 *   25 ml de glucose de milho
 
-[![como fazer - bolo de coco e calda de maracujá ](/images/2016/01/receita-de-calda-de-maracujá-e-bolo-cacada-1024x768.jpg)](/images/2016/01/receita-de-calda-de-maracujá-e-bolo-cacada.jpg)
+[![como fazer - bolo de coco e calda de maracujá ](/wp-content/uploads/2016/01/receita-de-calda-de-maracujá-e-bolo-cacada-1024x768.jpg)](/wp-content/uploads/2016/01/receita-de-calda-de-maracujá-e-bolo-cacada.jpg)
 
 ## Modo de preparo:
 
@@ -33,4 +33,4 @@ date: 2016-01-09 11:28:06
 *   Para fazer a calda, leve os ingredientes ao fogo e deixe cozinhar por 10 minutos.
 *   Desenforme o bolo e use a calda para decorar.
 
-[![como fazer bolo de coco com calda ](/images/2016/01/bolo-de-coco-com-calda-de-maracujá-1024x768.jpg)](/images/2016/01/bolo-de-coco-com-calda-de-maracujá.jpg) Viram só como é fácil fazer? Eu adoro essas receitas que são só colocar tudo dentro do liquidificador e bater, é prático, rápido e faz menos sujeira haha. Façam a receita em casa e não se esqueçam de me contar o que acharam. Beijos!
+[![como fazer bolo de coco com calda ](/wp-content/uploads/2016/01/bolo-de-coco-com-calda-de-maracujá-1024x768.jpg)](/wp-content/uploads/2016/01/bolo-de-coco-com-calda-de-maracujá.jpg) Viram só como é fácil fazer? Eu adoro essas receitas que são só colocar tudo dentro do liquidificador e bater, é prático, rápido e faz menos sujeira haha. Façam a receita em casa e não se esqueçam de me contar o que acharam. Beijos!

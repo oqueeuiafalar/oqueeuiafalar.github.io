@@ -7,7 +7,7 @@ categories:
 date: 2015-12-07 19:25:07
 ---
 
-[![receita - palha italiana](/images/2015/12/receita-de-palha-italiana-1024x768.jpg)](/images/2015/12/receita-de-palha-italiana.jpg) Natal chegando e a gente já começa a pensar na ceia, certo? Hoje vou ensinar uma sobremesa bem fácil, gostosa e barata pra vocês deixarem a noite de natal ainda mais gostosa. A palha italiana na verdade não foi criada na Itália e sim no Brasil, ela foi criada pelos imigrantes que por não terem  os ingredientes para fazer o salame de chocolate, resolveram criar um nova receita e nisso conseguiram chegar a esse doce delicioso que é a palha italiana. Bora aprender? [![receita de palha italiana ](/images/2015/12/receita-palha-italiana-1024x768.jpg)](/images/2015/12/receita-palha-italiana.jpg) [![receita palha italiana - como fazer](/images/2015/12/palha-italiana-como-fazer-1024x768.jpg)](/images/2015/12/palha-italiana-como-fazer.jpg)
+[![receita - palha italiana](/wp-content/uploads/2015/12/receita-de-palha-italiana-1024x768.jpg)](/wp-content/uploads/2015/12/receita-de-palha-italiana.jpg) Natal chegando e a gente já começa a pensar na ceia, certo? Hoje vou ensinar uma sobremesa bem fácil, gostosa e barata pra vocês deixarem a noite de natal ainda mais gostosa. A palha italiana na verdade não foi criada na Itália e sim no Brasil, ela foi criada pelos imigrantes que por não terem  os ingredientes para fazer o salame de chocolate, resolveram criar um nova receita e nisso conseguiram chegar a esse doce delicioso que é a palha italiana. Bora aprender? [![receita de palha italiana ](/wp-content/uploads/2015/12/receita-palha-italiana-1024x768.jpg)](/wp-content/uploads/2015/12/receita-palha-italiana.jpg) [![receita palha italiana - como fazer](/wp-content/uploads/2015/12/palha-italiana-como-fazer-1024x768.jpg)](/wp-content/uploads/2015/12/palha-italiana-como-fazer.jpg)
 
 ## Ingredientes:
 
@@ -16,7 +16,7 @@ date: 2015-12-07 19:25:07
 *   1 1/2 colher de manteiga sem sal
 *   2 pacotes de bolacha  Maisena
 
-[![como fazer - palha italiana - receita](/images/2015/12/como-fazer-palha-italiana-1024x768.jpg)](/images/2015/12/como-fazer-palha-italiana.jpg)
+[![como fazer - palha italiana - receita](/wp-content/uploads/2015/12/como-fazer-palha-italiana-1024x768.jpg)](/wp-content/uploads/2015/12/como-fazer-palha-italiana.jpg)
 
 ## Modo de fazer:
 
@@ -28,4 +28,4 @@ date: 2015-12-07 19:25:07
 *   Leve a geladeira por cerca de 3 horas ou até ficar bem firme.
 *   Recorte em retângulos e sirva, se preferir, pode passar a palha no açúcar de confeiteiro para ficar ainda mais bonita (mas eu gosto mais dela rustica haha).
 
-[![receita de palha italiana - como fazer](/images/2015/12/como-fazer-palha-italiana-receita-1024x768.jpg)](/images/2015/12/como-fazer-palha-italiana-receita.jpg)   A palha italiana é um doce clássico e que todo mundo adora comer, então é certeza fazer sucesso na ceia de natal. Quem fizer, me conte aqui o resultado, ok? Beijos!
+[![receita de palha italiana - como fazer](/wp-content/uploads/2015/12/como-fazer-palha-italiana-receita-1024x768.jpg)](/wp-content/uploads/2015/12/como-fazer-palha-italiana-receita.jpg)   A palha italiana é um doce clássico e que todo mundo adora comer, então é certeza fazer sucesso na ceia de natal. Quem fizer, me conte aqui o resultado, ok? Beijos!

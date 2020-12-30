@@ -7,7 +7,7 @@ categories:
 date: 2016-04-20 19:47:52
 ---
 
-[![Filme Rachel McAdams](/images/2016/04/Rachel-McAdams.jpg)](/images/2016/04/Rachel-McAdams.jpg) Foto: LA Times Muita gente conheceu Rachel McAdams como a vilã Regina George na comédia “Meninas Malvadas”, mas depois desse filme vieram muitos outros sucessos nos cinema e na TV. Ela já foi considerada _it girl_ pela mídia e também já foi indicada ao BAFTA. Que tal aproveitar o feriado e se jogar no sofá pra assistir vários filmes da Rachel McAdams, hem? Aí vai algumas sugestões:
+[![Filme Rachel McAdams](/wp-content/uploads/2016/04/Rachel-McAdams.jpg)](/wp-content/uploads/2016/04/Rachel-McAdams.jpg) Foto: LA Times Muita gente conheceu Rachel McAdams como a vilã Regina George na comédia “Meninas Malvadas”, mas depois desse filme vieram muitos outros sucessos nos cinema e na TV. Ela já foi considerada _it girl_ pela mídia e também já foi indicada ao BAFTA. Que tal aproveitar o feriado e se jogar no sofá pra assistir vários filmes da Rachel McAdams, hem? Aí vai algumas sugestões:
 
 ## Diários de uma paixão
 

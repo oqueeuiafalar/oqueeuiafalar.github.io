@@ -7,7 +7,7 @@ categories:
 date: 2015-06-29 15:56:00
 ---
 
-[![post_clipes](/images/2015/06/post_clipes.png)](/images/2015/06/post_clipes.png) A **[Bruna Vieira](http://www.depoisdosquinze.com/)** criou essa tag muito legal  que eu não resisti e acabei fazendo também. Lembro da minha adolescência, que eu passava horas assistindo clipes na MTV ou esperava ansiosa pelo Clipmania que passava na Band. Por isso vou mostrar pra vocês apenas dez dos meus clipes prediletos, porque claro que essa lista é muito mais longa.
+[![post_clipes](/wp-content/uploads/2015/06/post_clipes.png)](/wp-content/uploads/2015/06/post_clipes.png) A **[Bruna Vieira](http://www.depoisdosquinze.com/)** criou essa tag muito legal  que eu não resisti e acabei fazendo também. Lembro da minha adolescência, que eu passava horas assistindo clipes na MTV ou esperava ansiosa pelo Clipmania que passava na Band. Por isso vou mostrar pra vocês apenas dez dos meus clipes prediletos, porque claro que essa lista é muito mais longa.
 
 ## Ed Sheeran - Don't
 

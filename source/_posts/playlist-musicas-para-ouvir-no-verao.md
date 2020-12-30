@@ -7,7 +7,7 @@ categories:
 date: 2016-01-02 12:07:47
 ---
 
-[![músicas para o verão](/images/2015/12/músicas-para-curtir-no-verão.jpg)](/images/2015/12/músicas-para-curtir-no-verão.jpg) Chegou o verão, chegou as férias, chegou a época de relaxar na praia, na rede e na piscina, não é? E claro que tudo isso é muito melhor se acompanhado de uma boa música. Selecionei algumas músicas que eu adoro e que tem tudo a ver com esse clima mais quente, de férias e alegrias, algumas mais animadas e outras mais relaxantes, mas tem pra todos os gosto ( ou quase haha). Aí vai a lista e aproveitem pra relaxar...
+[![músicas para o verão](/wp-content/uploads/2015/12/músicas-para-curtir-no-verão.jpg)](/wp-content/uploads/2015/12/músicas-para-curtir-no-verão.jpg) Chegou o verão, chegou as férias, chegou a época de relaxar na praia, na rede e na piscina, não é? E claro que tudo isso é muito melhor se acompanhado de uma boa música. Selecionei algumas músicas que eu adoro e que tem tudo a ver com esse clima mais quente, de férias e alegrias, algumas mais animadas e outras mais relaxantes, mas tem pra todos os gosto ( ou quase haha). Aí vai a lista e aproveitem pra relaxar...
 
 ## **10º  Island in the sun – Weezer** 
 

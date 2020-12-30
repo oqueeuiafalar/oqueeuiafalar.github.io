@@ -13,20 +13,20 @@ Para você que ama viajar, e que já passou por muitos lugares ou pretende passa
 
 ## Quadros e inspirações
 
-Os quadros são uma forma clássica de decorar e como você pode colocar o que quiser em uma tela branca por que não colocar a inspiração para uma viagem ali, combiná-los com um [**piso de porcelanato**](http://www.dcorevoce.com.br/porcelanato-liquido/) pode ser uma boa ideia também. ![como decorar com quadros de viagem](/images/2017/05/quadro-com-tema-de-viagem.jpg)
+Os quadros são uma forma clássica de decorar e como você pode colocar o que quiser em uma tela branca por que não colocar a inspiração para uma viagem ali, combiná-los com um [**piso de porcelanato**](http://www.dcorevoce.com.br/porcelanato-liquido/) pode ser uma boa ideia também. ![como decorar com quadros de viagem](/wp-content/uploads/2017/05/quadro-com-tema-de-viagem.jpg)
 
 ## Mapa mundi
 
-Fazer uma mapa mundi na parede de sua sala pode ser uma ideia linda que você deve adotar quando estamos falando de viagem ![decoração com mapa mundi](/images/2017/05/mapa-mundi.jpg)
+Fazer uma mapa mundi na parede de sua sala pode ser uma ideia linda que você deve adotar quando estamos falando de viagem ![decoração com mapa mundi](/wp-content/uploads/2017/05/mapa-mundi.jpg)
 
 ## Luminária
 
-O mapa mundi pode até mesmo se encaixar em uma luminária estilizada dentro de um globo terrestre, e fica sensacional. ![decoração com luminária ](/images/2017/05/luminária-de-globo-terrestre.jpg)
+O mapa mundi pode até mesmo se encaixar em uma luminária estilizada dentro de um globo terrestre, e fica sensacional. ![decoração com luminária ](/wp-content/uploads/2017/05/luminária-de-globo-terrestre.jpg)
 
 ## Fotos e lugares
 
-Colocar fotos em lugares que você já frequentou com certeza é uma ótima recordação, você pode mesclar essas fotos com fotos de ocasiões especiais da sua vida, como [**chá de bebê**](http://www.dcorevoce.com.br/cha-de-bebe/), aniversários e casamentos. ![como decorar com porta retratos](/images/2017/05/fotos-e-lugares.jpg)
+Colocar fotos em lugares que você já frequentou com certeza é uma ótima recordação, você pode mesclar essas fotos com fotos de ocasiões especiais da sua vida, como [**chá de bebê**](http://www.dcorevoce.com.br/cha-de-bebe/), aniversários e casamentos. ![como decorar com porta retratos](/wp-content/uploads/2017/05/fotos-e-lugares.jpg)
 
 ## Fuso horários
 
-Colocar fuso horários diferentes para lugares que você já esteve é uma forma muito criativa de decorar. ![decoração com tema de viagem](/images/2017/05/fuso-horarios-decor.jpg) Espero que vocês tenham gostado do post e que venham muitas ideias de decoração e inspirações para futuras viagens. Beijos!
+Colocar fuso horários diferentes para lugares que você já esteve é uma forma muito criativa de decorar. ![decoração com tema de viagem](/wp-content/uploads/2017/05/fuso-horarios-decor.jpg) Espero que vocês tenham gostado do post e que venham muitas ideias de decoração e inspirações para futuras viagens. Beijos!
