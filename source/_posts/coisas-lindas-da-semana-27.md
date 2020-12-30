@@ -11,16 +11,16 @@ Oiii gente, primeiramente quero pedir desculpas porque semana passada eu não co
 
 ## Esse poa
 
-[![look p&b com poa](http://natalia.blog.br/wp-content/uploads/2015/08/look-pb-com-poa-683x1024.jpg)](http://natalia.blog.br/wp-content/uploads/2015/08/look-pb-com-poa.jpg) Acho que eu já comentei aqui no blog o quanto eu sou apaixonada por poa. Quando vi esse look P&B com essa camisa linda de poa, me deu vontade de correr pro meu guarda roupa e montar um look com minha camisa de poa também haha.
+[![look p&b com poa](/images/2015/08/look-pb-com-poa-683x1024.jpg)](/images/2015/08/look-pb-com-poa.jpg) Acho que eu já comentei aqui no blog o quanto eu sou apaixonada por poa. Quando vi esse look P&B com essa camisa linda de poa, me deu vontade de correr pro meu guarda roupa e montar um look com minha camisa de poa também haha.
 
 ## Essa decoração
 
-[![decoração com quadrinhos ](http://natalia.blog.br/wp-content/uploads/2015/08/quadrinhos.png)](http://natalia.blog.br/wp-content/uploads/2015/08/quadrinhos.png) Ando bem viciada em olhar esse tipo de quadrinhos na internet, talvez eu acabe comprando alguns, acho que deixa qualquer decoração mais divertida e criativa,
+[![decoração com quadrinhos ](/images/2015/08/quadrinhos.png)](/images/2015/08/quadrinhos.png) Ando bem viciada em olhar esse tipo de quadrinhos na internet, talvez eu acabe comprando alguns, acho que deixa qualquer decoração mais divertida e criativa,
 
 ## Essa câmera
 
-[![câmera antiga decoração ](http://natalia.blog.br/wp-content/uploads/2015/08/b820f9156d3756bf31cc3f4585afa815-683x1024.jpg)](http://natalia.blog.br/wp-content/uploads/2015/08/b820f9156d3756bf31cc3f4585afa815.jpg) Ahhh eu quero um dessa. Claro que eu não saberia usar, haha, mas acho que ficaria tão lindo pra decoração, principalmente do desktop.
+[![câmera antiga decoração ](/images/2015/08/b820f9156d3756bf31cc3f4585afa815-683x1024.jpg)](/images/2015/08/b820f9156d3756bf31cc3f4585afa815.jpg) Ahhh eu quero um dessa. Claro que eu não saberia usar, haha, mas acho que ficaria tão lindo pra decoração, principalmente do desktop.
 
 ## Esse cesto
 
-[![cesto brando decoração ](http://natalia.blog.br/wp-content/uploads/2015/08/7b3d86ba13a45df3578495626d14814d.jpg)](http://natalia.blog.br/wp-content/uploads/2015/08/7b3d86ba13a45df3578495626d14814d.jpg)   Tá aí um cesto super prático, serve tanto pra decoração quanto para guardar coisas, e fica um ambiente muito fofo. Espero que vocês tenham gostado do coisas lindas dessa semana e que não acontece mais de eu falhar nesse post, hehe. Beijos!
+[![cesto brando decoração ](/images/2015/08/7b3d86ba13a45df3578495626d14814d.jpg)](/images/2015/08/7b3d86ba13a45df3578495626d14814d.jpg)   Tá aí um cesto super prático, serve tanto pra decoração quanto para guardar coisas, e fica um ambiente muito fofo. Espero que vocês tenham gostado do coisas lindas dessa semana e que não acontece mais de eu falhar nesse post, hehe. Beijos!

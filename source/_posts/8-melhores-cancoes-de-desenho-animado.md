@@ -10,7 +10,7 @@ categories:
 date: 2017-03-16 08:34:08
 ---
 
-![picture beauty and the beast](http://natalia.blog.br/wp-content/uploads/2017/03/foto-com-a-bela-e-a-fera.jpg) **O filme A Bela e a Fera** esta por ia nos cinemas do mundo a fora e isso me fez entrar em uma sessão nostalgia que vocês não fazem ideia haha. Eu quando criança, como a maioria, passava horas e horas dos meus dias assistindo desenhos, principalmente os da Disney e até hoje eu sou apaixonada por eles, mas sou ainda mais apaixonada pelas trilhas sonoras. São músicas que nunca saíram da minha cabeça e que fazem parte de minha infância, da minha juventude, da minha vida, aloka hahaha. Por isso separei as oito canções de desenhos animados que eu mais gosto, 7 são da **Disney** e uma da **DreamWorks**, espero que vocês também gostem e embarquem nessa sessão nostalgia comigo:
+![picture beauty and the beast](/images/2017/03/foto-com-a-bela-e-a-fera.jpg) **O filme A Bela e a Fera** esta por ia nos cinemas do mundo a fora e isso me fez entrar em uma sessão nostalgia que vocês não fazem ideia haha. Eu quando criança, como a maioria, passava horas e horas dos meus dias assistindo desenhos, principalmente os da Disney e até hoje eu sou apaixonada por eles, mas sou ainda mais apaixonada pelas trilhas sonoras. São músicas que nunca saíram da minha cabeça e que fazem parte de minha infância, da minha juventude, da minha vida, aloka hahaha. Por isso separei as oito canções de desenhos animados que eu mais gosto, 7 são da **Disney** e uma da **DreamWorks**, espero que vocês também gostem e embarquem nessa sessão nostalgia comigo:
 
 ## Beauty and The Beast
 

@@ -8,7 +8,7 @@ categories:
 date: 2015-11-04 18:58:21
 ---
 
-[![lendo - menina lendo ](http://natalia.blog.br/wp-content/uploads/2015/11/menina-lendo-1024x683.jpg)](http://natalia.blog.br/wp-content/uploads/2015/11/menina-lendo.jpg) Foto: Melina Souza Se tem uma coisa que eu amo fazer é ler, é o meu passatempo preferido, mas sempre me deparo com pessoas me perguntando como faço pra ler tanto, como criar o hábito da leitura, que quando elas tentam ler elas sentem sono, preguiça, ou simplesmente não gostam, porém, elas gostariam de criar esse hábito. Por isso resolvi separar algumas dicas pra ajudar essa galera toda.
+[![lendo - menina lendo ](/images/2015/11/menina-lendo-1024x683.jpg)](/images/2015/11/menina-lendo.jpg) Foto: Melina Souza Se tem uma coisa que eu amo fazer é ler, é o meu passatempo preferido, mas sempre me deparo com pessoas me perguntando como faço pra ler tanto, como criar o hábito da leitura, que quando elas tentam ler elas sentem sono, preguiça, ou simplesmente não gostam, porém, elas gostariam de criar esse hábito. Por isso resolvi separar algumas dicas pra ajudar essa galera toda.
 
 ## **1 – Sempre tenha um livro perto de você**
 

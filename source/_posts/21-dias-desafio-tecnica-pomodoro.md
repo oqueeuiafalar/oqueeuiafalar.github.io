@@ -9,7 +9,7 @@ categories:
 date: 2016-02-17 17:42:33
 ---
 
-[![Pessoa com relógio mexendo no computador e fazendo anotações](http://natalia.blog.br/wp-content/uploads/2016/02/person-apple-laptop-notebook-1024x683.jpg)](http://natalia.blog.br/wp-content/uploads/2016/02/person-apple-laptop-notebook.jpg) Logo nos primeiros dias de Janeiro eu e meu amigo William Ribeiro nos desafiamos mutuamente a uma jornada de 21 dias de pomodoro. Recentemente ambos completamos o desafio e nesse post você vai descobrir como foi a minha experiência e que impacto esses 21 dias trouxeram para minha rotina.
+[![Pessoa com relógio mexendo no computador e fazendo anotações](/images/2016/02/person-apple-laptop-notebook-1024x683.jpg)](/images/2016/02/person-apple-laptop-notebook.jpg) Logo nos primeiros dias de Janeiro eu e meu amigo William Ribeiro nos desafiamos mutuamente a uma jornada de 21 dias de pomodoro. Recentemente ambos completamos o desafio e nesse post você vai descobrir como foi a minha experiência e que impacto esses 21 dias trouxeram para minha rotina.
 
 ### Relato de um procrastinador
 
@@ -19,7 +19,7 @@ Isso soa familiar para você?
 
 ### Técnica pomodoro
 
-![Timer de cozinha com boneco do dart vader ao lado - técnica pomodoro](http://natalia.blog.br/wp-content/uploads/2016/02/5351547427_9d9447efcd_b-1024x683.jpg) A técnica pomodoro é bem simples e consiste em um período longo de foco total sem distrações em uma tarefa seguido de um curto período de recompensa e relaxamento. Normalmente utilizamos o período de 25 minutos de foco seguido de 5 minutos de recompensa/relaxamento. É só isso. Existem várias ferramentas na internet para gerenciar seu tempo de pomodoro, eu utilizei o [tomato timer](http://tomato-timer.com/) mas se você preferir pode usar o alarme do seu celular, um timer de cozinha ou qualquer coisa que funcione pra você.
+![Timer de cozinha com boneco do dart vader ao lado - técnica pomodoro](/images/2016/02/5351547427_9d9447efcd_b-1024x683.jpg) A técnica pomodoro é bem simples e consiste em um período longo de foco total sem distrações em uma tarefa seguido de um curto período de recompensa e relaxamento. Normalmente utilizamos o período de 25 minutos de foco seguido de 5 minutos de recompensa/relaxamento. É só isso. Existem várias ferramentas na internet para gerenciar seu tempo de pomodoro, eu utilizei o [tomato timer](http://tomato-timer.com/) mas se você preferir pode usar o alarme do seu celular, um timer de cozinha ou qualquer coisa que funcione pra você.
 
 ### Por que 21 dias?
 
@@ -27,7 +27,7 @@ Desde os anos 1960, a teoria dos 21 dias, criada pelo cirurgião Maxwell Maltz a
 
 ### O impacto dos 21 dias de pomodoro
 
-[![Homem olhando para o celular enquanto usa o computador](http://natalia.blog.br/wp-content/uploads/2016/02/man-person-apple-iphone-1024x682.jpg)](http://natalia.blog.br/wp-content/uploads/2016/02/man-person-apple-iphone.jpg) Passei pelos 21 dias de pomodoro com sucesso. Obtive vários resultados positivos durante o processo, os mais importantes deles foram:
+[![Homem olhando para o celular enquanto usa o computador](/images/2016/02/man-person-apple-iphone-1024x682.jpg)](/images/2016/02/man-person-apple-iphone.jpg) Passei pelos 21 dias de pomodoro com sucesso. Obtive vários resultados positivos durante o processo, os mais importantes deles foram:
 
 *   Depois de um ano sem ler nenhum livro, eu conseguí ler 3 livros em um mês.
 *   Depois de enrolar minha namorada durante um mês dizendo que editaria vídeos que ela produziu para seu canal no youtube, eu utilizei um ciclo pomodoro para aprender a usar um editor de vídeos chamado Shortcut e mais 2 ciclos de pomodoro para editar seu vídeo.

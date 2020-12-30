@@ -11,16 +11,16 @@ E aí gente, já começaram a curtir o feriado? O coisas lindas dessa semana dá
 
 ## Esse look
 
-[![look despojado: jeans, blazer e tênis ](http://natalia.blog.br/wp-content/uploads/2015/04/e0bdcd55bbb81eee1bf19b9ff429b767-698x1024.jpg)](http://natalia.blog.br/wp-content/uploads/2015/04/e0bdcd55bbb81eee1bf19b9ff429b767.jpg) Gente, ela conseguiu misturar tudo o que eu adoro nesse look, jeans destroyed, blazer e all star. Acho bem legal essa combinação, porque tira aquela formalidade e dá um ar mais jovial, vou aderir. O que acham?
+[![look despojado: jeans, blazer e tênis ](/images/2015/04/e0bdcd55bbb81eee1bf19b9ff429b767-698x1024.jpg)](/images/2015/04/e0bdcd55bbb81eee1bf19b9ff429b767.jpg) Gente, ela conseguiu misturar tudo o que eu adoro nesse look, jeans destroyed, blazer e all star. Acho bem legal essa combinação, porque tira aquela formalidade e dá um ar mais jovial, vou aderir. O que acham?
 
 ## Jardim Botânico de Curitiba
 
-[![Jardim botânico de Curitiba](http://natalia.blog.br/wp-content/uploads/2015/04/8d581d9ba310af752e32a0944c5a34bc-685x1024.jpg)](http://natalia.blog.br/wp-content/uploads/2015/04/8d581d9ba310af752e32a0944c5a34bc.jpg) Ah, quando eu vi essa foto no Pinterest me bateu uma saudade de Curitiba, do jardim Botânico,  daquela cidade tão maravilhosa... do clima delicioso, adoraria poder visitar de novo.
+[![Jardim botânico de Curitiba](/images/2015/04/8d581d9ba310af752e32a0944c5a34bc-685x1024.jpg)](/images/2015/04/8d581d9ba310af752e32a0944c5a34bc.jpg) Ah, quando eu vi essa foto no Pinterest me bateu uma saudade de Curitiba, do jardim Botânico,  daquela cidade tão maravilhosa... do clima delicioso, adoraria poder visitar de novo.
 
 ## Esse quadro
 
-[![quadro diferente de rolhas](http://natalia.blog.br/wp-content/uploads/2015/04/367848c1e7d7b131c329c17f398de0d1-592x1024.jpg)](http://natalia.blog.br/wp-content/uploads/2015/04/367848c1e7d7b131c329c17f398de0d1.jpg) Ei donos de restaurantes, olha só que ideia ótima e divertida para vocês, é quase um contador de vinhos tomados rs.
+[![quadro diferente de rolhas](/images/2015/04/367848c1e7d7b131c329c17f398de0d1-592x1024.jpg)](/images/2015/04/367848c1e7d7b131c329c17f398de0d1.jpg) Ei donos de restaurantes, olha só que ideia ótima e divertida para vocês, é quase um contador de vinhos tomados rs.
 
 ## Essa rede
 
-[![uma rede e uma bela paisagem ](http://natalia.blog.br/wp-content/uploads/2015/04/16d00e64a81003d0c6ca5e81b0b4377c.jpg)](http://natalia.blog.br/wp-content/uploads/2015/04/16d00e64a81003d0c6ca5e81b0b4377c.jpg) Por favor, me tragam um iPod, um livro e um chocolate quente, porque juntamente com essa rede e essa paisagem, é tudo o que eu preciso nesse feriado. Ficamos por aqui com esse coisas lindas desejando que todos vocês tenham um fim de semana e um feriado lindos :P Beijos!
+[![uma rede e uma bela paisagem ](/images/2015/04/16d00e64a81003d0c6ca5e81b0b4377c.jpg)](/images/2015/04/16d00e64a81003d0c6ca5e81b0b4377c.jpg) Por favor, me tragam um iPod, um livro e um chocolate quente, porque juntamente com essa rede e essa paisagem, é tudo o que eu preciso nesse feriado. Ficamos por aqui com esse coisas lindas desejando que todos vocês tenham um fim de semana e um feriado lindos :P Beijos!

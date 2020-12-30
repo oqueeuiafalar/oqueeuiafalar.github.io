@@ -9,7 +9,7 @@ categories:
 date: 2016-11-24 08:19:15
 ---
 
-Oi gente, tudo bem? Praticamente todo mundo que eu conheço já comeu **tapioca** e gostou, ela é um alimento muito versátil, fica uma delícia com doce e com salgado e também em algumas combinações mais engordativas e outras mais saudáveis. A **receita de tapioca de linhaça com atum selado** é de uma das empresas que mais entendem de tapioca, a [**Casa Mani**](http://www.casamani.com.br/), produtora da linha **Tapiocando a Vida**. ![receita de tapioca com atum](http://natalia.blog.br/wp-content/uploads/2016/11/Tapioca-de-linhaça-com-atum-selado.jpg) Bora lá conferir essa receita: **Ingredientes:**
+Oi gente, tudo bem? Praticamente todo mundo que eu conheço já comeu **tapioca** e gostou, ela é um alimento muito versátil, fica uma delícia com doce e com salgado e também em algumas combinações mais engordativas e outras mais saudáveis. A **receita de tapioca de linhaça com atum selado** é de uma das empresas que mais entendem de tapioca, a [**Casa Mani**](http://www.casamani.com.br/), produtora da linha **Tapiocando a Vida**. ![receita de tapioca com atum](/images/2016/11/Tapioca-de-linhaça-com-atum-selado.jpg) Bora lá conferir essa receita: **Ingredientes:**
 
 *   3 a 4 colheres de sopa de tapioca
 *   1/2 colher de sopa de linhaça

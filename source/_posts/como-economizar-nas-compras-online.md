@@ -10,7 +10,7 @@ categories:
 date: 2019-12-19 20:37:26
 ---
 
-A prática de fazer compras online vem crescendo cada dia mais, isso deve-se por conta da praticidade de fazer comparações de marcas, preços e pesquisar por lojas com o melhor custo x benefícios. Porém, quando falamos de compras online é preciso ter muito cuidado para não gastar mais do que se deve, afinal, a gente acaba se empolgando com tanta praticidade e  opções. Mas para você que deseja fazer compras mais inteligentes pela internet eu separei 9 dicas de como economizar nas compras online que com certeza vão te ajudar. Confira! ![como fazer compras online](http://natalia.blog.br/wp-content/uploads/2019/12/como-fazer-compras-online.jpg "como fazer compras online")
+A prática de fazer compras online vem crescendo cada dia mais, isso deve-se por conta da praticidade de fazer comparações de marcas, preços e pesquisar por lojas com o melhor custo x benefícios. Porém, quando falamos de compras online é preciso ter muito cuidado para não gastar mais do que se deve, afinal, a gente acaba se empolgando com tanta praticidade e  opções. Mas para você que deseja fazer compras mais inteligentes pela internet eu separei 9 dicas de como economizar nas compras online que com certeza vão te ajudar. Confira! ![como fazer compras online](/images/2019/12/como-fazer-compras-online.jpg "como fazer compras online")
 
 ## 1\. Utilize cupons de desconto
 
@@ -22,7 +22,7 @@ Uma das grandes vantagens de fazer compras online é pode fazer pesquisas de pre
 
 ## 3\. Fique atento ao frete
 
-É bem comum a gente se empolgar na hora da compra online e se esquecer de ver quanto é o frete para entregar esse produto. Por isso, antes de finalizar a sua compra faça simulações de frete do mesmo produto em lojas diferentes, além disso, também fique atento se não há um ponto de entrega da loja em um lugar próximo que você consiga ir buscar, pois muitas vezes retirar o produto na loja é frete grátis. Por isso, na hora de finalizar a sua compra some quanto vai ficar a entrega junto com o preço do produto em mais de uma loja e escolha a que tem o melhor custo x benefício.  ![fazendo compras online](http://natalia.blog.br/wp-content/uploads/2019/12/fazendo-compras-online.jpg "fazendo compras online")
+É bem comum a gente se empolgar na hora da compra online e se esquecer de ver quanto é o frete para entregar esse produto. Por isso, antes de finalizar a sua compra faça simulações de frete do mesmo produto em lojas diferentes, além disso, também fique atento se não há um ponto de entrega da loja em um lugar próximo que você consiga ir buscar, pois muitas vezes retirar o produto na loja é frete grátis. Por isso, na hora de finalizar a sua compra some quanto vai ficar a entrega junto com o preço do produto em mais de uma loja e escolha a que tem o melhor custo x benefício.  ![fazendo compras online](/images/2019/12/fazendo-compras-online.jpg "fazendo compras online")
 
 ## 4\. Participe de programas de fidelidade
 
@@ -38,7 +38,7 @@ Bom, caso você ainda não saiba, cashback é uma palavra em inglês que literal
 
 ## 7\. Cadastre seu email nos seus e-commerce favoritos
 
-Todo mundo tem um site online favorito, aquele que você fica sempre de olho naqueles produtos tão desejados, então, uma boa dica para você conseguir comprar os seus produtos naquela loja que você adora é cadastrar seu email no site da loja para receber as ofertas. Você pode até favoritar os produtos que deseja comprar para poder acompanhar melhor como está o preço. ![fazendo compras](http://natalia.blog.br/wp-content/uploads/2019/12/fazendo-compras.jpg "fazendo compras")
+Todo mundo tem um site online favorito, aquele que você fica sempre de olho naqueles produtos tão desejados, então, uma boa dica para você conseguir comprar os seus produtos naquela loja que você adora é cadastrar seu email no site da loja para receber as ofertas. Você pode até favoritar os produtos que deseja comprar para poder acompanhar melhor como está o preço. ![fazendo compras](/images/2019/12/fazendo-compras.jpg "fazendo compras")
 
 ## 8\. Observe os juros das compras parceladas
 

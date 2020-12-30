@@ -13,7 +13,7 @@ Vale lembrar que não existe o certo ou errado, aqui o que importa é o gosto de
 
 Não está inspirado para começar o projeto? Procure sempre referências e estilos que te chamaram a atenção, pois assim será mais fácil começar o projeto e seguir a mesma linha até o final. Separamos algumas ideais e dicas que podem ser muito úteis durante o processo. Confira e se inspire!
 
-![paisagismo em casa](http://natalia.blog.br/wp-content/uploads/2018/10/paisagismo.jpg "paisagismo em casa")
+![paisagismo em casa](/images/2018/10/paisagismo.jpg "paisagismo em casa")
 
 **O que não pode faltar na decoração?**
 

@@ -10,7 +10,7 @@ categories:
 date: 2017-08-17 08:03:26
 ---
 
-![meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585](http://natalia.blog.br/wp-content/uploads/2017/08/meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585.jpg) As **roupas de couro** são lindas e super estilosas, tenho certeza que você tem pelo menos uma jaqueta de couro guardada aí em seu guarda roupas, certo? Mas apesar de toda sua versatilidade, afinal a gente encontra o couro em roupas, sapatos, bolsas, cintos entre outros, é um material que precisa de cuidados específicos para que ele dure por mais tempo, por isso, abaixo eu listo oito dicas de como cuidar desse material ai na sua casa, bora lá aprender.
+![meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585](/images/2017/08/meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585.jpg) As **roupas de couro** são lindas e super estilosas, tenho certeza que você tem pelo menos uma jaqueta de couro guardada aí em seu guarda roupas, certo? Mas apesar de toda sua versatilidade, afinal a gente encontra o couro em roupas, sapatos, bolsas, cintos entre outros, é um material que precisa de cuidados específicos para que ele dure por mais tempo, por isso, abaixo eu listo oito dicas de como cuidar desse material ai na sua casa, bora lá aprender.
 
 ## **1 –** Etiqueta
 

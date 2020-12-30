@@ -13,7 +13,7 @@ Em 2002 não fui a estréia de “Homem Aranha” de Sam Raimi estrelado por Tob
 
 [Para pular os spoilers vá direto para o Resumão de Homem Aranha de Volta Ao Lar Sem Spoilers](#resumo-homem-aranha-de-volta-ao-lar)
 
-## ![Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1](http://natalia.blog.br/wp-content/uploads/2017/07/Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1.jpg)
+## ![Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1](/images/2017/07/Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1.jpg)
 
 ## História com spoilers
 
@@ -29,7 +29,7 @@ Adrian Toomes afastado formalmente do negócio passa a roubar e contrabandear pe
 
 Aliás, provavelmente uma das melhores coisas do filme é ter transformado o Abutre de um vilão secundário e com propósitos mal construídos nos quadrinhos em um personagem com motivações claras e uma história convincente.
 
-![spiderman-homecoming-trailer-9](http://natalia.blog.br/wp-content/uploads/2017/07/spiderman-homecoming-trailer-9.jpg)
+![spiderman-homecoming-trailer-9](/images/2017/07/spiderman-homecoming-trailer-9.jpg)
 
 A atuação de Michael Keaton cria um vilão coerente tanto na figura de Adrian Toomes quanto na do Abutre colocando o espectador em dúvida sobre a nobreza das motivações do personagem.
 
@@ -47,7 +47,7 @@ A garota bonita inteligente e mais velha por quem Peter Parker tem um “crush�
 
 As cenas entre os amigos Peter Parker e Ned são muito divertidas e naturais e dão uma sensação de estar assistindo Chris e Greg direto de “Todo mundo odeia o Chris”.
 
-![Ganke, o amigo de Miles Morales que serve de inspiração para Ned em Homem Aranha de Volta ao Lar.](http://natalia.blog.br/wp-content/uploads/2017/07/ganke-spiderman-ultimate.jpg) Ganke, o amigo de Miles Morales que serve de inspiração para Ned em Homem Aranha de Volta ao Lar.
+![Ganke, o amigo de Miles Morales que serve de inspiração para Ned em Homem Aranha de Volta ao Lar.](/images/2017/07/ganke-spiderman-ultimate.jpg) Ganke, o amigo de Miles Morales que serve de inspiração para Ned em Homem Aranha de Volta ao Lar.
 
 Ned, que descobre a identidade secreta do amigo antes da metade do filme, parece ter saído diretamente dos quadrinhos do Homem Aranha Ultimate, onde o personagem Ganke é o viciado em Lego e melhor amigo de Miles Morales, o Homem Aranha desse universo. As cenas com Lego deixam clara a referência.
 
@@ -75,7 +75,7 @@ Tom Holland está excelente na figura do Homem Aranha e Peter Parker. O ator tal
 
 É um filme leve e descontraído com referência a clássicos dos anos 80 mas sem o destaque dos filmes de Sam Raimi (contém spoilers)
 
-![Referência ao Clube dos Cinco em Homem Aranha de Volta ao Lar](http://natalia.blog.br/wp-content/uploads/2017/07/spider-man_homecoming_the_breakfast_club.jpg) Referência ao Clube dos Cinco em Homem Aranha de Volta ao Lar
+![Referência ao Clube dos Cinco em Homem Aranha de Volta ao Lar](/images/2017/07/spider-man_homecoming_the_breakfast_club.jpg) Referência ao Clube dos Cinco em Homem Aranha de Volta ao Lar
 
 “Homem Aranha: De Volta ao lar” é um filme muito leve e divertido que deixa os fãs de quadrinhos felizes.
 
@@ -101,7 +101,7 @@ O filme tem duas cenas extras. Uma durante os créditos e outra depois dos créd
 
 ### Resumão sobre Homem Aranha de Volta ao Lar - sem spoiler
 
-![Spider-Man-Homecoming-Poster-3-featured](http://natalia.blog.br/wp-content/uploads/2017/07/Spider-Man-Homecoming-Poster-3-featured.jpg)
+![Spider-Man-Homecoming-Poster-3-featured](/images/2017/07/Spider-Man-Homecoming-Poster-3-featured.jpg)
 
 “Homem Aranha: De Volta ao Lar” é um filme bastante divertido como o personagem merece. Existe um clima de “Curtindo a vida adoidado” com os dilemas típicos da adolescência e os dilemas próprios do Homem Aranha encarando a responsabilidade sobre seus poderes.
 

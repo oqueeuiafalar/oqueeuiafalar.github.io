@@ -13,7 +13,7 @@ categories:
 date: 2016-10-24 22:45:13
 ---
 
-![Foto de Zé Takahashi para o Estadão](http://natalia.blog.br/wp-content/uploads/2016/10/Desfile-À-La-Garçonne-spfw.jpg) Foto: Estadão
+![Foto de Zé Takahashi para o Estadão](/images/2016/10/Desfile-À-La-Garçonne-spfw.jpg) Foto: Estadão
 
 **À La Garçonne** de Fábio Souza e que tem como diretor de criação o estilista **Alexandre Herchcovitch**, abriu o segundo dia de desfiles da **SPFW**. O desfile aconteceu no **MASP** por volta das 10:30 da manhã.
 
@@ -21,19 +21,19 @@ O desfile foi embalado por canções da **Beyoncé**, **Britney Spears** e **Lad
 
 **À La Garçonne** utilizou tecidos que continham itens de reciclagem e também tecidos antigos e vintage. Os looks desfilados mesclavam com rendas delicadas, estilos esportivos e muita camuflagem, e tudo isso com um estilo bem contemporâneo mas com um toque de vintage. Peças delicadas e jaquetas de couro se mesclaram durante o desfile que contou com looks femininos e masculinos à altura do esperado para um evento como o **São Paulo Fashion Week**.
 
-![São Paulo Fashion Week 2016 - desfile - À La Garçonne](http://natalia.blog.br/wp-content/uploads/2016/10/à-la-garçonne-spfw-2016.jpg)
+![São Paulo Fashion Week 2016 - desfile - À La Garçonne](/images/2016/10/à-la-garçonne-spfw-2016.jpg)
 
-![Desfile À La Garçonne - spfw 2016](http://natalia.blog.br/wp-content/uploads/2016/10/à-la-garçonne-são-paulo-fashion-week-2016.jpg)
+![Desfile À La Garçonne - spfw 2016](/images/2016/10/à-la-garçonne-são-paulo-fashion-week-2016.jpg)
 
-![à la garçonne - São Paulo Fashion Week](http://natalia.blog.br/wp-content/uploads/2016/10/são-paulo-fashion-week-à-la-garçonne.jpg)
+![à la garçonne - São Paulo Fashion Week](/images/2016/10/são-paulo-fashion-week-à-la-garçonne.jpg)
 
-![SPFW - à la garçonne - 2016](http://natalia.blog.br/wp-content/uploads/2016/10/à-la-garçone-são-paulo-fashion-week.jpg)
+![SPFW - à la garçonne - 2016](/images/2016/10/à-la-garçone-são-paulo-fashion-week.jpg)
 
-![desfile à la garçonne - são paulo fashion week](http://natalia.blog.br/wp-content/uploads/2016/10/spfw-à-la-garçonne.jpg)
+![desfile à la garçonne - são paulo fashion week](/images/2016/10/spfw-à-la-garçonne.jpg)
 
-![SPFW 2016 - À LA GARÇONNE](http://natalia.blog.br/wp-content/uploads/2016/10/desfile-à-la-garçonne-são-paulo-fashion-week-2016.jpg)
+![SPFW 2016 - À LA GARÇONNE](/images/2016/10/desfile-à-la-garçonne-são-paulo-fashion-week-2016.jpg)
 
-![À La Garçonne - São Paulo Fashion Week - 2016](http://natalia.blog.br/wp-content/uploads/2016/10/spfw2016-à-la-garçonne.jpg)
+![À La Garçonne - São Paulo Fashion Week - 2016](/images/2016/10/spfw2016-à-la-garçonne.jpg)
 
 Em tempos de crise, **Herchcovitch** sabe como cativar seu público criando uma coleção que com certeza irá inspirar muitos looks do dia, com parceiros como [**Hering**](http://www.hering.com.br/store/), [**Converse**](http://converse.com.br/) e a [**Camisaria Colombo**](http://www.camisariacolombo.com.br/).
 

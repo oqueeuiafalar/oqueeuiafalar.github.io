@@ -11,20 +11,20 @@ E aí gente, como foi a semana? Muitos preparativos e ansiedade para o carnaval?
 
 ## Esse enfeite
 
-[![enfeite de lâmpada para flores, vaso de flores ](http://natalia.blog.br/wp-content/uploads/2015/02/2ced3978fbbadc89326d268a64d8dddc-684x1024.jpg)](http://natalia.blog.br/wp-content/uploads/2015/02/2ced3978fbbadc89326d268a64d8dddc.jpg) Eu nunca na vida iria pensar em fazer isso com uma lâmpada, sério mesmo. Mas a ideia foi ótima, ficou uma decoração leve e fofa ao mesmo tempo, para quem tem jardim em casa seria muito legal colocar essa ideia em prática, não acham?
+[![enfeite de lâmpada para flores, vaso de flores ](/images/2015/02/2ced3978fbbadc89326d268a64d8dddc-684x1024.jpg)](/images/2015/02/2ced3978fbbadc89326d268a64d8dddc.jpg) Eu nunca na vida iria pensar em fazer isso com uma lâmpada, sério mesmo. Mas a ideia foi ótima, ficou uma decoração leve e fofa ao mesmo tempo, para quem tem jardim em casa seria muito legal colocar essa ideia em prática, não acham?
 
 ## Esse quintal
 
-## [![quinta\jardim rustico ](http://natalia.blog.br/wp-content/uploads/2015/02/5e681a7ffc21a6a90978ab85c7f18c81.jpg)](http://natalia.blog.br/wp-content/uploads/2015/02/5e681a7ffc21a6a90978ab85c7f18c81.jpg)
+## [![quinta\jardim rustico ](/images/2015/02/5e681a7ffc21a6a90978ab85c7f18c81.jpg)](/images/2015/02/5e681a7ffc21a6a90978ab85c7f18c81.jpg)
 
 Eu me apaixonei por esse quintal, quer coisa mais aconchegante? Me lembra aqueles lugares que a gente só vê em filmes que são filmados na Itália e que ficamos babando e sonhando com um lugar daqueles para poder juntar a família, fazer lanches ou simplesmente relaxar.
 
 ## Esse espelho
 
-## [![espelho com moldura clássica ](http://natalia.blog.br/wp-content/uploads/2015/02/07972c03e729d7144347cbe481d0ab58-619x1024.jpg)](http://natalia.blog.br/wp-content/uploads/2015/02/07972c03e729d7144347cbe481d0ab58.jpg)
+## [![espelho com moldura clássica ](/images/2015/02/07972c03e729d7144347cbe481d0ab58-619x1024.jpg)](/images/2015/02/07972c03e729d7144347cbe481d0ab58.jpg)
 
 Que mulher nessa vida nunca sonhou com um espelho espetacular desses? Além de grande ele tem essa moldura linda de morrer que me faz ficar aqui olhando e tentando imaginar onde colocar caso eu compre um (triste ter um quarto pequeno, rs).
 
 ## Esses pinguins de suéter
 
-[![pinguins de suéter ](http://natalia.blog.br/wp-content/uploads/2015/02/C_4_foto_1080011_image.jpg)](http://natalia.blog.br/wp-content/uploads/2015/02/C_4_foto_1080011_image.jpg) E para finalizar.... ah, o momento mais lindo desse coisas lindas da semana. Vários sites divulgaram nessa semana a história de um senhor de 109 anos que tricota suéteres para pinguins na Austrália. Acontece que os pinguins foram expostos à um derramamento de óleo e segundo uma fundação australiana que cuida dos pinguins, o óleo os impede de manter a temperatura corporal e por isso os suéteres tricotadas pelo simpático senhor Alfred e outros voluntários é de grande ajuda. Viu como as vezes a fé na humanidade pode ser recuperada? :P Fiquei feliz pelos pinguins. Por enquanto é só, ah... essa semana também fiquei parceira das editoras [**Gaivota**](http://www.editoragaivota.com.br; "Gaivota") e [**Biruta**](http://www.editorabiruta.com.br/ "Biruta"), então quem gosta da minha sessão de [**resenhas de livros**](http://natalia.blog.br/category/resenhas-livros/ "resenhas de livros"), pode aguardar que logo vem coisa boa.
+[![pinguins de suéter ](/images/2015/02/C_4_foto_1080011_image.jpg)](/images/2015/02/C_4_foto_1080011_image.jpg) E para finalizar.... ah, o momento mais lindo desse coisas lindas da semana. Vários sites divulgaram nessa semana a história de um senhor de 109 anos que tricota suéteres para pinguins na Austrália. Acontece que os pinguins foram expostos à um derramamento de óleo e segundo uma fundação australiana que cuida dos pinguins, o óleo os impede de manter a temperatura corporal e por isso os suéteres tricotadas pelo simpático senhor Alfred e outros voluntários é de grande ajuda. Viu como as vezes a fé na humanidade pode ser recuperada? :P Fiquei feliz pelos pinguins. Por enquanto é só, ah... essa semana também fiquei parceira das editoras [**Gaivota**](http://www.editoragaivota.com.br; "Gaivota") e [**Biruta**](http://www.editorabiruta.com.br/ "Biruta"), então quem gosta da minha sessão de [**resenhas de livros**](http://natalia.blog.br/category/resenhas-livros/ "resenhas de livros"), pode aguardar que logo vem coisa boa.

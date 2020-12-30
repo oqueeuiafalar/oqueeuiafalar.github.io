@@ -19,9 +19,9 @@ Muitos adesivos apresentam um problema para ambientes internos. Eles podem possu
 
 Por isso, é importante dar atenção a detalhes como o fato de ser brilhoso ou fosco, laminado ou não, e o fato de ser removível ou não.
 
-[![como usar adesivo de parede ](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-sala.jpg)](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-sala.jpg)
+[![como usar adesivo de parede ](/images/2016/07/Adesivos-de-parede-sala.jpg)](/images/2016/07/Adesivos-de-parede-sala.jpg)
 
-[![home decor - adesivos de parede - como aplicar ](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivo-de-parede-quarto-feminino.jpg)](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivo-de-parede-quarto-feminino.jpg)
+[![home decor - adesivos de parede - como aplicar ](/images/2016/07/Adesivo-de-parede-quarto-feminino.jpg)](/images/2016/07/Adesivo-de-parede-quarto-feminino.jpg)
 
 ## Diferentes superfícies
 
@@ -38,9 +38,9 @@ Outro problema para a aplicação é o pó acumulado na parede. Neste caso, a re
 *    Se há pó e sujeira no local onde o adesivo será colado, ele não terá adesão;
 *   Quando o adesivo cai em até 24h após sua aplicação, a poeira costuma ser a principal culpada.
 
-[![decoração - como utilizar adesivo de parede ](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-home-office.jpg)](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-home-office.jpg)
+[![decoração - como utilizar adesivo de parede ](/images/2016/07/Adesivos-de-parede-home-office.jpg)](/images/2016/07/Adesivos-de-parede-home-office.jpg)
 
-[![adesivo de parede na decoração - como colar adesivo de parede ](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-infantil.jpg)](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-infantil.jpg)
+[![adesivo de parede na decoração - como colar adesivo de parede ](/images/2016/07/Adesivos-de-parede-infantil.jpg)](/images/2016/07/Adesivos-de-parede-infantil.jpg)
 
 ## Dificuldades para aplicar? Considere um pouco de calor
 
@@ -48,9 +48,9 @@ Alguns adesivos de parede funcionam no modelo de decalque. Estes possuem uma boa
 
 Especialmente em dias frios, o gráfico pode parecer resistente para sair de sua folha provisória. Nestes casos, um pouco de calor deve resolver. Uma pistola de calor ou um secador (não usar muito perto da folha) devem aquecer o suficiente para que a transferência ocorra com sucesso.
 
-[![como aplicar adesivos de parede - adesivo de parede na decoração ](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-quarto.jpg)](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede-quarto.jpg)
+[![como aplicar adesivos de parede - adesivo de parede na decoração ](/images/2016/07/Adesivos-de-parede-quarto.jpg)](/images/2016/07/Adesivos-de-parede-quarto.jpg)
 
-[![home decor - adesivos de parede - como aplicar  e usa-los na decoração ](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede.jpg)](http://natalia.blog.br/wp-content/uploads/2016/07/Adesivos-de-parede.jpg)
+[![home decor - adesivos de parede - como aplicar  e usa-los na decoração ](/images/2016/07/Adesivos-de-parede.jpg)](/images/2016/07/Adesivos-de-parede.jpg)
 
 Se você é iniciante na [aplicação de adesivos de parede](http://tudoela.com/adesivo-de-parede/), as memórias de infâncias podem ser tentadoras. Em algum momento de dificuldade, aplicar o adesivo pode lembrar os adesivos e “tatuagens” de chiclete. Nestes casos, é comum lembrar a boa e velha técnica de molhar a traseira do adesivos para facilitar o trabalho.
 

@@ -11,7 +11,7 @@ categories:
 date: 2016-07-29 10:12:14
 ---
 
-![receita creme de batata-doce com alho-poro ](http://natalia.blog.br/wp-content/uploads/2016/07/Creme-de-batata-doce-com-alho-poro.jpg) Durante o inverno, nada melhor do que um caldo para esquentar. Para deixar um gostinho de quero mais, a Chef Denise Alvarenga, da [**Inspire Fit**](http://www.inspirefit.com.br/)  - bistrô de alimentos funcionais –, ensina como preparar um dos caldos mais famosos da casa: o creme de batata-doce com alho-poró. A sopa é uma das opções oferecidas pelo bistrô, na Mooca, durante o festival de caldo que acontece até o mês de agosto.
+![receita creme de batata-doce com alho-poro ](/images/2016/07/Creme-de-batata-doce-com-alho-poro.jpg) Durante o inverno, nada melhor do que um caldo para esquentar. Para deixar um gostinho de quero mais, a Chef Denise Alvarenga, da [**Inspire Fit**](http://www.inspirefit.com.br/)  - bistrô de alimentos funcionais –, ensina como preparar um dos caldos mais famosos da casa: o creme de batata-doce com alho-poró. A sopa é uma das opções oferecidas pelo bistrô, na Mooca, durante o festival de caldo que acontece até o mês de agosto.
 
 ## **Receita de creme de batata-doce com alho-poró**
 

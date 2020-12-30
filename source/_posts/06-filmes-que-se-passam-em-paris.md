@@ -7,7 +7,7 @@ categories:
 date: 2015-09-20 22:24:25
 ---
 
-[![filmes que se passam em Paris](http://natalia.blog.br/wp-content/uploads/2015/09/filmes_que_se_passam_na_franca_capa.png)](http://natalia.blog.br/wp-content/uploads/2015/09/filmes_que_se_passam_na_franca_capa.png) Depois que comecei a fazer aulas de francês meu interesse por coisas relacionadas a França aumentou muito e claro, eu como a maioria das pessoas do mundo que ainda não foram a Paris, faço planos de um dia ir, mas enquanto esses planos não se tornam realidade, que tal viajar pra lá e conhecer essa cidade linda através de filmes, hein? Bora conferir a lista que fiz de alguns filmes que eu adoro e que se passam em Paris.
+[![filmes que se passam em Paris](/images/2015/09/filmes_que_se_passam_na_franca_capa.png)](/images/2015/09/filmes_que_se_passam_na_franca_capa.png) Depois que comecei a fazer aulas de francês meu interesse por coisas relacionadas a França aumentou muito e claro, eu como a maioria das pessoas do mundo que ainda não foram a Paris, faço planos de um dia ir, mas enquanto esses planos não se tornam realidade, que tal viajar pra lá e conhecer essa cidade linda através de filmes, hein? Bora conferir a lista que fiz de alguns filmes que eu adoro e que se passam em Paris.
 
 ## O Código Da Vinci
 

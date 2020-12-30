@@ -13,22 +13,22 @@ O [**blazer**](http://uppermag.com/saiba-com-usar-blazer-feminino-dicas-e-inspir
 
 ## Blazer com calça social
 
-## ![como usar blazer preto](http://natalia.blog.br/wp-content/uploads/2017/07/blazer-preto.jpg)
+## ![como usar blazer preto](/images/2017/07/blazer-preto.jpg)
 
-![como usar blazer preto](http://natalia.blog.br/wp-content/uploads/2017/07/como-usar-blazer-com-calça-social.jpg) É uma das formas mais tradicionais de usar blazer. Caso não queira deixar tudo muito conservador, opte por blazers estampados e com cores diferentes. Eles se destacam e acabam saindo do padrão terninho preto básico.
+![como usar blazer preto](/images/2017/07/como-usar-blazer-com-calça-social.jpg) É uma das formas mais tradicionais de usar blazer. Caso não queira deixar tudo muito conservador, opte por blazers estampados e com cores diferentes. Eles se destacam e acabam saindo do padrão terninho preto básico.
 
 ## Blazer com jeans
 
-## ![como usar blazer com calça jeans](http://natalia.blog.br/wp-content/uploads/2017/07/como-usar-blazer-estampado.jpg)
+## ![como usar blazer com calça jeans](/images/2017/07/como-usar-blazer-estampado.jpg)
 
-## ![como usar blazer com shorts jeans](http://natalia.blog.br/wp-content/uploads/2017/07/blazer-com-shorts.jpg)
+## ![como usar blazer com shorts jeans](/images/2017/07/blazer-com-shorts.jpg)
 
 O blazer com jeans já se tornou fundamental para muitas mulheres, compondo um look inovador, moderno e também sofisticado.
 
 ## Blazer com vestido
 
-## ![como usar blazer estampado ](http://natalia.blog.br/wp-content/uploads/2017/07/blazer-com-vestido.jpg)
+## ![como usar blazer estampado ](/images/2017/07/blazer-com-vestido.jpg)
 
-## ![como usar blazer com vestido](http://natalia.blog.br/wp-content/uploads/2017/07/blazer-com-vestido-1.jpg)
+## ![como usar blazer com vestido](/images/2017/07/blazer-com-vestido-1.jpg)
 
 Se adaptando muito bem para as mulheres que gostam do [**estilo romântico**](https://www.google.com/url?q=http://uppermag.com/saiba-com-usar-blazer-feminino-dicas-e-inspiracoes-para-diversas-ocasioes/&ust=1500940320000000&usg=AFQjCNF3ap2cCodXAjmZi-eoyD7XuK6BUQ&hl=pt-BR&source=gmail), essa forma de usar o blazer é moderna e realça a feminilidade da mulher. Diferente do que muitos pensam, esse estilo pode ser usado tanto em situações formais como casuais, basta saber combinar. Geralmente, para ambientes profissionais, o contraste de cores é a melhor opção.

@@ -7,7 +7,7 @@ categories:
 date: 2016-03-12 12:43:00
 ---
 
-[![como fazer chocolate quente gelado ](http://natalia.blog.br/wp-content/uploads/2016/03/receita-de-chocolate-gelado-batido-1024x768.jpg)](http://natalia.blog.br/wp-content/uploads/2016/03/receita-de-chocolate-gelado-batido.jpg) Praticamente todo mundo que eu conheço adora chocolate quente, mas agora no verão é uma bebida bem difícil de tomar, porque dá ainda mais calor, né haha. Por isso resolvi ensinar a vocês uma receita que faço a anos e fica uma delícia, além de ser super fácil e rápida. Mãos a obra e bora refrescar e deixar o verão ainda mais doce:
+[![como fazer chocolate quente gelado ](/images/2016/03/receita-de-chocolate-gelado-batido-1024x768.jpg)](/images/2016/03/receita-de-chocolate-gelado-batido.jpg) Praticamente todo mundo que eu conheço adora chocolate quente, mas agora no verão é uma bebida bem difícil de tomar, porque dá ainda mais calor, né haha. Por isso resolvi ensinar a vocês uma receita que faço a anos e fica uma delícia, além de ser super fácil e rápida. Mãos a obra e bora refrescar e deixar o verão ainda mais doce:
 
 ## Ingredientes:
 
@@ -18,7 +18,7 @@ date: 2016-03-12 12:43:00
 *   2 colheres de sopa de leite condensado
 *   1 xícara de chá de gelo
 
-[![receita de chocolate quente para o verão ](http://natalia.blog.br/wp-content/uploads/2016/03/chocolate-quente-gelado-batido-1024x768.jpg)](http://natalia.blog.br/wp-content/uploads/2016/03/chocolate-quente-gelado-batido.jpg)  
+[![receita de chocolate quente para o verão ](/images/2016/03/chocolate-quente-gelado-batido-1024x768.jpg)](/images/2016/03/chocolate-quente-gelado-batido.jpg)  
 
 ## Modo de preparo:
 
@@ -27,4 +27,4 @@ date: 2016-03-12 12:43:00
 *   Em seguida, acrescente o creme de leite, o leite condensado e o chocolate derretido e bata novamente.
 *   Pronto, agora é só servir
 
-[![como fazer chocolate quente gelado ](http://natalia.blog.br/wp-content/uploads/2016/03/chocolate-gelado-batido-1024x768.jpg)](http://natalia.blog.br/wp-content/uploads/2016/03/chocolate-gelado-batido.jpg) Viram só como é fácil? A única coisa ruim dessa bebida é que ela é muito viciante hahaha, sempre que posso eu faço, agora quero todo mundo fazendo também e me contem o que acharam. Beijos!
+[![como fazer chocolate quente gelado ](/images/2016/03/chocolate-gelado-batido-1024x768.jpg)](/images/2016/03/chocolate-gelado-batido.jpg) Viram só como é fácil? A única coisa ruim dessa bebida é que ela é muito viciante hahaha, sempre que posso eu faço, agora quero todo mundo fazendo também e me contem o que acharam. Beijos!
