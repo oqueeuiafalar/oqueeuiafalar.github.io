@@ -4,20 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <%- is_home() ? 'homepage' : page.title -%>
-    |
-    <%- config.title -%>
+    <%- is_home() ? 'homepage' : page.title -%> | <%- config.title -%>
     </title>
-
-    <link rel="stylesheet" href="<%- url_for('/blank-boilerplate.css') %>">
-
 </head>
 
 <body>
-
-    <header>
-        layout.ejs
-    </header>
+    <header></header>
 
     <%- body -%>
     <script type="text/javascript">
