@@ -5,6 +5,13 @@ id: '2458'
 categories:
   - - Aleatoriedades
 date: 2015-05-23 14:06:13
+# <extra>
+description: 'Mais uma semana que passou voando, né? E eu fiquei aqui sonhando com esses cantinhos super aconchegantes que vou mostrar para vocês. Esse quarto Eu sou apaixonada por decoração rústica, acho que deixa o ambiente mais aconchegante e a decoração desse quarto é tudo o que eu sempre sonhei!! Essa cozinha Assim como eu gosto de decoração mais rústica eu também gosto de decoração moderna, que é a dessa cozinha. Gente, imagina cozinhar em um lugar lindo desse, todo de vidro, olhar pra cima e poder ver aquele tempo chuvoso (que eu particularmente amo) ou ver aquele tempo lindo com muitos raios de sol, é muito sonho. Esses vasos Adoro essa ideia de pegar coisas antigas e reutilizá-las. Ficou lindo essa ideia de fazer vasos com latas antigas. Esse look O que falar desse look, né?! Muito lindo, essa saia &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/05/0f53c15c65cd0e59cdbe3b1b8c230912-683x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Mais uma semana que passou voando, né? E eu fiquei aqui sonhando com esses cantinhos super aconchegantes que vou mostrar para vocês.

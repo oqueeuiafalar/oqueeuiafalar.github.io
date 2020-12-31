@@ -7,6 +7,13 @@ id: '4436'
 categories:
   - - Aleatoriedades
 date: 2017-03-09 18:01:35
+# <extra>
+description: 'Com a rotina corrida que a maioria das pessoas tem sobra pouco tempo para preparar refeições em casa, por isso é sempre bom ter alguns alimentos na cozinha que são fáceis de adaptar em vários tipos de receitas e que te auxiliam na hora do sufoco, principalmente quando chega àquela visita de ultima hora para o jantar e você não tem nada pronto para oferecer. Pensando nisso separei seis alimentos que todos devem ter na cozinha para facilitar na hora da correria. 1- Muitas frutas As frutas além de serem muito saudáveis, pois, são ricas em fibras e vitaminas, são opções praticas e fáceis na hora da pressa. Com elas é possível fazer sucos, vitaminas, sobremesas simples como morango com chantilly ou saladas de frutas, e ainda há frutas que ficam ótimas em saladas para acompanhar na comida como abacaxi &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/01/cesta-de-ovos.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 Com a rotina corrida que a maioria das pessoas tem sobra pouco tempo para **preparar refeições em casa**, por isso é sempre bom ter alguns alimentos na cozinha que são fáceis de adaptar em vários tipos de receitas e que te auxiliam na hora do sufoco, principalmente quando chega àquela visita de ultima hora para o jantar e você não tem nada pronto para oferecer. Pensando nisso separei seis alimentos que todos devem ter na cozinha para facilitar na hora da correria.

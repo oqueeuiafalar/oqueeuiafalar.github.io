@@ -5,6 +5,13 @@ id: '3756'
 categories:
   - - Aleatoriedades
 date: 2016-06-04 08:25:58
+# <extra>
+description: 'Com a aproximação do dia 12 de Junho, todo ano aumenta o número de pesquisas na internet feitas por pessoas interessadas em encontrar o presente criativo para o dia dos namorados. A minha experiência presenteando e sendo presenteado pela minha namorada nos últimos anos tem me permitido servir de conselheiro de presente para casais. O que posso afirmar é que o segredo para um bom presente do dia dos namorados é o segredo para um bom presente no geral: o significado é mais importante que o custo. Todos os presentes do mundo um dia irão se deteriorar mas os seus significados, se relevantes, sobreviverão ao tempo. Entendí. Na prática: que presente eu devo dar para minha namorada?'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/06/pesquisa-dia-dos-namorados-google.png'
+  width: null
+  height: null
+# </extra>
 ---
 
 Com a aproximação do dia 12 de Junho, todo ano aumenta o [número de pesquisas na internet feitas por pessoas interessadas em encontrar o presente criativo para o dia dos namorados](https://www.google.com/trends/explore#q=presente%20namorado%2C%20presente%20namorada&cmpt=q&tz=Etc%2FGMT%2B3). [![Gráfico de pesquisas no google por presentes de dia dos namorados](/wp-content/uploads/2016/06/pesquisa-dia-dos-namorados-google.png "Gráfico de pesquisas no google por presentes de dia dos namorados")](https://www.google.com/trends/explore#q=presente%20namorado%2C%20presente%20namorada&cmpt=q&tz=Etc%2FGMT%2B3) A minha experiência presenteando e sendo presenteado pela minha namorada nos últimos anos tem me permitido servir de conselheiro de presente para casais. O que posso afirmar é que o segredo para um bom presente do dia dos namorados é o segredo para um bom presente no geral: **o significado é mais importante que o custo.** Todos os presentes do mundo um dia irão se deteriorar mas os seus significados, se relevantes, sobreviverão ao tempo.

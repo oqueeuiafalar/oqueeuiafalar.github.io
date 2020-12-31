@@ -7,6 +7,13 @@ id: '5534'
 categories:
   - - Livros
 date: 2018-02-12 09:45:14
+# <extra>
+description: 'Sempre faço tudo errado quando estou feliz é um livro de Raquel Segal onde através de tirinhas, elas nos leva para viajar nas bad da vida.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/02/resenha-livro-sempre-faço-tudo-errado-quando-estou-feliz.jpg'
+  width: '750'
+  height: '750'
+# </extra>
 ---
 
 Raquel Segal autora de "Sempre faço tudo errado quando estou feliz" também é responsável pela famosa página nas redes sociais chamada "[Aquele Eita](https://www.facebook.com/AqueleEita/)" onde ela compartilha tirinhas motivacionais, ela mesma é responsável por criar as ilustrações e as frases. ![Resenha do livro - Sempre Faço Tudo Errado Quando Estou Feliz](/wp-content/uploads/2018/02/resenha-livro-sempre-faço-tudo-errado-quando-estou-feliz.jpg) Livro - Sempre Faço Tudo Errado Quando Estou Feliz "Aquele Eita" possui diversas tirinhas que geralmente falam de decepções e coisas do cotidiano, por isso muita gente acaba se identifica com as tirinhas da página Aquele Eita, pois, tratam de problemas que quase todo mundo tem com relacionamento, trabalho, família e por ai vai. As tirinhas de Raquel Segal são sempre com o fundo amarelo e os contornos em preto e nelas você encontra problemas como decepção, ansiedade, medo, amor e tristeza, por exemplo. ![Tirinhas - Sempre Faço Tudo Errado Quando Estou Feliz](/wp-content/uploads/2018/02/trinhas-sempre-faço-tudo-errado-quando-estou-feliz.jpg) Tirinhas - Sempre Faço Tudo Errado Quando Estou Feliz Mas voltando a falar do livro "Sempre Faço Tudo Errado Quando Estou Feliz"  com o subtitulo " Tirinhas Sentimentais Para Todo Tipo de Bad", Raquel fala de forma bem clara com o leitor sobre todas as tristeza e inseguranças que muita vezes a gente sente, mas tenta esconder, por vergonha ou medo de julgamentos.

@@ -5,6 +5,13 @@ id: '1916'
 categories:
   - - Moda
 date: 2015-01-14 18:00:18
+# <extra>
+description: 'Apesar de estarmos no verão e todo mundo usando rasteirinhas e sandálias eu ainda não consigo me desapegar das sapatilhas, acho elas tão confortáveis e lindas que uso o ano todo. Pensando nisso, resolvi fazer este post com sapatilhas que são a cara do verão. 1º Sapatilha &#8211; Via Mia Esse mocassim da Via Mia eu ganhei de presente de uma amiga (obrigada Dani) e estou apaixonada por ela. A cor é linda e combina muito com o verão, afinal verão pede muitas cores, além de ser super confortável e ter este detalhe em corda que a deixa muito mais charmosa. &nbsp; 2º Sapatilha &#8211; Moleca Essa sapatilha da Moleca foi amor a primeira vista. Ela tem uma carinha de vintage, não tem? Com esse tom bem clarinho e cheio de florzinhas, combina muito com o verão. 3º Sapatilha &#8211; &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/01/201-1024x768.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![Sapatilhas via mia, moleca e sonhos dos pés, verão](/wp-content/uploads/2015/01/201-1024x768.jpg)](/wp-content/uploads/2015/01/201.jpg) Apesar de estarmos no verão e todo mundo usando rasteirinhas e sandálias eu ainda não consigo me desapegar das sapatilhas, acho elas tão confortáveis e lindas que uso o ano todo. Pensando nisso, resolvi fazer este post com sapatilhas que são a cara do verão. [![Sapatilhas para o verão, sapatilhas via mia, sapatilhas moleca e sapatilhas sonhos dos pés](/wp-content/uploads/2015/01/191-1024x768.jpg)](/wp-content/uploads/2015/01/191.jpg)

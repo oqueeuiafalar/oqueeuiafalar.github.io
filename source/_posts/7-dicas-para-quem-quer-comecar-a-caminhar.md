@@ -5,6 +5,13 @@ id: '1970'
 categories:
   - - Aleatoriedades
 date: 2015-01-26 19:54:44
+# <extra>
+description: 'Todo mundo sabe que exercícios físicos fazem muito bem pra saúde, certo? Mas tem muita gente que não faz exercícios em academias por falta de dinheiro, por falta de tempo ou simplesmente por não gostar. Mas que tal fazer exercícios naquele parque que tem perto do seu trabalho, ou no seu bairro? A caminhada é um exercício que trás muitos benefícios para saúde entre eles a prevenção da obesidade e a melhora da auto-estima. Porém, como todo sabemos, quando resolvemos praticar alguns esportes é necessário tomar alguns cuidados, mesmo que esse esporte seja de pouco impacto, como a caminhada, pensando nisso separei neste post algumas dicas pra vocês levantarem do sofá e começar a se exercitar. 1º Procure um médico. É importante procurar um médico para que ele possa avaliar como está sua saúde, e caso necessário, ele possa te &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/01/DSCN0142.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![dicas para caminhada, bom tênis ](/wp-content/uploads/2015/01/DSCN0142.jpg)](/wp-content/uploads/2015/01/DSCN0142.jpg) Todo mundo sabe que exercícios físicos fazem muito bem pra saúde, certo? Mas tem muita gente que não faz exercícios em academias por falta de dinheiro, por falta de tempo ou simplesmente por não gostar. Mas que tal fazer exercícios naquele parque que tem perto do seu trabalho, ou no seu bairro? A caminhada é um exercício que trás muitos benefícios para saúde entre eles a prevenção da obesidade e a melhora da auto-estima. [![dicas para começar a caminhar](/wp-content/uploads/2015/01/DSCN0143.jpg)](/wp-content/uploads/2015/01/DSCN0143.jpg) Porém, como todo sabemos, quando resolvemos praticar alguns esportes é necessário tomar alguns cuidados, mesmo que esse esporte seja de pouco impacto, como a caminhada, pensando nisso separei neste post algumas dicas pra vocês levantarem do sofá e começar a se exercitar.

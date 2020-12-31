@@ -8,6 +8,13 @@ id: '4931'
 categories:
   - - Moda
 date: 2017-08-03 11:28:42
+# <extra>
+description: 'O crochê é uma técnica artesanal em que se pode produzir os mais variados produtos. No começo, quando ele começou no Ocidente, era muito utilizado para peças de decoração e objetos de casa, como toalhas, guardanapos, roupas de cama, tapetes e panos de prato. Porém, com o passar do tempo, o potencial dos tecidos feitos com essa técnica se tornou tão promissor que roupas começaram a ser feitas através desse método. E foi a partir desse momento que o crochê ganhou espaço em todos os lugares do mundo, sendo popular até hoje. Há várias teorias sobre a origem dessa técnica, mas a mais popular é de que ela veio da Arábia, chegando na Espanha anos depois através das rotas comerciais do mediterrâneo e, finalmente, se popularizou na Europa. Também há outras teorias de que essa costura veio da China, onde &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/manda-comprida-croche.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![blusa de crochê](/wp-content/uploads/2017/07/como-usar-roupa-de-crochê.jpg) O [**crochê**](http://uppermag.com/blusas-de-croche-mais-de-100-modelos-para-voce-se-inspirar/) é uma técnica artesanal em que se pode produzir os mais variados produtos. No começo, quando ele começou no Ocidente, era muito utilizado para peças de decoração e objetos de casa, como toalhas, guardanapos, roupas de cama, tapetes e panos de prato. Porém, com o passar do tempo, o potencial dos tecidos feitos com essa técnica se tornou tão promissor que roupas começaram a ser feitas através desse método. E foi a partir desse momento que o crochê ganhou espaço em todos os lugares do mundo, sendo popular até hoje. Há várias teorias sobre a origem dessa técnica, mas a mais popular é de que ela veio da Arábia, chegando na Espanha anos depois através das rotas comerciais do mediterrâneo e, finalmente, se popularizou na Europa. Também há outras teorias de que essa costura veio da China, onde bonecas eram feitas a partir dessa costura e também as roupas das mulheres  continham bordados em crochê. Mas por mais que existam diversas teorias a respeito desse procedimento, não há uma resposta clara sobre sua origem. O que sabemos é que ele se popularizou na Europa no século XIX e a partir de então sempre foi presente no vestuário de diversas mulheres. ![look blusa de crochê](/wp-content/uploads/2017/07/blusa-de-crochê-como-usar.jpg)

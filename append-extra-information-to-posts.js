@@ -8,6 +8,28 @@ const extractMetaAttribute  = (text = "", options) => {
     return text.match(pattern) ? text.match(pattern)[1] : null;
 };
 
+const fixAbsoluteWPContentUrl = (url = "") => {
+    const configBaseUrl = "http://oqueeuiafalar.github.io/"
+    return url.replace(/(.+?)\/wp-content(.+?)/i, `${configBaseUrl}wp-content$2`);
+};
+
+const insertContentBeetweenCommentedTags = (text, tagName, content) => {
+    return text.replace(
+        new RegExp(`(#\\s<${tagName}>)[\\s\\S]+?(#\\s</${tagName}>)`, "i"),
+        `$1\n${content}\n$2`
+    );
+};
+
+const extraToFrontMatter = (data) => {
+    const placeBeetweenQuotes = x => typeof x === "string" ? `'${x}'` : null;
+
+    return `description: ${placeBeetweenQuotes(data.description)}
+featured_image: 
+  url: ${placeBeetweenQuotes(data.featuredImage.url)}
+  width: ${placeBeetweenQuotes(data.featuredImage.width)}
+  height: ${placeBeetweenQuotes(data.featuredImage.height)}`
+};
+
 backupPostsPaths.map(function (backupPost) {
     const backupPath = [backupFolder, backupPost].join("/");
     const html = fs.readFileSync(backupPath, {encoding:'utf8', flag:'r'}, async function(err, data) {
@@ -42,13 +64,22 @@ backupPostsPaths.map(function (backupPost) {
 
     return {
         backupPath,
+        postPath: `${postsFolder}/${backupPost}.md`,
         description: description || ogDescription,
         featuredImage: {
-            url: featuredImage,
+            url: fixAbsoluteWPContentUrl(featuredImage || ""),
             width: featuredImageWidth,
             height: featuredImageHeight
         }
     };
 }).forEach(post => {
-    console.log(post);
+    const markdown = fs.readFileSync(post.postPath, {encoding:'utf8', flag:'r'}, async function(err, data) {
+        return data;
+    });
+    const data = insertContentBeetweenCommentedTags(
+        markdown,
+        "extra",
+        extraToFrontMatter(post)
+    );
+    fs.writeFileSync(post.postPath, data);
 });

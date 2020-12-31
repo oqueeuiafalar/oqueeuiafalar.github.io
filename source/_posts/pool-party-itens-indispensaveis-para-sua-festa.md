@@ -10,6 +10,13 @@ categories:
   - - Aleatoriedades
   - - Decoração
 date: 2018-01-29 08:07:53
+# <extra>
+description: 'É possível fazer uma pool party de maneira bem rápida e sem precisar gastar muito. Confira as dicas e inspirações para você fazer sua festa na piscina.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/01/decoração-festa-na-piscina.jpg'
+  width: '800'
+  height: '800'
+# </extra>
 ---
 
 Verão, férias, calor, piscina, carnaval chegando, tudo isso me remete a uma boa festa na piscina. Se você está planejando uma pool party saiba que tem alguns itens indispensáveis para a sua festa se tornar ainda mais divertida e inesquecível. Afinal, você quer se divertir, mas também quer que seus convidados guardem boas recordações da sua pool party. Por causa do calor que tem feito, resolvi fazer esse post com dicas do que não pode faltar na sua festa na piscina, bora conferir.

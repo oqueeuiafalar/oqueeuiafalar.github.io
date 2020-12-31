@@ -5,6 +5,13 @@ id: '4162'
 categories:
   - - Livros
 date: 2016-10-17 15:34:17
+# <extra>
+description: 'O livro &quot;As letras dos Beatles&quot; contém muitas curiosidades sobre os Beatles. Conheça 9 curiosidades extraídas do livro de Hunter Davies.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/as-letras-dos-beatles-hunter-davies-fone.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![as-letras-dos-beatles-hunter-davies-fone](/wp-content/uploads/2016/10/as-letras-dos-beatles-hunter-davies-fone.jpg) Provavelmente é impossível contar a história da cultura pop e da música no século XX sem falar da banda formada pelos garotos de Liverpool: John, Paul, George e Ringo. Os Beatles foram um dos maiores, senão o maior fenômeno pop que já existiu e tudo que é ligado a banda sempre despertou interesse ao redor do mundo.

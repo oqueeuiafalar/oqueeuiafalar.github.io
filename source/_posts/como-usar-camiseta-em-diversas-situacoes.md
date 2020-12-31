@@ -9,6 +9,13 @@ id: '5119'
 categories:
   - - Moda
 date: 2017-11-23 09:09:37
+# <extra>
+description: 'Camiseta faz parte do nosso dia a dia, então é claro que todo mundo quer aprender como usar camiseta em diversas situações de nossa vida. Vem aprender e se inspirar'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/10/como-usar-camiseta-vestido.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 Todo mundo sabe que uma das peças mais básicas de um guarda roupa é a camiseta, certo? Toda fashionista que se preze tem alguma **t-shirt** no armário e consegue montar produções incríveis com ela. A peça passa desde as produções mais básicas para o dia a dia, quanto em produções mais elaboradas. Basta ter um pouco de inspiração, imaginação, atitude e algumas peças como casacos, um jeans destroyed, uma saia legal ou mesmo acessórios diferentes para fazer a sua camiseta perder aquele ar de mesmice e deixar o seu look super cool. Mas se você tem duvidas de [**como usar suas t-shirts de maneira mais criativa e estilosa**](http://natalia.blog.br/look-dia-blazer-shorts/), bora conferir as inspirações e dicas logo abaixo:

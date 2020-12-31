@@ -5,6 +5,13 @@ id: '4348'
 categories:
   - - Aleatoriedades
 date: 2016-12-19 08:25:22
+# <extra>
+description: 'Agora falta muito pouco para o noite de Natal e eu acredito que todo mundo já esta com sua árvore montada, certo? Pois bem! Para dá um toque ainda mais especial a árvore de Natal nada melhor que encher de presentes na base dela, né. Para quem esta afim de caprichar nos embrulhos dos presentes de natal esse ano, esse post vai ser um deleite haha. Separei várias inspirações para vocês deixarem os presentes ainda mais lindos e cheios daquela magia de natal. Embrulho rústico para presente Eu amo embrulhos rústicos de presente, principalmente no natal, eles ficam super charmosos e dão um toque de elegância caso fiquem embaixo da árvore de natal. Embrulho de presente com cartela de cores Escolher uma cartela de cores (de preferência cores que remetem ao natal) deixa os presentes lindos, porque é possível utilizar &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/12/como-embrulhar-os-presentes-de-natal-com-cores-natalina.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 Agora falta muito pouco para o noite de Natal e eu acredito que todo mundo já esta com sua árvore montada, certo? Pois bem! Para dá um toque ainda mais especial a árvore de Natal nada melhor que encher de presentes na base dela, né. Para quem esta afim de caprichar nos **embrulhos dos presentes de natal** esse ano, esse post vai ser um deleite haha. Separei várias inspirações para vocês deixarem os presentes ainda mais lindos e cheios daquela magia de natal.

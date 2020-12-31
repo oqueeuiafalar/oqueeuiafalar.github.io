@@ -5,6 +5,13 @@ id: '3222'
 categories:
   - - Aleatoriedades
 date: 2015-12-26 11:10:44
+# <extra>
+description: 'Oi gente, tudo bem com vocês? Já estão se recuperando da ceia de natal? rs Como eu lí em algum lugar esses dias parece que eu vou voltar a sentir fome novamente só em Setembro de 2017 hahaha. Então lá vamos nós para o último coisas lindas de 2015 (mas ano que vem tem mais, viu rs). Esse cabelo Eu adoro cabelos cacheados/ondulados como o meu, mas tenho que confessar que as vezes eu queria ter o cabelo liso só pra poder fazer esse tipo de corte, acho lindo, elegante e super moderno. Essas margaridas Assim que eu bati o olho nessa cesta de flores eu fiquei encantada, muita delicadeza, fica lindo pra decorar a casa. Essa parede Sempre adorei a ideia de fazer coisas diferentes em paredes, como textura, papel de paredes divertidos e essa da imagem a cima &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/12/corte-de-cabelo-curto-706x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Oi gente, tudo bem com vocês? Já estão se recuperando da ceia de natal? rs Como eu lí em algum lugar esses dias parece que eu vou voltar a sentir fome novamente só em Setembro de 2017 hahaha. Então lá vamos nós para o último coisas lindas de 2015 (mas ano que vem tem mais, viu rs).

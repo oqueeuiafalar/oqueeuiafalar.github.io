@@ -8,6 +8,13 @@ id: '4285'
 categories:
   - - Aleatoriedades
 date: 2016-12-12 08:58:28
+# <extra>
+description: 'Oi gente, tudo bem? O Natal já esta logo ai, né, e como a gente adora essa época do ano (pelo menos eu adoro haha) resolvi fazer esse post com algumas dicas de coisinhas muito importantes que vocês não podem deixar de fora das comemorações. Mesa linda Uma mesa bem decorada e com muita coisa gostosa já é regra no Natal, né. Quem é mais criativo e habilidoso pode fazer seus próprios enfeites, mas quem preferir, é só correr para as lojinhas mais próximas que tenho certeza que vai encontrar muitas coisas lindas, velas são uma ótima opção e aqui no blog tem várias dicas e inspirações de como usa-las. Comidas gostosas Quem aqui não adora a ceia de Natal? Eu tenho certeza que todo mundo ama, é comida deliciosa para todos os lados, não é atoa que a gente &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/11/comida-de-natal.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 Oi gente, tudo bem? O **Natal** já esta logo ai, né, e como a gente adora essa época do ano (pelo menos eu adoro haha) resolvi fazer esse post com algumas dicas de coisinhas muito importantes que vocês não podem deixar de fora das comemorações.

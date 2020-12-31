@@ -5,6 +5,13 @@ id: '3163'
 categories:
   - - Moda
 date: 2015-12-14 13:40:26
+# <extra>
+description: 'Gente, o natal está chegando e claro que já vamos pensando em qual look usar, né! Montei 3 looks bem bonitos com custo diferentes e que vai agradar muitas mulheres e claro com peças que poderão ser usadas no ano todo. Look até R$ 800,00 Esse look custou R$ 781,30. É o look mais caro da lista, mas vale o investimento, porque ele é lindo. Esse vestido é bem básico na frente, mas tem um detalhe bem lindo nas costas (dá uma espiadinha lá no site da loja pra conferir hehe), a sandália eu achei lindíssima e a bolsa super delicada e sofisticada, resolvi colocar o destaque no colar pra poder chamar um pouco mais de atenção, gostaram? 1. Vestido  Canal na Farfetch &#8211; R$ 469,00 2. Clutch Satinato na Renner – R$ 109,00 3. Colar  Niina Secrets Store – R$ &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/12/Look-para-o-natal-até-800-reais-1024x766.png'
+  width: null
+  height: null
+# </extra>
 ---
 
 Gente, o natal está chegando e claro que já vamos pensando em qual look usar, né! Montei 3 looks bem bonitos com custo diferentes e que vai agradar muitas mulheres e claro com peças que poderão ser usadas no ano todo.

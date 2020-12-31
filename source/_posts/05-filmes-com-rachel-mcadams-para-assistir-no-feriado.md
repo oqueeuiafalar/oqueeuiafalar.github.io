@@ -5,6 +5,13 @@ id: '3671'
 categories:
   - - Filmes
 date: 2016-04-20 19:47:52
+# <extra>
+description: 'Muita gente conheceu Rachel McAdams como a vilã Regina George na comédia “Meninas Malvadas”, mas depois desse filme vieram muitos outros sucessos nos cinema e na TV. Ela já foi considerada it girl pela mídia e também já foi indicada ao BAFTA. Que tal aproveitar o feriado e se jogar no sofá pra assistir vários filmes da Rachel McAdams, hem? Aí vai algumas sugestões: Diários de uma paixão Quem ao ver esse filme não se apaixonou por Allie (Rachel McAdams) e Noah (Ryan Gosling) ? Acho bem difícil alguém ainda não ter assistido esse filme, mas se for o seu caso, vamos ao resumo da história: o filme é narrado por Duke, um senhor que está em uma clinica geriátrica que resolve ler a história de dois jovens que se apaixonaram na década de 1940. Os pais da jovem nunca &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/04/Rachel-McAdams.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![Filme Rachel McAdams](/wp-content/uploads/2016/04/Rachel-McAdams.jpg)](/wp-content/uploads/2016/04/Rachel-McAdams.jpg) Foto: LA Times Muita gente conheceu Rachel McAdams como a vilã Regina George na comédia “Meninas Malvadas”, mas depois desse filme vieram muitos outros sucessos nos cinema e na TV. Ela já foi considerada _it girl_ pela mídia e também já foi indicada ao BAFTA. Que tal aproveitar o feriado e se jogar no sofá pra assistir vários filmes da Rachel McAdams, hem? Aí vai algumas sugestões:

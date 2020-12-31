@@ -5,6 +5,13 @@ id: '2983'
 categories:
   - - Aleatoriedades
 date: 2015-10-31 11:23:58
+# <extra>
+description: 'Aha! Halloween 2015 chegou! Fiquei com várias ideias de decoração e look especiais para a data! O halloween, ou dia das bruxas, é comumente mais comemorado em países de língua inglesa, mas como eu gosto muito da data não poderia deixar passar esse coisas lindas de Halloween Esse look Acho que nunca fui em uma festa de halloween, mas se eu fosse, com certeza esse é o look que eu escolheria. Estou encantada com essa saia, basta uma make bem produzida e está pronta pra arrasar. Esse decoração Halloween é pra ser assustador, mas o dono dessa casa conseguiu ser fofo demais com a decoração, eu deixaria a minha casa o ano todo enfeitada de halloween se fosse igual essa decoração haha. Esses moranguinhos Olha que boa ideia de comidinhas para a festa de halloween, deve ser uma delícia além &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/10/look-para-halloween-683x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Aha! Halloween 2015 chegou! Fiquei com várias ideias de decoração e look especiais para a data! O halloween, ou dia das bruxas, é comumente mais comemorado em países de língua inglesa, mas como eu gosto muito da data não poderia deixar passar esse coisas lindas de Halloween

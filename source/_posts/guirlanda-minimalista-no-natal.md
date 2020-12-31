@@ -11,6 +11,13 @@ id: '5286'
 categories:
   - - Decoração
 date: 2017-11-30 08:48:02
+# <extra>
+description: 'O natal está chegando e você está pensando em qual guirlanda usar para enfeitar a porta da sua casa? Você já pensou em usar uma guirlanda minimalista?'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/11/como-fazer-guirlanda-minimalista.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 O natal está chegando e com certeza você está pensando em qual guirlanda vai usar para enfeitar a porta da sua casa, certo? Mas você já pensou em usar uma **guirlanda minimalista**? O natal é conhecido por suas cores, brilhos e muitos enfeites, mas hoje com o minimalismo cada dia mais em alta, tem muita gente que sai procurando inspirações minimalistas para poder também decorar a casa durante o natal, mas de forma mais discreta. É possível encontrar e **montar guirlandas minimalistas** com muita facilidade e com as inspirações a seguir, tenho certeza que você vai achar aquela perfeita que você estava buscando e fazer sua casa entrar em clima de natal de um jeitinho mais moderno esse ano.

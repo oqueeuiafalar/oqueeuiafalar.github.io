@@ -5,6 +5,13 @@ id: '3700'
 categories:
   - - Moda
 date: 2016-08-16 21:44:48
+# <extra>
+description: 'Desde de 2015 a popularidade do tênis branco só faz aumentar, de lá pra cá ele tem aparecido muito tanto no streetstyle quanto nas passarelas. Eu sou apaixonada pelos tênis brancos, porque são fáceis de combinar e se adequam aos mais variados estilos, já fiz alguns looks usando tênis brancos aqui no blog, como esse look com vestido e esse look com suéter. Vamos ver agora algumas inspirações pra gente poder se jogar também nessa tendência dos tênis brancos. Tênis branco com vestido Uma das combinações que eu mais adoro fazer é usar os tênis brancos com vestido, pode ser curto ou comprido, sempre fica lindo. Combinar vestidos com tênis branco é muito fashion e super atual. Tênis branco com saia Assim como usar tênis branco com vestido, usar com saia fica igualmente lindo e bem atual, pode ser longa &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/05/colete-jeans-vestido-tênis-look-do-dia-768x1024-768x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![look com tênis branco](/wp-content/uploads/2016/05/colete-jeans-vestido-tênis-look-do-dia-768x1024-768x1024.jpg)](/wp-content/uploads/2016/05/colete-jeans-vestido-tênis-look-do-dia-768x1024.jpg) Desde de 2015 a popularidade do tênis branco só faz aumentar, de lá pra cá ele tem aparecido muito tanto no streetstyle quanto nas passarelas. Eu sou apaixonada pelos tênis brancos, porque são fáceis de combinar e se adequam aos mais variados estilos, já fiz alguns looks usando tênis brancos aqui no blog, como **[esse look com vestido](http://natalia.blog.br/2016/04/13/look-do-dia-vestido-branco-e-colete-jeans/)** e **[esse look com suéter](http://natalia.blog.br/2015/07/13/look-do-dia-tudo-azul-marinho/)**. Vamos ver agora algumas inspirações pra gente poder se jogar também nessa tendência dos tênis brancos.

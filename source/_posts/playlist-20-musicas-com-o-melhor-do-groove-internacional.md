@@ -5,6 +5,13 @@ id: '2683'
 categories:
   - - Músicas
 date: 2015-08-03 12:38:03
+# <extra>
+description: 'Se tem um tipo de som capaz de embalar tantos os melhores quanto os mais cotidianos momentos da minha vida, esse som é o groove. Embora o termo não seja exatamente o nome de um estilo musical, pode-se dizer que groove é uma forma de se fazer música: com muito swing, grandes linhas de baixos e samples marcantes. No cenário internacional diversos artistas deram sentido à expressão groove, desde Michael Jackson à Tower of Power, de James Brown ao Bruno Mars. Criei essa lista como admirador, para ouvir no dia a dia e compartilho com vocês para quem quiser ouvir boa música. Provavelmente vocês já conhecem muitas dessas músicas, e certamente essa lista pode trazer boas lembranças ou servir para bons momentos à serem lembrados. Daft Punk &#8211; Get Lucky https://youtu.be/h5EofwRzit0 Eu sei que você já dançou com essa música, &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/08/O-melhor-do-groove-internacional-–-Rdio.png'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![O melhor do groove internacional – Rdio](/wp-content/uploads/2015/08/O-melhor-do-groove-internacional-–-Rdio.png)](/wp-content/uploads/2015/08/O-melhor-do-groove-internacional-–-Rdio.png) Se tem um tipo de som capaz de embalar tantos os melhores quanto os mais cotidianos momentos da minha vida, esse som é o groove. Embora o termo não seja exatamente o nome de um estilo musical, pode-se dizer que groove é uma forma de se fazer música: com muito swing, grandes linhas de baixos e samples marcantes. No cenário internacional diversos artistas deram sentido à expressão groove, desde Michael Jackson à Tower of Power, de James Brown ao Bruno Mars. Criei essa lista como admirador, para ouvir no dia a dia e compartilho com vocês para quem quiser ouvir boa música. Provavelmente vocês já conhecem muitas dessas músicas, e certamente essa lista pode trazer boas lembranças ou servir para bons momentos à serem lembrados.

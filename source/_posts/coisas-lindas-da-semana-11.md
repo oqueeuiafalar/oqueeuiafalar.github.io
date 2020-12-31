@@ -5,6 +5,13 @@ id: '2277'
 categories:
   - - Aleatoriedades
 date: 2015-04-04 12:46:01
+# <extra>
+description: 'O coisas lindas dessa semana não poderia ter outro tema a não ser páscoa, né? Então, vamos lá. Essa guirlanda Como eu nunca pensei nisso antes? Uma guirlanda de páscoa, olha só que coisa mais linda que ficou. Eu adoro esse tipo de coração mais vintage, rústico, sei lá, mas acho que fica encantador e combina com qualquer ambiente. Esses coninhos Olha que ideia boa para quem vai ter convidados para o almoço de páscoa, principalmente se esse convidado for criança, hehe. Além de ficar lindo, é bem gostoso comer essas guloseimas, né? E pra entrar ainda mais no clima de páscoa, pode colocar alguns confetes dentro desses cones, certeza que crianças e adultos vão adorar. Toda essa simplicidade Esses dias postei aqui no blog sobre uma tradição que temos aqui em casa, que é pegar ovos comuns e colori-los &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/04/4fb01ad68bfb805e05c70302fdc4fee4.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 O coisas lindas dessa semana não poderia ter outro tema a não ser páscoa, né? Então, vamos lá.

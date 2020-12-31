@@ -8,6 +8,13 @@ id: '4914'
 categories:
   - - Livros
 date: 2017-07-31 10:24:12
+# <extra>
+description: 'Gente, acabei de ler o livro “Um tom mais escuro de magia” da V. E. Schwab e eu estou apaixonada. O livro é faz parte de uma trilogia e eu já estou ansiosa para ler os próximos capítulos haha. &nbsp; O livro fala sobre quatro mundos distintos, mas que possuem duas coisas em comum: uma cidade chamada Londres e magia, alguns com magia sobrando e outros com quase nada, mas ainda assim possuem um pouco. &nbsp; As cidades de Londres são conhecidas como Londres Vermelha, Londres Branca, Londres Cinza e Londres Preta, e Kell, um dos últimos Antari vivos, consegue viajar por todas elas utilizando sua magia e levando mensagens de seus reis e rainhas e também aproveita para praticar seu hobby de contrabandear algumas coisas para ele mesmo. Se o vermelho era a cor da magia em equilíbrio, da &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-do-livro-um-tom-mais-escuro-de-magia.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![resumo - um tom mais escuro de magia ](/wp-content/uploads/2017/07/resenha-um-tom-mais-escuro-de-magia.jpg) Gente, acabei de ler o livro “Um tom mais escuro de magia” da V. E. Schwab e eu estou apaixonada. O livro é faz parte de uma trilogia e eu já estou ansiosa para ler os próximos capítulos haha.   O livro fala sobre quatro mundos distintos, mas que possuem duas coisas em comum: uma cidade chamada Londres e magia, alguns com magia sobrando e outros com quase nada, mas ainda assim possuem um pouco.   As cidades de Londres são conhecidas como Londres Vermelha, Londres Branca, Londres Cinza e Londres Preta, e Kell, um dos últimos Antari vivos, consegue viajar por todas elas utilizando sua magia e levando mensagens de seus reis e rainhas e também aproveita para praticar seu hobby de contrabandear algumas coisas para ele mesmo. ![sobre o livro - um tom mais escuro de magia](/wp-content/uploads/2017/07/página-do-livro-um-tom-mais-escuro-de-magia.jpg) ![resumo do livro um tom mais escuro de magia](/wp-content/uploads/2017/07/lombada-do-livro-um-tom-mais-escuro-de-magia.jpg)

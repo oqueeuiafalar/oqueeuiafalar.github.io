@@ -11,6 +11,13 @@ id: '4204'
 categories:
   - - Moda
 date: 2016-10-24 22:45:13
+# <extra>
+description: 'À La Garçonne de Fábio Souza e que tem como diretor de criação o estilista Alexandre Herchcovitch, abriu o segundo dia de desfiles da SPFW. O desfile aconteceu no MASP por volta das 10:30 da manhã. O desfile foi embalado por canções da Beyoncé, Britney Spears e Lady Gaga e aconteceu no primeiro andar do Museu de Artes de São Paulo. À La Garçonne utilizou tecidos que continham itens de reciclagem e também tecidos antigos e vintage. Os looks desfilados mesclavam com rendas delicadas, estilos esportivos e muita camuflagem, e tudo isso com um estilo bem contemporâneo mas com um toque de vintage. Peças delicadas e jaquetas de couro se mesclaram durante o desfile que contou com looks femininos e masculinos à altura do esperado para um evento como o São Paulo Fashion Week. Em tempos de crise, Herchcovitch sabe &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/Desfile-À-La-Garçonne-spfw.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![Foto de Zé Takahashi para o Estadão](/wp-content/uploads/2016/10/Desfile-À-La-Garçonne-spfw.jpg) Foto: Estadão

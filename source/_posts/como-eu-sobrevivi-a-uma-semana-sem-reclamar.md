@@ -5,6 +5,13 @@ id: '2155'
 categories:
   - - Aleatoriedades
 date: 2015-03-09 19:53:44
+# <extra>
+description: 'Há  um pouco mais de uma semana um amigo do trabalho me mandou um artigo do hypeness entitulado  “O que aconteceu comigo quando tentei ficar 1 semana sem reclamar”. O artigo conta a tentativa do autor de ficar uma semana sem reclamar baseado na experiência de David Cain, e em um livro de Will Bowen. Fui seduzido pela ideia do artigo e não pude resistir a minha vontade de entrar nessa experiência também. Afinal, o que de pior poderia acontecer? Ficar uma semana sem falar sobre ipva ou usar a expressão “Que calor hein” não iria me fazer mal algum. No final, se tudo desse certo eu ainda poderia escrever um post sobre a experiência. No dia seguinte a leitura comecei a experiência, e os resultados me ajudaram a entender a maneira como reajo automaticamente à algumas situações. Dia 1 &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/03/capa-do-livro-para-de-reclamar-e-concentre-se-nas-coisas-boas-de-will-bowen.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![Esse livro deu origem à ideia de ficar alguns dias sem reclamar.](/wp-content/uploads/2015/03/capa-do-livro-para-de-reclamar-e-concentre-se-nas-coisas-boas-de-will-bowen.jpg)](/wp-content/uploads/2015/03/capa-do-livro-para-de-reclamar-e-concentre-se-nas-coisas-boas-de-will-bowen.jpg) Esse livro deu origem à ideia de ficar alguns dias sem reclamar. Há  um pouco mais de uma semana um amigo do trabalho me mandou um artigo do hypeness entitulado  [“O que aconteceu comigo quando tentei ficar 1 semana sem reclamar”](http://www.hypeness.com.br/2015/01/o-que-aconteceu-comigo-quando-tentei-ficar-1-semana-sem-reclamar/). O artigo conta a tentativa do autor de ficar uma semana sem reclamar baseado na experiência de David Cain, e em um livro de Will Bowen. Fui seduzido pela ideia do artigo e não pude resistir a minha vontade de entrar nessa experiência também. Afinal, o que de pior poderia acontecer? Ficar uma semana sem falar sobre ipva ou usar a expressão “Que calor hein” não iria me fazer mal algum. No final, se tudo desse certo eu ainda poderia escrever um post sobre a experiência. No dia seguinte a leitura comecei a experiência, e os resultados me ajudaram a entender a maneira como reajo automaticamente à algumas situações.

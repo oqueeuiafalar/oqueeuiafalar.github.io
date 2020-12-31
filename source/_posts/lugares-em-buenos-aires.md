@@ -14,6 +14,13 @@ id: '5139'
 categories:
   - - Viagem
 date: 2018-03-17 09:11:21
+# <extra>
+description: 'Lugares em Buenos Aires para visitar, fotografar e comer é o que não falta. Confira várias dicas de lugares que você precisa conhecer em Buenos Aires.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/01/paredes-coloridas-bairro-el-caminito.jpg'
+  width: '1000'
+  height: '1000'
+# </extra>
 ---
 
 Bateu uma sessão nostalgia aqui das minhas férias e por isso eu resolvi fazer esse post para mostrar algumas dicas de lugares em Buenos Aires que você tem que visitar. Primeiro eu preciso falar que Buenos Aires é uma cidade linda, super arborizada, com muitas opções culturais e gastronômicas para encher os olhos e a barriga dos turistas hehe. Portanto se você está na duvida se vai ou não para Buenos Aires, minha resposta é VÁ. Há lugares em Buenos Aires para visitar como parques por todos os lados, livrarias por todos os lados, restaurantes por todos os lados e muitos edifícios lindos, históricos e monumentais para serem visitados, a cidade é puro charme. Para quem gosta de caminhar, lá também é perfeito, afinal, tudo é plano então você anda, anda e anda e não cansa nunca, só da uma tristeza na hora de voltar para o hotel haha. Separei cinco dicas de pontos turísticos que devem ser visitados, mas já estou separando mais alguns aqui mentalmente para quem sabe mais um post de motivação para vocês.

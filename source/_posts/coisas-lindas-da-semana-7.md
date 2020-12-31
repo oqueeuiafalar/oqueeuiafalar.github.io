@@ -5,6 +5,13 @@ id: '2148'
 categories:
   - - Aleatoriedades
 date: 2015-03-07 14:12:09
+# <extra>
+description: 'Eu nunca fui muito ligada em maquiagem, mas ultimamente devo confessar que ando me interessando, o problema está na coordenação motora, os traços sempre ficam bizarros e as sombras eu prefiro nem comentar, mas ví uma foto tão linda essa semana que me deu vontade de focar um pouco mais para fazer boas maquiagens, e a foto foi: Essa! Sempre achei lindo demais um olho bem esfumado e essa make da foto esta a coisa mais linda de viver. Ainda vou aprender a fazer isso 😀  Essa prateleira Sempre achei lindo demais um olho bem esfumado e essa make da foto esta a coisa mais linda de viver. Ainda vou aprender a fazer isso 😀  Esse banheiro Ahhh gente, é amor demais essa decoração para o banheiro. Eu que não sei andar de bicicleta ia amar ter uma, nem que &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/03/9359e5cecc98aa5fd0544ce16e9d6990-534x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Eu nunca fui muito ligada em maquiagem, mas ultimamente devo confessar que ando me interessando, o problema está na coordenação motora, os traços sempre ficam bizarros e as sombras eu prefiro nem comentar, mas ví uma foto tão linda essa semana que me deu vontade de focar um pouco mais para fazer boas maquiagens, e a foto foi:

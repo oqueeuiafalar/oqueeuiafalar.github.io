@@ -7,6 +7,13 @@ id: '3384'
 categories:
   - - Aleatoriedades
 date: 2016-02-17 17:42:33
+# <extra>
+description: 'Logo nos primeiros dias de Janeiro eu e meu amigo William Ribeiro nos desafiamos mutuamente a uma jornada de 21 dias de pomodoro. Recentemente ambos completamos o desafio e nesse post você vai descobrir como foi a minha experiência e que impacto esses 21 dias trouxeram para minha rotina. Relato de um procrastinador Eu me considero uma pessoa cheia de planos e ideias mas com muito menos disciplina do que o necessário para trazer esses planos e ideias para a realidade. Admiro profundamente quem consegue criar hábitos saudáveis e transformar pequenos projetos em realidade. Minha cabeça está sempre cheia de planos, coisas para aprender e ideias incríveis que aos poucos caem no esquecimento. Eu não tenho o hábito de me reservar um tempo para relaxar e quando deveria estar focado em meus planos me pego em atividades sem sentido, como &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/02/person-apple-laptop-notebook-1024x683.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![Pessoa com relógio mexendo no computador e fazendo anotações](/wp-content/uploads/2016/02/person-apple-laptop-notebook-1024x683.jpg)](/wp-content/uploads/2016/02/person-apple-laptop-notebook.jpg) Logo nos primeiros dias de Janeiro eu e meu amigo William Ribeiro nos desafiamos mutuamente a uma jornada de 21 dias de pomodoro. Recentemente ambos completamos o desafio e nesse post você vai descobrir como foi a minha experiência e que impacto esses 21 dias trouxeram para minha rotina.

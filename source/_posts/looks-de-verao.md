@@ -10,6 +10,13 @@ id: '5482'
 categories:
   - - Moda
 date: 2018-01-25 13:01:57
+# <extra>
+description: 'O verão já começou faz mais de um mês, mas se você ainda esta na dúvida de como montar seus looks de verão, confira esse post cheios de modelos e dicas.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/01/bolsa-com-estampa-de-abacaxi.jpg'
+  width: '667'
+  height: '667'
+# </extra>
 ---
 
 O verão já começou faz mais de um mês, mas é só agora que ele esta começando a ficar bem quente - pelo menos pra mim haha - e não é muito fácil montar looks de verão super elaborados, mas existe algumas peças e acessórios que podem dar um up nos seus looks de verão e fazer você sair de casa cheia de estilo. Acessórios como óculos de sol, uma bolsa diferente, chapéus, maxi brincos, maxi colares, coletes e lenços podem ajudar você a incrementar seus looks de verão com muito charme e estilo, mas sem precisar passar calor com várias outras peças de roupa. Nesse post vou te mostrar alguns modelos de looks de verão para você se inspirar e arrasar.

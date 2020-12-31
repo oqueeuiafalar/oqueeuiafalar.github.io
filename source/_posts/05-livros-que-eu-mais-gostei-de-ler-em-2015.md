@@ -5,6 +5,13 @@ id: '3207'
 categories:
   - - Livros
 date: 2015-12-28 13:29:52
+# <extra>
+description: 'E mais um ano esta acabando e claro que foi mais um ano de muita leitura. Em 2015 fiz parceria com ótimas editoras como a Biruta, Gaivota  e a editora Belas Letras  além de ter recebidos ótimos livros da editora Novo Conceito   e claro, também comprei alguns porque ninguém é de ferro, hehe. Pra conseguir fazer essa lista de cinco livros foi muito difícil, porque li muita coisa boa – quem acompanha o blog sabe disso – mas depois de ler e reler as resenhas consegui selecionar os cinco livros que mais gostei de ler esse ano e eu espero que se alguém aí do outro lado da telinha não tenha lido alguns destes, se anime para lê-los no próximo ano. Vamos lá? 5º livro &#8211; Sushi &#8220;Sushi&#8221; conta a história de três personagens, Ashling uma moça supersticiosa que mora em &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/12/lista-de-melhores-livros-2015-1024x768.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![Aconteceu em Veneza - Sushi - Como falar com um viúvo - Insana -  Batendo à porta do céu](/wp-content/uploads/2015/12/lista-de-melhores-livros-2015-1024x768.jpg)](/wp-content/uploads/2015/12/lista-de-melhores-livros-2015.jpg) E mais um ano esta acabando e claro que foi mais um ano de muita leitura. Em 2015 fiz parceria com ótimas editoras como a [Biruta](http://www.editorabiruta.com.br/), **[Gaivota](http://www.editoragaivota.com.br/)**  e a editora **[Belas Letras](http://belasletras.com.br/)**  além de ter recebidos ótimos livros da editora **[Novo Conceito](http://www.editoranovoconceito.com.br/)**   e claro, também comprei alguns porque ninguém é de ferro, hehe. Pra conseguir fazer essa lista de cinco livros foi muito difícil, porque li muita coisa boa – quem acompanha o blog sabe disso – mas depois de ler e reler as resenhas consegui selecionar os cinco livros que mais gostei de ler esse ano e eu espero que se alguém aí do outro lado da telinha não tenha lido alguns destes, se anime para lê-los no próximo ano. Vamos lá?

@@ -5,6 +5,13 @@ id: '2957'
 categories:
   - - Aleatoriedades
 date: 2015-10-24 13:04:31
+# <extra>
+description: 'Oi, gente. Agora que já passou todo aquele alvoroço pós horário de verão já temos nosso primeiro final de semana com 48 horas inteiras de coisas lindas nos esperando. Então vamos lá! Essa roupa de cama Não é possível que vocês não concordam comigo que esse conjunto de roupa de cama ta divinamente lindo e fofo? Bem vintage, delicado, muito amor, fluflu, aiii. Essa casa Sempre que eu vejo essas fachadas com jardim vertical eu viajo mentalmente para o Reino Unido, sei lá, acho lindo e bem a cara deles. Essas correntes Ando tendo um caso de amor tão grande com essas correntes minimalista, além de super delicado, são sofisticadas e deixam os looks sempre mais elegantes. Esse enfeite Ta aí um enfeite lindo e fácil pra se fazer, já tinha visto outros desses tipo no Pinterest e sempre fico &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/10/roupa-de-cama-patchwork.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Oi, gente. Agora que já passou todo aquele alvoroço pós horário de verão já temos nosso primeiro final de semana com 48 horas inteiras de coisas lindas nos esperando. Então vamos lá!

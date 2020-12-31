@@ -5,6 +5,13 @@ id: '2530'
 categories:
   - - Filmes
 date: 2015-06-10 13:25:40
+# <extra>
+description: 'Na próxima sexta-feira é dia dos namorados e se você  assim como eu detesta aquele vuco-vuco, restaurante lotado, filas de espera, cinema bombando, a melhor coisa a se fazer é deixar o programa de comemoração na rua para os dias seguintes e no dia 12 apenas ficar em casa curtindo o namorado de uma maneira mais calma, rsrs, e que tal fazer uma sessão pipoca com seu amor? Se você estava sem ideias de filme seus problemas acabaram. Que tal escolher um dessa lista de seis filmes e aproveitar a sexta-feira à noite de uma forma mais aconchegante e romântica? 1º &#8211; Casa comigo? https://www.youtube.com/watch?v=QmVCXAgMAWk “Casa comigo?” é uma comédia romântica muito fofa que conta a história de Anna (Amy Adams) que resolve ir atrás de seu namorado em Dublin para pedi-lo em casamento, porque existe uma tradição local em &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/06/capa_filmes_namorados.png'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![capa_filmes_namorados](/wp-content/uploads/2015/06/capa_filmes_namorados.png)](/wp-content/uploads/2015/06/capa_filmes_namorados.png) Na próxima sexta-feira é dia dos namorados e se você  assim como eu detesta aquele vuco-vuco, restaurante lotado, filas de espera, cinema bombando, a melhor coisa a se fazer é deixar o programa de comemoração na rua para os dias seguintes e no dia 12 apenas ficar em casa curtindo o namorado de uma maneira mais calma, rsrs, e que tal fazer uma sessão pipoca com seu amor? Se você estava sem ideias de filme seus problemas acabaram. Que tal escolher um dessa lista de seis filmes e aproveitar a sexta-feira à noite de uma forma mais aconchegante e romântica?

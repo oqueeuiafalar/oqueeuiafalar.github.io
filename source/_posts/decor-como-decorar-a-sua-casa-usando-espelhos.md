@@ -8,6 +8,13 @@ id: '3960'
 categories:
   - - Decoração
 date: 2016-09-29 09:21:56
+# <extra>
+description: 'Espelhos são uns dos melhores objetos para se usar na decoração, além deles ajudarem a aumentar o ambiente eles são super versáteis e se encaixam em todos os tipos de decoração passando desde os mais rústicos até os mais delicados. Não é necessário ter espelhos enormes pra deixar o ambiente mais charmoso, quem possui aqueles espelhos pequenos nos mais variados modelos como quadrado, redondo, com molduras lindas e clássicas e aquelas até mais simples, pode brincar e soltar a criatividade pra decorar uma parede. Quem quer investir em algo mais elaborado, é claro que também fica lindo. Uma parede toda de espelho faz qualquer ambiente pequeno parecer ser maior porque dá profundidade. Separei algumas inspirações pra vocês passando por espelhos na sala, quarto, banheiro e por aí vai, vamos lá conferir. Espelho no quarto Espelho na sala Espelho na cozinha &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/08/decoração-com-espelho.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![Espelho de madeira](/wp-content/uploads/2016/08/decoração-com-espelho.jpg) Foto - Pinterest Espelhos são uns dos melhores objetos para se usar na **decoração**, além deles ajudarem a aumentar o ambiente eles são super versáteis e se encaixam em todos os tipos de decoração passando desde os mais rústicos até os mais delicados. Não é necessário ter **espelhos enormes** pra deixar o ambiente mais charmoso, quem possui aqueles **espelhos pequenos** nos mais variados modelos como quadrado, redondo, com molduras lindas e clássicas e aquelas até mais simples, pode brincar e soltar a criatividade pra decorar uma parede. Quem quer investir em algo mais elaborado, é claro que também fica lindo. Uma parede toda de espelho faz qualquer ambiente pequeno parecer ser maior porque dá profundidade. Separei algumas inspirações pra vocês passando por espelhos na sala, quarto, banheiro e por aí vai, vamos lá conferir.

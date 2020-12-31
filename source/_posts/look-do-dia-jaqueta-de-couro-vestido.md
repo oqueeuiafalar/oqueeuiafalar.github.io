@@ -6,6 +6,13 @@ categories:
   - - Look do dia
   - - Moda
 date: 2015-09-14 09:25:47
+# <extra>
+description: 'Eu estava bem triste por estarmos no inverno com temperaturas bem acima da média, até que chegou essa semana deliciosa e tudo voltou  a ficar com carinha de inverno, com direito a frio, chuva e com tempo nublado (sei que a maioria das pessoas não curtem tempo assim, mas eu amo hehe), por isso, até me motivei pra sair e tirar foto de look do dia, espero que vocês gostem. Vestido: Lojas Renner / Ankle boot: Sonho dos pés / Jaqueta: presente Agora o que me resta é torcer pra esse clima gostoso durar mais algumas semanas pra eu poder usar mais roupas quentinhas e lindas. Vocês também gostam de looks de inverno?'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/09/vintage-1024x768.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![jaqueta de couro, câmera semi profissional panasonic, look](/wp-content/uploads/2015/09/vintage-1024x768.jpg)](/wp-content/uploads/2015/09/vintage.jpg)

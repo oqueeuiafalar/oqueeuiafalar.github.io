@@ -5,6 +5,13 @@ id: '2515'
 categories:
   - - Aleatoriedades
 date: 2015-06-06 11:51:02
+# <extra>
+description: 'Oba, chegamos no coisas lindas número 20 e ao invés de esgotar as minhas inspirações, cada semana tenho mais inspirações ainda. E como vocês sabem que adoro decoração e moda, aí vão algumas coisas lindas sobre isso. Esse banheiro Gente, é um banheiro dentro de um jardim de inverno ou é um jardim de inverno dentro do banheiro? Amei isso, eu adoro jardim de inverno, acho que deixa qualquer ambiente mais bonito e agradável, mas eu nunca tinha imaginado em um banheiro e ficou um luxo. Essa cadeira Eu adoro coisas assim mais antigas, ficam muito legal na decoração, e principalmente se for uma decoração mais moderna, pode quebrar um pouco o padrão e deixar mais aconchegante. Essa parede Preciso mesmo falar algo sobre essa parede? É a minha cara, adoro tijolos à vista, acho chique e essa sala aí &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/06/banheiro-com-jardim-de-inverno-683x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Oba, chegamos no coisas lindas número 20 e ao invés de esgotar as minhas inspirações, cada semana tenho mais inspirações ainda. E como vocês sabem que adoro decoração e moda, aí vão algumas coisas lindas sobre isso.

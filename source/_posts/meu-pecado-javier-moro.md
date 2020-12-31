@@ -10,6 +10,13 @@ id: '5931'
 categories:
   - - Livros
 date: 2019-03-31 08:12:24
+# <extra>
+description: 'O livro &quot; Meu Pecado &quot; é mais um romance histórico de Javier Moro onde embarcamos para o mundo de Hollywood na década de 30. Confira!'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2019/03/capa-livro-meu-pecado-javier-moro.jpg'
+  width: '1000'
+  height: '1000'
+# </extra>
 ---
 
 **Sinopse:**   Nesse romance histórico baseado em uma história real, a protagonista é a atriz espanhola Conchita Montenegro. EM 1930, com apenas 19 anos, ela sai da Espanha e segue ruma a Hollywood, em busca de sucesso na capital do cinema. Graças a sua beleza, sua inteligência, sua forte personalidade e sua tenacidade, a garota que antes era apenas uma jovem promessa se torna uma das principais estrelas de sua época. Seu olhar penetrante e extremamente envolvente acaba conquistando Leslie Howard, um dos atores mais célebres do momento. Leslie, no entanto, é um homem casado, com mais do que o dobro da idade de Conchita. Isso não parece ser um empecilho para os dois, que se apaixonam e começam um tórrido romance, entre festas dignas de sonhos e estreias triunfais nas maiores e mais disputadas telas do mundo, entre passeios a cavalo e voos panorâmicos pela costa californiana, entre a paixão e a traição. Treze anos depois, em plena Segunda Guerra Mundial, a história de amor tem um desenlace inesperado, quando os dois amantes se reencontram em Madrid. Sem que eles saibam, esse encontro irá influenciar o curso da guerra, orientando a participação da Espanha no conflito. ![capa livro - meu pecado - javier moro](/wp-content/uploads/2019/03/capa-livro-meu-pecado-javier-moro.jpg "capa livro - meu pecado - javier moro")

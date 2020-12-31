@@ -12,6 +12,13 @@ id: '5552'
 categories:
   - - Livros
 date: 2018-02-28 19:52:46
+# <extra>
+description: 'O Jardim das Borboletas com certeza é um dos livros mais perturbadores que você pode ler, mas não tenha medo, ele é de prender a atenção e tirar o fôlego.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/02/capa-livro-o-jardim-das-borboletas.jpg'
+  width: '800'
+  height: '800'
+# </extra>
 ---
 
 ![Capa do livro  - O Jardim das Borboletas ](/wp-content/uploads/2018/02/capa-livro-o-jardim-das-borboletas.jpg "Capa do livro  - O Jardim das Borboletas ") Capa do livro - O Jardim das Borboletas Sinceramente, eu não sei nem por onde começar a resenha do livro **O Jardim das Borboletas** de tão chocante e foda que esse livro é, mas vamos lá tentar expressar em palavras tudo o que esse livro me fez sentir ao lê-lo. O livro começa com o agente do FBI Victor Hanoverian observando Maya, que está dentro de uma sala de interrogatório, através de uma janela espelhada. Victor não sabe se deve ou não confiar na jovem, mas aparentemente ela é a líder das demais jovens resgatadas que se encontram no hospital, por isso, ela é tudo o que ele tem, e juntamente com Victor nós vamos acompanhando o relato assustador da vida de Maya dela ser raptada e durante o período em que foi mantida em cativeiro. ![Lombada do livro - O Jardim das Borboletas](/wp-content/uploads/2018/02/lombada-livro-o-jardim-das-borboletas.jpg "Lombada do livro - O Jardim das Borboletas") Resenha: O Jardim das Borboletas Maya ou Inara - quando você ler o livro decide como chama-la rs - foi raptada nas ruas de Nova Iorque e levada para um jardim conhecido como O Jardim das Borboletas. Nesse jardim Maya conhece diversas outras garotas que estavam na mesma situação que ela. Mas com o passado difícil que Maya viveu desde a infância, ela não entra em desespero ao chegar naquele lugar de tanta dor e sofrimento, ela meio que aceita mais um capítulo difícil que vai fazer parte de sua vida que já foi sempre difícil mesmo.

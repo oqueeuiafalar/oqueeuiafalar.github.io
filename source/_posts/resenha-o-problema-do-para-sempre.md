@@ -10,6 +10,13 @@ id: '5207'
 categories:
   - - Livros
 date: 2017-11-20 10:16:33
+# <extra>
+description: 'O problema do para sempre é um livro forte que nos mostra como os traumas da infância podem influenciar toda nossa vida. Mallory é uma adolescente que apesar da pouca idade já passou por muitos momentos difíceis na vida. Desde pequena ela aprendeu a guardar seus sentimentos e também suas palavras, vivendo praticamente no mais absoluto silencio. Ela morava em um lar provisório onde sofria abusos, passava fome e na maior parte do tempo sua vida era de medo e silêncio. No lar temporário que Mallory morava, havia outro garoto que estava na mesma situação que ela chamado Rider. Nesse menino ela conseguia encontrar os momentos de alivio e esperança para aguentar as crueldades a que eram submetidos. Após um trágico acidente, Mallory é levada para um hospital. Durante o período em que ela passa nesse hospital, Mallory conhece Carl &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/11/capa-livro-o-problema-do-para-sempre.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![Capa do livro O problema do para sempre](/wp-content/uploads/2017/11/capa-livro-o-problema-do-para-sempre.jpg) **O problema do para sempre** é um livro forte que nos mostra como os traumas da infância podem influenciar toda nossa vida. Mallory é uma adolescente que apesar da pouca idade já passou por muitos momentos difíceis na vida. Desde pequena ela aprendeu a guardar seus sentimentos e também suas palavras, vivendo praticamente no mais absoluto silencio. Ela morava em um lar provisório onde sofria abusos, passava fome e na maior parte do tempo sua vida era de medo e silêncio. No lar temporário que Mallory morava, havia outro garoto que estava na mesma situação que ela chamado Rider. Nesse menino ela conseguia encontrar os momentos de alivio e esperança para aguentar as crueldades a que eram submetidos. ![Lombada do livro O problema do para sempre](/wp-content/uploads/2017/11/lombada-do-livro-o-problema-do-para-sempre.jpg) ![páginas-do-livro-o-problema-do-para-sempre](/wp-content/uploads/2017/11/Página-do-livro-o-problema-do-para-sempre.jpg) Após um trágico acidente, Mallory é levada para um hospital. Durante o período em que ela passa nesse hospital, Mallory conhece Carl e Rosa, um casal de médicos.  Carl e Rosa dão à garota uma nova vida, uma família e todo amor, carinho e compreensão que ela merece. Eles resolvem adota-la e Mallory começa uma nova vida, tentando romper barreiras levantadas pelos traumas do passado. 

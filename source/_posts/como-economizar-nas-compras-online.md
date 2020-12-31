@@ -8,6 +8,13 @@ id: '5983'
 categories:
   - - Aleatoriedades
 date: 2019-12-19 20:37:26
+# <extra>
+description: 'Quer saber como economizar nas compras online? Então, veja esse post com 9 dicas de como economizar nas compras online e faça compras inteligentes.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2019/12/fazendo-compras-online.jpg'
+  width: '900'
+  height: '900'
+# </extra>
 ---
 
 A prática de fazer compras online vem crescendo cada dia mais, isso deve-se por conta da praticidade de fazer comparações de marcas, preços e pesquisar por lojas com o melhor custo x benefícios. Porém, quando falamos de compras online é preciso ter muito cuidado para não gastar mais do que se deve, afinal, a gente acaba se empolgando com tanta praticidade e  opções. Mas para você que deseja fazer compras mais inteligentes pela internet eu separei 9 dicas de como economizar nas compras online que com certeza vão te ajudar. Confira! ![como fazer compras online](/wp-content/uploads/2019/12/como-fazer-compras-online.jpg "como fazer compras online")

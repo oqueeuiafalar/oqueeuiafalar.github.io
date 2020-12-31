@@ -5,6 +5,13 @@ id: '2533'
 categories:
   - - Aleatoriedades
 date: 2015-06-13 10:13:52
+# <extra>
+description: 'Ah, ontem foi dia dos namorados, mas como esse ano caiu em uma sexta-feira a gente pode estender ele para o fim de semana, né? Por isso o “Coisas lindas” de hoje é todo inspirado nessa data tão romântica. Esse vasinho Ta pensando em servir um café da manhã na cama esse final de semana? Olha que graça esse vasinho super fácil de fazer e que dá uma delicadeza a mais para a ocasião. Essa decoração Ta aí mais uma ideia pra quem pensa em fazer alguma surpresa em casa, pode espalhar vários arranjos desse pela casa, vai ficar um ar bem romântico e se não tiver pisca-pisca suficiente, use velas que fica ainda mais charmoso. Esse casal Sempre que vejo um casal de velhinhos que se amam muito eu fico emocionada, acho lindo ver como duas pessoas podem passar &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/06/8c34fdb44e1f786e68c010ea58114536-682x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Ah, ontem foi dia dos namorados, mas como esse ano caiu em uma sexta-feira a gente pode estender ele para o fim de semana, né? Por isso o “Coisas lindas” de hoje é todo inspirado nessa data tão romântica.

@@ -5,6 +5,13 @@ id: '2845'
 categories:
   - - Aleatoriedades
 date: 2015-09-19 12:44:16
+# <extra>
+description: 'Oi, gente, preparados para mais um coisas lindas? Lembra nas últimas semanas em que eu comemorava um pouquinho de frio? Pois é, o inverno parece que vai ficar para a lembrança mesmo mas as coisas lindas são lindas em qualquer estação. Esse coque Eu sou apaixonada por coques, acho muito chique e prático, esse com lenço ficou uma graça, bem delicado e moderno, quem sabe eu resolva me inspirar e fazer também. Esses caixotes reparam nos caixotes de feira na parede? Eu adoro essa ideia, já pensei várias vezes em fazer isso no meu quarto (porque ele é pequeno, então preciso arrumar espaço pros livros e tudo o mais hehe) só me falta a coragem, mas que fica lindo fica. Essa noiva Como eu sempre digo, menos é mais! Estou apaixonada por esse vestido de noiva, por esse penteado, por &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/09/coque-com-lenço-684x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Oi, gente, preparados para mais um coisas lindas? Lembra nas últimas semanas em que eu comemorava um pouquinho de frio? Pois é, o inverno parece que vai ficar para a lembrança mesmo mas as coisas lindas são lindas em qualquer estação.

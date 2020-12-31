@@ -5,6 +5,13 @@ id: '3688'
 categories:
   - - Moda
 date: 2016-04-30 13:04:48
+# <extra>
+description: 'Finalmente o outono chegou e a gente sempre fica meio em duvida do que usar pra sair de casa nesses dias que não são nem muito frios e nem muito quentes, por isso o post de hoje será sobre algumas peças essenciais nessa época do ano. Chemise As chemises, ou vestido camisa, estão super em alta já faz um tempo. Eles são super leves e práticos para ser usados no dia a dia, pra usar durante o dia na meia estação não precisa mais nada do que ele, se for usar de noite, é legal colocar uma jaqueta jeans ou cardigãs para aquecer um pouco mais. Lenços Os lenços são super versáteis, eles não precisam ser usados necessariamente no corpo, ficam lindo no cabelo e até mesmo amarrados na bolsa. Mas na meia estação eles são ótimos pra dá um &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/04/look-chemise-1024x934.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Finalmente o outono chegou e a gente sempre fica meio em duvida do que usar pra sair de casa nesses dias que não são nem muito frios e nem muito quentes, por isso o post de hoje será sobre algumas peças essenciais nessa época do ano.

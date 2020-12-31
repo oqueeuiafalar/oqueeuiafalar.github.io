@@ -8,6 +8,13 @@ id: '4396'
 categories:
   - - Decoração
 date: 2017-01-05 11:18:48
+# <extra>
+description: 'As prateleiras são elementos que estão na decoração de nossas casas a muitos e muitos anos, mas ao contrário do que se pensa existem sim formas certas de utilizar prateleiras na sua decoração que deixam o ambiente muito lindos e ainda por cima conseguem aumentar a praticidade de sua casa ou apartamento. Elas podem ser feitas de madeira, ferro ou diversos outros materiais, inclusive materiais reciclados, o que é uma ótima possibilidade, já que reciclar está super na moda e é uma decisão linda. Então confira alguns modelos para se inspirar. Formatos geométricos Usar formatos simétricos é uma opção linda, afinal a simetria é a mãe da beleza. Esse modelos fica mais lindo ainda se feito com madeira crua. Um ótimo comodo para se investir nesse tipo de decoração são cozinhas personalizadas. Estante na parede A parede pode se transformar &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/12/prateleira-flutuante.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 As prateleiras são elementos que estão na decoração de nossas casas a muitos e muitos anos, mas ao contrário do que se pensa existem sim formas certas de utilizar prateleiras na sua decoração que deixam o ambiente muito lindos e ainda por cima conseguem aumentar a praticidade de sua casa ou apartamento. Elas podem ser feitas de madeira, ferro ou diversos outros materiais, inclusive materiais reciclados, o que é uma ótima possibilidade, já que reciclar está super na moda e é uma decisão linda. Então confira alguns modelos para se inspirar.

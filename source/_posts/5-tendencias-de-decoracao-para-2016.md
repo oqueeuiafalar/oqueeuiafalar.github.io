@@ -5,6 +5,13 @@ id: '3400'
 categories:
   - - Decoração
 date: 2016-02-20 12:07:25
+# <extra>
+description: 'O Pinterest lançou uma lista intitulada Pinterest 100, onde ao examinar mais de 100 milhões de “Pins” que circulam pela rede eles encontraram as maiores tendências em gastronomia, moda, decoração entre outros que irão estar em alta nesse ano e claro que resolvi compartilhar algumas das que eu mais gostei com vocês. Bora lá conferir algumas das tendência de decoração. 5 &#8211; Tons neutros Tons como cinza, preto e branco estão em alta na decoração esse ano, e eu amei isso porque acho lindo decoração nesses tons. Fica um ambiente bem clean e muito sofisticado, além de ser bem mais fácil fazer diferentes combinações. 4 &#8211; Design escandinavo O estilo escandinavo é bem minimalista, cheio de linhas retas, madeira e tons bem neutros, super indicado para pessoas que gostam de ambientes mais clean. Os ambientes criados nesse estilo geralmente são mais &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/02/decoração-em-tons-de-cinza.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 O Pinterest lançou uma lista intitulada **[Pinterest 100](https://www.pinterest.com/pinterest/pinterest-100-for-2016/)**, onde ao examinar mais de 100 milhões de “Pins” que circulam pela rede eles encontraram as maiores tendências em gastronomia, moda, decoração entre outros que irão estar em alta nesse ano e claro que resolvi compartilhar algumas das que eu mais gostei com vocês. Bora lá conferir algumas das tendência de decoração.

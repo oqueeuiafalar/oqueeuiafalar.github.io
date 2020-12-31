@@ -8,6 +8,13 @@ id: '4382'
 categories:
   - - Livros
 date: 2016-12-29 11:14:21
+# <extra>
+description: 'Oi gente, tudo bem? Vocês já estão cansados de saber o quanto eu amo livros, né! Pra não perder o costume selecionei os cinco livros que eu mais gostei de ler em 2016, e pra variar não foi nada fácil hehe. Esse ano além Editora Biruta e Gaivota também fiz parceria com a Editora Planeta, portanto, recebi muitos livros bons (um até entrou para a lista dos meus livros preferidos da vida haha). Livro &#8211; Não é coisa da sua cabeça Nunca comentei aqui no blog, mas eu faço tratamento para depressão já a algum tempo e ganhei esse livro do meu namorado porque ambos queríamos entender um pouco mais sobre a depressão e transtornos mentais. O livro “Não é coisa da sua cabeça” oferece uma analise de vários transtornos como depressão, ansiedade, bipolaridade, esquizofrenia entre outros mostrando o ponto &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/12/melhores-leituras-de-2016.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![as melhores leituras de 2016](/wp-content/uploads/2016/12/os-melhores-livros-de-2016.jpg) Oi gente, tudo bem? Vocês já estão cansados de saber o quanto eu amo livros, né! Pra não perder o costume selecionei os cinco livros que eu mais gostei de ler em 2016, e pra variar não foi nada fácil hehe. Esse ano além [**Editora Biruta**](http://www.editorabiruta.com.br/) e [**Gaivota**](http://www.editoragaivota.com.br/) também fiz parceria com a [**Editora Planeta**](http://www.planetadelivros.com.br/), portanto, recebi muitos livros bons (um até entrou para a lista dos meus livros preferidos da vida haha).

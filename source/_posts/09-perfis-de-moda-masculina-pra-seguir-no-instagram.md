@@ -5,6 +5,13 @@ id: '3266'
 categories:
   - - Moda
 date: 2016-03-05 12:43:54
+# <extra>
+description: 'O Instagram   é um dos melhores lugares pra gente buscar inspirações, tanto de maquiagem, decoração, lugares pra visitar e claro moda. Pensando nisso e no bom gosto dos nossos namorados haha, selecionei nove  perfis de homens super estilosos que vão servir de referência na hora de montar os looks do dia a dia e ajudar a deixa-los mais fashion e lindos. Bora lá conferir e seguir: Adam Gallagher ( @iamgalla ) Se além da moda você se interessa por viagens tá ai um perfil ideal pra ser seguido. No perfil do Adam Gallagher você vai conferir imagens lindas de lugares maravilhosos e tudo isso sempre acompanhado de um guarda roupa de dá inveja. Valentin Benet ( @valentinbenet ) O blogueiro e modelo argentino Valentin Benet nós dá uma aula de como ser casual e estiloso ao mesmo tempo. Mariano &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/01/moda-masculina-instagram.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![inspiração instagram - moda masculina](/wp-content/uploads/2016/01/moda-masculina-instagram.jpg)](/wp-content/uploads/2016/01/moda-masculina-instagram.jpg) O Instagram   é um dos melhores lugares pra gente buscar inspirações, tanto de maquiagem, decoração, lugares pra visitar e claro moda. Pensando nisso e no bom gosto dos nossos namorados haha, selecionei nove  perfis de homens super estilosos que vão servir de referência na hora de montar os looks do dia a dia e ajudar a deixa-los mais fashion e lindos. Bora lá conferir e seguir:

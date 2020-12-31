@@ -8,6 +8,13 @@ id: '4408'
 categories:
   - - Aleatoriedades
 date: 2017-01-02 08:37:55
+# <extra>
+description: 'Finalmente 2017 começou e com certeza você já esta ai cheio de planos e promessas para cumprir, né? Você prometeu que vai começar a praticar mais esportes, fazer uma dieta, beber menos, sair mais com os amigos, procurar um novo emprego, começar a namorar e por ai vai &#8230;. mas vamos confessar, é bem difícil fazer tudo isso se tornar realidade, não acha? Bom, mas não se sinta sozinho nessa, tenho certeza que a maioria das pessoas acaba não cumprindo suas promessas de ano novo (porque é difícil pra caramba!), até porque começar em um novo emprego não depende só de nós, arrumar um amor muito menos, mas algumas promessas com certeza só depende de nós, afinal, por mais difícil que seja largar um vicio como o cigarro, por exemplo, se você não fizer isso por você, pode ter certeza, &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/12/ano-novo-uma-promessa.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![feliz ano novo - 2017](/wp-content/uploads/2016/12/ano-novo-uma-promessa.jpg) Finalmente **2017** começou e com certeza você já esta ai cheio de planos e **promessas para cumprir**, né? Você prometeu que vai começar a praticar mais esportes, fazer uma dieta, beber menos, sair mais com os amigos, procurar um novo emprego, começar a namorar e por ai vai .... mas vamos confessar, é bem difícil fazer tudo isso se tornar realidade, não acha? Bom, mas não se sinta sozinho nessa, tenho certeza que a maioria das pessoas acaba não cumprindo suas **promessas de ano novo** (porque é difícil pra caramba!), até porque começar em um novo emprego não depende só de nós, arrumar um amor muito menos, mas algumas promessas com certeza só depende de nós, afinal, por mais difícil que seja largar um vicio como o cigarro, por exemplo, se você não fizer isso por você, pode ter certeza, ninguém vai fazer, por mais que queira. Por isso resolvi fazer esse post com algumas dicas que vão te ajudar a alcançar essas metas de ano novo, nem que seja aquela de começar a frequentar a academia com mais regularidade, né!

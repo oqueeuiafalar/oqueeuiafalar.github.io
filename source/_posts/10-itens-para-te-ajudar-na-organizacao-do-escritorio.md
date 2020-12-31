@@ -9,6 +9,13 @@ id: '4421'
 categories:
   - - Aleatoriedades
 date: 2017-09-28 14:49:55
+# <extra>
+description: 'Utilizando alguns itens básicos você vai conseguir um escritório mais organizado e fazer com que sua produtividade e trabalho aumentem.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/01/clean-desktop.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![decor - desktop minimalista ](/wp-content/uploads/2017/01/clean-desktop.jpg) Eu devo confessar que prezo muito pela organização (chego a ser chata em relação a isso), mas é porque quando eu vejo tudo organizado eu consigo fazer as minhas **ideias fluírem** de forma muito melhor e meu **rendimento aumentar**. Tanto quando eu estou **trabalhando no blog** ou no meu outro trabalho como auxiliar administrativa eu gosto de ter a minha disposição bastante **post-it**, **agenda**, **canetas coloridas** e mais algumas coisinhas porque assim eu vou anotando todas as ideias e dicas que recebo e depois é só eu ir colocando-as em prática sem deixar nada para trás. Se você também quer ter um escritório organizado e pratico, fiz uma lista com 10 itens para te ajudar a colocar tudo em ordem:

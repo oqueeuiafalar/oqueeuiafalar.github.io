@@ -5,6 +5,13 @@ id: '3360'
 categories:
   - - Filmes
 date: 2016-02-01 14:49:37
+# <extra>
+description: '“Perdido em Marte” já começa com a equipe de seis astronautas comandados por Melissa enfrentando uma tempestade em Marte, Mark Watney um botânico que faz parte da equipe acaba sendo atingido por uma antena de comunicação e é dado como morto após não responder aos chamados da tripulação, e devido a violência da tempestade a tripulação se vê forçada a abortar a missão e deixa-lo para trás. Mas no dia seguinte Mark acorda e se vê sozinho no planeta vermelho, sem ter comunicação com a Terra e com pouca comida, e sabendo que a única chance que ele teria de ser resgatado é aguardando a chegada da próxima missão que a Nasa enviará para Marte, mas isso irá acontecer em 4 anos. E é aí que ele começa a sua jornada em busca da sobrevivência, afinal como se manter durante &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/01/matt-damon-perdido-em-marte.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![filme Perdido em marte - matt damon](/wp-content/uploads/2016/01/matt-damon-perdido-em-marte.jpg)](/wp-content/uploads/2016/01/matt-damon-perdido-em-marte.jpg)

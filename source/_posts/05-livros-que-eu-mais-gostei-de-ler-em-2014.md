@@ -5,6 +5,13 @@ id: '1977'
 categories:
   - - Livros
 date: 2015-01-28 17:58:25
+# <extra>
+description: 'Em 2014 eu prometi pra mim mesma que leria o maior número de livros possível, porque em 2010 quando eu entrei na faculdade parei de ler livros que de fato me interessavam e comecei a focar mais na faculdade e ler muitos livros sobre administração, porque aquilo era minha prioridade no momento e eu queria ser uma boa aluna, hehe. Eu adoro romances, ficção entre outros gêneros que eu pude voltar a ler ano passado e eu elegi meus cinco livros prediletos pra ver se vocês também gostam ou se caso não tenham lido ainda, corram à livraria mais próxima e comprem hehe. Recomendo cada um deles. O lado bom da vida Ah, desde o dia que eu vi esse livro na livraria eu fiquei louca por ele, até porque todo mundo falava muito bem e ele não deixou nada &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/01/DSCN0174.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![Lista de livros - O amor nos tempos do cólera; O lado bom da vida; O fantasma; A insustentavel leveza do ser; Biografia de Steve Jobs](/wp-content/uploads/2015/01/DSCN0174.jpg)](/wp-content/uploads/2015/01/DSCN0174.jpg) Em 2014 eu prometi pra mim mesma que leria o maior número de livros possível, porque em 2010 quando eu entrei na faculdade parei de ler livros que de fato me interessavam e comecei a focar mais na faculdade e ler muitos livros sobre administração, porque aquilo era minha prioridade no momento e eu queria ser uma boa aluna, hehe. [![Lista de livros de romance, ficção, suspense e  biografia](/wp-content/uploads/2015/01/DSCN0167.jpg)](/wp-content/uploads/2015/01/DSCN0167.jpg) Eu adoro romances, ficção entre outros gêneros que eu pude voltar a ler ano passado e eu elegi meus cinco livros prediletos pra ver se vocês também gostam ou se caso não tenham lido ainda, corram à livraria mais próxima e comprem hehe. Recomendo cada um deles.

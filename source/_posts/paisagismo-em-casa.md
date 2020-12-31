@@ -5,6 +5,13 @@ id: '5853'
 categories:
   - - Decoração
 date: 2018-10-12 10:53:04
+# <extra>
+description: 'Quer saber como deixar a sua casa ainda mais bonita utilizando paisagismo? Pois então confira nossas dicas e invista em um belo jardim.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/10/paisagismo.jpg'
+  width: '1600'
+  height: '1600'
+# </extra>
 ---
 
 Pensar em cada detalhe da casa é muito importante no momento da decoração de um ambiente ou do jardim, uma vez que são eles que vão dar aquele ar diferente e encantador para os moradores e as visitas. Não queira poupar tempo e fazer tudo na correria, procure analisar cada ideia e como ela pode contribuir na decoração e não deixar o ambiente pesado. E, claro, aqui entram alguns itens de paisagismo que são conhecidos no mundo da arquitetura e design de interiores, tais como flores, pedras, vasinhos, entre outros tantos elementos naturais que podem compor o ambiente.

@@ -9,6 +9,13 @@ id: '5661'
 categories:
   - - Moda
 date: 2018-06-09 11:06:03
+# <extra>
+description: 'Quer aprender como usar moletom no trabalho e em looks casuais? Confira nossas dicas e veja fotos para se inspirar e arrasar.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/06/mulher-de-saia-e-moletom-laranja.jpg'
+  width: '596'
+  height: '596'
+# </extra>
 ---
 
 Foi-se a época que para ser estiloso era preciso estar sempre em cima de um salto e com roupas super arrumadinhas. Hoje a moda presa pela conforto, mas sempre mantendo looks legais e despojados e o moletom é uma peça que não pode faltar no guarda-roupa de quem busca conforto e estilo. Por isso, hoje falaremos um pouco mais sobre como usar moletom não só para momentos casuais, mas também como usar o moletom no trabalho. ![look com moletom e colete ](/wp-content/uploads/2018/06/como-usar-moletom-dia-a-dia.jpg "look com moletom e colete ") Saiba como usar moletom no dia a dia

@@ -5,6 +5,13 @@ id: '3641'
 categories:
   - - Moda
 date: 2016-04-13 14:09:24
+# <extra>
+description: 'Gente, eu ando tão apaixonada por coletes que vocês não fazem ideia, minha vontade é de montar uma coleção haha e o melhor é que eles estão super em alta. Esse vestido é bem no modelo que eu adoro, marcado na cintura e bem soltinho em baixo. Tenho adorado usar tênis com vestido, fica bem fofo e confortável. Vestido: Loja Seller | Colete jeans: Riachuelo | Tênis: Fila Alguém mais aí gosta desse tipo de colete? Espero que vocês tenham gostado! Beijos!'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/04/colete-jeans-vestido-branco-look-768x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![look com colete jeans](/wp-content/uploads/2016/04/colete-jeans-vestido-branco-look-768x1024.jpg)](/wp-content/uploads/2016/04/colete-jeans-vestido-branco-look.jpg)

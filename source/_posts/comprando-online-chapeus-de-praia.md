@@ -6,6 +6,13 @@ categories:
   - - Aleatoriedades
   - - Moda
 date: 2016-01-06 11:19:35
+# <extra>
+description: 'O verão chegou, as férias chegaram e com certeza muita gente vai aproveitar muita praia nesses próximos meses, certo? Só que todo mundo sabe que na praia é preciso prevenção, afinal, o sol faz bem pra saúde, mas se passarmos dos limites e não nos protegermos ele pode trazer algumas conseqüências negativas e muitas vezes graves. E pensando nisso, resolvi sair em busca de chapéus de praia em lojas online, porque além deles nos proteger um pouco do sol, deixa o visual bem mais bonito, sofisticado e cheio de informação de moda. Bora conferir. 1-  Chapéu de praia viseira redonda &#8211; Chapéu &amp; Estilo 2- Chapéu floppy listras &#8211; Chapéu &amp; Estilo 3- Viseira xadrez branco e preto &#8211; Chapéu &amp; Estilo 4- Chapéu floppy branco e azul &#8211; Chapéu &amp; Estilo 5- Chapéu floppy de palha preto &#8211; Chapéu &amp; Estilo 6- Chapéu coquinho branco &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/12/chapéus-de-praia-onde-comprar-795x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![compra online - chapéus de praia ](/wp-content/uploads/2015/12/chapéus-de-praia-onde-comprar-795x1024.jpg)](/wp-content/uploads/2015/12/chapéus-de-praia-onde-comprar.jpg)

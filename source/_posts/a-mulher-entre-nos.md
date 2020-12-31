@@ -13,6 +13,13 @@ id: '5620'
 categories:
   - - Livros
 date: 2018-05-15 21:54:39
+# <extra>
+description: 'O livro A Mulher Entre Nós - Ela não é Quem Você Pensa é um thriller psicológico cheio de reviravoltas e que vai te surpreender.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/05/capa-do-livro-a-mulher-entre-nós.jpg'
+  width: '1000'
+  height: '1000'
+# </extra>
 ---
 
 ![Livro - A mulher entre nós](/wp-content/uploads/2018/05/capa-do-livro-a-mulher-entre-nós.jpg) Assim que eu recebi o livro **A Mulher Entre Nós - Ela Não É Quem Você Pensa** da Editora Paralela do grupo [Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=88214) eu fiquei super curiosa para ler, afinal, eu amo um thriller psicológico, e claro, a leitura foi fantástica.  

@@ -5,6 +5,13 @@ id: '3095'
 categories:
   - - Aleatoriedades
 date: 2015-11-28 15:31:07
+# <extra>
+description: 'Oie gente, como está o sábado de vocês?  O meu está bem preguiçoso, só pra variar haha, mas não poderia faltar coisas lindas pra gente ver, né. Vamos lá O Central Park  O outono é a estação do ano que mais acho bonita fora do Brasil (porque aqui é verão o ano todo haha), principalmente quando vejo fotos do Central Park em New York, tem como não se apaixonar por uma paisagem tão linda como essa? Essas unhas Geralmente eu não gosto muito de unhas decoradas, mas essa eu adorei, super delicada, discreta e linda, eu quero fazer. Essa decoração Olha só que ideia boa, barata e fácil de fazer de decoração para o Natal. Basta comprar pinha seca e uma fitinha que tenha um toque natalino e aproveitar pra deixar a ceia ainda mais bonita. Esses porta-retratos Sou apaixonada &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Central-Park-no-Outono-713x1024.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Oie gente, como está o sábado de vocês?  O meu está bem preguiçoso, só pra variar haha, mas não poderia faltar coisas lindas pra gente ver, né. Vamos lá

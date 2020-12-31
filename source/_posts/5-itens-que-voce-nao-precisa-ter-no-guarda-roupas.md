@@ -6,6 +6,13 @@ id: '4366'
 categories:
   - - Aleatoriedades
 date: 2016-12-15 08:02:20
+# <extra>
+description: 'Se tem uma coisa que eu considero muito difícil é me desfazer de roupas, afinal eu sou muito apegada a elas (faço até terapia pra isso haha), mas de vez em quando é necessário fazer uma limpa no guarda-roupa, assim a gente consegue abrir espaço para novas peças, encontramos muitas peças ali que já não fazem mais nosso estilo e também podemos repassa-las para alguém que realmente vai usa-las. Separei cinco dicas para você selecionar o que deve sair do seu guarda-roupas, vamos lá: 1 &#8211; Peças que não condizem com seu estilo. Muitas vezes a gente passa em frente a lojas em liquidação e acaba comprando por impulso peças que não combinam em nada com nosso estilo, só porque o preço estava bom, caso você não caia na real e vá trocar essa roupa dentro do prazo de troca, o &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/12/5-coisas-que-você-não-precisa-ter-no-guarda-roupas.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![organização de closet](/wp-content/uploads/2016/12/5-coisas-que-você-não-precisa-ter-no-guarda-roupas.jpg) Se tem uma coisa que eu considero muito difícil é me desfazer de roupas, afinal eu sou muito apegada a elas (faço até terapia pra isso haha), mas de vez em quando é necessário fazer uma limpa no guarda-roupa, assim a gente consegue abrir espaço para novas peças, encontramos muitas peças ali que já não fazem mais nosso estilo e também podemos repassa-las para alguém que realmente vai usa-las. Separei cinco dicas para você selecionar o que deve sair do seu guarda-roupas, vamos lá:

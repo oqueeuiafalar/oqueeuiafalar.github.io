@@ -10,6 +10,13 @@ id: '5707'
 categories:
   - - Decoração
 date: 2018-06-18 07:04:44
+# <extra>
+description: 'Ter o seu próprio cantinho é muito especial, mas decorar ele do jeito que gostamos é ainda mais satisfatório. Afina, não tem nada melhor do que deixar a sua casa ou apartamento do jeito que você sempre quis. Por isso, procure estar sempre atento a todas as dicas de decoração que são citadas em revistas e sites de decoração de interiores. Aposte em ideias criativas para organizar suas estantes e prateleiras, coloque muito mais do que apenas livros, coloque muita alegria e estilo. Não tem nenhuma ideia para começar o projeto de decoração? Calma, nós vamos te ajudar. Continue lendo o artigo e confira todas as dicas que separamos para você! Importância das estantes para sua casa As estantes são perfeitas para deixar o ambiente da sua casa organizado e moderno, com elas não será necessário deixar os livros jogados &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/06/estante-vermelha-diferete-de-livros.jpg'
+  width: '800'
+  height: '800'
+# </extra>
 ---
 
 ![estante de livros embaixo da escada](/wp-content/uploads/2018/06/estante-para-livros-embaixo-da-escada.jpg) O espaço embaixo da escada é um ótima ambiente para fazer uma estante de livros Ter o seu próprio cantinho é muito especial, mas decorar ele do jeito que gostamos é ainda mais satisfatório. Afina, não tem nada melhor do que deixar a sua casa ou apartamento do jeito que você sempre quis. Por isso, procure estar sempre atento a todas as dicas de decoração que são citadas em revistas e sites de decoração de interiores. Aposte em ideias criativas para organizar suas estantes e prateleiras, coloque muito mais do que apenas livros, coloque muita alegria e estilo. Não tem nenhuma ideia para começar o projeto de decoração? Calma, nós vamos te ajudar. Continue lendo o artigo e confira todas as dicas que separamos para você!

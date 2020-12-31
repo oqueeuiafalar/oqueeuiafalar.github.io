@@ -5,6 +5,13 @@ id: '1838'
 categories:
   - - Receitas
 date: 2014-12-22 18:45:49
+# <extra>
+description: 'A um tempo atrás eu postei aqui no blog uma receita de cuca de maçã que vocês podem conferir &#8220;aqui&#8221; e hoje eu vou postar mais uma receita de cuca pra vocês, porém, essa é especial, afinal é uma cuca natalina. Essa receita é muito pratica de se fazer e ainda dá pra vocês fazerem para a ceia de Natal, que tal hem? Ingredientes da massa: 2 xícaras de chá de açúcar 4 ovos 4 colheres de sopa de margarina 2 xícaras de chá de farinha de trigo 1 xícara de chá de amido de milho 1 colher de sopa de fermento em pó 1/2 xícara de chá de conhaque 1 xícara de leite 80 gramas de ameixas secas sem caroço picadas 80 gramas de uvas passas pretas 80 gramas de uvas passas brancas 80 gramas de cerejas picadas Ingredientes da &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/12/DSC03466-1024x768.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![Receita de cuca natalina](/wp-content/uploads/2014/12/DSC03466-1024x768.jpg)](/wp-content/uploads/2014/12/DSC03466.jpg) A um tempo atrás eu postei aqui no blog uma receita de cuca de maçã que vocês podem conferir "[aqui](http://natalia.blog.br/2014/10/08/cuca-de-maca/ "aqui")" e hoje eu vou postar mais uma receita de cuca pra vocês, porém, essa é especial, afinal é uma cuca natalina. Essa receita é muito pratica de se fazer e ainda dá pra vocês fazerem para a ceia de Natal, que tal hem? [![Receita de cuca natalina](/wp-content/uploads/2014/12/DSC03468-1024x768.jpg)](/wp-content/uploads/2014/12/DSC03468.jpg) **Ingredientes da massa:**

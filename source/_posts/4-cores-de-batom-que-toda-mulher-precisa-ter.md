@@ -5,6 +5,13 @@ id: '2924'
 categories:
   - - Beleza
 date: 2015-10-14 12:02:14
+# <extra>
+description: 'Batom é um item indispensável para as mulheres, até as que não gostam muito de maquiagem sempre tem um batom à mão. Eu sou apaixonada por eles, tenho de várias cores, porém, tem algumas cores que são essenciais na necessaire de toda mulher. Ninguém é obrigada a ter um batom azul, preto ou roxo na bolsa, mas os mais básicos acho super útil ter, afinal nunca se sabe quando irá precisar, né? Esse post vai servir de inspiração pra vocês  saírem correndo pras lojas mais próxima em busca de novos batons. Batom Nude Muita gente pensa que o nude é aquele batom para ser usado apenas no dia-a-dia, afinal ele é básico e sempre deixa com um ar sofisticado, mas ele também é uma ótima opção para quando quer fazer uma make que destaca bem os olhos, mas como vocês &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/10/make-batom-nude.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Batom é um item indispensável para as mulheres, até as que não gostam muito de maquiagem sempre tem um batom à mão. Eu sou apaixonada por eles, tenho de várias cores, porém, tem algumas cores que são essenciais na necessaire de toda mulher. Ninguém é obrigada a ter um batom azul, preto ou roxo na bolsa, mas os mais básicos acho super útil ter, afinal nunca se sabe quando irá precisar, né? Esse post vai servir de inspiração pra vocês  saírem correndo pras lojas mais próxima em busca de novos batons.

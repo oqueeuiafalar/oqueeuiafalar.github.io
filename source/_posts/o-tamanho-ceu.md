@@ -9,6 +9,13 @@ id: '4632'
 categories:
   - - Livros
 date: 2018-04-19 08:15:01
+# <extra>
+description: '&quot; O tamanho do céu &quot; é um livro lindo que nos leva mais a fundo na cultura da Índia, através de trágicos acontecimentos, super recomendo a leitura.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/03/resenha-livro-o-tamanho-do-céu.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![resumo do livro - o tamanho do céu - Thrity Umrigar](/wp-content/uploads/2017/03/resenha-livro-o-tamanho-do-céu.jpg "Capa do livro - O tamanho do céu") Ganhei o livro “ O tamanho do céu ” do meu namorado e logo de cara já fiquei bem afim de ler, primeiro porque a capa é linda e sim, eu compro livros pela capa haha e segundo porque adoro histórias do oriente. **O tamanho do céu** conta o drama do casal Frank e Ellie, que formavam uma família feliz junto com seu filho Benny. No entanto quando Benny estava com 7 anos do dia para a noite ele ficou doente e Ellie ficou cuidando dele sozinha, porque Frank vivia viajando a trabalho. Infelizmente Benny não resistiu e acabou falecendo e a vida do casal mudou completamente, eles não podiam se imaginar vivendo sem seu filho. Gente, isso que passei aqui praticamente não é spoiler, já que é revelado logo de cara no livro OK hahaha.

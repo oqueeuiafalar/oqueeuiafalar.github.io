@@ -5,6 +5,13 @@ id: '3558'
 categories:
   - - Decoração
 date: 2016-03-23 11:37:29
+# <extra>
+description: 'Todo mundo já sabe que o rosa quartzo é a cor de 2016. E eu estou simplesmente apaixonada por esse rosa, muito delicado e elegante. Pensando em decoração ele pode ser encontrado em moveis, paredes, objetos, roupa de cama, mesa e banho dando um ar muito charmoso ao ambiente. Selecionei 8 fotos pra vocês se inspirarem e deixar a casa mais bonita e na moda. O rosa quartzo fica lindo com cinza, ele quebra um pouco o lado romântico do rosa e dá um toque de modernidade e ao ambiente. Pra quem quer usar a cor sem fazer grandes mudanças no ambiente o melhor é investir em roupa de cama, mesa e banho. Outra boa ideia pra usar o rosa quartzo na decoração do quarto é investir em uma bela cabeceira, fica super romântico. Que coisa mais delicada esse home &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/03/rosa-quartzo-com-cinza-decor.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
 Todo mundo já sabe que o rosa quartzo é a cor de 2016. E eu estou simplesmente apaixonada por esse rosa, muito delicado e elegante.

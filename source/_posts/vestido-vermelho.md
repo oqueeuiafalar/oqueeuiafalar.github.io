@@ -9,6 +9,13 @@ id: '5678'
 categories:
   - - Moda
 date: 2018-06-10 10:53:17
+# <extra>
+description: 'Quer aprender como usar vestido vermelho e sair por aí arrasando com looks super lindos? Então confira nossas dicas e se inspire.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/06/look-vestido-vermelho-princesa.jpg'
+  width: '573'
+  height: '573'
+# </extra>
 ---
 
 O vermelho é uma cor vibrante e muito marcante e tem pessoas que amam usar e outras que passam bem longe, mas se você é    do time das    que adoram    toda a elegância e o toque sensual que apenas o vermelho pode proporcionar, você não pode perder esse post com inspirações e dicas de look com vestido vermelho. ![look com vestido vermelho midi com sapato scarpin vermelho](/wp-content/uploads/2018/06/look-vestido-vermelho-midi-com-sapato-vermelho.jpg "look com vestido vermelho midi com sapato scarpin vermelho")

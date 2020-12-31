@@ -5,6 +5,13 @@ id: '2580'
 categories:
   - - Músicas
 date: 2015-06-29 15:56:00
+# <extra>
+description: 'A Bruna Vieira criou essa tag muito legal  que eu não resisti e acabei fazendo também. Lembro da minha adolescência, que eu passava horas assistindo clipes na MTV ou esperava ansiosa pelo Clipmania que passava na Band. Por isso vou mostrar pra vocês apenas dez dos meus clipes prediletos, porque claro que essa lista é muito mais longa. Ed Sheeran &#8211; Don&#8217;t Essa música do Ed Sheeran tem tocado muito nas rádios, então provavelmente você já tenha ouvido, mas não tem uma única vez que eu assista esse clipe que eu não sinto vontade de sair dançando e tentar imitar, nem que seja só um pouco, os passos do dançarino fantástico que aparece no clipe. Nickelback &#8211; Rockstar Esse clipe esta entre meus favoritos do Nickelback, e ele tem muitas celebridades como Nelly Furtado, Kid Rock e várias outras, dê &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/06/post_clipes.png'
+  width: null
+  height: null
+# </extra>
 ---
 
 [![post_clipes](/wp-content/uploads/2015/06/post_clipes.png)](/wp-content/uploads/2015/06/post_clipes.png) A **[Bruna Vieira](http://www.depoisdosquinze.com/)** criou essa tag muito legal  que eu não resisti e acabei fazendo também. Lembro da minha adolescência, que eu passava horas assistindo clipes na MTV ou esperava ansiosa pelo Clipmania que passava na Band. Por isso vou mostrar pra vocês apenas dez dos meus clipes prediletos, porque claro que essa lista é muito mais longa.

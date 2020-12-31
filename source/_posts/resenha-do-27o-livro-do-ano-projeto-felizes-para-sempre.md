@@ -5,6 +5,13 @@ id: '1673'
 categories:
   - - Livros
 date: 2014-10-13 18:25:43
+# <extra>
+description: '“Projeto Felizes para Sempre” é um livro da jornalista e escritora Alisa Bowman onde ela conta como percebeu que seu casamento estava fracassando e todo o processo para salva-lo. &nbsp; Alisa é uma mulher comum, com todas as neuras e excessos que toda mulher tem e que estava tão carente e insatisfeita no casamento que ela começou a planejar mentalmente o funeral de seu próprio marido, pois ela não conseguia aceitar a idéia de pedir o divorcio, então mentalmente ela criava situações para se livrar dele sem que precisasse se divorciar. Até que em um dia, conversando com uma amiga, ela decide que vai tentar salvar seu casamento, e aí começa uma saga por livros de auto ajuda, pesquisas na internet, questionários e testes que ela pede para que Mark, seu marido, a ajude a resolver. O livro começa contando &hellip;'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03222.jpg'
+  width: null
+  height: null
+# </extra>
 ---
 
  [![Capa do livro Projeto Felizes para Sempre](/wp-content/uploads/2014/10/DSC03222.jpg)](/wp-content/uploads/2014/10/DSC03222.jpg) “Projeto Felizes para Sempre” é um livro da jornalista e escritora Alisa Bowman onde ela conta como percebeu que seu casamento estava fracassando e todo o processo para salva-lo.   Alisa é uma mulher comum, com todas as neuras e excessos que toda mulher tem e que estava tão carente e insatisfeita no casamento que ela começou a planejar mentalmente o funeral de seu próprio marido, pois ela não conseguia aceitar a idéia de pedir o divorcio, então mentalmente ela criava situações para se livrar dele sem que precisasse se divorciar. [![páginas do livro Projeto felizes para sempre de Alisa Bowman ](/wp-content/uploads/2014/10/DSC03225.jpg)](/wp-content/uploads/2014/10/DSC03225.jpg) Até que em um dia, conversando com uma amiga, ela decide que vai tentar salvar seu casamento, e aí começa uma saga por livros de auto ajuda, pesquisas na internet, questionários e testes que ela pede para que Mark, seu marido, a ajude a resolver. O livro começa contando sua história antes mesmo de conhecer Mark, contando sobre sua vida profissional e alguns relacionamentos anteriores, mas confesso que ele fica de fato divertido quando ela conhece Mark. [![Lombada do livro Projeto Felizes para Sempre de Alisa Bowman](/wp-content/uploads/2014/10/DSC03223.jpg)](/wp-content/uploads/2014/10/DSC03223.jpg) Um trecho que gostei bastante é quando Alisa encontra uma agenda de Mark da época em que eles se conheceram  e demora a encontrar alguma citação do Mark em que ele a chame de incrível rs:

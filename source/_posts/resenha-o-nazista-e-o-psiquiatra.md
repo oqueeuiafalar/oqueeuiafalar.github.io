@@ -10,6 +10,13 @@ id: '4449'
 categories:
   - - Livros
 date: 2017-01-16 14:26:38
+# <extra>
+description: '“O nazista e o psiquiatra” é um livro rico em detalhes e em material, é cheio de anotações de Kelley, dos guardas, cartas dos presos, artigos de jornais, mas nem por isso ele deixa de ser bem maçante, às vezes parece que o autor esta dando voltas, mas ai de repente o julgamento já esta começando e tudo volta a ficar mais interessante, porém, após o julgamento volta a ficar maçante, mas nem por isso menos interessante.'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/01/capa-livro-o-nazista-e-o-psiquiatra.jpg'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![Resenha - O nazista e o psiquiatra ](/wp-content/uploads/2017/01/capa-livro-o-nazista-e-o-psiquiatra.jpg) Geralmente as minhas [**resenhas aqui no blog**](http://natalia.blog.br/resenhas-livros/) são de livros de romance, ficção, suspense, mas o livro “**O nazista e o psiquiatra**” vai totalmente na contra mão disso, pois, é um **livro de história** que para os amantes do estilo, é leitura essencial. Tudo começa quando o **grupo dos Aliados** **ganha a 2ª Guerra Mundial** e consegue capturar alguns dos maiores **líderes nazistas** e os leva para **Nuremberg**, onde eles devem ficar encarcerados enquanto aguardam julgamento. Falando um pouco sobre **Nuremberg**, muitos dos presos reclamam que o local é precário e que eles são maltratados, mas durante essa narrativa tudo o que me passava na cabeça era: eles tinham comida, médicos, certo conforto e estavam esperando um julgamento, muito ao contrário do que os judeus encontravam ao serem capturados por esses mesmos homens e serem jogados em **campos de concentração**. Mas claro esses homens tinham uma vida cheias de regalias ante de entrar em Nuremberg, era de se esperar que reclamassem de qualquer coisa mesmo. ![livro - o nazista e o psiquiatra - resumo](/wp-content/uploads/2017/01/páginas-livro-o-nazista-e-o-psiquiatra.jpg) No decorrer do livro conhecemos **Douglas McGlashan Kelley**, um jovem psiquiatra norte americano que é designado pelo exército para acompanhar os lideres nazistas durante o período que esperam pelo julgamento. Kelley quer descobrir se há algum traço na personalidade daqueles homens que os fizeram cometerem **crimes tão bárbaros**.

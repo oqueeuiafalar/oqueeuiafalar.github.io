@@ -18,6 +18,9 @@ Pages (manually create links):
   <p>
     index: <%= index %> &emsp;
     title: <%= post.title %> &emsp;
+    <% if(post.featured_image.url !== null) { %>
+        <img src="<%= post.featured_image.url %>">
+    <% } //endif %>
     link: <a href="<%= url_for(post.path) %>"><%= post.path %></a>
   </p>
 <% }) %>

@@ -10,6 +10,13 @@ id: '4222'
 categories:
   - - Filmes
 date: 2016-10-28 12:34:34
+# <extra>
+description: 'O Halloween está chegando e caso você não vá sair por aí pedindo “ doces ou travessuras ” e nem tenha alguma festa aterrorizante para ir, que tal fazer uma'
+featured_image: 
+  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/giphy.gif'
+  width: '828'
+  height: '828'
+# </extra>
 ---
 
 ![happy halloween](/wp-content/uploads/2016/10/giphy.gif) Oi gente, tudo bem? O **Halloween** está chegando e caso você não vá sair por aí pedindo “**doces ou travessuras**” e nem tenha alguma festa aterrorizante para ir (pena não ser tradição no Brasil essa festa) que tal fazer uma **sessão pipoca** e chamar a família e os amigos para curtir? Eu morro de medo de **filmes de terror**, então não foi a coisa mais fácil do mundo fazer essa lista haha, mas eu adoro suspense, então bora lá escolher um filme e começar os sustos:
