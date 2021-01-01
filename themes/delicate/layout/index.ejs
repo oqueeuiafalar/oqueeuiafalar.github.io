@@ -3,22 +3,10 @@
         <%- include('../source/components/post-box', {post: post}) %>
     <% }) %>
 
-    <div class="paginator">
-        Paginação:  <%- paginator({
-            prev_text: '[anterior]',
-            next_text: '[próxima]',
-        }) %>
-    </div>
+    <%- include('../source/components/paginator') %>
 
 </main>
 <aside class="page__sidebar">
     <section class="page__sidebar__section">
-        <details>
-            <summary>Arquivo</summary>
-            <%- list_archives() %>
-        </details>
     </section>
 </aside>
-<!--
-    <%- tagcloud() %>
--->

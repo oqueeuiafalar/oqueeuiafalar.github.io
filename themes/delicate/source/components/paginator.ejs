@@ -1,0 +1,58 @@
+<div class="paginator">
+    <%- replaceClasses({
+        "page-number": "paginator__number",
+        "page-number current": "paginator__number--current",
+        "space": "paginator__number--space",
+        "extend prev": "paginator__text",
+        "extend next" :"paginator__text"
+    }, paginator({
+        prev_text: 'Anterior',
+        next_text: 'Próxima'
+    })) %>
+</div>
+<style>
+.paginator {
+    margin-left: 16px;
+    padding-left: 8px;
+    font-family: sans-serif;
+    font-size: 1em;
+    margin: 16px 0;
+}
+
+.paginator__number--current {
+    color: #666;
+    text-decoration: none;
+    padding: 8px;
+    margin: 0 8px;
+    font-weight: 400;
+}
+
+.paginator__number {
+    color: #333;
+    text-decoration: none;
+    padding: 8px 16px;
+    background-color: hsl(0deg 0% 95%);
+    margin: 0 4px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.paginator__text {
+    text-transform: uppercase;
+    color: #333;
+    text-decoration: none;
+    padding: 8px 16px;
+    margin: 0 4px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.paginator__number--space {
+    color: #333;
+    text-decoration: none;
+    padding: 8px 16px;
+    margin: 0 4px;
+    display: inline-block;
+    font-weight: 100;
+}
+</style>

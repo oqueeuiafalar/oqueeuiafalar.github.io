@@ -8,12 +8,14 @@
         >
     <% } //endif %>
     <div class="post-box__categories">
-        <%- list_categories(post.categories, {
+        <%- replaceClasses({
+            "post-box__categories-link": "post-box__categories__link"
+        }, list_categories(post.categories, {
           show_count: false,
           style: false,
           class: "post-box__categories",
           separator: ""
-        }).replace(/post-box__categories-link/g, "post-box__categories__link") %>
+        })) %>
     </div>
     <h2 class="post-box__title">
         <a href="<%= url_for(post.path) %>" class="post-box__title__link">

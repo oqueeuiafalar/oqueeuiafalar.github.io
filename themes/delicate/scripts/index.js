@@ -9,3 +9,12 @@ hexo.extend.filter.register('after_post_render', function(data) {
     data.content = prependSiteUrlToImageSrc(data.content, config);
     return data;
 });
+
+hexo.extend.helper.register("replaceClasses", function(classesMap, data) {
+    return Object.keys(classesMap).reduce(function(replaceData, key) {
+        const pattern = new RegExp(`(class=["'])${key}?(["'])`, "gi");
+        replaceData = replaceData.replace(pattern, `$1${classesMap[key]}$2`);
+        return replaceData;
+    }, data);
+    // return data.split("").reverse().join("");
+});
