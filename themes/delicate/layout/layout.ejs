@@ -8,8 +8,9 @@
     </title>
 </head>
 
-<body>
-    <header></header>
+<body class="page">
+    <header class="page__header">
+    </header>
 
     <%- body -%>
     <script type="text/javascript">
@@ -38,5 +39,26 @@
            }))
        %>
     </script>
+<style>
+.page {
+    display: grid;
+    grid-template-areas: ". header header ." ". main sidebar .";
+    grid-template-columns: 1fr minmax(500px, 900px) minmax(268px, 300px) 1fr;
+}
+.page__main {
+    grid-area: main;
+}
+.page__header {
+    grid-area: header;
+}
+.page__sidebar {
+    grid-area: sidebar;
+}
+.page__sidebar__section {
+    position: sticky;
+    top: 8px;
+}
+
+</style>
 </body>
 </html>
