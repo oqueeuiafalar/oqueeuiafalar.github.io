@@ -1,0 +1,21 @@
+<% const widgets = getWidgetsFromConfig(); %>
+<% widgets.forEach(widget => { %>
+    <%- include(`../widgets/${widget.template}`, {widget}) %>
+<% }) %>
+
+<style>
+.widget__text {
+    color: hsl(0deg 0% 10%);
+    font-size: .8em;
+    text-align: center;
+    margin-top: 16px;
+}
+.widget__separator {
+    display: block;
+    height: 2px;
+    background-color: #f06;
+    margin: 16px auto;
+    border: none;
+    width: 50px;
+}
+</style>

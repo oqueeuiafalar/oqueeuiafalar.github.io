@@ -27,7 +27,7 @@ source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
-category_dir: categorias
+category_dir: categoria
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -40,7 +40,7 @@ external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
   exclude: ''
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: false
 relative_link: false
@@ -118,8 +118,6 @@ delicate:
   widgets:
     - name: "profile"
       image:
-        url: "https://instagram.fcgh7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/58453990_823106028065635_5715083487799672832_n.jpg?_nc_ht=instagram.fcgh7-1.fna.fbcdn.net&amp;_nc_ohc=Vvhp6F3FTw0AX8xZgge&amp;tp=1&amp;oh=2de9541495e0060bcdcc39fa77adb976&amp;oe=601847CB"
+        url: "/images/foto-natalia.jpg"
       text: Olá, me chamo Natalia Santos sou analista de conteúdo apaixonada por Moda, Livros e Cultura Pop. Aqui no "O que eu ia falar?" eu compartilho um poucos dessas minhas paixões.
-    - name: "publi"
-      text: "Anuncie"
 

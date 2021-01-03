@@ -23,3 +23,14 @@ hexo.extend.helper.register("getWidgetByName", function(widgetName) {
     const widgets = config.delicate.widgets;
     return widgets.find(widget => widget.name === widgetName || {});
 });
+
+hexo.extend.helper.register("getWidgetsFromConfig", function(){
+    const { config } = this;
+
+    const configs = require("../source/widgets/configs");
+
+    return config.delicate.widgets.map(widget => {
+        widget.template = configs[widget.name].template;
+        return widget;
+    });
+});

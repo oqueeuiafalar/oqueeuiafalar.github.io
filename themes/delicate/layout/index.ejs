@@ -7,26 +7,5 @@
 
 </main>
 <aside class="page__sidebar">
-    <% const profile = getWidgetByName('profile'); %>
-    <section class="widget--profile">
-        <img src="<%- profile.image.url %>" class="widget--profile__image">
-        <hr class="widget__separator">
-        <p class="widget__text"><%- profile.text %></p>
-    </section>
+    <%- include('../source/components/widgets') %>
 </aside>
-<style>
-.widget__text {
-    color: hsl(0deg 0% 10%);
-    font-size: .8em;
-    text-align: center;
-    margin-top: 16px;
-}
-.widget__separator {
-    display: block;
-    height: 2px;
-    background-color: #f06;
-    margin: 16px auto;
-    border: none;
-    width: 50px;
-}
-</style>
