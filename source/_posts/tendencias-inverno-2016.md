@@ -8,7 +8,7 @@ date: 2016-02-27 18:49:08
 # <extra>
 description: 'Sei que o verão ainda está bombando, mas como sou apaixonada pelo inverno minha cabeça já esta pensando nos looks lá da frente hehe. Listras, franjas, jaquetas &#8230; vocês precisam ver o que vai entrar nos nossos guarda roupas daqui alguns meses e por isso selecionei alguns itens que vão estar em alta durante o inverno pra gente já começar a pensar nos futuros looks, porque nós adoramos, né haha. All black Essa é a tendência que nunca sai de moda, rs, e é a minha preferida. Looks all black são essenciais no inverno, mas como vocês podem ver nas fotos no inverno 2016 eles vêem com detalhes estratégicos como decotes e vazados que os deixam sexy, mas sem ser vulgar. Listras As listras são super versáteis e fáceis de combinar e fazer mix de estampas (adoro com poás), com &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/02/all-black-ratier-681x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/02/all-black-ratier-681x1024.jpg'
   width: null
   height: null
 # </extra>

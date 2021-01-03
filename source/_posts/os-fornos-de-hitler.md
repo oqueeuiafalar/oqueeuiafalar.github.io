@@ -15,7 +15,7 @@ date: 2018-10-31 19:40:58
 # <extra>
 description: 'Não é de hoje que eu me interesso bastante sobre a 2ª Guerra Mundial e sobre o nazismo, por isso, eu tenho o hábito de sempre pegar algum livro para ler sobre esse assunto, recentemente eu terminei a leitura do livro  Os Fornos de Hitler  e mesmo eu já tendo lido vários outros com relatos de sobreviventes dos campos de concentração, por exemplo  O Tatuador de Auschwitz,  Os Fornos de Hitler  provavelmente foi um dos que mais me tocou. Olga Lengyel escreveu esse livro como quem está escrevendo um diário com os mais detalhes acontecimentos de seu dia a dia, mas o dia a dia de Olga Lengyel se passavam no campo de Auschwitz Birkenau, um dos mais famosos e temidos campos de concentração e de extermino no período nazista. Olga começa nos contando como foi parar nos campos de concentração, e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/10/livro-os-fornos-de-hitler.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/10/livro-os-fornos-de-hitler.jpg'
   width: '1000'
   height: '1000'
 # </extra>

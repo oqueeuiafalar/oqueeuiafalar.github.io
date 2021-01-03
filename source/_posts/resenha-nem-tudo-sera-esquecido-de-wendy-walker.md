@@ -11,7 +11,7 @@ date: 2016-12-08 08:20:46
 # <extra>
 description: 'Jenny Kramer é uma adolescente que esta super ansiosa pela festa de uns amigos do colégio, mas chegando lá ela se decepciona porque o garoto que ela estava afim vai com outra menina, então Jenny resolve encher a cara e ela acaba sendo estuprada! Os pais de Jenny, Tom e Charlotte, quando descobre o que aconteceu a filha, ficam desolados, porém, Charlotte é sempre mais prática e tenta ser sempre durona e resolve aceitar que a filha passe por um procedimento com drogas que apagaram as memórias daquela noite, pensando assim que a filha irá se recuperar mais rápido daquele trauma e conseguirá seguir sua vida. Tom, o pai de Jenny é bem diferente da mãe. Ao conhecer esse personagem o considerei um pouco fraco, mas isso porque a mãe era quem tomava todas as rédeas da família. Ao contrário &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/11/resenha-nem-tudo-será-esquecido.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/resenha-nem-tudo-será-esquecido.jpg'
   width: '828'
   height: '828'
 # </extra>

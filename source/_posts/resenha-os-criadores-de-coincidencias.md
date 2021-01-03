@@ -12,7 +12,7 @@ date: 2018-01-02 08:18:47
 # <extra>
 description: 'Os criadores de coincidências é um livro do escritor israelense Yoav Blum e que não atoa entrou para a lista dos mais vendidos em Israel. Guy, Emilly e Eric são amigos que se conheceram durante o curso para se tornarem criadores de coincidências. Um curso tão minucioso que visa ensinar técnicas que envolvem física, matemática e a mente humana para que eles consigam realizar seu trabalho com o máximo de precisão. Mas agora você deve estar se perguntando o que um criador de coincidências faz, certo? Os criadores de coincidências fazem alguns ajustes em acontecimentos de nossa vida, sem interferir no livre-arbítrio, e eles podem mexer desde em um relacionamento que teremos no futuro, fazer aflorar um grande artista que estava escondido dentro de alguém ou até mesmo conseguir destruir uma rede de mafiosos. Guy adora trabalhar em coincidências românticas, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/12/resenha-livro-os-criadores-de-coincidências.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/12/resenha-livro-os-criadores-de-coincidências.jpg'
   width: '4000'
   height: '4000'
 # </extra>

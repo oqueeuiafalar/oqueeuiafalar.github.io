@@ -8,7 +8,7 @@ date: 2015-10-22 11:07:51
 # <extra>
 description: 'Já fazia um bom tempo que eu estava pensando em ler “Para todos os garotos que já amei”, mas não sei porque fiquei adiando. O livro é narrado pela Lara Jean, a irmã do meio de três irmãs que foram criadas pelo pai, porque a mãe morreu quando elas ainda eram muito pequenas. As três irmãs, Lara Jean, Kitty e Margot são bem unidas e sempre cuidam uma da outra e do pai também, que trabalha muito. Margot é a irmã mais velha e ela toma conta de tudo na casa, até que chega a hora de ela ir para a faculdade na Escócia e Lara Jean acaba ficando bastante apreensiva, porque além dela ser bem próxima da irmã agora todas as responsabilidades da casa vão ficar pra ela. E ela começa a pensar em como vai fazer para levar &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/10/Para-todos-os-garotos-que-já-amei-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/Para-todos-os-garotos-que-já-amei-1024x768.jpg'
   width: null
   height: null
 # </extra>

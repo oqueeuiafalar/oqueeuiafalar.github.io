@@ -12,7 +12,7 @@ date: 2016-12-01 08:22:48
 # <extra>
 description: 'Um dos motivos para eu gostar tanto das estampas listradas, é porque elas são super fáceis de fazer mix de estampas. Nesse look como vocês podem ver, escolh'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/11/como-usar-tênis-branco-com-vestido.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/como-usar-tênis-branco-com-vestido.jpg'
   width: '828'
   height: '828'
 # </extra>

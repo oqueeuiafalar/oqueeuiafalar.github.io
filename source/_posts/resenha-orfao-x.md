@@ -13,7 +13,7 @@ date: 2016-09-08 08:36:02
 # <extra>
 description: 'Eu já me apaixonei por vários livros que li, já li e reli várias vezes alguns livros de tanto que gosto deles, mas nenhum livro até hoje tinha me deixado com a sensação de querer esquecer aquela história só pra poder pega-lo novamente e sentir toda aquela vibração e mistura de emoções que “Órfão X” me proporcionou. Evan Smoak, também conhecido como “Homem de Lugar Nenhum” quando ainda morava em um orfanato aos doze anos foi recrutado para ser treinado pelo governo norte americano para fazer parte de um programa chamado Órfão, assim Evan se tornou o Órfão X. Evan se transformou em um dos melhores agentes secretos do governo, extremamente bem treinado, ele sempre está um passo à frente de seus inimigos. “Você precisa de minha ajuda?” é assim que Evan sempre atende suas ligações, após o programa Órfão &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/09/resumo-Órfão-X.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/resumo-Órfão-X.jpg'
   width: '828'
   height: '828'
 # </extra>

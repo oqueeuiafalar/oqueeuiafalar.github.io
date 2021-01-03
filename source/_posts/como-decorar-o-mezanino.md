@@ -10,7 +10,7 @@ date: 2017-04-20 08:57:03
 # <extra>
 description: 'Gente, como vocês já sabem eu fui passar as férias na Argentina e eu e o José resolvemos nos hospedar pelo Airbnb e no apartamento tinha um mezanino absurdamente confortável que dava vontade de passar horas lá jogada na cama dormindo &#8211; apesar dele ser um pouquinho barulhento &#8211; haha. Para quem não sabe, mezanino é um ambiente que algumas casas têm &#8211; geralmente em casas com o pé direito duplo &#8211; que fica entre o térreo e o primeiro andar, como um ambiente intermediário se é que podemos chamar assim, rs. Mas claro, eu fiquei olhando aquele mezanino e pensando que se um dia eu morar em um lugar que tenha mezanino eu vou querer fazer algo bem legal, moderno, aconchegante e lindo naquele lugar, rs. Mezaninos são ótimos para aumentar o ambiente, podendo se transformar em um novo &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/03/decoração-de-mezanino.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/03/decoração-de-mezanino.jpg'
   width: '828'
   height: '828'
 # </extra>

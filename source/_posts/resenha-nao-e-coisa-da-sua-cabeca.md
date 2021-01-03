@@ -10,7 +10,7 @@ date: 2016-03-21 19:55:47
 # <extra>
 description: 'Me interessei pelo tema dos transtornos emocionais após perceber o quanto o tema ainda representa um tabu dentro da sociedade e os portadores de transtornos emocionais ainda são vítimas de preconceitos como se não sofressem de uma doença que limita sua plena atividade mas tivessem apenas frescura, fraqueza ou falta de caráter. O livro &#8220;Não é coisa da sua cabeça&#8221; se propõe a desfazer esses preconceitos, e oferecer uma análise de alguns transtornos como ansiedade, depressão, bipolaridade, abusos de drogas, esquizofrenia e alzheimer através da experiência de 16 pessoas que passaram por tais transtornos e 30 especialistas brasileiros em saúde mental. &#8220;Não é coisa da sua cabeça&#8221; é de autoria de José Alberto de Camargo, administrador e Naiara Magalhães jornalista e é muito bem escrito, alternando entre relatos de pessoas que passaram por transtornos, entrevistas com especialistas, números atualizados sobre &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/03/livro-nao-e-coisa-da-sua-cabeca-resenha-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/03/livro-nao-e-coisa-da-sua-cabeca-resenha-1024x768.jpg'
   width: null
   height: null
 # </extra>

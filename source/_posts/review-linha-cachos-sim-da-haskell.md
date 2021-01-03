@@ -12,7 +12,7 @@ date: 2016-11-14 12:09:21
 # <extra>
 description: 'Quem foi à Beauty Fair esse ano sabe bem que foi o ano das cacheadas, né? Mas todo mundo sabe também que o mercado para as cacheadas é bem escasso, porém, durante a feira a Haskell Cosmética Natural apresentou uma linha nova toda voltada para os cabelos cacheados a Linha Cachos Sim! A Linha Cachos Sim! possui em sua fórmula óleo de coco e colágeno, produtos muito importantes para a estrutura dos cabelos cacheados, e é liberada para low poo pois é livre de parabenos, petrolatos e sulfatos. O óleo de coco possui muita vitamina E, ele nutri e deixa os cachos mais soltos além de ser um excelente antioxidante. O colágeno dá mais elasticidade aos fios, além de hidratar e prevenir a quebra dos fios. No presskit que eu recebi da Haskell durante a Beauty Fair veio um shampoo, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/11/cachos-sim-haskell.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/cachos-sim-haskell.jpg'
   width: '828'
   height: '828'
 # </extra>

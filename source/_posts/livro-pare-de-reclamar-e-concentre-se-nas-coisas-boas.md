@@ -8,7 +8,7 @@ date: 2016-02-24 13:37:28
 # <extra>
 description: '&#8220;Pare de reclamar e concentre-se nas coisas boas&#8221;, é um daqueles livros que deixa a sessão de auto ajuda da livraria mais interessante. O livro conta de maneira informal e despretensiosa o nascimento e desenvolvimento do projeto A Complaint Free World&#8221; (Um mundo sem reclamações) sob a perspectiva do autor Will Bowen, pastor e criador do projeto. O projeto sustenta-se por trás de uma ideia simples e poderosa de que uma vida melhor e mais leve pode começar com um comprometimento de ficarmos 21 dias sem reclamar. Nas palavras do autor: &#8220;Menos dor, mais serenidade e alegria&#8230; Que tal? Não é apenas possível. É provável. Lutar conscientemente para reformatar seu disco rígido mental não é uma coisa fácil, mas você pode começar agora e em pouco tempo é provável que tenha uma vida muito melhor.&#8221; Essa ideia tem inspirado muitas &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/02/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/02/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa.jpg'
   width: null
   height: null
 # </extra>

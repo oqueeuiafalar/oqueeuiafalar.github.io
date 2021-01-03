@@ -11,7 +11,7 @@ date: 2017-03-06 10:57:58
 # <extra>
 description: 'Se tem uma peça de roupa que eu amo, são os shorts, são peças super práticas e confortáveis, é muito fácil montar diversos looks e basta um blazer pra ficar'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/02/como-usar-shorts-colorido-look.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/02/como-usar-shorts-colorido-look.jpg'
   width: '828'
   height: '828'
 # </extra>

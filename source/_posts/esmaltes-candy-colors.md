@@ -12,7 +12,7 @@ date: 2020-01-14 20:30:18
 # <extra>
 description: 'Você conhece os esmaltes candy colors? Eles estão super em alta e garantem uma nail art delicada e divertida para sua esmaltação perfeita.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2020/01/unhas-candy-colors-coloridas-Foto-Unhas-Amei.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2020/01/unhas-candy-colors-coloridas-Foto-Unhas-Amei.jpg'
   width: '800'
   height: '800'
 # </extra>

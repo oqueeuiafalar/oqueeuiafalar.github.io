@@ -8,7 +8,7 @@ date: 2014-09-25 21:35:20
 # <extra>
 description: 'O filme “Clube de Compras Dallas” conta a história real de Ron Woodroof (interpretado por Matthew Mcconaughey) que na década de 1980 se descobre portador do vírus HIV. Ele um caubói eletricista, que leva uma vida regada a sexo, bebidas e drogas sofre um acidente de trabalho e é levado ao hospital e lá se descobre portador do vírus após uma série de exames de sangue. Woodroof um machão homofóbico fica transtornado ao saber da doença e não acredita que aquilo possa ter acontecido com ele, porque em sua mente, isso era algo que não acontecia a pessoas heterossexuais, mas o médico dá uma estimativa de 30 dias de vida para ele e com isso ele começa a lutar para poder viver, comprando ilegalmente AZT um medicamento que estava em fase de testes nos pacientes. Mas Woodroof percebe que não &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/09/dallas-02.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/dallas-02.jpg'
   width: null
   height: null
 # </extra>

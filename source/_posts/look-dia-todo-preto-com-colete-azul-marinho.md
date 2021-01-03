@@ -13,7 +13,7 @@ date: 2017-11-09 07:48:18
 # <extra>
 description: 'Oie gente, tudo bem? Se tem uma peça que eu ando bem apaixonada são os coletes. Tenho vontade de ter vários haha. Eles entram no look como uma terceira peça e são excelentes para afinar a silhueta. Esse que estou usando infelizmente não serve para dias muito quentes, porque ele é de um tecido um pouco grosso. Mas para usar no inverno, ou nos dias frescos ou mesmo nas noites de verão, ele é ótimo. Diferente de um outro colete estilo parka que eu tenho, esse é mais acinturado, deixando assim o corpo com mais curvas haha. Apesar de eu ter escolhido um look todo preto pra usar, o colete é azul marinho, o que dá pra combinar com várias cores, com um look cinza ficaria com certeza lindo. Fazia um tempão que eu estava louca por uma calça como essa, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/09/look-com-colete-azul.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/look-com-colete-azul.jpg'
   width: '828'
   height: '828'
 # </extra>

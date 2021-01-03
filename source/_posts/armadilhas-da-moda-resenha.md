@@ -14,7 +14,7 @@ date: 2018-02-01 07:39:01
 # <extra>
 description: 'As armadilhas da moda tem uma narrativa leve e muito informativa. Contém muitas imagens que servem de inspiração para montar looks e muitas dicas de moda.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/01/capa-livro-as-armadilhas-da-moda-de-arlindo-grund.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/capa-livro-as-armadilhas-da-moda-de-arlindo-grund.jpg'
   width: '828'
   height: '828'
 # </extra>

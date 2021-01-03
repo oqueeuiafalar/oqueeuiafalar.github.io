@@ -12,7 +12,7 @@ date: 2018-11-20 14:08:14
 # <extra>
 description: 'O livro As Horas Vermelhas é um romance distópico &#8211; apesar de achar que ele não deveria ser intitulado dessa forma &#8211; que conta a história de quatro mulheres que vivem sobre um mundo cercado de regras para as mulheres, o que por si já não é uma grande novidade. A Esposa,  a Filha, a Biografa e a Reparadora, essas são as quatro mulheres que nós vamos embarcar por dentro de suas vidas, onde o livro vai narrando de forma intercalada o mundo conservador onde tudo se passa. De todas as mulheres, a principal de todo o livro é a Biografa Roberta. Ela tem quarenta e dois anos, é solteira, professora de história e que sonha em ser mãe. Ah, outro grande sonho de Roberta é escrever a biografia de uma exploradora das ilhas de Faroés. Roberta é professora de Matilda, a Filha. &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/11/lombada-do-livro-as-horas-vermelhas.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/lombada-do-livro-as-horas-vermelhas.jpg'
   width: '1000'
   height: '1000'
 # </extra>

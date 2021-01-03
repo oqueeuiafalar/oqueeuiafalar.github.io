@@ -8,7 +8,7 @@ date: 2014-09-29 21:40:52
 # <extra>
 description: 'O primeiro motivo que me fez ter vontade de ler “Como vejo o mundo” é porque ele é escrito por ninguém menos de Albert Einstein. O livro mostra o ponto de vista de Einstein sobre diversos temas como sociedade, o indivíduo, a religião, serviço militar e por ai vai. Engana-se quem pensa que é um livro fácil de ler, porque não é às vezes se tornando até um pouco cansativo, porém a forma clara e admirável com que ele escreve, faz tudo ficar muito interessante. E uma das opiniões de Einstein é que a sociedade vivia em um mundo com câncer chamado Guerra, tornando a  sociedade doentia onde tudo era nocivo, tanto para os homens quanto para o planeta, Einstein no entanto acreditava que as coisas poderiam melhorar e que tudo isso poderia ser um dia revertido. Einstein também conta &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/09/DSC03205.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/DSC03205.jpg'
   width: null
   height: null
 # </extra>

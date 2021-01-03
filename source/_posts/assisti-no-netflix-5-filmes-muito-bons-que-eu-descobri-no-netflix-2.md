@@ -8,7 +8,7 @@ date: 2015-08-17 14:56:11
 # <extra>
 description: 'Não posso ser considerada velha por dizer que sou da geração que espera a sexta feira chegar para ir a locadora alugar lançamentos e só entregá-los na segunda-feira, não é mesmo? Afinal de contas não faz tanto tempo assim que as locadoras perderam espaço para os aplicativos de download de vídeos e mais recentemente para os serviços de streaming de filmes como o Netflix. Como sou apaixonada por internet e cinema não pude deixar de aderir ao Netflix, que aliás, tem se tornado um hype entre algumas pessoas que conheço. Nessa lista separei alguns filmes de excelente qualidade e que acabei conhecendo apenas graças ao Netfix, talvez porque esses filmes não tivesse propaganda suficiente ou por que eu não estava assim tão antenada rs. Vamos à lista! 5 &#8211; Paris-Manhattan (resenha no Netflix) Paris Manhattan parte de uma história inusitada, Alice é &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/08/ParisManhattan.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/ParisManhattan.jpg'
   width: null
   height: null
 # </extra>

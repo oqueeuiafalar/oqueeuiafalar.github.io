@@ -16,7 +16,7 @@ date: 2017-07-04 09:11:44
 # <extra>
 description: 'O livro “Garota em pedaços” é  aquele que vai te deixar arrasada em alguns momentos, mas vale cada linha, O livro é divido em três partes e a protagonista chama-se Charlotte Davis, mais conhecida como Charlie, uma garota de 17 anos que já passou por muitos baixos – sem os altos – na vida. Quando mais nova Charlie perdeu o pai e sua mãe começou a descontar nela toda a dor e amargura que carregava dentro dela, porém, Charlie nunca se abria com ninguém, pois, no colégio ela não tinha muitos amigos e tinha a solidão como sua fiel companheira, até que chega Ellis, uma aluna nova no colégio e ai finalmente Charlie ganha uma melhor amiga. O livro começa no hospital psiquiátrico para jovens chamado Creeley Center. Charlie esta lá há seis meses e não fala uma palavra. Antes de &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-do-livro-garota-em-pedaços.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-do-livro-garota-em-pedaços.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -8,7 +8,7 @@ date: 2014-05-30 15:05:51
 # <extra>
 description: 'O livro “A Insustentável Leveza do Ser” é um romance de Milan Kundera e se passa por várias décadas, e tem como cenário principal a cidade de Praga durante a chamada “Primavera de Praga”, época em que a Tchecoslováquia era dominada pela União Soviética. A história acontece em torno de quatro personagens principais: Tomas,  Tereza, Sabina e Franz. Tomas é um jovem médico e cirurgião que vive cheio de aventuras amorosas, incluindo Sabina. Em uma de suas aventuras amorosas conhece Tereza com quem não faz amor logo de cara. Mesmo assim Tomas deixa para Tereza seu endereço em Praga caso a moça decida visitá-lo algum dia.  Tereza inesperadamente visita Tomaz e fica para sempre em sua vida, trazendo grandes mudanças para ambos. Tereza é uma jovem garçonete que vive no interior e que foi criada pela mãe em um ambiente &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02854.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02854.jpg?w=650'
   width: null
   height: null
 # </extra>

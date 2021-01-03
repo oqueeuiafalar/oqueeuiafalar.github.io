@@ -8,7 +8,7 @@ date: 2014-12-08 20:32:15
 # <extra>
 description: 'Que tal aprender a fazer um pão de forma bem fácil e muito saboroso? Essa receita minha mãe aprendeu em algum programa de televisão, que eu não sei o qual é, porém, esse  pão tem quase todo final de semana em casa, e como diria minha mãe: não dá nem pro cheiro, haha. É uma receita fácil, rápida e que dá um pão muito gostoso, tenho certeza que vocês vão gostar. Vamos lá anotar a receita! Ingredientes: 3 xícaras de chá de farinha de trigo 1 xícara de chá de leite 2 ovos 2 tabletes de fermento para pão 1/2 xícara de chá de óleo 3 colheres de sopa de açúcar 1 colher de café de sal No liquidificador coloque o leite morno, o óleo, o fermento e os ovos. Bata até obter uma mistura homogênea+ Acrescente o sal e o açúcar e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/12/DSC03375.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/12/DSC03375.jpg'
   width: null
   height: null
 # </extra>

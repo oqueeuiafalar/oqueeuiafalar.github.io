@@ -15,7 +15,7 @@ date: 2017-12-04 14:33:38
 # <extra>
 description: 'quem gosta de acompanhar a vida dos famosos da internet, A vida sem filtros mostra como eles são gente como a gente, pelo menos a Nah Cardoso'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/11/resenha-livro-a-vida-sem-filtros-de-nah-cardoso.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/11/resenha-livro-a-vida-sem-filtros-de-nah-cardoso.jpg'
   width: '828'
   height: '828'
 # </extra>

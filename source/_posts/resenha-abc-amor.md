@@ -18,7 +18,7 @@ date: 2017-11-06 08:19:49
 # <extra>
 description: 'O livro ABC do amor conseguiu reunir três das mais consagradas autoras de romances atualmente que são, A. C. Meyer; Brittainy C. Cherry e Camila Moreira. Quando se trata de amor, essas autoras sabem como ninguém mexer com nossos sentimentos. No livro encontramos três histórias diferentes, mas claro que todas falam de amor e outro aspecto que as autoras também abordam são encontros e desencontros na vida dos casais e é possível notar bem a característica de cada uma ao escrever, uma mais meiga, outra mais direta e uma bem mais excitante rsrs. A primeira história fica por conta de A. C. Meyer. Doce Reencontro Aqui conhecemos Jade e Alex, eles foram namorados na adolescência, porém, Alex passa em um concurso publico e acaba indo morar em Brasília em busca de seu sonho de se tornar um executivo de banco. &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/11/capa-livro-abc-do-amor.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/11/capa-livro-abc-do-amor.jpg'
   width: '828'
   height: '828'
 # </extra>

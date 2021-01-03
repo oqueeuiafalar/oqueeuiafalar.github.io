@@ -8,7 +8,7 @@ date: 2015-07-08 09:16:45
 # <extra>
 description: 'Recebi o ebook Kitty em parceria com a Editora Arwen, demorei um pouco pra ler porque prefiro livros físicos, mas não me arrependi com a história, pelo contrário, a adorei. Kitty é uma gata que vive pelas ruas de São Paulo a muito tempo, 400 anos para ser mais específica e que guarda um segredo muito triste que não quer que ninguém descubra. Ela costumava dormir todas as noites no mesmo beco, ao lado de um restaurante, porém, em uma dessas noites aparece Eduardo, um homem que está bêbado e falando sozinho, reclamando da sua vida amorosa. Eduardo então vê Kitty e resolve leva-la pra casa, o que deixa a gata furiosa, primeiro porque isso coloca seu segredo em risco, segundo porque ela é uma gata de rua, que não gosta de ser domesticada e para piora, ele acredita que &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/07/capa-do-livro-Kitty-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/capa-do-livro-Kitty-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2016-01-18 19:18:38
 # <extra>
 description: 'Gente, até esse último final de semana eu não tinha assistido a nenhum filme que está  concorrendo ao Oscar de melhor filme, e isso não é aceitável pra mim haha, por isso vou  correr contra o tempo e tentar assistir todos, mas dai não posso prometer nada, mas  conseguir ver um no sábado, que é “O regresso” com Leonardo DiCaprio e Tom Hardy. “O regresso” é baseado em fatos reais e conta a história do explorador Hugh Glass que junto  com seu filho Hawk se vê envolvido em um conflito pela caça de pele, de um lado há um grupo  de  índios e do outro há o grupo do capitão Andrew Henry, quando Glass vê o grupo do capitão  Henry sendo massacrado pelos índios ele resolve ajuda-los. Mas a presença Hawk não é bem vinda, principalmente para John Fitzgerald, (Tom &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Filme-O-regresso-Leonardo-DiCaprio.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Filme-O-regresso-Leonardo-DiCaprio.jpg'
   width: null
   height: null
 # </extra>

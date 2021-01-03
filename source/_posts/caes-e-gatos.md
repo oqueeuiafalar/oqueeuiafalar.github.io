@@ -13,7 +13,7 @@ date: 2019-09-08 06:48:05
 # <extra>
 description: 'Sinopse:   A felicidade para um cão é um rabo abanando, já para um gato, não. É o gato que tem que abanar o rabo para demonstrar felicidade para o cão ou o cão que tem que entender que o gato demonstra afeto de outras formas? Cães e gatos   lida com as diferenças. Eles moram no mesmo lugar, se amam, mas possuem suas vontades e manias e precisam saber conviver com elas. Isso te faz lembrar alguma coisa? Carlos Ruas, cartunista criador dos fenômenos Um sábado qualquer  e  Mundo avesso, traz um universo repleto de tirinhas divertidas e reflexões sobre como lidar com as diferenças, os relacionamentos nos dias atuais, e acima de tudo, o amor. Resenha: O livro   Cães e Gatos   provavelmente é um dos livros mais engraçados e fofos que eu li nos últimos tempos. Com apenas 175 páginas, o livro que &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2019/09/capa-livro-cães-e-gatos-carlos-ruas.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/09/capa-livro-cães-e-gatos-carlos-ruas.jpg'
   width: '750'
   height: '750'
 # </extra>

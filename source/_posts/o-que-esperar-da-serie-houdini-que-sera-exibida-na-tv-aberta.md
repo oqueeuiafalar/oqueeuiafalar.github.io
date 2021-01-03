@@ -8,7 +8,7 @@ date: 2016-01-04 18:19:18
 # <extra>
 description: 'A minissérie Houdini será exibida na Globo a partir do dia 05 de Janeiro. Assim que eu ví o comercial anunciando a minissérie estrelada por Adrien Brody, pensei em correr para avisar a Natalia. Acontece que não é de hoje que minha namorada é fã do trabalho do Adrien Brody, e ouço ela falando do trabalho do ator em O Pianista já tem alguns bons anos. E claro, eu também me interessei pela trama da série. Não é todo dia que uma série biográfica tão legal dá as caras na nossa TV aberta. A minissérie na verdade foi produzida no ano de 2014, e já foi exibida  no Brasil na TV fechada pelos canais History Channel e A&amp;E, mas resolví guardar minhas emoções e assistir pela TV mesmo, na rede globo a partir de terça dia 05 de Janeiro. Mas afinal, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/01/the-secret-life-of-houdini-678x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/the-secret-life-of-houdini-678x1024.jpg'
   width: null
   height: null
 # </extra>

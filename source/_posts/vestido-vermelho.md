@@ -12,7 +12,7 @@ date: 2018-06-10 10:53:17
 # <extra>
 description: 'Quer aprender como usar vestido vermelho e sair por aí arrasando com looks super lindos? Então confira nossas dicas e se inspire.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/06/look-vestido-vermelho-princesa.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/look-vestido-vermelho-princesa.jpg'
   width: '573'
   height: '573'
 # </extra>

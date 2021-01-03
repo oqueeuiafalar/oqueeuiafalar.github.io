@@ -10,7 +10,7 @@ date: 2016-10-24 09:14:06
 # <extra>
 description: 'Oi gente, tudo bem? As calças jeans sem duvida são uma das peças mais democráticas e usadas do mundo da moda. Ela pode ser encontrada em vários modelos, com aplicações e lavagens diferentes. Mas um modelo  especifico  de jeans que eu estou amando usar é o destroyed e por isso hoje vou colocar todo meu foco nele pra passar muitas inspirações para vocês. O jeans destroyed vem ganhando seguidores mundo afora, e se engana quem pensa que ele é apenas pra quem curte um look mais rocker, não, ele passa por vários estilos, até em um look mais romântico ou casual ele fica lindo. A possibilidade de combinações  com um jeans destroyed é imensa, ele fica lindo com tênis, sandália, sapatilha, casacos, batas, enfim, você só precisa ir em busca  do seu estilo. Nesse post vou mostrar várias inspirações para &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/09/calça-jeans-destroyed-looks.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/calça-jeans-destroyed-looks.jpg'
   width: '828'
   height: '828'
 # </extra>

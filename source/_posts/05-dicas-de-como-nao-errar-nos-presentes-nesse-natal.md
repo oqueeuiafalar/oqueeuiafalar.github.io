@@ -8,7 +8,7 @@ date: 2014-12-19 17:51:06
 # <extra>
 description: 'Que tal nesse natal você personalizar os seus presentes ou pelo menos alguns? Você não precisar criar todos os detalhes do presente, mas neste post vou ensinar alguns passos pra você colocar o seu toque especial em um presente pra alguém também muito especial, vamos lá! 1º Pense em quem vai ganhar o presente. Pense um pouco sobre o que essa pessoa gosta, seus hobbies, se você esta em duvida, dá um pesquisadas em páginas que ela curte no facebook, em alguns perfis que ela segue no twitter ou talvez você saiba alguns blogs que ela gosta de acompanhar. 2º Monte um kit com vários presentinhos. Por exemplo, se a pessoa adora doce e guloseimas, você pode fazer uma cesta com balas dos mais diversos tipos, chicletes, pirulitos, chocolates, biscoitinhos (se você souber onde encontrar aqueles biscoitos decorados com temas &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/12/presente-natal.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/12/presente-natal.jpg'
   width: null
   height: null
 # </extra>

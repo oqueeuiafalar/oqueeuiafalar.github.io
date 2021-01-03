@@ -12,7 +12,7 @@ date: 2018-10-21 16:03:59
 # <extra>
 description: 'Confira a resenha do livro Só Escute e entre para a história da família de Annabel Greene e veja como é importante ter empatia e ouvir ao próximo.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/10/livro-so-escute-sarah-dessen.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/10/livro-so-escute-sarah-dessen.jpg'
   width: '1000'
   height: '1000'
 # </extra>

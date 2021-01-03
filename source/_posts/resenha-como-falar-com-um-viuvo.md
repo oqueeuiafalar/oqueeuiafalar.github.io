@@ -8,7 +8,7 @@ date: 2015-03-04 19:35:48
 # <extra>
 description: '“Como falar com um viúvo” é narrado em primeira pessoa por Doug. Doug é um jovem de 29 anos que perdeu a mulher – alguns anos mais velha – há um ano e desde então ele resolveu se isolar do mundo e ficar o dia todo bebendo e revivendo suas memórias com ela. Falando assim parece ser um livro bem pesado e triste, certo? Pois não é. Claro que é um drama, afinal o cara perdeu a mulher que ele mais amava na vida, porém ele tem toques  de humor na medida certa, tem horas que você não sabe se rí ou se chora das narrativas excelentes de Doug. Após a morta de Hailey, a única coisa que Doug faz para se manter é escrever uma coluna para um jornal sobre sua experiência como viúvo. O mais estranho é que &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/03/DSC03559.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/DSC03559.jpg'
   width: null
   height: null
 # </extra>

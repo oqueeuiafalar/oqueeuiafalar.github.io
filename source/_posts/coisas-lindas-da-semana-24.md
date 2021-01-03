@@ -8,7 +8,7 @@ date: 2015-07-04 12:44:24
 # <extra>
 description: 'Que coisa boa, 24 semanas de coisas lindas consecutivas e eu sempre tenho a certeza de que na próxima semana ainda vai ter mais, olha só as inspirações que separei para vocês essa semana. Esse quintal Eu não sei bem se esse local é um quintal, mas assim que vi essa foto no Pinterest eu me apaixonei, quem não deseja ter um quintal lindo desse??? Essas suculentas Acho que esse foi o arranjo de suculentas mais lindo e delicado que eu já vi até hoje, já desejando uma gaiolinha dessa pra decorar aquele quintal ali de cima, hehe. Essa sacada Ta aí mais uma sacada que eu vejo no Pinterest e que eu adorei, acho que vou acabar fazendo um post com dicas de decoração pra sacada, o que acham? Essa agenda Não sei bem se é uma agenda, um &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/07/e299e526771975663b59361382126cfa-682x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/e299e526771975663b59361382126cfa-682x1024.jpg'
   width: null
   height: null
 # </extra>

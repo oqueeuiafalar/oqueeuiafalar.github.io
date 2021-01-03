@@ -8,7 +8,7 @@ date: 2015-11-16 11:12:12
 # <extra>
 description: 'É só andar por qualquer shopping da cidade que você já vai notar, apesar de ainda faltar quase um mês para a data, as decorações de natal já começaram a aparecer por aí. Se você também é destas que não aguenta esperar para começar a enfeitar a casa para época mais divertida do ano, dá uma olhada nessas dicas que o Viva Decora separou e escolha a que mais combina com você e com o seu lar. Pra quem é mais tradicional, não adianta inventar muito! Aposte sempre nas cores tradicionais vermelho e verde, essa combinação deixa qualquer ambiente com uma cara instantaneamente de natal. As bolinhas são acessórios indispensáveis, se você tem uma porção delas em casa, vale usar em outros lugares além da árvore. Monte uma guirlanda ou um arranjo na bandeja! Se a ideia é fugir do tradicional, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Decoração-de-Natal-verde-e-vermelha.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Decoração-de-Natal-verde-e-vermelha.jpg'
   width: null
   height: null
 # </extra>

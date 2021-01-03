@@ -8,7 +8,7 @@ date: 2015-05-11 14:53:58
 # <extra>
 description: 'O livro “Insana – Meu mês de loucura” publicado pela Editora Belas Letras conta a história de Susannah Cahalan que é a autora do livro. Ele é divido em três partes, que são: parte um: louca, parte dois: o relógio, parte três: em busca do tempo perdido. O livro já te conquista logo nas primeiras páginas, pois a narrativa é excelente e muito envolvente, cheguei até me sentir íntima da Susannah algumas vezes, haha. Susannah é uma jovem, porém, promissora jornalista que trabalha no famoso jornal New York Post. Apesar do dia a dia estressante, tudo parece ir muito bem na sua vida, até que um dia de manhã ela acorda e percebe dois pontinhos vermelhos em seu braço que ela acaba por acreditar se tratarem de picadas de percevejo, já que algumas regiões da cidade estão infestadas desses bichinhos. &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/05/DSC03722-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/DSC03722-1024x768.jpg'
   width: null
   height: null
 # </extra>

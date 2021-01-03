@@ -13,7 +13,7 @@ date: 2017-07-17 08:33:31
 # <extra>
 description: 'O historiador Joshua M. Greene narra nesse livro (lindo de viver) toda a trajetória musical e espiritual do Beatle George Harrison. Apesar do livro ser uma biografia, ele não é como todas as outras biografias que eu já li. “Here comes the sun” é quase que restrito sobre a jornada espiritual que George Harrison percorreu durante toda a sua vida. É claro que o livro passa pelos grandes acontecimentos da vida de Harrison como quando ele ganha sua primeira guitarra, o sucesso estrondoso dos Beatles, o termino dos Beatles, sua carreira solo, casamentos, divórcio, amizades com Eric Clapton e Bob Dylan, por exemplo, porém, sempre buscando mostrar sua busca pela religião e como isso influenciou seu modo de viver e ver o mundo. Eu ainda não tive a oportunidade de ler nenhuma biografia dos outros Beatles e mesmo outra do &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-Here-comes-the-sun-–-A-jornada-espiritual-e-musical-de-George-Harrison.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-Here-comes-the-sun-–-A-jornada-espiritual-e-musical-de-George-Harrison.jpg'
   width: '828'
   height: '828'
 # </extra>

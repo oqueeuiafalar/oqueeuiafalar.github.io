@@ -13,7 +13,7 @@ date: 2017-01-09 08:04:38
 # <extra>
 description: 'No livro “Tentativas de fazer algo da vida” Hendrik Groen (mas o nome original do autor se mantém em anonimato) um senhorzinho de 83 anos narra seu diário de forma bem hilária e com um olhar bem peculiar sobre a terceira idade e como é sua vida dentro de um asilo em Amsterdã. Groen resolveu escrever o diário para que seu amigo pudesse ler no seu enterro, mas claro que ele calculou os riscos de seu amigo morrer antes que ele, afinal, ambos estão bem velhinhos. No diário Groen conta como é infernal envelhecer, com tantas doenças que com certeza vão aparecer, com todas as dores inevitáveis, as visitas frequentes ao médico e ele também descreve como é viver dentro de um asilo com tantos idosos, cada um com seus problemas e dores e doenças, com uma administração que não &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/01/capa-do-livro-tentativa-de-fazer-algo-da-vida.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/01/capa-do-livro-tentativa-de-fazer-algo-da-vida.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -8,7 +8,7 @@ date: 2016-02-15 08:17:02
 # <extra>
 description: 'Gente, confesso que eu não era adepta de usar películas na unha até conhecer o site Bruh Películas, são tantas películas lindas e delicadas que ela faz que não tem como não ter vontade de correr pra fazer as unhas e usa-las haha. Ela me enviou algumas cartelas (que estou louca pra usar todas) e daí resolvi estrear com uma de minhas favoritas que é essa que vocês podem ver na foto como filha única. Essa película que estou usando me lembra muito aqueles azulejos portugueses, bem delicada. Usei o esmalte Conto de Fadas da Coloroma em todas as unhas (incluindo na que esta com película) passei duas mãos e foi o suficiente, ele cobre bem e como é perolado, deixa um brilho bem bonito nas unhas e pra finalizar usei apenas um top coat. Conforme eu for usando as &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/02/Conto-de-fadas-Impala-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/02/Conto-de-fadas-Impala-1024x768.jpg'
   width: null
   height: null
 # </extra>

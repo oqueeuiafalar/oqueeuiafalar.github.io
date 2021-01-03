@@ -12,7 +12,7 @@ date: 2018-11-07 19:19:07
 # <extra>
 description: 'O livro  O Corpo Dela e Outras Farras  da autora Carmen Maria Machado é composto por oito contos narrados por mulheres e vem sendo chamado de Black Mirror Feminista, porque a autora utiliza ficção cientifica e também terror para retratar várias cenas do universo dessas mulheres como medo, paixão, conflitos, traumas entre outros Em  O Corpo Dela e Outras Farras  a autora além de ir analisando todos esses sentimentos das personagens, ela também aborda temas muito atuais do universo feminino como aborto, violência no parto e sexual, liberdade sexual das mulheres, padrões de beleza impostos pela sociedade e de forma as vezes assustadora as vezes cômica &#8211; se não fosse trágico &#8211; Carmen Maria Machado vai narrando as histórias dessas mulheres de maneira crua e muito forte. Eu não acho interessante narrar aqui os contos, eu provavelmente não conseguiria passar toda a tensão e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/11/livro-o-corpo-dela-e-outras-farras.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/livro-o-corpo-dela-e-outras-farras.jpg'
   width: '1000'
   height: '1000'
 # </extra>

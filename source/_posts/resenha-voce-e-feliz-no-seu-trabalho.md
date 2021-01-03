@@ -13,7 +13,7 @@ date: 2017-01-30 08:40:08
 # <extra>
 description: 'Thomas Delare sempre fazia duas perguntas para quem desejava trabalhar nas suas empresas, primeiro: Quais eram seus cinco grandes, que nada mais é que as cinco coisas que você mais quer fazer ou vivenciar para que você sinta que sua vida tenha valido a pena; segundo, qual o seu propósito de existência? Agora você fica se perguntando, mas por que ele queria saber isso? Porque ele não queria saber apenas se a pessoa tinha as competências para o cargo que iria ocupar, ele também queria saber se a pessoa seria feliz fazendo aquilo que ela foi contrata para fazer. Thomas baseava-se na teoria de que quando a pessoa trabalhava no que ela realmente gostava, e se sentia feliz fazendo aquilo a produtividade dela só fazia aumentar e através dessa filosofia ele conseguiu criar empresas altamente lucrativas. O livro “Você é &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/12/capa-você-é-feliz-no-seu-trabalho.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/capa-você-é-feliz-no-seu-trabalho.jpg'
   width: '828'
   height: '828'
 # </extra>

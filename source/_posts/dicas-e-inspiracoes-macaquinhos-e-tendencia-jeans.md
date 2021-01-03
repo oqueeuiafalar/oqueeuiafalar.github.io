@@ -15,7 +15,7 @@ date: 2017-10-09 11:18:00
 # <extra>
 description: 'Dizem que o   jeans       marcou a passagem da modernidade para a pós-modernidade, tornando-se um símbolo &#8220;fashio&#8221; dos tempos contemporâneos. É possível dizer que o jeans, tão presente no nosso guarda-roupa passou a se popularizar na    década de 40,   depois que ele deixou de ser visto como uniforme  de operário para ser usado pelos jovens da classe médica americana. A    versatilidade,    praticidade    e    resistência fez com que o jeans se tornasse um clássico. Afinal, quem não usa jeans hoje em dia? Esse tecido tão querido agora está com tudo na tendência do &#8220;all jeans&#8221; e nos macaquinhos jeans! Quer saber a melhor forma de usá-los? Confira nossas dicas! Como usar macaquinho jeans? Da para usar macaquinho jeans em muitas ocasiões diferentes. Afinal, hoje em dia existem diversos modelos e opções. Para o trabalho você pode optar por um macaquinho &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/11/como-usar-jardineira-jeans.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/como-usar-jardineira-jeans.jpg'
   width: '828'
   height: '828'
 # </extra>

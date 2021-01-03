@@ -8,7 +8,7 @@ date: 2015-01-05 20:13:26
 # <extra>
 description: '&nbsp; No final de semana logo após o Natal (dias 26, 27 e 28) resolvi meio de uma hora para a outra ir com meu namorado para São Thomé das Letras &#8211; MG depois de uma amiga me recomendar a cidade. Passamos dois dias por lá nesse post vou contar um pouquinho dessa experiência para vocês e dar algumas dicas para quem também quer visitar essa pequena e mística cidade mineira. Chegada em São Thomé das Letras &#8211; MG Preciso confessar aqui que a primeira impressão que tivemos de São Thomé das Letras, quando ainda estávamos vendo a cidade da estrada não é agradável. De longe, vista da estrada real, o que se destaca na paisagem da cidade são jazidas de extração de pedras. Felizmente em São Thomé a primeira impressão não foi a que ficou. É bom falar também &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/01/42-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/01/42-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2016-02-03 12:09:15
 # <extra>
 description: 'Se você esta esperando ansiosamente por esses quatro dias de folia pra se jogar no sofá, pegar pipoca, brigadeiro e o controle remoto, você tem meu total apoio! Porque eu também estou contando cada minuto pra chegar essa hora de puro prazer hahaha. Mas claro que eu também pensei na diversão, e o que melhor que seriados pra nos divertir, né? Por isso fiz essa seleção com 5 dos seriados que eu mais amo e que vale super a pena colocar em dia durante o feriado. Breaking bad O seriado conta o drama de Walter White, um professor de química que vê sua vida mudar completamente após ser diagnosticado com câncer em estágio avançado no pulmões. Walter é casado Skyler, que está grávida e tem um outro filho, Walter Jr. que tem paralisia cerebral. Walter se vê sem dinheiro, doente &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/01/seriados-para-assistir-no-carnaval.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/seriados-para-assistir-no-carnaval.jpg'
   width: null
   height: null
 # </extra>

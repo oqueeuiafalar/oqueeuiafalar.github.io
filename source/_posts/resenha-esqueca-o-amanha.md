@@ -12,7 +12,7 @@ date: 2017-08-28 08:23:11
 # <extra>
 description: 'O livro Esqueça o amanha é uma distopia baseada em uma sociedade ligada ao futuro. Os jovens ao completar 17 anos recebem uma memória de seu eu futuro mostrando como será sua vida dali a alguns anos, com base nessa memória eles sabem qual será sua profissão, se serão bem sucedidos ou mesmo se cometerão algum crime, se for esse o caso, eles são levados ao Limbo imediatamente. O Limbo é um local onde eles ficam antes de cometer o crime, mas dai você pensa, se eles estão presos ali, é sinal que não vão cometer mais crime algum, mas isso é um mero engano. A protagonista do livro chama-se Callie, e seu sonho é se tornar uma grande chef de cozinha e no dia de seu aniversário, ela vai receber sua memória do futuro rezando para se ver como &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/08/Capa-do-livro-Esqueça-o-amanhã.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/08/Capa-do-livro-Esqueça-o-amanhã.jpg'
   width: '828'
   height: '828'
 # </extra>

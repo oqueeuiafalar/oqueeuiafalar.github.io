@@ -9,7 +9,7 @@ date: 2017-02-13 08:38:51
 # <extra>
 description: 'Na minha adolescência eu sempre tentei ser uma pessoa noturna, daquelas que ficam até tarde vendo filmes, seriados, mexendo na internet, lendo e que acorda tarde no dia seguinte, mas eu nunca consegui, porque mesmo eu indo dormir duas ou três horas da manhã eu sempre acordava antes das sete horas. Até que chegou a fase que eu comecei a sair de noite para baladas e barzinhos, mas mesmo assim, eu chegava em casa as quatro ou cinco horas da manhã e quando era umas oito horas eu já estava de pé, morrendo de sono, mas em pé haha. E foi aí que eu comecei a perceber que eu era uma pessoa diurna e que isso é muito bom. Vocês devem pensar: ah, mas você é uma daquelas pessoas que podem dormir uma média de quatro horas por noite e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/01/Wake-up-early.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/01/Wake-up-early.jpg'
   width: '828'
   height: '828'
 # </extra>

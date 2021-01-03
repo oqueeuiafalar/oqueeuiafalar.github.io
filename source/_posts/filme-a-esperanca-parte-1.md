@@ -8,7 +8,7 @@ date: 2014-11-27 19:01:17
 # <extra>
 description: 'Ah, e finalmente eu assisti “Jogos Vorazes: A Esperança – parte 1”, eu estava muito ansiosa por esse lançamento e agora estou muito ansiosa por A esperança – parte 2, haha. Bom, quem acompanha a série de livros já sabe como é a história. Começa logo após Katniss ser resgatada durante o Massacre Quarternário pela resistência ao governo de Snow e ser levada para o 13º distrito junto com sua mãe e irmã. Lá a presidente Coin quer que Katniss fique a frente da resistência representando o tordo, seu símbolo. Pra quem quiser conferir a resenha do livro inteiro é só clicar aqui. O filme é muito fiel ao livro, do jeito que eu esperava e dá uma aflição finalmente ver Peeta e não apenas imaginar ele, após ter sido telesequestrado com a finalidade dele virar uma arma contra a Katniss &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/11/455684-970x600-1.jpeg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/11/455684-970x600-1.jpeg'
   width: null
   height: null
 # </extra>

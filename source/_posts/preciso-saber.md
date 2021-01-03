@@ -12,7 +12,7 @@ date: 2018-03-13 07:48:31
 # <extra>
 description: 'Preciso Saber é um thriller escrito por uma ex agente da CIA cheio de suspense e reviravoltas. Confira a resenha do primeiro livro de Karen Cleveland'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/03/resenha-livro-preciso-saber.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/03/resenha-livro-preciso-saber.jpg'
   width: '1000'
   height: '1000'
 # </extra>

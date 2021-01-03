@@ -9,7 +9,7 @@ date: 2014-10-16 22:02:18
 # <extra>
 description: 'Cardigã: presente / Shorts: Marisa / Meia calça: Trifil fio 80 / Regata: Marisa / Bota:  Mooncity Um pouco antes de começar esses dias extremamente quentes estava fazendo um clima que eu considero bastante agradável, vocês devem se lembrar, e claro, eu aproveitei parar passar o fim de semana no parque da cidade em São José dos Campos, terrinha do meu namorado haha. O parque estava com muita gente, famílias, crianças e casais e embora isso não me ajude muito com minha timidez para tirar fotos em público achei bem legal ver que o parque sendo escolhido por tanta gente como opção para aproveitar o domingo. Eu também adoro Depois disso fui ver uma lista com os parques mais lindos do mundo e fiquei de queixo caído com as fotos que vocês podem conferir nesse link. Confesso que estou com vontade &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03325.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03325.jpg'
   width: null
   height: null
 # </extra>

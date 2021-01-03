@@ -12,7 +12,7 @@ date: 2020-01-12 16:33:39
 # <extra>
 description: 'Quer saber como usar saia midi com botões na frente e arrasar no look? Então, acesso o post para conferir todas as dicas e se inspirar com várias fotos .'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2020/01/saia-midi-azul-com-botões-pretos-Foto-Inspire4What-.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2020/01/saia-midi-azul-com-botões-pretos-Foto-Inspire4What-.jpg'
   width: '553'
   height: '553'
 # </extra>

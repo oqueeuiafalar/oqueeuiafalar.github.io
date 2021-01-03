@@ -15,7 +15,7 @@ date: 2018-02-28 19:52:46
 # <extra>
 description: 'O Jardim das Borboletas com certeza é um dos livros mais perturbadores que você pode ler, mas não tenha medo, ele é de prender a atenção e tirar o fôlego.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/02/capa-livro-o-jardim-das-borboletas.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/02/capa-livro-o-jardim-das-borboletas.jpg'
   width: '800'
   height: '800'
 # </extra>

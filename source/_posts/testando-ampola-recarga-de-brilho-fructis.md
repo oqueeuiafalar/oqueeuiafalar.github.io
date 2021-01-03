@@ -8,7 +8,7 @@ date: 2015-12-02 15:51:41
 # <extra>
 description: 'Como no verão nosso cabelo fica bem mais exposto devido ao sol, praia e piscina e assim acaba ficando sem brilho eu resolvi testar as ampolas Power Vit E da Fructis, Garnier. Essa ampola faz parte da linha Fructis Vitaminados e ela contém propriedades energizantes, antioxidantes, vitamina E, não contém sal e é indicada para cabelos opacos e normais e promete recarregar o brilho dos nossos cabelos. A textura do produto é parecida com a de condicionador, bem cremosa. O cheiro é bem gostoso, mas por ser forte se torna enjoativo, mas depois da lavagem você não sente mais nada, então, sem problemas. O produto é tudo aquilo que ele diz ser, meu cabelo ficou mais brilhante, porém, um pouco ressecado, mas nada que um óleo capilar e hidratação semanal não resolva. Já testei e fiz resenha aqui no blog &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Ampola-recarga-de-brilho-Fructis-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Ampola-recarga-de-brilho-Fructis-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-01-21 21:13:37
 # <extra>
 description: 'Gente, estava conversando com o José, meu namorado e ele me contou sobre uma grata surpresa que ele teve recentemente. Acontece que um amigo estava sem muitas ideias para presente de aniversário de namoro e conversando com o José eles tiveram a ideia de dar de presente uma cesta de chocolates mais um cartãozinho personalizado. O cartãozinho vinha com um desenho feito pelo José, com o refrão da belíssima música “Close to you” dos Carpenters na parte da frente e uma foto do casal na parte de trás. É interessante notar como presentes simples, e as vezes mesmo os clássicos podem fazer diferença. Parece que o cartãozinho personalizado com a foto do casal fez sucesso junto ao presente e ajudou a marcar essa data especial. Isso acontece porquê nós mulheres ao recebermos presentes não esperamos apenas algo de valor material, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/01/DSCN0141.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/01/DSCN0141.jpg'
   width: null
   height: null
 # </extra>

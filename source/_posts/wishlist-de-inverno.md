@@ -8,7 +8,7 @@ date: 2015-05-20 14:07:48
 # <extra>
 description: 'Ahh, eu nem acredito que aquela estação do chocolate quente, looks mais chiques, edredom com pipoca esta chegando. Só de ir passear no shopping e ver aquelas vitrines cheias de botas, casacos e meias grossas já faz meu coração ficar todo emocionado com tanta coisa linda  hahaha. E o post de hoje é uma wishlist recheada de coisas maravilhosas pra nos deixar ainda mais lindas e elegantes no inverno, vamos lá! 1 &#8211; Blusa college 2 &#8211; Casaco estilo militar  3 &#8211; Parka 4 &#8211;  Over the knee boots 5 &#8211; Ugg boots 6 &#8211; Suéter vintage 7 &#8211; Luva de couro 8 &#8211; Colete 9 &#8211; Chapéu floppy '
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/05/postinverno-1.png'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/postinverno-1.png'
   width: null
   height: null
 # </extra>

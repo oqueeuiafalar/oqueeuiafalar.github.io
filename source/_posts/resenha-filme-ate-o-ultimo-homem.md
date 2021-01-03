@@ -14,7 +14,7 @@ date: 2017-02-09 09:26:57
 # <extra>
 description: 'O filme narra a história de Desmond Doss, um rapaz adventista fervoroso que resolve se alistar como médico no exercito norte americano durante a Segunda Gu'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/02/film-Hacksaw.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/02/film-Hacksaw.jpg'
   width: null
   height: null
 # </extra>

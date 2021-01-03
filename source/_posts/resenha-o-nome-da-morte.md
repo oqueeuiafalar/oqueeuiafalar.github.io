@@ -8,7 +8,7 @@ date: 2018-09-19 22:20:30
 # <extra>
 description: 'O livro O Nome da Morte do autor Klester Cavalcanti conta a história real de Julio Santana, o homem que já matou 492 pessoas, isso mesmo, esse cara já matou quase 500 pessoas e essa doideira toda é uma história real. No livro O Nome da Morte nós acompanhamos a vida de Julio desde sua adolescência, quando ainda morava com os país à margem do rio Tocantis, até o ano de 2006, quando ele decide largar essa vida de pistoleiro e viver em paz com a família. O autor de O nome da morte é um premiado jornalista, que dentre outros já recebeu três vezes o Prêmio Jabuti de Literatura e nesse livro ele faz um trabalho fantástico. Com uma narrativa fluida e envolvente, Klester Cavalcanti consegue fazer com que o leitor crie empatia pelo maior assassino de aluguel do Brasil, porém, o autor levou sete &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/09/livro-o-nome-da-morte.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/09/livro-o-nome-da-morte.jpg'
   width: '1000'
   height: '1000'
 # </extra>

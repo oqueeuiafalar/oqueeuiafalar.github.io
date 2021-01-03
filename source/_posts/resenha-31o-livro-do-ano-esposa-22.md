@@ -8,7 +8,7 @@ date: 2014-11-17 20:21:20
 # <extra>
 description: 'O livro “Esposa 22” conta a história de Alice e William Buckle, que depois de quase vinte anos de casados e com dois filhos, Zoe e Peter, começam a enfrentar uma crise no casamento e ter dúvidas se ainda se amam. Até que um dia ela recebe um e-mail do intitulado Pesquisador 101 convidando-a para participar de uma pesquisa sobre o casamento no século XXI, que consiste em noventa perguntas que ele enviará para ela responder baseada em seu relacionamento. &nbsp; O legal do livro é que ele não gira apenas em torno da família Buckle, os amigos também são muito bem compostos dando uma graça a mais para o livro e a autora aborda assuntos bem diversos, como: homossexualidade, transtornos alimentares, o modo como a tecnologia esta presente em nossas vidas, educação entre outras coisas. Mas o mais legal &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/11/DSC03367-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/11/DSC03367-1024x768.jpg'
   width: null
   height: null
 # </extra>

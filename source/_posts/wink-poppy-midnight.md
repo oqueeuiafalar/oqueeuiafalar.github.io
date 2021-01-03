@@ -14,7 +14,7 @@ date: 2018-03-25 08:51:46
 # <extra>
 description: 'O livro Wink Poppy Midnight foi indicado pela Teen Vogue como um dos melhores livros young adult de 2016 e aqui você pode conferir a resenha desse livro'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/03/capa-livro-wink-poppy-midnight.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/03/capa-livro-wink-poppy-midnight.jpg'
   width: '1000'
   height: '1000'
 # </extra>

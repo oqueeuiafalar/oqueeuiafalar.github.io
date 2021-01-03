@@ -14,7 +14,7 @@ date: 2018-07-14 20:17:25
 # <extra>
 description: 'O Fim de Eddy nos faz pensar no sofrimento e angustia de pessoas que precisam lidar com o medo diante uma sociedade preconceituosa e machista.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/07/capa-livro-o-fim-de-eddy.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/07/capa-livro-o-fim-de-eddy.jpg'
   width: '1000'
   height: '1000'
 # </extra>

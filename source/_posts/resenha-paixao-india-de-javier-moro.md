@@ -13,7 +13,7 @@ date: 2017-02-06 13:43:58
 # <extra>
 description: 'Quando recebi o livro Paixão Índia de Javier Moro da Editora Planeta fiquei bem entusiasmada para lê-lo, pois, já li “Flor da Pele” do mesmo autor e eu amei. Anita Delgado era uma garota espanhola de apenas 17 anos que junto com sua irmã trabalhava como dançarina em um café para poder ajudar economicamente seus pais, pois, eram de uma família bem humilde e que vinha passando por muitas necessidades. O café onde elas trabalhavam chamava-se Kursaal, um local que o Jagatjit Singh, rajá de Kapurthala, começou a frequentar em uma de suas visitas a Europa e lá ele acabou se apaixonando por Anita. Enquanto esteve em Madri, o rajá foi todas as noites ver Anita dançar. O rajá dá várias investidas para poder conhecer melhor Anita Delgado, chegando a oferecer dinheiro, mas sua família e ela mesma sempre recusam, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/02/resenha-livro-paixão-índia-de-javier-moro.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/02/resenha-livro-paixão-índia-de-javier-moro.jpg'
   width: '828'
   height: '828'
 # </extra>

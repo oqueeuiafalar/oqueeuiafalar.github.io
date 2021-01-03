@@ -14,7 +14,7 @@ date: 2018-07-10 08:28:27
 # <extra>
 description: 'Quer aprender como usar o dad sneakers? O tênis diferentão que está fazendo a cabeça e os pés das fashionistas? Pois confira nossas dicas e inspirações.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/07/dad-sneakers-cor-de-rosa.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/07/dad-sneakers-cor-de-rosa.jpg'
   width: '642'
   height: '642'
 # </extra>

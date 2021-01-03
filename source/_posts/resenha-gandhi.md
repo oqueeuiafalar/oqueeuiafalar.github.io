@@ -8,7 +8,7 @@ date: 2014-03-13 10:07:07
 # <extra>
 description: 'O filme Gandhi (Gandhi, 1982) conta a trajetória política de Mahatma Gandhi, figura principal da independência indiana. O filme começa com a cena da morte de Gandhi e volta no tempo para contar sua experiência na África do Sul do final do século IXX colonizada pela Inglaterra e posteriormente sua volta para Índia até a independência desse país e divisão entre Índia e Paquistão. É na África do Sul, que o jovem advogado Mohandas Gandhi confronta pela primeira vez a autoridade do império britânico após ser expluso da primeira classe de um trem por ser de etnia indiana. Seu método de desobediência civil e resistência pacífica é inaugurado nesta ocasião, quando Gandhi reúne em uma praça um pequeno grupo formado de muçulmanos, siques e hindus e mesmo sendo espancado por policiais queima os passes que o governo inglês os obrigava &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/03/dsc02366.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/03/dsc02366.jpg?w=650'
   width: null
   height: null
 # </extra>

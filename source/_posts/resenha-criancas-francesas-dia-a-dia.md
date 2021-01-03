@@ -8,7 +8,7 @@ date: 2015-07-20 12:03:38
 # <extra>
 description: 'Resolvi ler o livro “Crianças francesas dia a dia” da editora Fontanar, acho que porque como agora eu estou estudando francês, tudo que gira em torno dessa língua me interessa haha, e também porque é aquele livro pra se ler em um dia. “Crianças francesas dia a dia” foi escrito por Pámela Druckerman, seguindo o sucesso do seu primeiro livro “Crianças francesas não fazem manha”, e é uma compilação com 100 dicas para educar o seu filho como os franceses educam. No livro você vai encontrar dicas de como fazer seu filho comer melhor e experimentar novos alimentos, como ensina-lo a ter mais paciência. O livro mostra como os pais franceses impõem limites para as crianças, porém, os pais ensinam que dentro desses limites também pode haver liberdade. Um exemplo citado no livro é que a criança tem hora para &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/07/capa-do-livro-Crianças-francesas-dia-a-dia-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/capa-do-livro-Crianças-francesas-dia-a-dia-1024x768.jpg'
   width: null
   height: null
 # </extra>

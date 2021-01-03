@@ -8,7 +8,7 @@ date: 2014-06-27 09:25:20
 # <extra>
 description: '“Praticamente inofensiva” apresenta Trillian em duas versões e dois universos paralelos, a que já conhecemos e outra chamada Trícia, uma apresentadora de TV que não foi embora junto com Zaphod porque no momento em que ia embora resolveu ir buscar sua bolsa. Este livro também apresenta Random, a filha de Trillian e de Arthur. Sim, eles tem uma filha, e não, eles nunca tiveram uma relação (tem coisas que nem universos paralelos podem explicar). Random é uma adolescente maluca, que vive jogando coisas em todo mundo, revoltada e que se sente perdida sem saber a que mundo pertence. Arthur continua sua viagem pelo espaço/tempo, passando por diversos planetas até que consegue se firmar em Lamuella e onde se firma como fazedor de sanduíches. A parte mais divertida da história com certeza é quando Ford e Arthur se encontram novamente, e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc03001.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc03001.jpg?w=650'
   width: null
   height: null
 # </extra>

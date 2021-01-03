@@ -13,7 +13,7 @@ date: 2016-11-03 13:26:33
 # <extra>
 description: 'Os modelos de sapatos estão mudando. Antes usávamos sapatilhas, rasteirinhas ou um salto “normal”, mas agora tem uma onde de sapatos flatform, mule, creepers, invadindo as passarelas e as ruas para todos os lados.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/tendências-de-sapatos.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/tendências-de-sapatos.jpg'
   width: '828'
   height: '828'
 # </extra>

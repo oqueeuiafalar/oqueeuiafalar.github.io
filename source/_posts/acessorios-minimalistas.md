@@ -11,7 +11,7 @@ date: 2019-10-27 09:24:13
 # <extra>
 description: 'Modernos, delicados e fáceis de usar os acessórios minimalistas vem ganhando cada dia mais espaço no mundo da moda e podem fazer grande diferença na produção de um look, principalmente naquele look bem básico do dia a dia. Os acessórios minimalistas garantem um toque charmoso, elegante e muitas vezes podem se tornar o grande protagonistas em um look básico. Por conta disso, hoje eu vou te ensinar   5 dicas de como usar   acessórios   minimalistas para garantir um look mais bonito e cheio de personalidade no dia a dia. Confira! Como usar acessório minimalista Os acessórios minimalistas podem ser encontrados em diversos modelos no mercado com acabamento em dourado, prata, rose gold entre outros, além disso, existem opções pequenas e super delicadas e outras maiores e mais imponentes. Porém, muita gente tem dúvidas de como inserir essas semijoias delicadas no look &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2019/10/mulher-com-acessorios-minimalistas-dourados.jpeg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/10/mulher-com-acessorios-minimalistas-dourados.jpeg'
   width: '800'
   height: '800'
 # </extra>

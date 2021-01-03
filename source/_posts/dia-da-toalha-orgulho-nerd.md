@@ -8,7 +8,7 @@ date: 2016-05-25 10:25:00
 # <extra>
 description: 'Dia 25 de Maio o mundo celebra O Dia da Toalha em uma referência a chamada trilogia de 5 livros do Guia do Mochileiro das Galáxias. A toalha, como mencionada na série de Douglas Adams é um dos itens mais essenciais na vida de um viajante interestelar, merecendo uma página de destaque em um de seus livros e diversas menções divertidas. Por aqui tem se chamado o dia 25 de Maio também de &#8220;Dia do orgulho nerd&#8221;, nome que encontra menos adeptos entre os &#8220;nerds&#8221; mas é mais facilmente difundido em lojas especializadas em conteúdos para amantes de tecnologia. De qualquer forma, o dia 25 de maio é uma data de celebração do legado de Douglas Adams mas também da importância da cultura nerd no mundo. Apesar de todos os estereótipos sobre a falta de habilidade social dos nerds, sua &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/05/nikola-tesla_660x330.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/nikola-tesla_660x330.jpg'
   width: null
   height: null
 # </extra>

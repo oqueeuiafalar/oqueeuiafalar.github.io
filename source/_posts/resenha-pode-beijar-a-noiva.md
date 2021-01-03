@@ -8,7 +8,7 @@ date: 2016-03-26 11:44:43
 # <extra>
 description: '“Pode beijar a noiva” é um romance de época escrito por Patricia Cabot, pseudônimo de Meg Cabot, muito conhecida pela série de livro “O Diário da Princesa”. O livro conta a história de Emma Van Court, uma menina órfã que foi criada pelos tios ricos e que esta apaixonada por Stuart, um jovem com quem ela foi criada e que esta sempre envolvido em causas nobres  da igreja. Emma resolve fugir com Stuart para Faires na Escócia, para poderem se casar, porque a família não apóia a união dos dois, incluindo James, ou lorde Denham, primo de Stuart que mantem uma paixão secreta por Emma. Mas Emma não podia imaginar que seu casamento seria tão curto, porque algum tempo após a união, Stuart acaba falecendo e quando James descobre da morte, ele vai até Faires para buscar o corpo do &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/03/capa-do-livro-Pode-beijar-a-noiva-Patricia-Cabot-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/03/capa-do-livro-Pode-beijar-a-noiva-Patricia-Cabot-1024x768.jpg'
   width: null
   height: null
 # </extra>

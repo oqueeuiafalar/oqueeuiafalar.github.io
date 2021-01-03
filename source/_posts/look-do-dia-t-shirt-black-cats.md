@@ -9,7 +9,7 @@ date: 2015-04-08 18:55:59
 # <extra>
 description: 'Já fazia um tempo que eu estava louca por uma camiseta assim, mas eu queria uma cheia de gatinhos, eu até encontrava algumas camisetas com gatos, mas sempre era um gato e não cheia de gatinhos, quando vi essa t-shirt na Marisa foi amor a primeira vista. Usei esse look quando estava indo fazer minha matricula no francês (ahhh felicidade em aprender mais uma língua *-*), não tinha intenção de fazer um post, mas a paixão pela t-shirt é tanta que não consegui resistir, hehe. &nbsp; Camiseta: Marisa / Saia: presente / Tênis: Fila &nbsp; Gostaram do look? Agora eu quero uma camiseta cheia de pinguinzinhos &lt;3'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSCN0288.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSCN0288.jpg'
   width: null
   height: null
 # </extra>

@@ -16,7 +16,7 @@ date: 2018-05-15 21:54:39
 # <extra>
 description: 'O livro A Mulher Entre Nós - Ela não é Quem Você Pensa é um thriller psicológico cheio de reviravoltas e que vai te surpreender.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/05/capa-do-livro-a-mulher-entre-nós.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/05/capa-do-livro-a-mulher-entre-nós.jpg'
   width: '1000'
   height: '1000'
 # </extra>

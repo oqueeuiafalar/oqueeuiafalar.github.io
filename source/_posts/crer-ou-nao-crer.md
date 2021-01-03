@@ -15,7 +15,7 @@ date: 2018-05-06 16:41:02
 # <extra>
 description: 'Confira a resenha do livro Crer ou Não Crer um interessante dialogo entre o Padre Fábio de Melo e o professor historiador e ateu Leandro Karna.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/04/capa-do-livro-crer-ou-não-crer.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/04/capa-do-livro-crer-ou-não-crer.jpg'
   width: '1000'
   height: '1000'
 # </extra>

@@ -8,7 +8,7 @@ date: 2016-04-11 13:47:15
 # <extra>
 description: 'Lilá é uma publicitária divorciada que mora em Nova York e que leva uma vida bem tediosa, até que um dia ao passear por uma feira conhece Exley, um florista bonitão por quem ela acaba ficando bem interessada. Primeiro ela resolve comprar uma planta dele pra tentar uma aproximação, mas depois acaba ficando bem interessada nesse ramo, até que um dia após o trabalho ela andando  pela cidade acaba se deparando com uma lavanderia repleta de flores e plantas e fica muito curiosa, ao entrar lá ela conhece o dono do local, Armand, um homem bem estranho que após horas conversando lhe conta que no fundo da lavanderia tem um quarto com onde ele guarda nove plantas raras e que quem sabe um dia ela poderá conhecê-las. Existe uma lenda que diz que a pessoa que possuir essas nove plantas &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Nove-plantas-do-desejo-e-a-flor-da-estufa-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Nove-plantas-do-desejo-e-a-flor-da-estufa-1024x768.jpg'
   width: null
   height: null
 # </extra>

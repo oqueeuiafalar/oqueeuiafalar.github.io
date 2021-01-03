@@ -9,7 +9,7 @@ date: 2016-04-27 13:19:57
 # <extra>
 description: 'Eu recebi da Editora Planeta o livro “Nada para vestir” do Arlindo Grund e fiquei muito feliz, afinal já faz tempo que eu estava querendo ler esse livro. Qual mulher nunca falou a frase: Não tenho nada para vestir! Tenho certeza que você já falou, assim como eu já falei, mas o que acontece é que nós não sabemos como aproveitar ao máximo o que temos no nosso guarda roupa e por isso sempre compramos mais e mais e muitas vezes compramos peças que não combinam com nosso estilo ou não ficam bem no nosso corpo e elas acabam ficando esquecidas lá no fundo do armário. Em “Nada para vestir” Arlindo Grund que é consultor de moda, stylist e apresentador do programa “Esquadrão da moda” dá diversas dicas de como se vestir para as mais variadas situações passando pelos looks &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Nada-para-vestir-Arlindo-Grund-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Nada-para-vestir-Arlindo-Grund-1024x768.jpg'
   width: null
   height: null
 # </extra>

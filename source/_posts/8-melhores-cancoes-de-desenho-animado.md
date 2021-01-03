@@ -11,7 +11,7 @@ date: 2017-03-16 08:34:08
 # <extra>
 description: 'O filme A Bela e a Fera esta por ia nos cinemas do mundo a fora e isso me fez entrar em uma sessão nostalgia que vocês não fazem ideia haha. Eu quando criança, como a maioria, passava horas e horas dos meus dias assistindo desenhos, principalmente os da Disney e até hoje eu sou apaixonada por eles, mas sou ainda mais apaixonada pelas trilhas sonoras. São músicas que nunca saíram da minha cabeça e que fazem parte de minha infância, da minha juventude, da minha vida, aloka hahaha. Por isso separei as oito canções de desenhos animados que eu mais gosto, 7 são da Disney e uma da DreamWorks, espero que vocês também gostem e embarquem nessa sessão nostalgia comigo: Beauty and The Beast O motivo de eu fazer esse post esta aí, haha. Essa música é capaz de &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/03/foto-com-a-bela-e-a-fera.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/03/foto-com-a-bela-e-a-fera.jpg'
   width: '828'
   height: '828'
 # </extra>

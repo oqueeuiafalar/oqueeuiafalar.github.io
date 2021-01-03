@@ -12,7 +12,7 @@ date: 2016-12-26 13:01:15
 # <extra>
 description: 'Oi gente, tudo bem? Esses dias atrás eu fiz um post com várias dicas de como usar calça jeans destroyed, mas não é só na calça jeans destroyed que eu estou viciada, também estou amando usar esse macacão jeans destroyed – e sorts jeans destroyed também haha. Esse macacão jeans já apareceu em outro look aqui no blog  mas eu estava louca para montar um look todo jeans e eu adorei esse. Essa regata jeans é toda de poá (desculpa por não ter tirado fotos mais de perto, mas terá outros looks com ela hehe), muito fofa, e eu adoro abotoar até em cima, fica bem cool. Combinei o look com um tênis branco, porque também estou viciada em usar tênis e para quem está querendo dicas e outras inspirações de como usar tênis branco aqui no blog tem um post &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/11/como-usar-look-all-jeans.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/como-usar-look-all-jeans.jpg'
   width: '4000'
   height: '4000'
 # </extra>

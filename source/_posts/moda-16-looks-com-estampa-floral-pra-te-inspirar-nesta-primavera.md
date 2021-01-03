@@ -8,7 +8,7 @@ date: 2014-09-08 20:37:36
 # <extra>
 description: 'Gente está chegando àquela estação mais colorida, romântica e fofa do ano, a primavera. E se você assim como eu é adepta das estampa florais com certeza já deve estar pensando nas maravilhas que vai poder usar agora que a primavera está aí pra nos inspirar. Pensando nisso separei algumas dicas de looks pra gente poder se inspirar e montar os nossos próprios looks com aquele toque especial. Vamos lá! Deu pra se inspirar? Várias formas de mesclar estampas e usar o floral em plena primavera, hehe. São ótimas formas de usar tanto em eventos mais formais quando os mais informais, como um passeio em um domingo à tarde. Agora me falem de qual vocês gostaram mais? &nbsp; &nbsp; &nbsp;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/09/flores1.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/flores1.jpg'
   width: null
   height: null
 # </extra>

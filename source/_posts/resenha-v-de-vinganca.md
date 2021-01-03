@@ -8,7 +8,7 @@ date: 2015-04-27 16:26:41
 # <extra>
 description: 'Quando o filme “V de vingança” foi lançado em 2005, os quadrinhos que deram origem ao longa já eram um sucesso à um bom tempo, para ser mais exato desde 1982. No filme e nos quadrinhos “V de vingança” conta a história de um futuro distópico digno de George Orwell ou Aldous Huxley. A história se passa na cidade de Londres logo após uma guerra nuclear, que entre outras coisas, devastou a Europa. Se alimentando do choque sofrido pelo povo inglês durante a guerra o partido político Chama Nórdica sobe ao poder criando um regime fascista e de vigilância de todos os cidadãos. O regime político da Inglaterra em “V de vingança” promove campos de concentração, extermínio de minorias, monitoramento ininterrupto dos indivíduos, censura, uma polícia secreta com excesso de poder e culto à figura do líder supremo e chefe &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSC03722-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSC03722-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-09-12 11:53:33
 # <extra>
 description: 'Bom dia, gente. Bora começar o fim de semana inspirados? Então vamos ao Coisas Lindas da Semana 32. Ah, a Provence Como não se apaixonar por um lugar desses? Olha todas essas cores, essa paisagem, fora o cheiro que deve ser maravilhoso&#8230; Essa penteadeira Que delicadeza, adoro essas decorações com tons bem neutros, fica muito elegante e essa penteadeira está tão linda, delicada, romântica, que mulher não gostaria de ter uma, né? rs. Essa mensagem Ahh, quando tiver minha casa quero poder colocar esses tipos de mensagens, deixa o astral melhor e dá mais animo, não acham? Esses biscoitinhos Ainda falta muito pra dezembro? Assim que bati o olho nesses biscoitos comecei a contar os dias para o Natal (amo o clima natalino), eu sempre adorei esses biscoitos decorados, mas confesso que morro de dó de comer, e se eu &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/09/Provence-France.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/Provence-France.jpg'
   width: null
   height: null
 # </extra>

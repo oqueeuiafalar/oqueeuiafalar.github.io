@@ -8,7 +8,7 @@ date: 2015-05-02 13:04:06
 # <extra>
 description: 'Oi gente, como foi a semana? Tenho certeza que boa, afinal, teve mais um feriado haha. E pra embelezar ainda mais o feriado vamos lá ver as coisas lindas dessa semana. Essa saia Apesar de eu ter falado “Essa saia” o look todo está lindo de mais, não acham? Eu acho a saia midi a cara da elegância e prevejo que em breve terei alguma no armário haha. Essas almofadas Ahhh, olha que amor essas almofadas, são folhinhas de outono, vocês não fazem ideia de como eu sou apaixonada por folhinhas de outono  Essa meia Essa é a meia-calça mais fofa da história. Eu acho que não teria coragem de usar, ou teria? Bom, não sei, mas que é a meia mais fofa que existe, ah isso é Esse desktop Eu não sei bem se esse cantinho é um desktop, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/05/6ffb917c18d93f522646285af567dd3e-681x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/6ffb917c18d93f522646285af567dd3e-681x1024.jpg'
   width: null
   height: null
 # </extra>

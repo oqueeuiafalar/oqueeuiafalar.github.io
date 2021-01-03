@@ -8,7 +8,7 @@ date: 2014-12-01 19:33:09
 # <extra>
 description: 'Gente, a Fundação Itaú Social tem um programa muito legal que é “Leia para uma criança” que diz que a educação muda o mundo. Há um tempo atrás postei no facebook um link sobre esse projeto e expliquei que pra quem quisesse ganhar os livros era só entrar no site e solicitar que o Itaú envia pelo correio. Esse é um projeto de incentivo a leitura voltada para crianças, e que contribui para o seu desenvolvimento fazendo com que o gosto pela leitura seja adquirido desde cedo. Os meus livros chegaram semana passada, que são: No livrinho “Papai” vemos que de noite as crianças deveriam dormir, porém, nem sempre isso acontece, talvez porque elas queiram seus pais por perto, ou talvez porque tenham medo de monstros que habitam seus sonhos e os tornam pesadelos, sendo difícil para elas conseguirem distinguir &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/12/DSC03396.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/12/DSC03396.jpg'
   width: null
   height: null
 # </extra>

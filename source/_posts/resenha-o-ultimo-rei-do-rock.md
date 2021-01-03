@@ -8,7 +8,7 @@ date: 2015-07-01 10:48:06
 # <extra>
 description: '“O ultimo rei do rock” escrito por Carlos Maltz e lançado pela editora Belas Letras  se passa em um futuro não tão distante, 2020 em Brasília e conta a história de Juan LMK, que nasceu no mesmo dia, hora e hospital em que John Lennon morria, fato que se tornou sua sina. Juan  é  vocalista de uma banda punk chamada “Os paralelepípedos do Óbvio” fundado por ele  em 2000 juntamente com seus amigos Ra-Tón e Daniel Loló. O grupo contava com uma fã número um que eu não posso deixar de citar, a Mel Lee. Então uma multinacional chamada ManGodCorp resolve convidar Juan juntamente com sua banda para se tornarem garotos propaganda de um produto  inovador: um implante nano-neural que promete expandir a inteligência. No começo Juan fica bem indeciso se aceita o convite ou não, mas após muita manipulação &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/06/capa-do-livro-O-último-rei-do-rock-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/capa-do-livro-O-último-rei-do-rock-1024x768.jpg'
   width: null
   height: null
 # </extra>

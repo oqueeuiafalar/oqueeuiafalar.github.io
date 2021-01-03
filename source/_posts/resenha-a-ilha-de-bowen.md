@@ -8,7 +8,7 @@ date: 2015-06-08 14:58:53
 # <extra>
 description: 'Gente, preciso confessar: a introdução de “A ilha de Bowen”, da Editora Biruta não me animou e eu pensei: “como vou ler o resto?”. Mas a notícia boa é que logo após, no primeiro capítulo, começaram as boas surpresas 🙂 “A ilha de Bowen” a cada capítulo eu sentia vontade de tirar um dia inteiro só pra poder saber logo como vai terminar, de tão bom que é. É um livro repleto de mistérios que aos poucos vão sendo explicados. Logo no começo do livro ocorre o assassinato de Jeremiah Perkins, um tripulante do navio Britannia que foi assassinado por ter recebido um pacote com um conteúdo desconhecido que ele enviou para a Inglaterra. Samuel Durango é um fotografo que havia se mudado a pouco tempo para Madrid e resolve procurar um emprego, até que vê no jornal uma vaga para &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/06/capa-do-livro-A-ilha-de-Bowen-Editora-Biruta-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/capa-do-livro-A-ilha-de-Bowen-Editora-Biruta-1024x768.jpg'
   width: null
   height: null
 # </extra>

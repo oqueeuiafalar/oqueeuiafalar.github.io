@@ -12,7 +12,7 @@ date: 2019-06-30 07:40:50
 # <extra>
 description: 'Sinopse:    Pino Lella não quer se meter na guerra dos nazistas. Ele é o típico adolescente italiano da década de 1940: adora a música, a boa comida e, é claro, as garotas. No entanto, seus dias de inocência estão contados. Quando a cidade de sua família, Milão, é destruída durante um bombardeio orquestrado pelos Aliados, Pino passa a ajudar a fuga de judeus por meio de uma rede secreta de passagens subterrâneas, sob os Alpes. Nesse meio-tempo, o garoto acaba se apaixonando por Anna, uma bela viúva seis anos mais velha que ele. A guerra, no entanto, é implacável. Na tentativa de proteger o filho, os país de Pino o forçam a se alistar nas Forças de Guerra Alemãs, acreditando que, dessa forma, ele estaria livre do front. Seus caminhos o levarão à oportunidade de agir como espião dentro do &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2019/06/sob-o-ceu-escarlate.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/06/sob-o-ceu-escarlate.jpg'
   width: '624'
   height: '624'
 # </extra>

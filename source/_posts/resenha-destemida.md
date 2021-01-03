@@ -8,7 +8,7 @@ date: 2015-09-16 09:00:36
 # <extra>
 description: 'Até hoje li poucas biografias, mas a editora Belas Letras me enviou o livro “Destemida” e só de ler a contra-capa já fiquei super curiosa pela história. O livro é todo narrado por Jessica Watson, uma jovem de apenas 16 anos que deu a volta ao mundo sozinha em um barco. Jessica começou a velejar bem cedo, com apenas oito anos, junto com sua família e então se apaixonou por isso. Aos doze anos após ler sobre algumas pessoas que davam a volta ao mundo sozinhas em seus barcos ela começou a se interessar pela possibilidade de dar a volta ao mundo e contou com o apoio de sua irmã Emily. No começo seus pais não gostaram da ideia, mas após verem todas as pesquisas que ela fazia sobre o assunto e sua determinação para tornar seu sonho realidade, como pesquisas &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/09/DSC03948-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/DSC03948-1024x768.jpg'
   width: null
   height: null
 # </extra>

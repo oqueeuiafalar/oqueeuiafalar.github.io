@@ -12,7 +12,7 @@ date: 2018-01-13 15:18:31
 # <extra>
 description: 'Menina Veneno foi um conto escrito por Carina Risse para O Livro dos Vilões, esse livro conta com a colaboração de mais quatro autores. Porém, a história da Menina Veneno Malvina Neves deu tão certo que ela precisou – é claro – de um livro dedicado todinho para ela. Malvina Neves é linda, rica, poderosa e a maior top model do mundo. E após Henrique Neves, seu marido, morrer em um acidade de carro – ele era piloto – ela fica com a tarefa de cuidar da enteada Bianca Neves até que ela complete dezoito anos. Bianca é a pedra no sapato de Malvina, ela é a típica adolescente que não esta nem ai para nada, nunca esta muito preocupada com a sua beleza – apesar da garota ser linda e também modelo – e vive comendo tudo o que &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resenha-livro-menina-veneno.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resenha-livro-menina-veneno.jpg'
   width: '828'
   height: '828'
 # </extra>

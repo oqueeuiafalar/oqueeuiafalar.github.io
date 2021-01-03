@@ -8,7 +8,7 @@ date: 2014-05-06 11:24:52
 # <extra>
 description: 'Ana Karênina é um romance de Liev Tolstoi publicado entre 1873 e 1877 e começa com uma das frases mais famosas da literatura: &#8220;Todas as famílias felizes são parecidas entre si. As infelizes são infelizes cada uma a sua maneira.&#8221; O romance conta com vários personagens, mas gira em torno principalmente da relação amorosa de três casais: Kitty e Liêvin, Dolly e Stiva, Ana e Vronski. Logo no começo do livro vemos Ana, que é casada com Alexei Karenin, um oficial do governo, viajando para Moscou para ajudar seu irmão Stiva a não acabar com o casamento, pois Dolly descobriu que ele a traia com a governanta de seus filhos. Ana consegue fazer com que eles se entendam, porém, eles mantêm um casamento de aparências, sem amor, para serem mais bem aceitos perante a sociedade. O outro casal é formado &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02730.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02730.jpg?w=650'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2014-08-31 20:47:36
 # <extra>
 description: 'Oi gente, a maioria de vocês já deve ter percebido que meu blog está de cara e endereço novo, mais do que isso estamos até mesmo de nome novo, sejam bem vindos ao &#8220;O que que eu ia falar?&#8221;. O nome surgiu de repente em um das muitas conversas com meu namorado que eu costumo começar com &#8220;O que que eu ia falar?&#8221; rs Recentemente escreví meu último post no http://nataliasantos.wordpress.com, novos e antigos visitantes já podem acessar meu novo endereço: http://natalia.blog.br que ficou muito bonito e já está cheio de novidades 🙂 Com o novo blog também atualizei a cara do meu twitter, criei uma página no facebook. Curtam e fiquem por dentro das novidades. Ah, e não esqueçam de me seguir no bloglovin. Follow my blog with Bloglovin &nbsp;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc02904-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc02904-1024x768.jpg'
   width: null
   height: null
 # </extra>

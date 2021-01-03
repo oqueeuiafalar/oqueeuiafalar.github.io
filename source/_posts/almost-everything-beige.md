@@ -9,7 +9,7 @@ date: 2014-07-22 18:21:58
 # <extra>
 description: 'Blusa: Renner / Shorts: Marisa / Mocassim: Dakota / Meia-fina cor Champagne: Trifil &nbsp; Domingo resolvi ir ao shopping pra comer Croasonho e não pude deixar de tirar fotos do look pra vocês, espero que tenham gostado 🙂 Beijos!'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/07/dsc03068.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/07/dsc03068.jpg'
   width: null
   height: null
 # </extra>

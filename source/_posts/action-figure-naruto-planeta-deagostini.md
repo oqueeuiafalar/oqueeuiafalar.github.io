@@ -12,7 +12,7 @@ date: 2017-02-27 11:34:47
 # <extra>
 description: 'Fãs do mangá e série de animação Naruto Shippuden tem uma estréia para acompanhar. A Editora Planeta DeAgostini lança em Março de 2017 uma coleção de action figures de Naruto. A coleção irá contar com 60 figuras com tamanho entre 8 e 13 centímetros. A primeira edição vai às bandas com preço de R$ 14,99. A segunda edição chega com preço de R$ 29,99 e as seguintes serão vendidas pelo preço de R$ 49,99. O preço me pareceu estar de acordo com o praticado para esse tipo de action figure, sendo comparável por exemplo ao preço das miniaturas da Turma da Mônica lançadas em 2016 pela Salvat. Todas as edições da coleção acompanham um fascículo de 8 páginas com mais detalhes sobre o personagem, suas técnicas ninjas e uma página dedicada ao mundo de Naruto, falando sobre detalhes das Nações &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/02/Action-Figure-Planeta-DeAgostini-Naruto.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/02/Action-Figure-Planeta-DeAgostini-Naruto.jpg'
   width: '828'
   height: '828'
 # </extra>

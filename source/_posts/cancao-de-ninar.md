@@ -11,7 +11,7 @@ date: 2018-05-09 20:04:08
 # <extra>
 description: 'Eu e o José participamos de um evento da Editora Planeta para conhecer os lançamentos desse anos e nesse evento eu recebi o livro Canção de Ninar da autora Leïla Slimani, um best seller na França que aqui foi publicado pela Tousquets. Em Canção de Ninar conhecemos um casal francês que resolve contratar uma babá após a esposa decidir que quer voltar a trabalhar e se dedicar a sua profissão de advogada. Depois de algumas entrevistas com mulheres dispostas a cuidar de seus dois filhos,  o casal decide por Louise, uma babá que parece dos sonhos, perfeita, que aparentemente cuida muito bem de seus filhos e de quebra ainda arruma a casa e faz deliciosas refeições Porém, mal sabia os pais que Louise iria matar seus dois filhos e ainda tentar suicídio, e não, isso não é spoiler, afinal a &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/05/livro-canção-de-ninar.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/05/livro-canção-de-ninar.jpg'
   width: '1000'
   height: '1000'
 # </extra>

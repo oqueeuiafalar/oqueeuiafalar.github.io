@@ -11,7 +11,7 @@ date: 2016-11-17 08:14:52
 # <extra>
 description: 'Ter um escritório em casa se tornou algo bem comum. Muitas empresas permitem que seus funcionários trabalhem em casa, nisso também podemos incluir os freelancers e as empresas que estão começando e ainda não tem uma sala comercial. O home office serve tanto para as pessoas trabalharem, como para estudarem ou apenas para colocar as finanças da casa em dia com conforto e organização, mas quem  mora em casa ou apartamento pequeno encontra dificuldades para montar esse cantinho tão necessário. Se você esta pensando em montar um home office continue lendo esse post, pois, vou dar várias dicas e inspirações de como fazer isso em algum cantinho aí da sua casa de forma fácil, bonita e bem funcional, vamos lá! 1- Se você tem escada em casa, use aquele espaço embaixo dela para fazer seu home office, fica lindo. 2- Se &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/escritório-dentro-do-armário.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/escritório-dentro-do-armário.jpg'
   width: '828'
   height: '828'
 # </extra>

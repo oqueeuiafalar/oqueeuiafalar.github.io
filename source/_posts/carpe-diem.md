@@ -9,7 +9,7 @@ date: 2014-03-05 20:19:22
 # <extra>
 description: 'Segunda Pele: Renner. Blusa: Renner. Sapatilha: Moleca. Óculos: Triton. Calça: Loja Revides. Gente, aproveitei que o calor deu uma trégua na região e resolvi dar um passeio pelo Parque da Cidade em São José dos Campos para curtir o último dia desse feriado de carnaval. O melhor é que a chuva esperou a sessão de fotos para aparecer e ajudou a refrescar o final de tarde. Beijos!'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/03/dsc02279.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/03/dsc02279.jpg?w=650'
   width: null
   height: null
 # </extra>

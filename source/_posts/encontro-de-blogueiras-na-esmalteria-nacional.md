@@ -12,7 +12,7 @@ date: 2016-08-01 09:54:41
 # <extra>
 description: 'No sábado 23 de julho a Esmalteria Nacional localizada na Vila Ema em São José dos Campos  promoveu um encontro com blogueiras de moda e beleza  do Vale do Paraíba. Foi uma tarde recheada  de embelezamento das unhas, fotos, música, quitutes gostosos e muito bate papo, teve até uma palestra com a coaching e consultora de imagem Edilene Boralli. O ambiente é todo fofo, com um ar vintage e decoração que agrada aos olhos assim que você coloca os pezinhos pra dentro, e a recepção das meninas é maravilhosa, então se você mora na região e quer deixar suas unhas lindas em um ambiente agradável e ainda de quebra comprar umas roupas (porque sim, lá também vende roupas maravilhosas!), você tem que conhecer a Esmalteria Nacional da Vila Ema, vai ser amor à primeira esmaltação hehe. Pra quem não mora &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/07/encontro-de-blogueiras.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/encontro-de-blogueiras.jpg'
   width: '828'
   height: '828'
 # </extra>

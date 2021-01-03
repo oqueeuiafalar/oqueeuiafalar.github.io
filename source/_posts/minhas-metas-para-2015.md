@@ -8,7 +8,7 @@ date: 2015-01-07 16:56:46
 # <extra>
 description: 'Agora que acabou as festas de fim de ano, as confraternizações, as comilanças e que tudo esta voltando ao normal, chegou a hora de fazer planos para esse novo ano. E de tanto ver gente conversando sobre os planos para esse ano e pessoas escrevendo na web sobre metas, objetivos e sonhos que querem realizar em 2015, parei, pensei um pouco e vi que também quero ter algumas metas esse ano, aparentemente são bem simples, mas quando começamos a correr atrás vemos que não são tão fáceis assim e isso nos motiva. Fiz uma lista de 5 coisas que quero fazer em 2015, são coisas básicas, mas pra mim muito importante. Comer mais frutas. Eu até que tento levar uma vida mais saudável, afinal eu faço caminhas diárias, tudo que eu posso fazer a pé eu faço, evito comer frituras, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/01/DSC03498-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/01/DSC03498-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-03-11 19:13:30
 # <extra>
 description: 'Confesso que tenho preferência por ler romances, mas recentemente me rendí à experiência de ler A menina do vale de Bel Pesce. O livro apresenta algumas dicas sobre empreendedorismo. Bel conta um pouco sobre sua vida, seus estudos no MIT (Massachusetts Institue of Technology), a sua persistência em buscar sempre mais. É um livro motivacional que busca responder perguntas como: O que é empreendedorismo? Como posso trabalhar para atingir meus objetivos? entre outras. Porém se você esta procurando por respostas de fato ou atalhos para fazer do seu negócio um sucesso não recomendo “A menina do vale”, pois ele é bem superficial É um livro de leitura rápida, com dicas básicas. O livro tem alguns pontos positivos, é muito bem ilustrado e aponta sugestões de livros possivelmente interessantes sobre administração. Eu que sou formada em administração e vi muitas dessas &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/03/DSC03599-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/DSC03599-1024x768.jpg'
   width: null
   height: null
 # </extra>

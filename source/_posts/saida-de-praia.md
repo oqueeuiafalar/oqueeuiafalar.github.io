@@ -13,7 +13,7 @@ date: 2018-06-11 19:44:22
 # <extra>
 description: 'Quer ficar ainda mais estilosa e bonita para suas tardes na praia e na piscina. Confira nossas dicas e seleção de saída de praia para você arrasar.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/06/saida-de-praia-azul-com-detalhe-cor-de-rosa-de-pompom.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/saida-de-praia-azul-com-detalhe-cor-de-rosa-de-pompom.jpg'
   width: '533'
   height: '533'
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-12-05 12:51:26
 # <extra>
 description: 'Mais uma semana, mais um coisas lindas, já é o número 44, acreditam? Vamos lá para nossas inspirações de moda e decoração rs Esse look Eu não queria uma saia dessa ( que está super na  moda ) até eu ver esse look fofo. Amei a saia, muito delicada com esses detalhes e a camisa eu não vou nem comentar que tá lindíssima. Esse sapato Gente, que mulher é louca por sapato todo mundo sabe, eu devo confessar que gosto, mas não sou nenhuma maluca por calçados, mas após ver esse da foto eu fiquei chocada com tanta beleza haha. Sério, eu praticamente não uso salto, mas esse sapato faria eu mudar meu conceitos, porque ele é divino. Essa cama Quanta meiguice em uma cama só, eu que já amo dormir iria querer dormir ainda mais se essa cama fosse &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/12/saia-com-botão-na-frente-e-camisa-branca-look-681x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/saia-com-botão-na-frente-e-camisa-branca-look-681x1024.jpg'
   width: null
   height: null
 # </extra>

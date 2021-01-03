@@ -8,7 +8,7 @@ date: 2015-05-18 16:36:07
 # <extra>
 description: 'A alguns dias atrás eu postei aqui no blog a resenha dos primeiros capítulos do livro “A mais pura verdade”, mas agora que a editora Novo Conceito me enviou o livro completo e matou minha curiosidade, vou postar o que achei do livro. O livro nos leva para uma verdadeira aventura juntamente com o protagonista Mark e seu cão Beau. Mark um garoto de apenas doze anos que tem uma grave doença está cansado de sofrer com dores, exames e internações, por isso ele resolve abandonar seu tratamento e ir atrás de seu sonho, escalar o Monte Rainer, sonho que ele prometeu a seu avô que um dia iria realizar, e nessa viagem ele resolve levar seu fiel cão, Beau, um cachorro que está com ele em todas as horas, servindo de companhia e também o protegendo dos perigos da &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/05/DSC03638-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/DSC03638-1024x768.jpg'
   width: null
   height: null
 # </extra>

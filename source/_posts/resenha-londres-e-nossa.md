@@ -14,7 +14,7 @@ date: 2017-08-15 08:17:05
 # <extra>
 description: 'O livro “Londres é nossa!” conta a história de Sunny, uma garota que após ter recebido uma foto muito suspeita em seu celular, resolve sair em uma corrida alucinada atrás de seu namorado pela noite de Londres até conseguir solucionar tudo. Sunny sempre foi uma garota  quieta, sem perder a linha, mas um dia durante um piquenique com alguns amigos  ela descobre que seu namorado, Mark, pode estar  tendo um caso com outra garota e aí para seu azar e nossa felicidade, vai começar a noite de sábado mais louca de sua vida. Com a ajuda dos Goddard – os primos franceses super divertidos, misteriosos e responsáveis pelas melhores partes do livro – Sunny passa a madrugada toda acordada indo de bar em bar, de balada em balada, andando pelos mais variados bairros de Londres na esperança de encontrar Mark  &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-livro-Londres-é-nossa.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-livro-Londres-é-nossa.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -9,7 +9,7 @@ date: 2016-05-10 14:11:15
 # <extra>
 description: 'Hoje é aniversário do um dos meus artistas favoritos, Bono, ( se não do meu favorito) e claro que eu não podia deixar a data passar em branco hehe. Pra gente poder festejar criei uma playlist no Spotify com as minhas músicas favoritas do U2, espero que vocês gostem e comemorem também: &nbsp; Mais alguém ai é fã do U2/Bono? Gostaram da playlist ou acrescentariam mais músicas? Beijos!'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/05/Bono_U2_360_Tour.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/Bono_U2_360_Tour.jpg'
   width: null
   height: null
 # </extra>

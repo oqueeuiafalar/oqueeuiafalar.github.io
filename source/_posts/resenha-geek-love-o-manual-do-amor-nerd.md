@@ -8,7 +8,7 @@ date: 2016-04-06 12:16:04
 # <extra>
 description: '“Geek love &#8211; o manual do amor nerd” é um guia para garotos nerds, mas que também pode ser lido por garotas, onde se encontra diversas dicas sobre como conseguir uma namorada, passando por dicas durante as fazes do relacionamento, chegando até o fim da relação, isso tudo recheado de referencias geeks. O autor Eric Smith, ensina o player 1, como ele chama o leitor, com detalhes a conquistar uma garota, escolher o melhor local para um encontro, descobrir sobre assuntos que ela gosta, como pedi-la em namoro, como se relacionar com a família dela e se infelizmente acontecer das coisas começarem a dar errado, ele ensina a como lidar com o fim de um relacionamento. Mais uma coisa muito legal do livro é que além dele te dar varias dicas de conquistas, ele também fala sobre os vários tipos &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Geek-love-o-manual-do-amor-nerd-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Geek-love-o-manual-do-amor-nerd-1024x768.jpg'
   width: null
   height: null
 # </extra>

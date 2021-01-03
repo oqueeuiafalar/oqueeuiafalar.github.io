@@ -8,7 +8,7 @@ date: 2015-12-09 19:45:02
 # <extra>
 description: 'Se tem um acessório que ta ganhando muita força no mundo da moda ele é o skinny scarf. A peça ganhou muito destaque no desfile de inverno 2016 da grife Chloé e nada mais é que um lenço bem comprido e fininho que dá um toque de charme para qualquer look, além de ser super compatível com o clima quente do Brasil. Selecioneis algumas imagens pra vocês poderem se inspirar e se jogar nessa nova tendência. Os lenços mais tradicionais nas passarelas são os mais sóbrios como preto, caramelo e nude, mas na  street style podemos ver eles um pouco mais divertidos, como com estampas de poás. O legal dessa tendência é que até aqueles looks mais clássicos, românticos ou sérios podem ganhar ares mais cool com a ajuda do lenço. Por aqui ainda é um pouco difícil achar onde &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/12/skinny-scarf-trend-alert.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/skinny-scarf-trend-alert.jpg'
   width: null
   height: null
 # </extra>

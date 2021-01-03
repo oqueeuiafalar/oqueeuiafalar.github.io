@@ -8,7 +8,7 @@ date: 2016-03-19 13:04:18
 # <extra>
 description: 'Agora  que a páscoa está bem perto eu resolvi dar algumas dicas pra vocês de decoração nessa data tão gostosa. Não é preciso quebrar muito a cabeça ou investir muito dinheiro pra deixar a casa mais bonita nessa época, basta usar um pouco de criatividade e ter alguns objetos curingas que tudo dará certo. Eu acredito que a decoração de páscoa fica linda com detalhes mais clarinhos como o branco, cinza, marrom e tons pastel, então você pode escolher uma toalha branca pra começar, e comprar alguns objetos fofos com temas relacionados a coelhos e cenouras, nessa época é bem fácil encontrar e não são caros. Também há no mercado louças com pinturas do tema, mas essas são um pouco mais caras, ai vai do quanto você pode e quer investir, uma outra dica é usar tecido como juta ou &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/03/ovos-para-decoração-de-páscoa.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/03/ovos-para-decoração-de-páscoa.jpg'
   width: null
   height: null
 # </extra>

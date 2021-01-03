@@ -10,7 +10,7 @@ date: 2017-05-31 13:09:11
 # <extra>
 description: 'Para você que ama viajar, e que já passou por muitos lugares ou pretende passar, esses estilo de decoração é o ideal para você, seja para recordar ótimos momentos vividos em viagens incríveis que você teve sozinho, com parentes ou amigos, ou até mesmo para você tentar achar inspiração para uma nova viagem e aventura para botar aquele fogo de volta na sua vida. Então aqui vamos tentar trazer inspiração para você através da utilização de objetos e suvenires decorativos que possuem o tema viagem e terão todos esses efeitos em você. Quadros e inspirações Os quadros são uma forma clássica de decorar e como você pode colocar o que quiser em uma tela branca por que não colocar a inspiração para uma viagem ali, combiná-los com um piso de porcelanato pode ser uma boa ideia também. Mapa mundi Fazer &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/05/mapa-mundi.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/05/mapa-mundi.jpg'
   width: '828'
   height: '828'
 # </extra>

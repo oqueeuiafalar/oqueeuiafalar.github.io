@@ -13,7 +13,7 @@ date: 2017-11-01 10:17:49
 # <extra>
 description: 'Em “A caminho de casa” acompanhamos Radhanath Swami por uma longa peregrinação em busca de autoconhecimento,indo de Chicago ao Himalaia'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/10/resenha-a-caminho-de-casa-radhanath-swami.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/10/resenha-a-caminho-de-casa-radhanath-swami.jpg'
   width: '828'
   height: '828'
 # </extra>

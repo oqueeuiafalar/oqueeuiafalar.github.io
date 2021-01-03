@@ -8,7 +8,7 @@ date: 2014-05-13 09:49:19
 # <extra>
 description: 'O livro &#8220;O Fantasma&#8221; de Robert Harris é contado por um ghost-writer que é contratado para ajudar a terminar a auto-biografia de um ex-primeiro ministro britânico, Adam Lang, pois quem a estava escrevendo, um assistente de Lang, é encontrado morto deixando assim o livro pela metade. Assim que o ghost-writer começa a trabalhar no livro uma bomba vem à imprensa, Adam Lang é acusado de crimes de guerra, e aí começa a história. Ao longo do livro pode-se ver que o ghost-writer começa a se arrepender de ter aceito o emprego, que apesar de muito lucrativo o leva a um inferno, pois o passado do ex-primeiro ministro é muito tenebroso, diferente daquele que todos imaginavam. Aos poucos Harris vai revelando os segredos na história, o que faz ela ficar cada vez mais envolvente até chegar a um final surpreendente. Um &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02809.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02809.jpg?w=650'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-04-20 14:03:54
 # <extra>
 description: 'Recentemente comecei uma parceria com a Editora Biruta, a editora é especializada em literatura juvenil com muitos títulos premiados no exterior, e posso afirmar que comecei bem, com o livro “Batendo à porta do céu” do autor Jordi Sierra. “Batendo à porta do céu” nos apresenta Silvia, uma jovem espanhola de dezenove anos que estuda medicina e resolve ir trabalhar como voluntária em um hospital na Índia. Seu pai, um renomado médico, é totalmente contra a ideia dela ir para Índia e sua mãe também não fica muito atrás, pois eles estão acostumados com uma realidade totalmente diferente daquela que Silvia encontrará na Índia. Quando Silvia chega no hospital indiano ela é recebida por Elisabet Roca, uma médica que já atua a anos como voluntária na Índia. É nesse hospital também que Silvia conhece conhece Leo, um excelente estudante de &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSC03677-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSC03677-1024x768.jpg'
   width: null
   height: null
 # </extra>

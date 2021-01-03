@@ -8,7 +8,7 @@ date: 2018-10-12 10:53:04
 # <extra>
 description: 'Quer saber como deixar a sua casa ainda mais bonita utilizando paisagismo? Pois então confira nossas dicas e invista em um belo jardim.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/10/paisagismo.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/10/paisagismo.jpg'
   width: '1600'
   height: '1600'
 # </extra>

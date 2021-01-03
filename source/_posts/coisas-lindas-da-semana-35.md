@@ -8,7 +8,7 @@ date: 2015-10-03 10:52:16
 # <extra>
 description: 'Oi, gente. Que tal falarmos um pouquinho de moda e decoração para começar bem esse final de semana? Aqui vão algumas coisas lindas para nos inspirar. Essa loja Gente, como não se apaixonar por essa loja??? Primeiro porque as roupas parecem lindas, segundo porque a decoração tá um arraso, bem rustica, dando um ar mais aconchegante, adorei. Essa make É quando vejo essas fotos que eu fico triste por não ter coordenação motora para poder fazer uma make linda dessa haha. Essas listras Depois do poa, minha estampa predileta são as listras, por isso eu devo ter adorado esse look, listras por todos os lados haha. Essa poltrona É muito amor envolvido nessa poltrona haha, linda, aconchegante, e suspensa, amei. E aí, gostaram? Como sempre falo, coisas lindas nunca são demais e sempre melhoram o final de semana. Quem tiver &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/10/loja-rustica-decoração-683x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/loja-rustica-decoração-683x1024.jpg'
   width: null
   height: null
 # </extra>

@@ -9,7 +9,7 @@ date: 2015-02-11 17:56:52
 # <extra>
 description: 'Já faz um bom tempo que ganhei essa saia de uma amiga (obrigada Gisa :D) e ela ficava lá no fundo do armário, apesar de eu achar ela linda demais, eu nunca conseguia me sentir bem com ela, ou achava que os looks que eu montava não ficavam bons, mas tem aquela velha frase “Menos é mais” e na semana passada eu resolvi finalmente experimentar ela com uma blusa preta básica e eu amei o resultado. A saia é bem levinha, então não dá pra usar ela em dias com muito vento, hehe, mas é um conforto sem igual. E aí, o que acharam? Aposto que vocês também tem um bom look esquecido aí no armário só esperando para ser vestido, basta um pouquinho de tempo e disposição e descobrimos novas e boas  combinações de roupa, não é mesmo? Vestindo: &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/02/DSCN0189.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/DSCN0189.jpg'
   width: null
   height: null
 # </extra>

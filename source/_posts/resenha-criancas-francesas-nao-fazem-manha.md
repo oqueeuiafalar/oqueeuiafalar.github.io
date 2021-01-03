@@ -8,7 +8,7 @@ date: 2015-09-09 19:55:53
 # <extra>
 description: 'A algumas semanas atrás resenhei aqui no blog o livro “Crianças francesas dia a dia&#8221; livro que conta 100 dicas para educar as crianças como os franceses educam, gostei tanto do livro que resolvi ler  o “Crianças francesas não fazem manha”, best-seller da autora Pamela Druckerman, e que originou o livro &#8220;Crianças francesas dia a dia&#8221;. O livro &#8220;Crianças francesas não fazem manha&#8221; é mais cheio de detalhes que o livro das 100 dicas, porque Pamela vai nos contando como é seu dia a dia e o modo como ela vai descobrindo como os franceses fazem para que seus filhos sejam tão bem educados e pacientes. Tudo começa quando a jornalista Pamela se muda para Paris logo após se casar, lá ela começa a observar como as crianças locais são muito educadas, elas não reclamam quando tem legumes nas refeições, não &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/09/capa-do-livro-Crianças-francesas-não-fazem-manha-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/capa-do-livro-Crianças-francesas-não-fazem-manha-1024x768.jpg'
   width: null
   height: null
 # </extra>

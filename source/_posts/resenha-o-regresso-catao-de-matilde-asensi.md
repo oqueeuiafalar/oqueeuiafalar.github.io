@@ -12,7 +12,7 @@ date: 2017-04-11 15:52:46
 # <extra>
 description: 'Ottavia é paleógrafa, Farag Bosweell é arqueólogo e marido de Ottavia e ambos trabalharam para a Universidade de Toronto. Um dia o diretor da universidade resolve visitar o casal, porém, vai acompanho de Becky e Jake Simonson &#8211; um casal octogenário ou nonagenário – milionários que patrocinam diversas pesquisas cientificas. O casal – octogenário ou nonagenário – entrega para Ottavia e Farag um documento do século XII e que possue um valor historio inimaginável, o documentos fala sobre a descoberta de ossadas de membros da família de Jesus, e para deixar Ottavia de cabelo em pé, falava da ossada do próprio Jesus. Ottavia é cristã fervorosa – inclusive foi freira antes de se casar com Farag – e ao mesmo tempo em que ela quer encontrar os ossos de Jesus, ela tem medo que isso abale sua fé, afinal, se &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/03/capa-do-livro-o-regresso-do-catão.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/03/capa-do-livro-o-regresso-do-catão.jpg'
   width: '828'
   height: '828'
 # </extra>

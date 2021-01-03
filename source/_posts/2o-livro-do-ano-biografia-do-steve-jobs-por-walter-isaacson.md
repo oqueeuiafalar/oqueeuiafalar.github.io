@@ -8,7 +8,7 @@ date: 2014-02-15 21:41:58
 # <extra>
 description: 'Gente, ganhei esse livro de uma amiga em 2012, então eu já tinha lido, mas como eu amei, resolvi ler de novo.  Vamos lá resenhar. Nessa biografia podemos observar quão visionário, detalhista e criativo Steve Jobs era. Ele tinha um estilo de gestão bem rígido, exigia muito de seus funcionários, mudava de opinião rapidamente, principalmente quando a opinião de algum funcionário não seguia as suas regras, era obcecado pela qualidade e design dos seus produtos. Steve Jobs nunca fez pesquisa para saber  o que seus clientes queriam, nunca seguiu as tendências de mercado. Ele dizia: As pessoas não sabem o que querem antes de mostrarmos. O livro conta toda a vida de Steve Jobs, passando pela sua adolescência e juventude quando usava drogas, sua busca espiritual, viagem a Índia, a criação da Apple, sua saída da Apple, a criação da &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/02/dsc021081.jpg?w=487'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/02/dsc021081.jpg?w=487'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2014-09-02 19:46:31
 # <extra>
 description: 'Os leões de Bagdá é uma graphic novel com roteiro de  Brian K. Vaughan e ilustrações de  Niko Henrichon, a história se passa durante a guerra do Iraque. A primeira coisa que preciso mencionar sobre essa HQ é a arte, o desenhista Niko Henrichon fez ilustrações maravilhosas nesse livro, tanto que tem horas que eu até me esquecia dos diálogos e ficava prestando atenção em cada detalhe dos desenhos. Mas vamos à história. O roteiro de Brian K. Vaughan é baseado na história real de quatro leões que fugiram de um zoológico em Bagdá durante um bombardeio dos EUA em 2003. Esse leões são os personagens principais da história, cada um deles com uma  personalidade bem distinta. Safa, a leoa fêmea anciã que nasceu e viveu por muitos anos na vida selvagem, Noor, a fêmea mais jovem que também nasceu &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/09/capa-do-livro-os-Leões-de-Bagdá.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/capa-do-livro-os-Leões-de-Bagdá.jpg'
   width: null
   height: null
 # </extra>

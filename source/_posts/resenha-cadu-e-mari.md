@@ -12,7 +12,7 @@ date: 2017-08-22 07:51:41
 # <extra>
 description: '“Cadu e Mari”  da autora A. C. Meyer é aquele livro que você já sabe o fim antes mesmo de terminar a primeira página, mas que mesmo assim a gente vai criando expectativas durante a leitura, querendo brigar com os personagens e dar o ombro amigos para os outros haha. O livro conta a história de amor de Carlos Eduardo e Mariana. Carlos Eduardo é um jovem lindo, atlético e bem sucedido diretor da revista Be, uma das maiores revista de moda do pais, e Mariana é sua competente e engraçada assistente. Como já é de se esperar, Mari tem uma queda enorme por Cadu, mas como eles vivem em mundos totalmente diferentes, ela resolve guardar seus sentimentos só pra si e ficar alimentando seu amor platônico apenas em pensamento. Porém, como em todo bom conto de fadas, um dia &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/08/capa-do-livro-cadu-e-mari.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/08/capa-do-livro-cadu-e-mari.jpg'
   width: null
   height: null
 # </extra>

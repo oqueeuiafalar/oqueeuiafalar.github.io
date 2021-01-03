@@ -8,7 +8,7 @@ date: 2015-02-21 14:31:02
 # <extra>
 description: 'Oi gente, tudo bem? Como foi a semana de vocês? Aproveitaram muito o carnaval? Eu aproveitei pra descansar bastante, fazer look do dia, que vou postar em breve pra vocês, colocar a leitura em dia e ir ao cinema para assistir meus amados “Pinguins de Madagascar” haha, tão fofos. Mas falando em aproveitar o feriado e tudo o mais, eu vi uma imagem linda que me fez querer ir para aquele lugar e tirar muitas e muitas fotos, que foi: Essa rua Como não se apaixonar por um lugar maravilhoso desse? É tudo tão encantador, os banquinhos, esse túnel de flores, ai, é amor demais. Onde será que fica, né? Vou comprar a passagem assim que descobrir rs. Essa janela Esse dias eu fiz um “Coisas lindas da semana” que coloquei um quintal maravilhoso que me lembrava a Itália e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/02/cffa00f0d0a8237881dd54619df6702a.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/cffa00f0d0a8237881dd54619df6702a.jpg'
   width: null
   height: null
 # </extra>

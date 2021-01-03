@@ -8,7 +8,7 @@ date: 2014-04-12 07:34:04
 # <extra>
 description: 'Gente, já faz um tempo que eu estava com uma vontade louca de comer doce de leite caseiro, e hoje finalmente minha mãe resolveu me ensinar a fazer, é muito fácil e ficam deliciosos, por isso resolvi compartilhar a receita com vocês. Ingredientes: 3 litros de leite 1 kg de açúcar Modo de preparo: Ponha o leite em uma panela e deixe ferver até reduzir pela metade (pra não subir e sujar todo o fogão, deixe uma panela de pau em cima da panela.) Junte o açúcar e mexa sem parar. Quando começar a engrossar continue mexendo, mas só em uma direção, até atingir o ponto desejado. Quem quiser fazer doce de leite cremoso, aquele pra comer de colher, usar como recheio de bolo, passar na torrada, retire do fogo enquanto estiver cremoso. Se você preferir o doce no ponto &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/04/dsc02538.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/04/dsc02538.jpg?w=650'
   width: null
   height: null
 # </extra>

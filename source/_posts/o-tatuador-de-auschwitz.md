@@ -14,7 +14,7 @@ date: 2018-07-03 19:35:07
 # <extra>
 description: 'O Tatuador de Auschwitz é um dos livros mais emocionantes e bonitos que já li. No meio dos horrores da guerra ainda há esperança de sobrevivência e amor.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/06/capa-livro-o-tatuador-de-auschwitz.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/capa-livro-o-tatuador-de-auschwitz.jpg'
   width: '1000'
   height: '1000'
 # </extra>

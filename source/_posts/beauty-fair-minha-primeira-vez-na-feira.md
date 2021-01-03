@@ -13,7 +13,7 @@ date: 2016-09-17 10:26:14
 # <extra>
 description: 'A convite da Ikesaki, no último sábado dia 10/09 passei a tarde conferindo o primeiro dia da 12ª Beauty Fair, maior feira de beleza das Américas, no Expo Center Norte em São Paulo. Participar da Beauty Fair é uma experiência maravilhosa para quem se interessa por maquiagem, acessórios, produtos para cabelo, esmaltes e assuntos relacionados a beleza. Estar lá no primeiro dia da feira me fez sentir um pouco daquele frio na barriga típico de grandes estreias, mesmo que estando ali só para prestigiar. Marcas grandes no mundo da beleza aproveitaram a feira para lançar e difundir novos produtos ao mercado, como é o caso da DNA Italy, que lançou um dia antes da feira sua nova linha de batons em tinta &#8220;Love Lip Color&#8221;, ou da linha para cabelos cacheados &#8220;Minha lola minha vida&#8221; da sempre irreverente Lola Cosmetics, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/09/Look-para-beauty-fair.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/Look-para-beauty-fair.jpg'
   width: '1872'
   height: '1872'
 # </extra>

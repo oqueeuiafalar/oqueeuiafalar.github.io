@@ -10,7 +10,7 @@ date: 2016-10-13 09:19:14
 # <extra>
 description: 'Qual mulher não gosta de um batom vermelho? Sinceramente, eu não conheço nenhuma! Eu que não sou nenhuma expert em maquiagem (infelizmente, mas um dia eu chego lá!), tenho o batom vermelho como um grande curinga, porque usando ele não precisa de muito para arrasar, basta um delineador e máscara de cílios e tudo fica lindo. Os batons vermelhos vão desde aqueles super fortes e com cores bem vibrantes, até aqueles com um tom mais queimando e discreto, e o bom é ter dos diferentes tipos, como matte (meus prediletos), gloss e cintilante, vai depender da ocasião e de como você esta se sentindo naquele dia pra escolher qual usar. Aqui vai algumas  inspirações pra vocês se animarem: Agora vocês só precisam se jogar num dos maiores clássicos da maquiagem pra sair por aí arrasando. Ah, e em lojas como &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/08/dicas-como-usar-batom-vermelho.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/dicas-como-usar-batom-vermelho.jpg'
   width: '850'
   height: '850'
 # </extra>

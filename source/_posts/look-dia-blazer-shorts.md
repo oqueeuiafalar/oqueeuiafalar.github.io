@@ -11,7 +11,7 @@ date: 2016-11-10 08:39:06
 # <extra>
 description: 'Quem aí gosta de usar blazer com shorts? Eu adoro! A combinação de blazer com shorts fica bem despojada, principalmente se combinada com camisetas de bandas ou que contenha frase como eu fiz nesse look e pra finalizar, nada melhor que um tênis. Eu ando em uma vibe de usar tênis que vocês não fazem ideia. Esse slipper da Converse é uma delícia, dá para passear o dia todo com muito conforto. Usei esse look em um final de semana que eu fui para São Paulo, portanto, pernas para que te quero haha, caminhei muito nesse dia e como o clima estava aquela loucura, frio quente, quente frio, optei pelo shorts para ficar ainda mais confortável. As camisetas com frases andam bem em alta, e sempre dão uma descontraída no look, eu adorei o resultado que ela deu. Blazer sempre &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/look-blazer-shorts-e-tênis.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/look-blazer-shorts-e-tênis.jpg'
   width: '828'
   height: '828'
 # </extra>

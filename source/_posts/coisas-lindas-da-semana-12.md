@@ -8,7 +8,7 @@ date: 2015-04-11 15:30:01
 # <extra>
 description: 'Oi, gente. O coisas lindas dessa semana fala novamente de decoração, para ser sincera tenho pensado muito nisso ultimamente e em breve quero tirar um tempo para arrumar meu cantinho rs. Essa batedeira Gente, se eu ganho uma batedeira e um pau de macarrão assim, lindo, cheio de flores, eu nem sei  o que fazer, sério! Nunca na vida que eu teria coragem de desmontar, ficou lindo demais, já imaginou isso decorando sua cozinha *-* Essa fachada Eu nunca quis ser dona de comércio, até eu ver essa fachada, haha. Bom, não sei se essa fachada pertence a um comércio, mas no meu imaginário, pertence, imagino esse lugar lindo como uma casa de chá, uma casa de doces &#8230; Esse cantinho Cantinho mais aconchegante, não acham? Achei a ideia ótima para quem mora em apartamento e tem aquelas sacadas bem &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/04/51df8da133de787fff273e3ba0bde3fc-683x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/51df8da133de787fff273e3ba0bde3fc-683x1024.jpg'
   width: null
   height: null
 # </extra>

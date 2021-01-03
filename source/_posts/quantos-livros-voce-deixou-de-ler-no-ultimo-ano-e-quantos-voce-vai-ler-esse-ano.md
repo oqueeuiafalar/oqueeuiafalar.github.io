@@ -11,7 +11,7 @@ date: 2015-05-25 17:53:13
 # <extra>
 description: 'Confesso que não sou um grande adepto de pensamentos que começam com “E se… ”, mas dia desses me peguei pensando sobre um hábito que mantive durante a adolescência mas não pratiquei durante o ano passado: a leitura. Nesse caso a leitura offline, de livros mesmo. E então me perguntei “E se eu tivesse lido 10 páginas por dia durante o último ano?”. Quais grandes ideias e experiências eu deixei de absorver por não ter me dedicado 25 minutos por dia à literatura? Aqui no blog, os livros resenhados no último ano somam mais ou menos 9 mil páginas, todos lidos pela minha companheira Natalia, já eu durante o ano passado ví apenas minha lista de livros que quero ler aumentar. Ah, mas se eu lesse 100 páginas por essa olha quanta coisa legal poderia ter lido: 1 &#8211; Fantasma no &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/05/fantasma-no-sistema-capa.png'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/fantasma-no-sistema-capa.png'
   width: null
   height: null
 # </extra>

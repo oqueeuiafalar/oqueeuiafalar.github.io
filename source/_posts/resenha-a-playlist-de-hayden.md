@@ -8,7 +8,7 @@ date: 2015-06-17 13:43:53
 # <extra>
 description: 'Gente, lembra que a um tempo atrás eu publiquei aqui no blog a prévia do livro “A playlist de Hayden” e que eu estava super ansiosa pra saber o fim da história? Pois é, a editora Novo Conceito me mandou o livro completo e finalmente eu pude descobrir o que levou Hayden fazer o que fez. Interessante é que a Editora Novo Conceito também teve o carinho de enviar um par de foninhos junto com o livro, legal, né? O livro é narrado por Sam, um adolescente que no dia seguinte de uma festa encontra seu melhor amigo morto. Ele se sente muito culpado pelo o que aconteceu ao seu amigo Hayden, mas também culpa a “trifeta do bullying”, um grupo de garotos que estuda no mesmo colégio que eles que vivia azucrinando tanto ele quando Hayden, e um dos membros desse &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/06/capa-do-livro-A-playlist-de-Hayden-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/capa-do-livro-A-playlist-de-Hayden-1024x768.jpg'
   width: null
   height: null
 # </extra>

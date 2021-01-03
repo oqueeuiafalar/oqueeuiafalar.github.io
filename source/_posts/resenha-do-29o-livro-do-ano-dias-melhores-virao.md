@@ -8,7 +8,7 @@ date: 2014-10-23 22:35:27
 # <extra>
 description: 'O livro “Dias melhores virão” conta a história de Ruth Saunders, uma mulher que sonha em ter sua serie de televisão levada ao ar. Ruth aos três anos de idade sofreu um grave acidente de carro, onde seus pais morreram e ela, por conta de vários ferimentos, teve que ficar durante toda sua infância sendo internada, passando por cirurgias, aguardando o próximo analgesico, visitando médicos e sempre tendo que encarar a cara de espanto das pessoa ao vê-la, contando apenas com o apoio de sua avó e se distraindo vendo series na TV. Ruth nunca foi uma pessoa de muitos amigos, fazendo com que ela dedicasse muito de seu tempo a escrita. E depois de muitos anos, Ruth escreve uma história inspirada em sua própria vida, para poder ajudar pessoas que também tiveram sofrimentos parecidos com os dela. Quando finalmente &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03278-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03278-1024x768.jpg'
   width: null
   height: null
 # </extra>

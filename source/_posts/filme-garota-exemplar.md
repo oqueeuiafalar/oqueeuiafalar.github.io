@@ -8,7 +8,7 @@ date: 2014-10-10 22:15:52
 # <extra>
 description: 'Semana passada fui ao cinema e assisti “Garota Exemplar”, como eu ainda não li o livro não sabia muito bem do que se tratava o filme, apenas sabia que na história alguém iria desaparecer e confesso que o filme foi o oposto do que eu imaginava e superou todas as minhas expectativas, adorei. No começo do filme Nick Dunne (interpretado por Ben Affleck) está voltando para casa na manhã de seu 5º aniversário de casamento para encontrar sua esposa Amy (interpretada por Rosamund Pike), porém, ao chegar a casa ele encontra tudo revirado e percebe que sua esposa sumiu. Logo a policia inicia as investigações e Nick se torna o principal suspeito pelo desaparecimento da esposa. E a partir daí a história vai se desenrolando de forma intrigante, cheia de códigos e com um roteiro repleto de reviravoltas. “Garota Exemplar” &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/10/cena-do-filme-garota-exemplar.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/cena-do-filme-garota-exemplar.jpg'
   width: null
   height: null
 # </extra>

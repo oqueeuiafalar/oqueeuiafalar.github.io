@@ -13,7 +13,7 @@ date: 2018-04-07 15:39:32
 # <extra>
 description: 'O livro Cidade de Selvagens fala de um mundo pós apocalíptico onde uma família precisa fazer de tudo para poder sobreviver, recomendo!'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/04/resenha-livro-cidade-de-selvagens.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/04/resenha-livro-cidade-de-selvagens.jpg'
   width: '1000'
   height: '1000'
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-01-24 12:29:23
 # <extra>
 description: 'Essa semana eu estava procurando novos blogs para acompanhar e acabei achando blog Ricota não derrete e lá eu vi um post chamado “Coisas lindas da semana” e eu adorei a ideia, sempre quis fazer algo do tipo, talvez com o título “Inspirações da semana” sei lá, mas gostei do dela. E então resolvi finalmente criar uma categoria fixa aqui no blog, todo sábado vou postar pra vocês algumas imagens que eu vi durante a semana e que eu tive um momento de inspiração ou apenas fiquei alguns minutos as admirando e resolvi compartilhar com vocês. Então vamos lá. Esse lugar! Ah, esse lugar! Gente que fofura, eu consigo me imaginar sentada em um desses banquinhos lendo meus livros, ou apenas ouvindo uma boa música e apreciando a paisagem. Quero um cantinho assim aqui na minha cidade, como faz? Esse look &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/01/parque-com-bancos-683x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/01/parque-com-bancos-683x1024.jpg'
   width: null
   height: null
 # </extra>

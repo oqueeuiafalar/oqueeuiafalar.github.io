@@ -8,7 +8,7 @@ date: 2014-10-28 19:00:05
 # <extra>
 description: 'O livro “Advogado do Diabo” conta a história de Kevin Taylor, um jovem e brilhante advogado que após receber uma proposta quase que irrecusável, resolve deixar a pequena cidade onde vive com sua esposa Miriam para ter uma carreira de sucesso na advocacia John Milton e Associados em Nova Iorque. No começo sua esposa não gosta muito da ideia de deixar tudo para trás e ir embora para a cidade grande, porém, ela logo muda de ideia, ao ver os prazeres e divertimentos que poderá desfrutar enquanto seu marido trabalhar para John Milton, o dono do escritório em Nova Iorque. Kevin só começa a perceber que tem algo errado quando ele recebe uma pasta com um caso de assassinato que ele irá defender, porém, aparentemente este caso foi criado antes mesmo de acontecer. É um livro bem intrigante, repleto de &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03338-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03338-1024x768.jpg'
   width: null
   height: null
 # </extra>

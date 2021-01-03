@@ -8,7 +8,7 @@ date: 2015-07-18 11:52:57
 # <extra>
 description: 'Oba! Tem coisas lindas que não acabam mais, para quem gosta de moda e decoração nada melhor para começar bem o final de semana. Então vamos lá. Esse boho Eu acho que já comentei aqui no blog que estou amando esse estilo boho, acho descontraído, confortável e lindo. Amei esse look da foto, principalmente esse kimono (é um kimono, né gente?) que está divino! Esse maxi colar Eu não sou muito adepta do maxi colar, apesar de achar bem bonito e de concordar que dá todo um ‘tcham’ em um look mais básico. Gostei bastante desse maxi colar e imaginei ele no look da primeira foto, ficaria lindo, não? Essas cores Eu não sei que cidade é esse, mas adoraria saber. Fiquei encantada com todas essas cores, essas sacadinhas com flores (rimou haha), se alguém souber onde é esse lugar, me &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/07/boho-chic-590x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/boho-chic-590x1024.jpg'
   width: null
   height: null
 # </extra>

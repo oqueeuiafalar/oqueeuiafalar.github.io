@@ -8,7 +8,7 @@ date: 2016-04-16 11:25:40
 # <extra>
 description: 'Com o transito absurdo das grandes cidades a decisão de não ter carro é cada vez mais  comum, além do preço do combustível o seguro e o estacionamento também não ajudam. Quem já é adepto da vida sem carro, provavelmente usa o transporte público para maioria das  demandas do dia a dia, mas não é sempre que o ônibus e o metro dão conta da tarefa, para  carregar um móvel, pegar os pais no aeroporto, sair de balada a noite, ou mesmo passar um  fim de semana na praia, pode ser mais complicado para quem não tem carro. Felizmente algumas startups de tecnologia tem preenchido estas demandas todas, confira. Pegcar Precisa de um carro apenas por algumas horas? Um dia talvez? O Pegcar é uma plataforma  que permite o compartilhamento de carros. Ou seja, você aluga o carro do próprio &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/04/pegcar.png'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/pegcar.png'
   width: null
   height: null
 # </extra>

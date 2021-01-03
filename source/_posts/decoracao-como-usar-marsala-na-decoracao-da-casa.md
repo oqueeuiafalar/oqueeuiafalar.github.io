@@ -8,7 +8,7 @@ date: 2015-03-02 19:46:02
 # <extra>
 description: 'Tenho certeza que vocês estão ouvindo falar muito da cor Marsala ultimamente, não estão? Ela foi escolhida como a cor do ano pela Pantone , segundo ela, essa cor desperta a criatividade. Particularmente é uma cor que eu adoro, ela dá um toque de elegância e seriedade e também dá pra combinar com muitas coisas. Mas você já pensou em decorar sua casa usando o tom Marsala? Separei algumas inspirações pra vocês deixarem sua casa na moda, porque é sempre bom renovar. &nbsp; &nbsp; Eu gostei muito e já estou pensando em onde usar a Marsala aqui em casa. E vocês, já tiveram alguma ideia para casa de vocês? &nbsp;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/03/almofada.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/almofada.jpg'
   width: null
   height: null
 # </extra>

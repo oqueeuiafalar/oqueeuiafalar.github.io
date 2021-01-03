@@ -8,7 +8,7 @@ date: 2014-12-17 20:33:03
 # <extra>
 description: 'Oi gente, finalmente gravei o segundo vídeo para o canal. Sei que demorei um pouco, mas além da vida andar um pouco corrida eu ainda não perdi a vergonha da câmera hahaha. Esse vídeo é sobre os livros que comprei no mês de novembro. Espero que vocês gostem das minhas comprinhas, vamos lá: 1º O lobo do mar &#8211; Jack London 2º Como falar com um víúvo &#8211; Jonathan Tropper 3º Anoitece no Iraque &#8211; Patrick Ericson 4º O buraco da agulha &#8211; Ken Follett 5º O guardião de memórias &#8211; Kim Edwards  6º A menina do vale &#8211; Bel Pesce 7º Sushi &#8211; Marian Keyes 8º Um ano na Provence &#8211; Peter Mayle  9º A pousada Rose Harbor &#8211; Debbie Macomber 10º Alice&#8217;s Adventures in Wonderland &amp; Through the looking-glass &#8211; Lewis Carroll E aí, gostaram? Já leram algum desses &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/12/natalia_exibicao_video-1024x519.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/12/natalia_exibicao_video-1024x519.jpg'
   width: null
   height: null
 # </extra>

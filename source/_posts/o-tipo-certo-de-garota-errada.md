@@ -8,7 +8,7 @@ date: 2018-08-22 19:08:09
 # <extra>
 description: 'Oi gente, eu acabei a leitura do livro O Tipo Certo de Garota Errada da autora A. C. Meyer, livro este que é o primeiro da série Garotas e confesso que fui lê-lo com muita expectativa, mas para você saber mais sobre a história e sobre o que eu achei do livro O Tipo Certo de Garota Errada você precisa continuar a leitura desse post. Em O Tipo Certo de Garota Errada nós conhecemos Malu, uma jovem rebelde, porém, super de bem com a vida e que faz questão de colocar muitas cores em seu dia a dia, literalmente. No início no livro, Malu está cursando Direito, por vontade de seu pai, porém, o seu grande sonho é poder viver de sua arte. Logo no começo da faculdade Malu conhece Rafa, o cara gato clichê que se torna o seu grande amigo, mas que no &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/08/livro-o-tipo-certo-de-garota-errada.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/08/livro-o-tipo-certo-de-garota-errada.jpg'
   width: '1000'
   height: '1000'
 # </extra>

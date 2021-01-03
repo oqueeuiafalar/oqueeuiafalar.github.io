@@ -12,7 +12,7 @@ date: 2017-06-27 07:51:54
 # <extra>
 description: 'Com certeza uma das peças que eu mais uso no verão &#8211; depois do shorts rs &#8211; é a saia e tenho certeza que muitas mulheres também gostam de usa-las durante os dias quentes. Mas pode usar saia de couro no verão? É claro que pode! Muitas meninas durante o verão deixam a saia de couro guardadas no armário por elas serem de um material mais pesado e por serem consideradas sexy demais. Porém as saias de couro ficam lindas em produções mais sexy e pra noite, mas também ficam lindas com looks casuais e dá pra usa-la durante todo o verão. Essa saia de couro tem o corte reto e fica linda no corpo. Como eu queria um look bem casual, nada melhor que combina-la com tênis e camiseta com estampa do Star Wars. Eu adorei o resultado final. Camisetas &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/03/óculos-de-sol-espelhado-azul-como-usar.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/03/óculos-de-sol-espelhado-azul-como-usar.jpg'
   width: '828'
   height: '828'
 # </extra>

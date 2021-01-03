@@ -14,7 +14,7 @@ date: 2017-08-31 11:31:20
 # <extra>
 description: 'Se tem uma coisa que eu amo desde criança são fotos. Além delas nos ajudar a registrar aqueles momentos importantes na nossa vida, elas são perfeitas na decoração. Eu sempre quis fazer um cantinho em casa para colocar vários porta retratos, mas a maioria das pessoas moram em casas e apartamentos pequenos e fica difícil ter um cômodo destinado a tantas fotografias. Pesquisando na internet descobri que muita gente utiliza o corredor como um mural de fotos, além, de ficar lindo é uma ótima solução para aquela parede que provavelmente a gente não usaria para nada. Pensando nisso, separei  algumas inspirações de murais de fotos em corredores, uma maneira prática, fácil e linda de decorar seus cantinho com momentos marcantes. Para quem tem um corredor um pouco mais largo em casa, dá pra decorar os dois lados da parede com &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/08/decor-fotos-no-corredor.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/08/decor-fotos-no-corredor.jpg'
   width: '828'
   height: '828'
 # </extra>

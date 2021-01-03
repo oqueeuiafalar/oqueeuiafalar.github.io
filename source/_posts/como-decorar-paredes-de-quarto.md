@@ -8,7 +8,7 @@ date: 2015-08-24 13:47:59
 # <extra>
 description: 'Decorar as paredes do quarto são só mais uma das atividades que envolvem um projeto de decoração. Por esta razão, arquitetos e decoradores vivem buscando soluções inovadoras e formas diferentes para decorar as paredes e manter o projeto todo em harmonia. &nbsp; https://www.vivadecora.com.br/foto/7630/quarto Quadros, papel de parede, esculturas, murais pintados, nichos de gesso, enfim, as opções são muitas, por isso é preciso cautela na hora de escolher o que vai enfeitar a parede do seu quarto. Se atente para o estilo do restante dos móveis e acessório e busque uma solução que harmonize bem com o ambiente que você já tem. https://www.vivadecora.com.br/foto/7052/quarto Soluções práticas pra mudar a cara do seu quarto O papel de parede é um revestimento que do esquecimento voltou às graças dos profissionais de decoração. Por conta disso, as paredes do quarto agora podem mudar de cor &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/08/foto1-7630-quarto-projetos-diversos-residenciais-sandro-clemes-viva-decora-727x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/foto1-7630-quarto-projetos-diversos-residenciais-sandro-clemes-viva-decora-727x1024.jpg'
   width: null
   height: null
 # </extra>

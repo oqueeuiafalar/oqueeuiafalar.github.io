@@ -12,7 +12,7 @@ date: 2017-07-20 11:01:12
 # <extra>
 description: 'Que a meia arrastão esta super em alta todo mundo já sabe. Mas você já pensou em usar a meia soquete arrastão? Para quem tem receio de cair de cabeça no mundo das meias calças arrastão – que ficam lindas com calça destroyed por sinal– uma maneira mais discreta, mas nem por isso menos fashion, de usá-la é através da meia soquete. A meia soquete arrastão é um excelente acessório para deixar aquele look básico com um toque a mais de estilo e modernidade. Para as mais ousadas, dá pra usar tranquilamente com roupas coloridas e curtinhas, mas pra quem esta pensando em começar a usar e ainda tem um medinho a dica é usar com calça e se for da mesma cor da meia, fica ainda mais fácil de combinar, bora ver algumas inspirações. Engana-se quem pensa que a &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/como-usar-meia-soquete-arrastão.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/como-usar-meia-soquete-arrastão.jpg'
   width: '828'
   height: '828'
 # </extra>

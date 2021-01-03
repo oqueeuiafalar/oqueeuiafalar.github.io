@@ -8,7 +8,7 @@ date: 2014-11-24 19:04:52
 # <extra>
 description: 'Gente, terminei de ler “Um homem de sorte” de Nicholas Sparks e podem ficar tranquilos porque esse livro não tem um final tão trágico como “Um amor pra recordar” ou “Diário de uma paixão” do mesmo autor, mas claro, vem carregado de drama. A trama gira em torno de três personagens principais, que são: Thibault, Beht e Clayton. Thibault é um fuzileiro que foi enviado cinco vezes em missão para o Iraque, porém, em uma dessas ida ele encontra uma foto de uma mulher no deserto. Após encontrar a foto ele tenta achar seu dono, porém, sem sucesso ele resolve ficar com a foto e por coincidência ou não ele sempre consegue sair ileso de ataques enquanto muitos de seus amigos fuzileiros morrem. Seu amigo Victor diz que aquela foto o protege, que é seu “amuleto da sorte”, Thibault acha &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/11/DSC03410-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/11/DSC03410-1024x768.jpg'
   width: null
   height: null
 # </extra>

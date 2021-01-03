@@ -8,7 +8,7 @@ date: 2016-02-12 21:51:39
 # <extra>
 description: 'O novo must-have do verão no hemisfério norte com certeza será o novo óculos de da Dior, o Split. Os óculos da Dior sempre estão entre os mais cobiçados e a marca sempre vem com grandes sucessos como o modelo Dior So Real que até hoje continua fazendo a cabeça de fashionistas. O designer do Split é bem parecido com o aviador, porém, agora ele recebeu toques mais modernos e futurista. Os óculos Split possuem uma faixa espelhada no centro da armação fazendo com que eles ganhem um ar mais minimalista e bem sofisticado, e é possível encontra-los em várias cores, como: rosa, verde, prata e em dois tons de azul. O preço do novo óculo será em torno dos 485 doláres, pra aguçar ainda mais os desejos de vocês veja o vídeo que a Vogue divulgou com exclusividade. &nbsp; &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/02/Dior-Split-sunglasses-2016-1024x530.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/02/Dior-Split-sunglasses-2016-1024x530.jpg'
   width: null
   height: null
 # </extra>

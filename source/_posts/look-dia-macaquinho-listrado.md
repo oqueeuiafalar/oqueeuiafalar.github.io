@@ -15,7 +15,7 @@ date: 2017-05-09 09:18:31
 # <extra>
 description: 'E quem disse que não ia ter look do dia na Argentina, hem? Haha Gente, eu ando a louca dos macaquinhos, onde eu vejo um, já quero pra mim! Essa peça é muito pratica e é ótimo para aqueles dias que a gente esta totalmente sem inspiração. Nesse dia estava muito quente e como eu sabia que ia caminhar muito &#8211; foi só 20 km hahaha- eu achei a escolha do macaquinho listrado com tênis perfeita! Foi muito confortável.  A unica coisa que me deixou chateada foi que esqueci de passar protetor solar e fiquei com a marca de um triângulo durante dias no pescoço hahaha. Para quem gosta de caminhar muito como eu, Buenos Aires é uma ótima escolha, porque além da cidade ser linda ela é toda plana, então a gente anda e anda e anda e nunca &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/04/foto-casa-rosada-buenos-aires.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/foto-casa-rosada-buenos-aires.jpg'
   width: '828'
   height: '828'
 # </extra>

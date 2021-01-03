@@ -12,7 +12,7 @@ date: 2017-04-24 13:03:39
 # <extra>
 description: 'Todo mundo ouviu muito falar de Bob Dylan nesses últimos tempos graças ao Nobel de Literatura que ele recebeu em 2016. A Editora Planeta resolveu publicar a reedição de Crônicas Volume 1 e é sobre ela que vamos falar hoje. Crônicas Volume 1 foi lançada no Brasil em 2005, mas na reedição da Editora Planeta o livro ganha nova capa – muito linda por sinal. Eu tinha vindo de muito longe e começado muito de baixo. Mas agora o destino estava prestes a se manifestar. Senti como se ele estivesse olhando direto para mim e para mais ninguém. O livro mostra várias partes da vida de Bob Dylan, como no começo dos anos 60 quando ele resolve se mudar para Manhattan, as pessoas que ele conheceu e que influenciaram muito sua vida e música, amigos e amores, passando até por &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/04/lombada-do-livro-crônicas-volume-I-bob-dylan.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/lombada-do-livro-crônicas-volume-I-bob-dylan.jpg'
   width: '828'
   height: '828'
 # </extra>

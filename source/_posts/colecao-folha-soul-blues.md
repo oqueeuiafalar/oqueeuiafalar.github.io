@@ -8,7 +8,7 @@ date: 2015-04-01 17:42:48
 # <extra>
 description: 'Eu sou uma pessoa que ama música, (quem não ama?), quase tudo que faço eu faço ouvindo música, trabalho ouvindo música, faço exercícios ouvindo música, escrevo meus textos para o blog ouvindo música, enfim, sou movida a música haha. Claro que tem alguns estilos que eu gosto mais, alguns que eu gosto menos e alguns que eu detesto haha, mas definitivamente eu adoro soul e blues. Esses dois estilos de música são capazes de nos emocionar, de nos embalar e de relaxar e são uns dos ritmos mais venerados nos Estados Unidos. A Folha de São Paulo criou o projeto “Folha Soul &amp; Blues” que contém 30 livros-CDs com grandes nomes da música, como: B.B. King, James Brown, Jackson 5, Etta James, entre outros. Nesses livros-CDs a gente pode ouvir muita música boa como também ver fotos e momentos marcantes &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/03/DSCN0306.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/DSCN0306.jpg'
   width: null
   height: null
 # </extra>

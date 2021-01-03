@@ -8,7 +8,7 @@ date: 2015-02-18 19:52:22
 # <extra>
 description: 'O filme “Um dia” foi baseado no livro de mesmo nome escrito por David Nicholls. Infelizmente ainda não li o livro, mas depois de assistir ao filme confesso que fiquei muito ansiosa e com vontade de sair feito uma doida para a livraria mais próxima e comprá-lo, pois simplesmente adorei o filme e vocês vão saber o porquê. “Um dia” conta a história de Dexter e Emma, que fizeram faculdade juntos, porém, só foram se conhecer de fato no dia da formatura. Dexter é um rapaz engraçado, amigo, porém muito imaturo, irresponsável, arrogante, e sempre precisando de alguém que lhe dê suporte. Emma também muito engraçada, sonhadora, inteligente e determinada, porém tem baixa auto-estima. A história se passa ao longo de 20 anos, sempre contando o que aconteceu no dia 15 de julho desses anos todos. A história vai nos &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/02/um-dia-31ago-126.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/um-dia-31ago-126.jpg'
   width: null
   height: null
 # </extra>

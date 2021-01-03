@@ -14,7 +14,7 @@ date: 2018-01-19 10:27:23
 # <extra>
 description: 'Uma história de verão é o terceiro livro da booktuber Pam Gonçalves que ficou conhecida pelo seu blog Garota It, mas que desde 2014'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resenha-livro-uma-história-de-verão-pam-gonçalves.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resenha-livro-uma-história-de-verão-pam-gonçalves.jpg'
   width: '828'
   height: '828'
 # </extra>

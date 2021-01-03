@@ -12,7 +12,7 @@ date: 2017-08-07 09:23:39
 # <extra>
 description: 'O livro Victoria e o Patife da autora Meg Cabot é um romance de época, porém,bem, mas bem naquele estilo romance para adolescente ler haha. O livro foi publicado no Brasil pela Galera Record e faz parte  da série Avon True Romance, que contém 12 romances de diversas autoras. Victoria e o Patife se passa em Londres no ano de 1810, onde Victoria é uma jovem órfã que foi criada na Índia pelos tios, porém, é enviada para a Inglaterra aos 16 anos para viver com seus outros tios e a procura de um marido. Mas para a grande sorte de Victoria – ou não – ela é pedida em casamento poucos dias antes de chegar ao seu destino final e ela mal pode acreditar em sua sorte, afinal, ela foi pedida em casamento pelo Conde de Malfrey, um rapaz &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-livro-Victoria-e-o-Patife-Meg-Cabot-1.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-livro-Victoria-e-o-Patife-Meg-Cabot-1.jpg'
   width: '828'
   height: '828'
 # </extra>

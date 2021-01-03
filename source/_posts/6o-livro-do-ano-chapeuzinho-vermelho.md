@@ -8,7 +8,7 @@ date: 2014-04-18 18:47:47
 # <extra>
 description: 'No começo deste ano a Folha de São Paulo lançou uma coleção intitulada &#8220;Contos e Fábulas para crianças&#8221;. São 25 livros acompanhados de um CD cada um, com os clássicos da literatura infantil, como: Chapeuzinho Vermelho; João e Maria; O patinho feio; Alice no país das maravilhas; O mágico de Oz, entre outros. Ganhei o livro número 7, Chapeuzinho Vermelho, e fiquei encantada. O livro é de capa dura, lindamente ilustrado e no fim tem quatro atividades para divertir as crianças, como colorir e um labirinto para ajudar a Chapeuzinho Vermelho a encontrar o caminho certo para chegar à casa da vovó. O CD além de contar a estória para as crianças ainda conta com atividades para o seu aprendizado. Boa parte dos livros da coleção, como &#8220;Chapeuzinho Vermelho&#8221;, são reedição da série &#8220;Les P&#8217;tits Classiques&#8221;  da editora francesa Auzou e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/04/dsc02560.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/04/dsc02560.jpg?w=650'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2018-09-03 19:07:49
 # <extra>
 description: 'Sob a Luz da Escuridão é o primeiro volume da trilogia da autora Ana Beatriz Brandão. Nele somos transportados para um mundo pós-apocalíptico. Fantástico'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/09/capa-livro-sob-a-luz-da-escuridão.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/09/capa-livro-sob-a-luz-da-escuridão.jpg'
   width: '1000'
   height: '1000'
 # </extra>

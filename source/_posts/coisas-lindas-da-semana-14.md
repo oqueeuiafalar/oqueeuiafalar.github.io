@@ -8,7 +8,7 @@ date: 2015-04-25 11:38:28
 # <extra>
 description: 'Não é que chegamos ao décimo quarto coisas lindas da semana? Obaa! Aí vão algumas coisinhas para botar toda nossa lindeza em dia. Todo esse clean Estou encantada com esse look clean. O vestido é super básico, mas é muito lindo, e a bolsa nem vou comentar, porque estou desejando uma como se não houvesse amanhã. Essa cobertura Quem não sonha em ter uma cobertura linda dessas? Eu moraria fácil em um lugar assim, e a vista aparentemente é linda também, muito sonho. Essa estante Nunca vou cansar de repetir: Eu sonho com uma estante dessas em minha casa!!! Gente, eu sonho mesmo, com uma sala onde tenha uma estante desse estilo de fora a fora cheia de livros, CDs e DVDs. Essa coroa Não sei porque, mas de uns tempos pra cá eu ando me apaixonando por essas coroas &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/04/f983f7a26a63d35705eab7b139cf8b43-722x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/f983f7a26a63d35705eab7b139cf8b43-722x1024.jpg'
   width: null
   height: null
 # </extra>

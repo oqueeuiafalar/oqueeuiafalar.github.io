@@ -13,7 +13,7 @@ date: 2017-10-06 08:13:31
 # <extra>
 description: '&nbsp; Quem tem cabelo cacheado ou mesmo ondulado sabe o quanto é difícil deixa-los sempre brilhantes, com as madeixas definidas e sem frizz. Para a minha sorte, o blog fez um parceria com a marca D’Zahoo e através dela pude conhecer dois produtos que fazem milagre nos cabelos crespos. O primeiro é a máscara ultra hidratante Bella Afro que faz parte de uma linha com o mesmo nome que possui produtos especialmente voltados para os cabelos cacheados e ondulados. Os produtos possuem componentes como: D’Pantenol: ele hidrata profundamente os fios, dando resistência e brilho aos cabelos, além de ajudar a diminuir as pontas duplas. Queratina: a queratina penetra nos fios do cabelo, evitando assim que ele fique quebradiço. Extrato de mamão papaya: esse extrato é responsável por nutrir os fios e ele também combate os radiais livres, impedindo o envelhecimento &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/09/máscara-hidratante-para-cabelos-cacheados-óelo-de-argan-DZAHOO.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/máscara-hidratante-para-cabelos-cacheados-óelo-de-argan-DZAHOO.jpg'
   width: '828'
   height: '828'
 # </extra>

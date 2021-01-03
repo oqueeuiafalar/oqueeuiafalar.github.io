@@ -9,7 +9,7 @@ date: 2015-11-04 18:58:21
 # <extra>
 description: 'Se tem uma coisa que eu amo fazer é ler, é o meu passatempo preferido, mas sempre me deparo com pessoas me perguntando como faço pra ler tanto, como criar o hábito da leitura, que quando elas tentam ler elas sentem sono, preguiça, ou simplesmente não gostam, porém, elas gostariam de criar esse hábito. Por isso resolvi separar algumas dicas pra ajudar essa galera toda. 1 – Sempre tenha um livro perto de você Sabe aquelas horas que você passa na fila do banco, esperando pra passar em uma consulta médica, na hora do almoço, pois é, todas esses minutinhos que são jogados fora podem se converter em minutos preciosos de leitura. Eu sempre tenho uma livro na bolsa (para os mais entusiastas do mundo digital podem carregar um Kindle), então se estou no ônibus, estou lendo, se estou na &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/11/menina-lendo-1024x683.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/menina-lendo-1024x683.jpg'
   width: null
   height: null
 # </extra>

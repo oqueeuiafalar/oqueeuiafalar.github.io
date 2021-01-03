@@ -11,7 +11,7 @@ date: 2017-08-17 08:03:26
 # <extra>
 description: 'As roupas de couro são lindas e super estilosas, tenho certeza que você tem pelo menos uma jaqueta de couro guardada aí em seu guarda roupas, certo? Mas apesar de toda sua versatilidade, afinal a gente encontra o couro em roupas, sapatos, bolsas, cintos entre outros, é um material que precisa de cuidados específicos para que ele dure por mais tempo, por isso, abaixo eu listo oito dicas de como cuidar desse material ai na sua casa, bora lá aprender. 1 – Etiqueta Antes de qualquer coisa, sempre olhe na etiqueta das roupas que você comprar, principalmente as de couro, pois, cada fabricante tem uma maneira de produzir suas peças e regras diferentes para serem cuidadas. 2- Água Se você quer preservar ao máximo suas roupas de couro, nunca as mergulhe na água, pois, ao fazer isso ela pode perder &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/08/meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/08/meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -8,7 +8,7 @@ date: 2017-07-12 17:35:08
 # <extra>
 description: 'Em 2002 não fui a estréia de “Homem Aranha” de Sam Raimi estrelado por Tobey Maguire. Naquela época, eu com a idade do Peter Parker já era fã dos quadrinhos do aracnídeo a um bom tempo. 15 anos e 2 reboots depois corrigi minha ausência na estreia assistindo a “Homem-Aranha: De volta ao lar”. Aqui deixo algumas impressões de fã sobre o filme. Atenção: em cada título de tópico eu aviso sobre a existência de spoilers. Para pular os spoilers vá direto para o Resumão de Homem Aranha de Volta Ao Lar Sem Spoilers História com spoilers O filme conta a história de um Peter Parker adolescente interpretado por Tom Holland. O personagem está mais jovem na aparência e no comportamento comparado aos homens aranhas vividos por Tobey Maguire e Andrew Garfield. Nesse filme nada de recontar a já conhecida &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/07/Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1.jpg'
   width: '1050'
   height: '1050'
 # </extra>

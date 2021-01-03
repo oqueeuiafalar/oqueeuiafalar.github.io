@@ -8,7 +8,7 @@ date: 2016-10-17 15:34:17
 # <extra>
 description: 'O livro &quot;As letras dos Beatles&quot; contém muitas curiosidades sobre os Beatles. Conheça 9 curiosidades extraídas do livro de Hunter Davies.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/as-letras-dos-beatles-hunter-davies-fone.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/as-letras-dos-beatles-hunter-davies-fone.jpg'
   width: '828'
   height: '828'
 # </extra>

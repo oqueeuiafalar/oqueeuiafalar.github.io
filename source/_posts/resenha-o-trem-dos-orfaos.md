@@ -16,7 +16,7 @@ date: 2017-06-06 09:10:35
 # <extra>
 description: 'O trem dos órfãos é um livro para se ler com calma ir digerindo cada acontecimento que é narrado. Para amantes de drama que envolve fatos reais'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2017/06/livro-o-trem-dos-órfãos.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/06/livro-o-trem-dos-órfãos.jpg'
   width: '828'
   height: '828'
 # </extra>

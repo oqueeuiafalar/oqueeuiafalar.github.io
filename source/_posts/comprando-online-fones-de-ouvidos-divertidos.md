@@ -11,7 +11,7 @@ date: 2016-12-05 18:21:31
 # <extra>
 description: 'Oi gente tudo bem? Que tal começar a ouvir música com mais estilo? Saiba onde comprar fones de ouvidos fofos e divertidos, tem para todos os gostos e estilos'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/11/fones-divertidos-comprar.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/fones-divertidos-comprar.jpg'
   width: '828'
   height: '828'
 # </extra>

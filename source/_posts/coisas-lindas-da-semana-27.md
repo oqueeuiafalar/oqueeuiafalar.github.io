@@ -8,7 +8,7 @@ date: 2015-08-01 12:41:49
 # <extra>
 description: 'Oiii gente, primeiramente quero pedir desculpas porque semana passada eu não consegui publicar o “Coisas lindas da semana”, mas é porque eu estava com alguns probleminhas de saúde e daí não deu, hehe, mas agora que já está tudo resolvido, vamos lá ver as lindezas da semana. Esse poa Acho que eu já comentei aqui no blog o quanto eu sou apaixonada por poa. Quando vi esse look P&amp;B com essa camisa linda de poa, me deu vontade de correr pro meu guarda roupa e montar um look com minha camisa de poa também haha. Essa decoração Ando bem viciada em olhar esse tipo de quadrinhos na internet, talvez eu acabe comprando alguns, acho que deixa qualquer decoração mais divertida e criativa, Essa câmera Ahhh eu quero um dessa. Claro que eu não saberia usar, haha, mas acho que ficaria &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/08/look-pb-com-poa-683x1024.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/look-pb-com-poa-683x1024.jpg'
   width: null
   height: null
 # </extra>

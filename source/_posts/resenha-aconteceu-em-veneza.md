@@ -8,7 +8,7 @@ date: 2015-11-18 15:33:49
 # <extra>
 description: 'Acabei de ler o livro “Aconteceu em Veneza” e foi muito divertido acompanhar a vida da Evie, mas agora eu fico aqui pensando, porque não comprei “Aconteceu em Paris” antes de ler esse livro, afinal “Aconteceu em Veneza” é uma continuação haha, mas enfim, né. &nbsp; Evie é uma moça super animada, que ama seu emprego como guia de turismo e que acaba de reatar seu namoro com Rob e pra comemorar tudo isso eles resolvem irem passar umas férias em Barbados. Evie decide que não vai ficar jogando na cara de Rob a traição que fez com que eles se separassem, mas é claro que ela também não vai esquecer disso completamente. Rob esta decido a não jogar fora a segunda chance que Evie lhe deu e resolve ir morar com ela em Londres, no apartamento que ela divide &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Livro-Aconteceu-em-Veneza-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Livro-Aconteceu-em-Veneza-1024x768.jpg'
   width: null
   height: null
 # </extra>

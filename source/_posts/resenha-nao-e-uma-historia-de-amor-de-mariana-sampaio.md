@@ -12,7 +12,7 @@ date: 2016-11-07 09:55:47
 # <extra>
 description: 'Laura tem 25, mora em São Paulo e esta bem desanimada com seu trabalho de repórter substituta em um programa de variedades, seu sonho era ter uma carreira de sucesso e ela vive quebrando a cabeça pensando porque não investiu mais em sua carreira. Roberto, mais conhecido como Beto,  melhor amigo de Laura e que trabalha na mesma emissora de TV que ela tem uma história um pouco diferente, ele conseguiu fazer sua carreira decolar de uma forma bem rápida, passando de redator de um programa de culinária para o moço do tempo. Um dia Claudia, mãe de Laura, que mora em Santa Rita do Pinhal liga para a filha pedindo para ela desmarcar uma viagem que tem para Ubatuba com Beto porque ela precisava contar uma coisa muito importante para filha, e isso envolvia Pedro, o pai dela, só &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/10/RESENHA-–-não-é-só-uma-história-de-amor-de-Mariana-Sampaio.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/RESENHA-–-não-é-só-uma-história-de-amor-de-Mariana-Sampaio.jpg'
   width: '828'
   height: '828'
 # </extra>

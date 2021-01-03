@@ -8,7 +8,7 @@ date: 2014-05-25 08:47:59
 # <extra>
 description: null
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02833.jpg?w=650'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02833.jpg?w=650'
   width: null
   height: null
 # </extra>

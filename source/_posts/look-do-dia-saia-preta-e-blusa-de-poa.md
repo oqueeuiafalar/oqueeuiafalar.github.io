@@ -9,7 +9,7 @@ date: 2015-11-11 10:35:23
 # <extra>
 description: 'Quem me conhece sabe o quanto eu sou apaixonada por estampa de poá. Nesse dia estava bem quente e eu e o José resolvemos sair um pouco pra passear e achei que o look combinou muito bem com sábado a tarde, calor e volta no parque, haha.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/11/saia-preta-blusa-de-poá.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/saia-preta-blusa-de-poá.jpg'
   width: null
   height: null
 # </extra>

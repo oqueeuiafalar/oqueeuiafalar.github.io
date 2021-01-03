@@ -8,7 +8,7 @@ date: 2016-06-09 18:09:03
 # <extra>
 description: 'O Taubaté Shopping em parceria com a Moviecom pra minha absurda felicidade me convidou pra assistir a pré-estreia do tão esperado filme “Como eu era antes de você” (aqui no blog também tem a resenha do livro). E não faz nem 24 horas que eu assisti ao filme e ainda estou tentando me recuperar (a mesma sensação de quando eu li o livro haha), é lindo é, mas também é muito triste! Pra quem não sabe bem sobre o que se trata a história do filme, vou fazer um resumo rápido. Fala sobe a vida de Will um rapaz rico, bem-sucedido, com uma bela namorada e que ama praticar esportes, até que um trágico acidente o deixa para sempre preso a uma cadeira de rodas. Após dois anos do acidente Will faz um plano para o seu destino e seus &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/06/cena-do-filme-como-eu-era-antes-de-você-1024x512.jpeg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/06/cena-do-filme-como-eu-era-antes-de-você-1024x512.jpeg'
   width: null
   height: null
 # </extra>

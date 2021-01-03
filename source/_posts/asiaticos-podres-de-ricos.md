@@ -12,7 +12,7 @@ date: 2019-01-28 19:54:19
 # <extra>
 description: 'Sinopse Asiáticos Podres de Ricos:   Quando Rachel Chu chega a Cingapura de braço dado com o namorado, o charmoso Nicholas Young, para acompanhá-lo ao casamento de seu melhor amigo, ela acha que vai apenas conhecer a família dele e aproveitar os dias de descanso em um dos lugares mais lindos do mundo. Só que Nick não mencionou alguns detalhes &#8230; Como o fato de sua família ter muito, muito dinheiro e de ele ser o herdeiro mais cobiçado da Ásia. E o tal casamento &#8230; é o evento do ano! Em pouco tempo, Rachel se vê transportada para um episódio de Gossip Girl, só que na Ásia e com pessoas podres de ricas, que não vão poupar uma simples professora universitária de fofocas, intrigas e armações do jet set asiático. Isso sem falar na mãe de Nick, que está prestes &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2019/01/resenha-livro-asiáticos-podres-de-rico.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/01/resenha-livro-asiáticos-podres-de-rico.jpg'
   width: '1000'
   height: '1000'
 # </extra>

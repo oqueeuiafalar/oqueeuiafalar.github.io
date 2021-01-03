@@ -8,7 +8,7 @@ date: 2015-08-05 12:28:54
 # <extra>
 description: 'O livro “Cordeluna” mescla duas histórias ocorridas no intervalo de mil anos. Uma das histórias se passa no século XI e conta a história de amor do casal Sancho, um guerreiro do El Cid e Guiomar, uma condessa. A história deles teve muitos obstáculos, afinal, há uma grande diferença social entre eles e dona Brianda, madrasta de Guiomar também acabou se apaixonando por Sancho. Quando Brianda descobre que o guerreiro estava apaixonado por sua enteada ela fica furiosa e com a ajuda de um feiticeiro joga uma maldição em cima do casal Sancho. A outra história se passa nos dias atuais e nela conhecemos outro casal, Sérgio e Glória. Eles se conheceram em meio ao um grupo de jovens que está hospedado em um mosteiro ensaiando para interpretar a peça El Cid. Os dois se apaixonam a primeira vista e &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/08/capa-do-livro-Cordeluna-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/capa-do-livro-Cordeluna-1024x768.jpg'
   width: null
   height: null
 # </extra>

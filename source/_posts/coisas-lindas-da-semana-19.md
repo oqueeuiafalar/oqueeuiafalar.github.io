@@ -8,7 +8,7 @@ date: 2015-05-30 14:31:47
 # <extra>
 description: 'Oba! Sábado chegou e é dia de coisas lindas, essa semana eu me inspirei novamente com um pouco de acessórios de moda e decoração para casa. Todo esse mix Eu não costumo usar tantos acessórios ao mesmo tempo, mas devo confessar que acho bem legal quem usa, e esse em particular eu amei, me lembra bem o verão e praia&#8230; Esse chapéu Que usar chapéu está super em alta, todo mundo sabe, e que eu estou louca pra comprar um, todo mundo sabe também haha, o problema é aquela indecisão, qual escolher? E aquele medo de escolher todos, haha esse dá foto eu achei maravilho e o mais legal é que ele além de lindo, combina muito com vários estilos, por causa da cor e do modelo. Essa ideia Vocês perceberam que atrás dessa mesa existe uma porta? Eu amei, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2015/05/mix-de-pulseiras-e-aneis.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/mix-de-pulseiras-e-aneis.jpg'
   width: null
   height: null
 # </extra>

@@ -11,7 +11,7 @@ date: 2019-12-19 20:37:26
 # <extra>
 description: 'Quer saber como economizar nas compras online? Então, veja esse post com 9 dicas de como economizar nas compras online e faça compras inteligentes.'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2019/12/fazendo-compras-online.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/12/fazendo-compras-online.jpg'
   width: '900'
   height: '900'
 # </extra>

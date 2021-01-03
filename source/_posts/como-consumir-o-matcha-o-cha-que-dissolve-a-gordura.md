@@ -14,7 +14,7 @@ date: 2016-09-03 16:46:18
 # <extra>
 description: 'O matchá conhecido por auxiliar na queima da gordura, além de ser consumido com água e sucos, também pode ser incluído em receitas de doces e salgados funcionais. No bistrô de alimentos funcionais Inspire Fit, a receita de tapioca de matchá já faz sucesso. De olho nas novas tendências da alimentação saudável, a sócia do bistrô funcional Nathalia Farah diz que a receita de tapioca de matchá é apenas uma das muitas novidades que passarão a oferecer na casa. “Estamos preparando um cardápio com o que há de mais novo na alimentação fitness”. O matchá é um tipo de chá verde em pó muito utilizado no Japão, durante a cerimônia do chá. A nutricionista da Inspire Fit, Stephanie Fontanari, explica que a erva é extraída das folhas da planta Camellia Sinensis e muito apreciada por seus benefícios, pois apresenta maior &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/08/Tapioca-de-Matcha.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/Tapioca-de-Matcha.jpg'
   width: '828'
   height: '828'
 # </extra>

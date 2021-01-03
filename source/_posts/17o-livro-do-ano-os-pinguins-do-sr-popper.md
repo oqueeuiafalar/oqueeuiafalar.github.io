@@ -8,7 +8,7 @@ date: 2014-07-25 19:58:12
 # <extra>
 description: 'Os pinguins do Sr. Popper é um livro muito fácil e gosto de ler que conta a história do Sr. Popper, um pinto de paredes, casado e com dois filhos que é apaixonado por piguins e pela Antártica. Em um belo dia ele recebe pelo correio um presente nada inusitado de um grande ídolo dele, o almirante Drake que faz expedições pela Antártica resolveu lhe enviar um pingüim de presente. A família Popper fica muito feliz com o Capitão Cook, como eles resolveram batizar o pingüim, só a senhora Popper que fica um pouco preocupada com os gastos e com a bagunça que o animalzinho poderia causar, mas no fim ela também acaba se rendendo aos encantos do pingüim. Porém o tempo vai passando e o Capitão Cook começa a ficar doente, abatido, até que chega à casa dos Popper’s &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/07/dsc030621.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/07/dsc030621.jpg'
   width: null
   height: null
 # </extra>

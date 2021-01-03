@@ -14,7 +14,7 @@ date: 2018-08-06 20:46:18
 # <extra>
 description: 'Uma Estranha em Casa   é o primeiro livro da autora Shari Lapena que eu leio e confesso que já virei fã. Ao ler a snopse do livro eu pensei que seria um pouco mais do mesmo, afinal a história é sobre um casal perfeito que vê sua vida virar de cabeça para baixo após a esposa sofrer um acidente e perder a memória, mas não, a história vai muito além. Em   Uma Estranha em Casa   ficamos o tempo todo tentando entender o que fez Karen sair de casa as pressas, deixando tudo aberto, sem nenhum documento, sem celular, atravessar a cidade para ir a um bairro perigoso e depois de sofrer um grave acidente de carro perder a memória. O mais interessante é que quando ainda estamos no meio do livro a autora deixa claro que todo o mistério já &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/08/capa-livro-uma-estranha-em-casa-com-luva-rosa.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/08/capa-livro-uma-estranha-em-casa-com-luva-rosa.jpg'
   width: '1000'
   height: '1000'
 # </extra>

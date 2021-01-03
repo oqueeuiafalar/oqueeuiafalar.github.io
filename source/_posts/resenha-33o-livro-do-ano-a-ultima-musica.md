@@ -8,7 +8,7 @@ date: 2014-12-29 17:21:11
 # <extra>
 description: 'O livro “A última música” de Nicholas Sparks gira em torno de vários personagens, mas principalmente em torno de Verônica Miller, mais conhecida como Ronnie. Ronnie é garota uma vegetariana, mal-humorada, com mexas roxas no cabelo, e que não fala com o pai a anos, pois o culpa pela separação da família. Porém, em um determinado dia, a mãe de Ronnie decide que ela e seu irmão Jonah devem ir passar o verão com o pai que mora em uma cidadezinha bem pacata na Carolina do Norte onde as diversões se resumem a pescar, tomar conta de ninhos de tartarugas e brincar na lama, nada atrativo para uma garota que mora em Nova Iorque. Mas Ronnie mal podia imaginar que aconteceriam muitas coisas interessantes e que mudariam sua vida para sempre nessas férias. Lá pode conviver mais com seu irmão, &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2014/12/DSC03460-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/12/DSC03460-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -12,7 +12,7 @@ date: 2018-06-28 19:16:06
 # <extra>
 description: 'Como seria o mundo se o poder patriarcal da sociedade fosse trocado? É uma sociedade assim que nós conhecemos no romance distópico O Poder de Naomi Alderman'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2018/06/capa-livro-o-poder.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/capa-livro-o-poder.jpg'
   width: '1000'
   height: '1000'
 # </extra>

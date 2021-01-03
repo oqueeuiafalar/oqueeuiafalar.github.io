@@ -8,7 +8,7 @@ date: 2016-03-14 12:41:07
 # <extra>
 description: 'A Nasty Gal  é uma empresa norte americana que vende produtos como roupas, sapatos, maquiagens e acessórios no setor de varejo. A fundadora da loja, Sophia Amoruso, começou a Nasty Gal em 2006 vendendo artigos vintage no Ebay mas como o crescimento aconteceu de forma tão rápida ela teve que transferir a loja do ebay para um site e alugar um galpão bem maior que o quarto onde morava. No livro “GIRLBOSS”, Sophia conta toda a sua trajetória para chegar onde esta hoje, ela continua a frente da Nasty Gal como CEO. Em “GIRLBOSS” vemos toda a dificuldade que ela tinha em não se adaptar em escola nenhuma, seu déficit de atenção, depressão, suas trocas de empregos, um período onde resolveu roubar coisas de lojas e chegando a contar sobre seu trabalho como recepcionista em uma escola que foi onde &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/03/Capa-do-livro-GIRLBOSS-1024x768.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/03/Capa-do-livro-GIRLBOSS-1024x768.jpg'
   width: null
   height: null
 # </extra>

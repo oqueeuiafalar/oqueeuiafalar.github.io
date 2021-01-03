@@ -8,7 +8,7 @@ date: 2016-01-27 07:19:45
 # <extra>
 description: '&nbsp; &nbsp; Oi gente! Depois de muuuuito tempo resolvi gravar vídeo de novo e claro falando de um dos assuntos que eu mais gosto: LIVROS !! haha Em dezembro teve bastante promoção boa na internet e por isso fiz umas comprinhas, bora lá conferir minha listinha: 1º 10 anos com Mafalda &#8211; Quino 2º Deixe a neve cair &#8211; Lauren Myracle, John Green, Maureen Johnson 3º Laranja mecânica &#8211; Anthony Burgess 4º O planeta dos macacos &#8211; Pierre Boulle 5º Extraordinário &#8211; R. J. Palacio 6º Quem é você Alasca? &#8211; John Green 7º Se eu ficar &#8211; Gayle Forman 8º Apenas um dia &#8211; Gayle Forman 9º Will &amp; Will, um nome, um destino &#8211; John Green, David Levithan 10º A filha da herege &#8211; Kathleen Kent 11º O livreiro de Cabul &#8211; Asne Seierstad 12º Geek love. O &hellip;'
 featured_image: 
-  url: 'http://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Natalia-Santos-blog-o-que-que-eu-ia-falar.jpg'
+  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Natalia-Santos-blog-o-que-que-eu-ia-falar.jpg'
   width: null
   height: null
 # </extra>
