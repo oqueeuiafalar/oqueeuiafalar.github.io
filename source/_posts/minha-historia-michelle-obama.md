@@ -7,7 +7,7 @@ tags:
   - politica
 id: '5928'
 categories:
-  - - uncategorized
+  - - Livros
 date: 2019-04-07 09:16:57
 # <extra>
 description: 'Sinopse:    Um relato íntimo, poderoso e inspirador da ex-primeira-dama dos Estados Unidos. Quando menina, o mundo de Michelle Robinson se resumia ao bairro de South Side, em Chicago, onde ela e o irmão, Craig, dividiam um quarto no apartamento da família e brincavam de bola no parque. Seus pais, Fraser e Marian Robinson, a criaram para que fosse sincera e destemida. A vida logo a levou para muito mais longe &#8211; aos corredores da Universidade Princeton, onde soube pela primeira vez o que era ser a única mulher negra em uma sala de aula, e em seguida à moderna torre de escritórios onde trabalhava como uma dinâmica advogada corporativa. Foi ali, numa manhã de verão, que um estudante de direito chamado Barack Obama apareceu em seu escritório e subverteu todos os planos que ela tinha cuidadosamente traçado para si. Aqui, &hellip;'

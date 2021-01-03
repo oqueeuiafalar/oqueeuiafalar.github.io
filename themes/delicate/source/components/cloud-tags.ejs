@@ -1,0 +1,17 @@
+<div class="cloud-tags">
+    <h3 class="cloud-tags__title">Nuvem de tags</h3>
+    <%- tagcloud({
+        show_count: false
+    }).replace(/<a\b/gi, "<a class='cloud-tags__link' "); %>
+</div>
+<style>
+.cloud-tags__link {
+    color: #fff;
+    text-decoration: none;
+    zoom: 1.2;
+    margin: 4px;
+    border: 1px solid #fff;
+    padding: 4px;
+    display: inline-block;
+}
+</style>

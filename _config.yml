@@ -10,6 +10,7 @@ keywords:
 author: Natalia Santos
 language: pt-BR
 timezone: ''
+logo_url: "/images/oqueeuiafalar-logo-rosa.png"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -26,7 +27,7 @@ source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
-category_dir: categories
+category_dir: categorias
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -63,12 +64,13 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 13
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: sem-categoria
 category_map:
+  Livros: livros
 tag_map:
 
 # Metadata elements
@@ -110,3 +112,14 @@ deploy:
 ## Docs: https://github.com/hexojs/hexo-renderer-marked
 marked:
   lazyload: true
+
+# Delicate Theme Settings
+delicate:
+  widgets:
+    - name: "profile"
+      image:
+        url: "https://instagram.fcgh7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/58453990_823106028065635_5715083487799672832_n.jpg?_nc_ht=instagram.fcgh7-1.fna.fbcdn.net&amp;_nc_ohc=Vvhp6F3FTw0AX8xZgge&amp;tp=1&amp;oh=2de9541495e0060bcdcc39fa77adb976&amp;oe=601847CB"
+      text: Olá, me chamo Natalia Santos sou analista de conteúdo apaixonada por Moda, Livros e Cultura Pop. Aqui no "O que eu ia falar?" eu compartilho um poucos dessas minhas paixões.
+    - name: "publi"
+      text: "Anuncie"
+

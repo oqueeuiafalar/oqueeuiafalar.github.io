@@ -16,5 +16,10 @@ hexo.extend.helper.register("replaceClasses", function(classesMap, data) {
         replaceData = replaceData.replace(pattern, `$1${classesMap[key]}$2`);
         return replaceData;
     }, data);
-    // return data.split("").reverse().join("");
+});
+
+hexo.extend.helper.register("getWidgetByName", function(widgetName) {
+    const { config } = this;
+    const widgets = config.delicate.widgets;
+    return widgets.find(widget => widget.name === widgetName || {});
 });
