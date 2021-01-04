@@ -1,0 +1,11 @@
+<% if(Array.isArray(Object.keys(widget.links)) && Object.keys(widget.links).length > 0) { %>
+    <ul class="widget--social-icons">
+        <% Object.keys(widget.links).forEach(key => { %>
+        <li class="widget--social-icons__item">
+            <a class="widget--social-icons__item" href="<%- widget.links[key] %>" rel="nofollow">
+                <%- fa_inline(key, {prefix: 'fab'}) %>
+            </a>
+        </li>
+        <% }) %>
+    </ul>
+<% } %>

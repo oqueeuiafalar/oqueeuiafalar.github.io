@@ -11,7 +11,9 @@
 <body>
     <div class="page">
         <header class="page__header">
-            <img class="page__header__logo" src="<%- url_for(config.logo_url) %>">
+            <a class="page__header__logo" href="<%- url_for(config.url) %>">
+                <img src="<%- url_for(config.logo_url) %>">
+            </a>
         </header>
 
         <div class="page__navbar">

@@ -1,5 +1,8 @@
 {
     "profile": {
         "template": "profile"
+    },
+    "social-icons": {
+        "template": "social-icons"
     }
 }
