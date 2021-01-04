@@ -23,15 +23,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;

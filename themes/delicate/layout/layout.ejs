@@ -4,34 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
-    <% const title = [{
-        value: page.category,
+    <%
+    const pageConfigs = [{
+        title: page.category,
         isCurrent: is_category()
     }, {
-        value: page.tag,
+        title: page.tag,
         isCurrent: is_tag()
     }, {
-        value: page.title,
+        title: page.title,
         isCurrent: is_post() || is_page()
     }, {
-        value: "Home",
+        title: "Home",
         isCurrent: is_home()
     }, {
-        value: page.archive,
+        title: page.archive,
         isCurrent: is_archive()
     }, {
-        value: config.title,
+        title: config.title,
         isCurrent: true
-    }].find(function(item, index, list) {
+    }];
+
+    const currentPage = pageConfigs.find(function(item, index, list) {
         return item.isCurrent === true;
-    }).value;
+    });
+
     %>
-    <%- [title, config.title].join(" | ") -%>
+    <%- [currentPage.title, config.title].join(" | ") -%>
     </title>
 </head>
 
 <body>
-    <div class="page">
+    <div class="<%- is_post() || is_page() ? 'page--post' : 'page' %>">
         <header class="page__header">
             <a class="page__header__logo" href="<%- url_for(config.url) %>">
                 <img src="<%- url_for(config.logo_url) %>">
@@ -83,17 +87,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

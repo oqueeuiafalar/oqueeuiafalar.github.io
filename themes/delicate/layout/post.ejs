@@ -1,10 +1,48 @@
-<h1><%= page.title %></h1>
-
-<main>
-    <%- page.content %>
+<main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1"><%= page.title %></h1>
+        <%- page.content %>
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "<%= Object.keys(page).sort(); %>".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
