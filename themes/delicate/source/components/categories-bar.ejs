@@ -1,9 +1,14 @@
 <div class="categories-bar--mobile">
-    <span class="categories-bar--mobile__toggle-button">
+    <span class="categories-bar--mobile__toggle-button" onclick="GLOBAL.toggleMobileMenu()">
         <%- fa_inline("bars", {prefix: 'fas'}) %>
     </span>
 </div>
-<nav class="categories-bar">
+<nav class="categories-bar" data-sel="categories-bar" onclick="GLOBAL.toggleMobileMenu()">
+    <span class="categories-bar__link--action">
+        <span class="categories-bar__link__button">
+            <%- fa_inline("times", {prefix: 'fas'}) %>
+        </span>
+    </span>
     <%- replaceClasses({
         "category-link": "categories-bar__link"
     },
@@ -16,6 +21,16 @@
       separator: ""
     })) %>
 </nav>
+<script type="application/javascript">
+    window.GLOBAL = window.GLOBAL || {};
+    window.GLOBAL.toggleMobileMenu = function(){
+        const categoriesBar = document.querySelector("[data-sel='categories-bar']");
+        const body = document.querySelector("body");
+        categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
+        body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
+        console.log(body);
+    }
+</script>
 <style>
 .categories-bar {
     position: fixed;
@@ -30,8 +45,8 @@
 
 .categories-bar--mobile {
     padding: 16px 24px;
-    border-top: 1px solid #d8d8d8;
-    border-bottom: 1px solid #d8d8d8;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, .1);
     background: #fff;
 }
 
@@ -47,7 +62,8 @@
     max-width: calc(100vw - 330px);
 }
 
-.categories-bar__link {
+.categories-bar__link,
+.categories-bar__link--action {
     display: block;
     margin: 0;
     color: #030303;
@@ -61,6 +77,18 @@
     box-sizing: border-box;
     line-height: 2;
     overflow: auto;
+}
+
+.categories-bar__link--action {
+    display: flex;
+    width: 100%;
+}
+
+.categories-bar__link__button {
+    width: 24px;
+    display: block;
+    margin-left: auto;
+    margin-right: 8px;
 }
 
 .categories-bar--mobile__toggle-button {
@@ -87,7 +115,8 @@
         font-size: calc(.2em + .6vw);
         margin: 0;
     }
-    .categories-bar__link {
+    .categories-bar__link,
+    .categories-bar__link--action {
         color: inherit;
         text-decoration: none;
         padding: 0 16px;
@@ -95,6 +124,10 @@
         min-width: initial;
         line-height: initial;
         border-bottom: none;
+    }
+
+    .categories-bar__link--action {
+        width: 24px;
     }
 
     .categories-bar__link:first-child {
