@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Como usar prateleiras na decoração</h1>
-
-<main>
-    <p>As prateleiras são elementos que estão na decoração de nossas casas a muitos e muitos anos, mas ao contrário do que se pensa existem sim formas certas de utilizar prateleiras na sua decoração que deixam o ambiente muito lindos e ainda por cima conseguem aumentar a praticidade de sua casa ou apartamento. Elas podem ser feitas de madeira, ferro ou diversos outros materiais, inclusive materiais reciclados, o que é uma ótima possibilidade, já que reciclar está super na moda e é uma decisão linda. Então confira alguns modelos para se inspirar.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Como usar prateleiras na decoração</h1>
+        <p>As prateleiras são elementos que estão na decoração de nossas casas a muitos e muitos anos, mas ao contrário do que se pensa existem sim formas certas de utilizar prateleiras na sua decoração que deixam o ambiente muito lindos e ainda por cima conseguem aumentar a praticidade de sua casa ou apartamento. Elas podem ser feitas de madeira, ferro ou diversos outros materiais, inclusive materiais reciclados, o que é uma ótima possibilidade, já que reciclar está super na moda e é uma decisão linda. Então confira alguns modelos para se inspirar.</p>
 <h2 id="Formatos-geometricos"><a href="#Formatos-geometricos" class="headerlink" title="Formatos geométricos"></a><strong>Formatos geométricos</strong></h2><p>Usar formatos simétricos é uma opção linda, afinal a simetria é a mãe da beleza. Esse modelos fica mais lindo ainda se feito com madeira crua. Um ótimo comodo para se investir nesse tipo de decoração são <strong><a target="_blank" rel="noopener" href="http://www.dcorevoce.com.br/cozinha-americana/">cozinhas personalizadas</a></strong>. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/prateleiras-geom%C3%A9tricas.jpg" alt="decor: prateleira formato geométrico "></p>
 <h2 id="Estante-na-parede"><a href="#Estante-na-parede" class="headerlink" title="Estante na parede"></a>Estante na parede</h2><p>A parede pode se transformar em uma estante com diversos formatos, e ainda consegue provocar um efeito muito moderno. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/estante-na-parede.jpg" alt="decoração - como usar estante na parede "></p>
 <h2 id="Prateleira-na-cozinha"><a href="#Prateleira-na-cozinha" class="headerlink" title="Prateleira na cozinha"></a>Prateleira na cozinha</h2><p>A janelinha da cozinha pode ser complementada com plantas suspensas em uma prateleira. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/prateleira-na-cozinha.jpg" alt="decor: como usar prateleira na cozinha"></p>
 <h2 id="Prateleira-flutuante"><a href="#Prateleira-flutuante" class="headerlink" title="Prateleira flutuante"></a>Prateleira flutuante</h2><p>O estilo flutuante é lindo, e pode ser usado em qualquer cômodo, tanto no meio do cômodo quanto em algum canto especifico. Normalmente esse estilo é mais usado em uma varanda, mas fica muito bem para você que tem <a target="_blank" rel="noopener" href="http://www.dcorevoce.com.br/sanca-de-gesso/"><strong>sancas feitas com gesso na sua casa</strong></a>. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/prateleira-flutuante.jpg" alt="decoração com prateleira flutuante "> Espero que vocês tenham gostado e que consigam usar essas dicas para deixar a casa ainda mais bonita. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

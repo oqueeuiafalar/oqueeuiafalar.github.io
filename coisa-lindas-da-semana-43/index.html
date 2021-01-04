@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisa lindas da semana</h1>
-
-<main>
-    <p>Oie gente, como está o sábado de vocês?  O meu está bem preguiçoso, só pra variar haha, mas não poderia faltar coisas lindas pra gente ver, né. Vamos lá</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisa lindas da semana</h1>
+        <p>Oie gente, como está o sábado de vocês?  O meu está bem preguiçoso, só pra variar haha, mas não poderia faltar coisas lindas pra gente ver, né. Vamos lá</p>
 <h2 id="O-Central-Park"><a href="#O-Central-Park" class="headerlink" title="O Central Park"></a>O Central Park</h2><p><a href="/wp-content/uploads/2015/11/Central-Park-no-Outono.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Central-Park-no-Outono-713x1024.jpg" alt="Manhattan - Central Park - Outono "></a> O outono é a estação do ano que mais acho bonita fora do Brasil (porque aqui é verão o ano todo haha), principalmente quando vejo fotos do Central Park em New York, tem como não se apaixonar por uma paisagem tão linda como essa?</p>
 <h2 id="Essas-unhas"><a href="#Essas-unhas" class="headerlink" title="Essas unhas"></a>Essas unhas</h2><p><a href="/wp-content/uploads/2015/11/nail-art-dourada.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/nail-art-dourada-680x1024.jpg" alt="nail art - delicada - dourado "></a> Geralmente eu não gosto muito de unhas decoradas, mas essa eu adorei, super delicada, discreta e linda, eu quero fazer.</p>
 <h2 id="Essa-decoracao"><a href="#Essa-decoracao" class="headerlink" title="Essa decoração"></a>Essa decoração</h2><p><a href="/wp-content/uploads/2015/11/decora%C3%A7%C3%A3o-para-o-Natal.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/decora%C3%A7%C3%A3o-para-o-Natal.jpg" alt="decoração natalina - mesa da ceia "></a> Olha só que ideia boa, barata e fácil de fazer de decoração para o Natal. Basta comprar pinha seca e uma fitinha que tenha um toque natalino e aproveitar pra deixar a ceia ainda mais bonita.</p>
 <h2 id="Esses-porta-retratos"><a href="#Esses-porta-retratos" class="headerlink" title="Esses porta-retratos"></a>Esses porta-retratos</h2><p><a href="/wp-content/uploads/2015/11/conjunto-porta-retrato.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/conjunto-porta-retrato-683x1024.jpg" alt="porta retrato delicado "></a> Sou apaixonada por fotos e quando vi esse conjunto de porta-retratos eu fiquei doida, haha, são tão delicados e fofos, queria pra colocar na sala com fotos da família. Por hoje é isso. Bom final de semana. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

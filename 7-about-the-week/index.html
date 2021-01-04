@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>#1 7 about the week</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">#1 7 about the week</h1>
+        <p>Gente, decidir criar uma nova categoria aqui no blog. Irei postar sete fotos aleatórias que eu tirar durante a semana. Espero que gostem :) <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02022.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02022.jpg?w=630" alt="Image"></a> Post it :) <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02051.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02051.jpg?w=630" alt="Image"></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02059.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02059.jpg?w=650" alt="Image"></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/all-star.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/all-star.jpg?w=628" alt="Image"></a> All star and he ♥ <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02109.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02109.jpg?w=617" alt="Image"></a> Making of <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02099.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02099.jpg?w=630" alt="Image"></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/img_20140208_200754.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/img_20140208_200754.jpg?w=650" alt="Image"></a> Gostaram mais de alguma das fotos? Semana que vem tem mais, beijos :)</p>
 
-<main>
-    <p>Gente, decidir criar uma nova categoria aqui no blog. Irei postar sete fotos aleatórias que eu tirar durante a semana. Espero que gostem :) <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02022.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02022.jpg?w=630" alt="Image"></a> Post it :) <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02051.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02051.jpg?w=630" alt="Image"></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02059.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02059.jpg?w=650" alt="Image"></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/all-star.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/all-star.jpg?w=628" alt="Image"></a> All star and he ♥ <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02109.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02109.jpg?w=617" alt="Image"></a> Making of <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02099.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02099.jpg?w=630" alt="Image"></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/img_20140208_200754.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/img_20140208_200754.jpg?w=650" alt="Image"></a> Gostaram mais de alguma das fotos? Semana que vem tem mais, beijos :)</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

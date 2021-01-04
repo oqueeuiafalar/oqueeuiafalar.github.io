@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>8 dicas para você cuidar de suas roupas de couro em casa</h1>
-
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/08/meia-cal%C3%A7a-vestido-cinza-e-jaqueta-de-couro_1502883946585.jpg" alt="meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585"> As <strong>roupas de couro</strong> são lindas e super estilosas, tenho certeza que você tem pelo menos uma jaqueta de couro guardada aí em seu guarda roupas, certo? Mas apesar de toda sua versatilidade, afinal a gente encontra o couro em roupas, sapatos, bolsas, cintos entre outros, é um material que precisa de cuidados específicos para que ele dure por mais tempo, por isso, abaixo eu listo oito dicas de como cuidar desse material ai na sua casa, bora lá aprender.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">8 dicas para você cuidar de suas roupas de couro em casa</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/08/meia-cal%C3%A7a-vestido-cinza-e-jaqueta-de-couro_1502883946585.jpg" alt="meia-calça-vestido-cinza-e-jaqueta-de-couro_1502883946585"> As <strong>roupas de couro</strong> são lindas e super estilosas, tenho certeza que você tem pelo menos uma jaqueta de couro guardada aí em seu guarda roupas, certo? Mas apesar de toda sua versatilidade, afinal a gente encontra o couro em roupas, sapatos, bolsas, cintos entre outros, é um material que precisa de cuidados específicos para que ele dure por mais tempo, por isso, abaixo eu listo oito dicas de como cuidar desse material ai na sua casa, bora lá aprender.</p>
 <h2 id="1-–-Etiqueta"><a href="#1-–-Etiqueta" class="headerlink" title="1 – Etiqueta"></a><strong>1 –</strong> Etiqueta</h2><p>Antes de qualquer coisa, sempre olhe na etiqueta das roupas que você comprar, principalmente as de couro, pois, cada fabricante tem uma maneira de produzir suas peças e regras diferentes para serem cuidadas.</p>
 <h2 id="2-Agua"><a href="#2-Agua" class="headerlink" title="2- Água"></a>2- Água</h2><p>Se você quer preservar ao máximo suas roupas de couro, nunca as mergulhe na água, pois, ao fazer isso ela pode perder o óleo umectante causando assim rachaduras na peça.</p>
 <h2 id="3-Secagem"><a href="#3-Secagem" class="headerlink" title="3- Secagem"></a>3- Secagem</h2><p>Não pendure a peça com pregadores no varal, isso pode danificar o couro e deixa-lo marcado, prefira perdurar a peça em um cabide e colocar para secar na sombra, sem que o local seja muito quente para evitar que o couro encolha.</p>
@@ -171,12 +170,50 @@
 <h2 id="7-Hidratacao"><a href="#7-Hidratacao" class="headerlink" title="7- Hidratação"></a>7- Hidratação</h2><p>Com o auxilio de um paninho, passe um protetor de couro nas suas peças, isso ajuda a mante-la hidratada e faz a sua durabilidade aumentar muito. Tente repetir esse processo a cada quatro meses.</p>
 <h2 id="8-Lavagem"><a href="#8-Lavagem" class="headerlink" title="8- Lavagem"></a>8- Lavagem</h2><p>Se você sentir muita necessidade de lavar sua roupa de couro por  estar com mau cheiro ou porque derramou alguma coisa que apenas um paninho não resolva, leve-a em uma lavanderia. Lá eles saberão quais as técnicas e produtos adequados para cuidar melhor de sua peça de couro. Espero que vocês tenham gostado das dicas e que agora caprichem nos looks com peças de couro, tanto no inverno quanto no verão, hem! Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -210,17 +247,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

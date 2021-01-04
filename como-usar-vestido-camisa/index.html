@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Look do dia: vestido camisa com tênis</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Look do dia: vestido camisa com tênis</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-look-all-jeans.jpg" alt="como usar vestido jeans"> Oie gente, tudo bem? Se tem um tecido que nunca sai de moda, esse tecido é o jeans - graças a Deus haha - e esse vestido apesar de não ser jeans, tem um tecido que lembra muito o jeans, uma tendência de azul que vem desde 2016 e continua super em alta. Quando eu ganhei esse vestido não foi amor à primeira vista, mas isso até eu experimentar. Ele além de ser muito confortável, fica lindo no corpo e bem acinturadinho graças a essa amarração na cintura. É aquele tipo de vestido que nunca sai de moda, adoro! <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-%C3%B3culos-espelhado.jpg" alt="óculos espelhado azul"> Estou apaixonada por esse óculos. Mas devo confessar que paguei minha língua ao usa-lo, porque antigamente eu detestava óculos espelhado, mas hoje tem modelos tão lindos - principalmente esse da <a target="_blank" rel="noopener" href="https://www.livo.com.br/"><strong>Livo</strong></a> - que eu não consigo resistir. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/vestido-azul-com-t%C3%AAnis-branco-como-usar.jpg" alt="look com vestido jeans e tênis branco"> O vestido     é todo estampado com folhas e flores, mas o tom da estampa é um azul um pouco mais claro que o tom de azul do fundo, fazendo ele ficar ainda mais delicado. Eu adoro vestidos na modelagem camisa, ele quebra um pouco o romantismo da peça, mas sem deixar a parte feminina e delicada de lado. Só pra variar um pouco, escolhi esse tênis branco baixinho, haha, amo combinar tudo com tênis como vocês já sabem, e essa bolsa de poá da <strong><a target="_blank" rel="noopener" href="http://loja.imaginarium.com.br/">Imaginarium</a></strong>     que parece pequena, mas cabe o mundo lá dentro hehe. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-vestido-camisa.jpg" alt="vestido jeans como usar"> Espero que vocês tenham gostado de mais esse look. Beijos!</p>
 
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-look-all-jeans.jpg" alt="como usar vestido jeans"> Oie gente, tudo bem? Se tem um tecido que nunca sai de moda, esse tecido é o jeans - graças a Deus haha - e esse vestido apesar de não ser jeans, tem um tecido que lembra muito o jeans, uma tendência de azul que vem desde 2016 e continua super em alta. Quando eu ganhei esse vestido não foi amor à primeira vista, mas isso até eu experimentar. Ele além de ser muito confortável, fica lindo no corpo e bem acinturadinho graças a essa amarração na cintura. É aquele tipo de vestido que nunca sai de moda, adoro! <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-%C3%B3culos-espelhado.jpg" alt="óculos espelhado azul"> Estou apaixonada por esse óculos. Mas devo confessar que paguei minha língua ao usa-lo, porque antigamente eu detestava óculos espelhado, mas hoje tem modelos tão lindos - principalmente esse da <a target="_blank" rel="noopener" href="https://www.livo.com.br/"><strong>Livo</strong></a> - que eu não consigo resistir. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/vestido-azul-com-t%C3%AAnis-branco-como-usar.jpg" alt="look com vestido jeans e tênis branco"> O vestido     é todo estampado com folhas e flores, mas o tom da estampa é um azul um pouco mais claro que o tom de azul do fundo, fazendo ele ficar ainda mais delicado. Eu adoro vestidos na modelagem camisa, ele quebra um pouco o romantismo da peça, mas sem deixar a parte feminina e delicada de lado. Só pra variar um pouco, escolhi esse tênis branco baixinho, haha, amo combinar tudo com tênis como vocês já sabem, e essa bolsa de poá da <strong><a target="_blank" rel="noopener" href="http://loja.imaginarium.com.br/">Imaginarium</a></strong>     que parece pequena, mas cabe o mundo lá dentro hehe. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-vestido-camisa.jpg" alt="vestido jeans como usar"> Espero que vocês tenham gostado de mais esse look. Beijos!</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

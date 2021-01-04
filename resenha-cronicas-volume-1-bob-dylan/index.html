@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Resenha: Crônicas Volume 1 – Bob Dylan</h1>
-
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/capa-Cr%C3%B4nicas-Volume-1-%E2%80%93-Bob-Dylan.jpg" alt="Resenha Crônicas Volume 1 – Bob Dylan "> Todo mundo ouviu muito falar de <strong>Bob Dylan</strong> nesses últimos tempos graças ao <strong>Nobel de Literatura</strong> que ele recebeu em 2016. A <a target="_blank" rel="noopener" href="http://www.planetadelivros.com.br/"><strong>Editora Planeta</strong></a> resolveu publicar a reedição de <strong>Crônicas Volume 1</strong> e é sobre ela que vamos falar hoje. Crônicas Volume 1 foi lançada no Brasil em 2005, mas na reedição da Editora Planeta o livro ganha nova capa – muito linda por sinal. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/resenha-cr%C3%B4nicas-volume-1-bob-dylan.jpg" alt="páginas do livro - crônicas volume 1 - bob dylan"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/lombada-do-livro-cr%C3%B4nicas-volume-I-bob-dylan-1.jpg" alt="resumo do livro - crônicas volume 1 - bob dylan"></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: Crônicas Volume 1 – Bob Dylan</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/capa-Cr%C3%B4nicas-Volume-1-%E2%80%93-Bob-Dylan.jpg" alt="Resenha Crônicas Volume 1 – Bob Dylan "> Todo mundo ouviu muito falar de <strong>Bob Dylan</strong> nesses últimos tempos graças ao <strong>Nobel de Literatura</strong> que ele recebeu em 2016. A <a target="_blank" rel="noopener" href="http://www.planetadelivros.com.br/"><strong>Editora Planeta</strong></a> resolveu publicar a reedição de <strong>Crônicas Volume 1</strong> e é sobre ela que vamos falar hoje. Crônicas Volume 1 foi lançada no Brasil em 2005, mas na reedição da Editora Planeta o livro ganha nova capa – muito linda por sinal. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/resenha-cr%C3%B4nicas-volume-1-bob-dylan.jpg" alt="páginas do livro - crônicas volume 1 - bob dylan"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/lombada-do-livro-cr%C3%B4nicas-volume-I-bob-dylan-1.jpg" alt="resumo do livro - crônicas volume 1 - bob dylan"></p>
 <blockquote>
 <p>Eu tinha vindo de muito longe e começado muito de baixo. Mas agora o destino estava prestes a se manifestar. Senti como se ele estivesse olhando direto para mim e para mais ninguém.</p>
 </blockquote>
 <p>O livro mostra várias partes da vida de Bob Dylan, como no começo dos anos 60 quando ele resolve se mudar para Manhattan, as pessoas que ele conheceu e que influenciaram muito sua vida e música, amigos e amores, passando até por quando ele já estava bem famoso e não conseguia levar uma vida reservada com sua família, também tem diálogos com Bono – sim, o Bono do U2- o que me deixou muito, muito, muito feliz. Muitos dizem que <strong>Crônicas Volume 1</strong> é uma autobiografia, pode até ser, mas não é linear como outras que já li. Cada capítulo do livro é dedicado a uma época da vida de <strong>Bob Dylan</strong>, porém, várias vezes ele deixa alguns anos em branco. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/contra-capa-do-livro-cr%C3%B4nicas-volume-1-de-Bob-Dylan.jpg" alt="resenha do livro - crônicas volume 1 de bob dylan"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/04/resenha-do-livro-cr%C3%B4nicas-volume-1-Bob-Dylan.jpg" alt="livro crônicas volume 1 de bob dylan - resumo"> Ao ler o livro é possível viajar com Dylan para os lugares por quais ele passou, conversas que teve, pessoas que conheceu e muitas músicas que ouviu. Bob Dylan tem mais de cinqüenta anos de carreira e é um dos maiores nomes da música de todos os tempos. Crônicas Volume 1 me deixou bem curiosa para ler os próximos capítulos da trilogia e graças ao livro comecei a ouvir muita música de Dylan, uma pena eu não ter adquirido esse habito antes.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

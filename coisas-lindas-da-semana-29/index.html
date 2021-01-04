@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oi, gente. Para quem gosta de coisas lindas, eis que estamos aqui novamente com as coisas mais lindas dessa semana. Espero que gostem, lá vamos nós :)</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oi, gente. Para quem gosta de coisas lindas, eis que estamos aqui novamente com as coisas mais lindas dessa semana. Espero que gostem, lá vamos nós :)</p>
 <h2 id="Esse-penteado"><a href="#Esse-penteado" class="headerlink" title="Esse penteado"></a>Esse penteado</h2><p><a href="/wp-content/uploads/2015/08/penteado-com-tran%C3%A7a-para-noiva.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/penteado-com-tran%C3%A7a-para-noiva-683x1024.jpg" alt="penteado com trança"></a> Como não se apaixonar por esse penteado? Tenho certeza que as noivas de plantão já estão pirando só de olhar para essa foto haha. Combina muito com casamentos feitos durante o dia, no campo, lindo, delicado e muito romântico.</p>
 <h2 id="Esse-balanco"><a href="#Esse-balanco" class="headerlink" title="Esse balanço"></a>Esse balanço</h2><p><a href="/wp-content/uploads/2015/08/balan%C3%A7o-decorado.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/balan%C3%A7o-decorado.jpg" alt="balanço decorado"></a> Esse balanço é daquele tipo que só vemos em fotos ou em filmes, concordam? Eu adoraria ter essa delicadeza embelezando meu quintal, rs.</p>
 <h2 id="Esse-“cantinho”"><a href="#Esse-“cantinho”" class="headerlink" title="Esse “cantinho”"></a>Esse “cantinho”</h2><p><a href="/wp-content/uploads/2015/08/c433763a3c1f7f20a273199284a08ec7.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/c433763a3c1f7f20a273199284a08ec7.jpg" alt="banheira, ar livre"></a> Quer lugar melhor que esse pra relaxar? Acho difícil encontrar, hein haha.</p>
 <h2 id="Esses-copos"><a href="#Esses-copos" class="headerlink" title="Esses copos"></a>Esses copos</h2><p><a href="/wp-content/uploads/2015/08/copos-de-alum%C3%ADnio.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/copos-de-alum%C3%ADnio-707x1024.jpg" alt="copos e bandeija de alumínio"></a> Ahh, amei esse jogo de copos e a bandeja também. Além de ficarem lindos na decoração, acho que a bebida fica até mais geladinha, devido ao metal. E aí, se inspiraram? Bom final de semana para vocês e semana que vem tem mais coisas lindas. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

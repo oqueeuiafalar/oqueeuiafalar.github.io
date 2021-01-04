@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Hoje o coisas lindas chego no seu “dois patinhos na lagoa”, vamos ver o que nos espera.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Hoje o coisas lindas chego no seu “dois patinhos na lagoa”, vamos ver o que nos espera.</p>
 <h2 id="Esse-look"><a href="#Esse-look" class="headerlink" title="Esse look"></a>Esse look</h2><p><a href="/wp-content/uploads/2015/06/jeans-com-all-star-vermelho-e-blazer-vermelho-e-camiseta-listrada.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/jeans-com-all-star-vermelho-e-blazer-vermelho-e-camiseta-listrada-385x1024.jpg" alt="look de jeans, tênis e blazer "></a> Não é a primeira vez que comento aqui no blog que eu adoro blazer com tênis, acho que o visual fica bem moderno e despojado, vocês também gostam?</p>
 <h2 id="Esse-criado-mudo"><a href="#Esse-criado-mudo" class="headerlink" title="Esse criado mudo"></a>Esse criado mudo</h2><p><a href="/wp-content/uploads/2015/06/criado-mudo-vintage.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criado-mudo-vintage.jpg" alt="criado mudo de madeira"></a> Eu não tenho certeza, mas acho que esse móvel é um criado-mudo, (senão for me avisem rs), achei tão lindo e vintage, fica lindo pra decoração.</p>
 <h2 id="Esse-caminho"><a href="#Esse-caminho" class="headerlink" title="Esse caminho"></a>Esse caminho</h2><p><a href="/wp-content/uploads/2015/06/caminho-feito-de-pedras.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/caminho-feito-de-pedras-601x1024.jpg" alt="caminho de pedras"></a> Como não se encantar com esse caminho todo feito em pedras? Muito amor.</p>
 <h2 id="Essas-rosas"><a href="#Essas-rosas" class="headerlink" title="Essas rosas"></a>Essas rosas</h2><p><a href="/wp-content/uploads/2015/06/decora%C3%A7%C3%A3o-com-rosas-brancas.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/decora%C3%A7%C3%A3o-com-rosas-brancas.jpg" alt="arranjo de madeira com rosas brancas e rosas"></a> Não sou a pessoa que mais admira rosas nessa vida, eu gosto mesmo de orquídeas, mas essa decoração esta tão delicada que não teve como eu não me apaixonar. O coisas lindas dessa semana fica por aqui aguardando que a semana que vem traga ainda mais belezas para as nossas vidas. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

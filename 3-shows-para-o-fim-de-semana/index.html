@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,20 +157,58 @@
 
 </style>
         </div>
-        <h1>3 shows para o fim de semana</h1>
-
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/shows-para-assistir-no-fim-de-semana.jpg" alt="programação - shows para assistir no final de semana "> Há finais de semana que tudo o que eu mais quero é ficar em casa assistindo meus DVDs de show, adoro fazer isso. Por isso hoje vou indicar pra vocês três shows que eu sempre assisto e nunca me canso, na verdade existem outros shows que eu sempre assisto, quem sabe eu não faça “3 shows para o final de semana parte II” haha. Eu espero que vocês gostem das dicas, afinal são ótimos shows pra embalar aquele fim de semana preguiçoso.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">3 shows para o fim de semana</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/shows-para-assistir-no-fim-de-semana.jpg" alt="programação - shows para assistir no final de semana "> Há finais de semana que tudo o que eu mais quero é ficar em casa assistindo meus DVDs de show, adoro fazer isso. Por isso hoje vou indicar pra vocês três shows que eu sempre assisto e nunca me canso, na verdade existem outros shows que eu sempre assisto, quem sabe eu não faça “3 shows para o final de semana parte II” haha. Eu espero que vocês gostem das dicas, afinal são ótimos shows pra embalar aquele fim de semana preguiçoso.</p>
 <h2 id="U2-360º-At-the-Rose-Bowl"><a href="#U2-360º-At-the-Rose-Bowl" class="headerlink" title="U2 360º At the Rose Bowl"></a><strong>U2 360º At the Rose Bowl</strong></h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/DVD-U2-360-tour.jpg" alt="U2 360º At the Rose Bowl - DVD 360 - U2"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/encarte-DVD-U2-360-tour.jpg" alt="show para o fim de semana - U2 360"> Se tem uma banda que sou apaixonada desde criança, essa banda é U2, então pra mim qualquer show deles já faz com que meu dia fique muito melhor. Resolvi indicar esse em especifico porque é um DVD duplo, portanto, muitas horas de U2 haha e a estrutura do show é magnífica, é tudo tão bem feito e lindo que até quem não gosta da banda fica maravilhado. Fico tão feliz por ter tido a oportunidade de assistir a essa turnê ao vivo.</p>
 <h2 id="Paul-McCartney-in-Red-Square"><a href="#Paul-McCartney-in-Red-Square" class="headerlink" title="Paul McCartney in Red Square"></a><strong>Paul McCartney in Red Square</strong></h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/DVD-Paul-McCartney-in-Red-Square.jpg" alt="show Paul McCartney in Red Square para assistir no final de semana"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/encarte-DVD-Paul-McCartney-in-Red-Square.jpg" alt="show Paul McCartney in Red Square - DVD"> Amei quando meu pai me deu esse DVD, é um show gravado em Moscou que vem com muitas músicas que eu amo, algumas delas dos Beatles, como: Yesterday, Can’t buy me love, entre várias outras. É um DVD bem longo e tem algumas entrevistas, pra quem é fã, esse é um DVD obrigatório.</p>
 <h2 id="Coldplay-live-2003"><a href="#Coldplay-live-2003" class="headerlink" title="Coldplay live 2003"></a><strong>Coldplay live 2003</strong></h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/DVD-Coldplay-live-2003.jpg" alt="show Coldplay live 2003"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/Coldplay-live-2003-show.jpg" alt="show Coldplay live 2003 para assistir no fim de semana"> Claro que tem DVDs do Coldplay de shows mais recentes, mas esse é o qual eu mais amo. Ele vem com as músicas que eu mais gosto, como: The Scientist; Shiver; God put a smile upon your face e muitas outras. Os shows foram filmados em Sydney em julho de 2003, e é um show inesquecível repleto de músicas que fizeram muito sucesso. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/DVDs-U2-Coldplay-Paul-McCartney.jpg" alt="DVDs para o fim de semana - U2 - ColdPlay - Paul McCartney "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/shows-para-o-fim-de-semana.jpg" alt="DVDs U2 360 - ColdPlay - Paul McCartney in Red Square "> E aí, gostaram da seleção de shows para o fim de semana? Já assistiram algum desses? Me contem nos comentários o que acharam. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -205,17 +242,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

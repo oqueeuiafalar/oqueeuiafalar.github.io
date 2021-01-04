@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oi, gente. Agora que já passou todo aquele alvoroço pós horário de verão já temos nosso primeiro final de semana com 48 horas inteiras de coisas lindas nos esperando. Então vamos lá!</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oi, gente. Agora que já passou todo aquele alvoroço pós horário de verão já temos nosso primeiro final de semana com 48 horas inteiras de coisas lindas nos esperando. Então vamos lá!</p>
 <h2 id="Essa-roupa-de-cama"><a href="#Essa-roupa-de-cama" class="headerlink" title="Essa roupa de cama"></a>Essa roupa de cama</h2><p><a href="/wp-content/uploads/2015/10/roupa-de-cama-patchwork.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/roupa-de-cama-patchwork.jpg" alt="trabalho em patchwork"></a> Não é possível que vocês não concordam comigo que esse conjunto de roupa de cama ta divinamente lindo e fofo? Bem vintage, delicado, muito amor, fluflu, aiii.</p>
 <h2 id="Essa-casa"><a href="#Essa-casa" class="headerlink" title="Essa casa"></a>Essa casa</h2><p><a href="/wp-content/uploads/2015/10/casa-com-jardim-vertical.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/casa-com-jardim-vertical.jpg" alt="construção - jardim vertical"></a> Sempre que eu vejo essas fachadas com jardim vertical eu viajo mentalmente para o Reino Unido, sei lá, acho lindo e bem a cara deles.</p>
 <h2 id="Essas-correntes"><a href="#Essas-correntes" class="headerlink" title="Essas correntes"></a>Essas correntes</h2><p><a href="/wp-content/uploads/2015/10/correntes-delicadas.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/correntes-delicadas.jpg" alt="correntes delicadas"></a> Ando tendo um caso de amor tão grande com essas correntes minimalista, além de super delicado, são sofisticadas e deixam os <a target="_blank" rel="noopener" href="http://natalia.blog.br/category/look/">looks</a> sempre mais elegantes.</p>
 <h2 id="Esse-enfeite"><a href="#Esse-enfeite" class="headerlink" title="Esse enfeite"></a>Esse enfeite</h2><p><a href="/wp-content/uploads/2015/10/decora%C3%A7%C3%A3o-com-l%C3%A2mpada.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/decora%C3%A7%C3%A3o-com-l%C3%A2mpada-680x1024.jpg" alt="lâmpada - flores - decoração "></a> Ta aí um enfeite lindo e fácil pra se fazer, já tinha visto outros desses tipo no Pinterest e sempre fico encantada, daí quando vi esse e logo em seguida uma decoração de natal me inspirei e tive algumas ideias de enfeitar a casa no natal com esse tipo de enfeite, mas com pisca pisca, quem sabe em breve minhas ideias de pisca pisca para natal virem post por aqui. É isso, gente. Bom final de semana. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

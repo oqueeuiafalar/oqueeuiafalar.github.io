@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Receita: Bolo cocada com calda de maracujá</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracuj%C3%A1.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracuj%C3%A1-1024x768.jpg" alt="bolo cocada com calda de maracujá - como fazer"></a> Oi gente, tudo bem? Eu sou apaixonada por cocada desde que eu me conheço por gente. Lembro que quando criança minha tia Cida fazia uma cocada de comer rezando, e minha mãe faz uma cocada de comer de colher que meu Deus, é gostoso demais, não há dieta que resista haha, fora essas cocadas deliciosas dos mais diversos sabores que são vendidas nas ruas/parques. E além de toda essas cocadas mais tradicionais, minha mãe resolve as vezes fazer esse bolo cocada que é divino ( sério, vocês precisam experimentar) principalmente por causa dessa calda de maracujá que dá um azedinho todo especial. E claro eu não podia deixar de compartilhar essa gostosura toda com vocês, né. Papel e caneta na mão e bora anotar a receita. <a href="/wp-content/uploads/2016/01/Bolo-cocada-com-maracuj%C3%A1.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Bolo-cocada-com-maracuj%C3%A1-1024x768.jpg" alt="como fazer bolo de coco e calda de maracujá "></a></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Receita: Bolo cocada com calda de maracujá</h1>
+        <p><a href="/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracuj%C3%A1.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracuj%C3%A1-1024x768.jpg" alt="bolo cocada com calda de maracujá - como fazer"></a> Oi gente, tudo bem? Eu sou apaixonada por cocada desde que eu me conheço por gente. Lembro que quando criança minha tia Cida fazia uma cocada de comer rezando, e minha mãe faz uma cocada de comer de colher que meu Deus, é gostoso demais, não há dieta que resista haha, fora essas cocadas deliciosas dos mais diversos sabores que são vendidas nas ruas/parques. E além de toda essas cocadas mais tradicionais, minha mãe resolve as vezes fazer esse bolo cocada que é divino ( sério, vocês precisam experimentar) principalmente por causa dessa calda de maracujá que dá um azedinho todo especial. E claro eu não podia deixar de compartilhar essa gostosura toda com vocês, né. Papel e caneta na mão e bora anotar a receita. <a href="/wp-content/uploads/2016/01/Bolo-cocada-com-maracuj%C3%A1.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Bolo-cocada-com-maracuj%C3%A1-1024x768.jpg" alt="como fazer bolo de coco e calda de maracujá "></a></p>
 <h2 id="Para-o-bolo"><a href="#Para-o-bolo" class="headerlink" title="Para o bolo:"></a>Para o bolo:</h2><ul>
 <li>  1 lata de leite condensado</li>
 <li>  300 ml de leite</li>
@@ -184,12 +183,50 @@
 </ul>
 <p><a href="/wp-content/uploads/2016/01/bolo-de-coco-com-calda-de-maracuj%C3%A1.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/bolo-de-coco-com-calda-de-maracuj%C3%A1-1024x768.jpg" alt="como fazer bolo de coco com calda "></a> Viram só como é fácil fazer? Eu adoro essas receitas que são só colocar tudo dentro do liquidificador e bater, é prático, rápido e faz menos sujeira haha. Façam a receita em casa e não se esqueçam de me contar o que acharam. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -223,17 +260,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

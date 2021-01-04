@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Inspire-se com New Darlings</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Inspire-se com New Darlings</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/foto-casal-hipster.jpg" alt="foto romântica estrada "> Você conhece o <a target="_blank" rel="noopener" href="http://newdarlings.com/"><strong>New Darlings</strong></a>? Não? Pois se você é apaixonado por fotografias e ama <strong>looks do dia</strong> esta perdendo tempo. <strong>New Darlings</strong> é um blog muito fofo formado pelo casal Christina e Robert de Phoenix, Arizona, e que é recheado de fotos maravilhosas e de muitos <strong>looks do dia</strong>. Christina e Robert tem um estilo meio hipster e também básico e montam looks incríveis em cenários lindos que com certeza vai servir de muita inspiração para quem gosta de look do dia. Aqui vai algumas inspirações que eu roubei do blogs deles para encher vocês de muito amor. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/look-hipster.jpg" alt="como montar look folk "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/como-montar-look-minimalista.jpg" alt="como usar look minimalista "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/look-jeans-masculino.jpg" alt="como usar camisa jeans"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/look-hipster-como-usar.jpg" alt="como usar blazer masculino "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/foto-casal-p%C3%B4r-do-sol.jpg" alt="foto romântica pôr do sol"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/estilo-hipster-como-usar.jpg" alt="look folk "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/new-darlings-fotos.jpg" alt="foto romântica de casal"> Gostaram do estilo maravilhoso desse casal? Bora lá acessar o blog <a target="_blank" rel="noopener" href="http://newdarlings.com/"><strong>New Darlings</strong></a> para ver mais fotos lindas. Beijos!</p>
 
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/foto-casal-hipster.jpg" alt="foto romântica estrada "> Você conhece o <a target="_blank" rel="noopener" href="http://newdarlings.com/"><strong>New Darlings</strong></a>? Não? Pois se você é apaixonado por fotografias e ama <strong>looks do dia</strong> esta perdendo tempo. <strong>New Darlings</strong> é um blog muito fofo formado pelo casal Christina e Robert de Phoenix, Arizona, e que é recheado de fotos maravilhosas e de muitos <strong>looks do dia</strong>. Christina e Robert tem um estilo meio hipster e também básico e montam looks incríveis em cenários lindos que com certeza vai servir de muita inspiração para quem gosta de look do dia. Aqui vai algumas inspirações que eu roubei do blogs deles para encher vocês de muito amor. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/look-hipster.jpg" alt="como montar look folk "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/como-montar-look-minimalista.jpg" alt="como usar look minimalista "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/look-jeans-masculino.jpg" alt="como usar camisa jeans"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/look-hipster-como-usar.jpg" alt="como usar blazer masculino "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/foto-casal-p%C3%B4r-do-sol.jpg" alt="foto romântica pôr do sol"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/estilo-hipster-como-usar.jpg" alt="look folk "> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/new-darlings-fotos.jpg" alt="foto romântica de casal"> Gostaram do estilo maravilhoso desse casal? Bora lá acessar o blog <a target="_blank" rel="noopener" href="http://newdarlings.com/"><strong>New Darlings</strong></a> para ver mais fotos lindas. Beijos!</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

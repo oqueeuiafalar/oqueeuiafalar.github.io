@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>O “Coisas lindas da semana” dessa semana poderia se chamar “Sob o sol da Toscana”. Se você pensou no filme, sim você esta certo, me inspirei nele pra fazer esse post. Como eu estou tentando praticar ao máximo o inglês, para não esquecer tudo o que aprendi no cursinho de anos eu resolvi começar a ver filmes e seriados que eu gosto sem legenda e em inglês, e essa semana eu assisti esse filme que eu amo demais, que já assisti várias vezes e que ainda vou ver muito. Para quem não conhece a história, que é baseada em um livro, pode conferir a resenha do livro <a target="_blank" rel="noopener" href="http://natalia.blog.br/2014/07/10/16o-livro-do-ano-sob-o-sol-da-toscana/" title="aqui"><strong>aqui</strong></a></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>O “Coisas lindas da semana” dessa semana poderia se chamar “Sob o sol da Toscana”. Se você pensou no filme, sim você esta certo, me inspirei nele pra fazer esse post. Como eu estou tentando praticar ao máximo o inglês, para não esquecer tudo o que aprendi no cursinho de anos eu resolvi começar a ver filmes e seriados que eu gosto sem legenda e em inglês, e essa semana eu assisti esse filme que eu amo demais, que já assisti várias vezes e que ainda vou ver muito. Para quem não conhece a história, que é baseada em um livro, pode conferir a resenha do livro <a target="_blank" rel="noopener" href="http://natalia.blog.br/2014/07/10/16o-livro-do-ano-sob-o-sol-da-toscana/" title="aqui"><strong>aqui</strong></a></p>
 <h2 id="Essa-mulher"><a href="#Essa-mulher" class="headerlink" title="Essa mulher"></a>Essa mulher</h2><p><a href="/wp-content/uploads/2015/02/da6c770e86440a10f3de1368bc9a071d.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/da6c770e86440a10f3de1368bc9a071d-684x1024.jpg" alt="mulher grávida linda"></a> Essa mulher consegue transmitir paz, amor, felicidade e tranqüilidade, tudo em uma foto só. Tão linda!</p>
 <h2 id="Essa-vila"><a href="#Essa-vila" class="headerlink" title="Essa vila"></a>Essa vila</h2><p><a href="/wp-content/uploads/2015/02/15f2e27466cb0699babcd56cbe6698e3.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/15f2e27466cb0699babcd56cbe6698e3-683x1024.jpg" alt="ruas na Toscana "></a> Ainda vou dá uma de Frances (do filme Sob o sol da Toscana) e vou comprar uma casa lá naquele lugar encantador e não voltar nunca mais. Como não se apaixonar por um lugar desses?</p>
 <h2 id="Esse-porta-talheres"><a href="#Esse-porta-talheres" class="headerlink" title="Esse porta talheres"></a>Esse porta talheres</h2><p><a href="/wp-content/uploads/2015/02/8cdfad9ac51bc5230452558299ef9d72.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/8cdfad9ac51bc5230452558299ef9d72.jpg" alt="porta talher diferente "></a> Também já comecei a pensar nos detalhes da decoração da minha possível futura casa na Toscana e tenho certeza que esses porta talheres ficariam lindos na minha cozinha *-*</p>
 <h2 id="Essa-torneira"><a href="#Essa-torneira" class="headerlink" title="Essa torneira"></a>Essa torneira</h2><p><a href="/wp-content/uploads/2015/02/cc82070164a7535b434e17927a7be209.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/cc82070164a7535b434e17927a7be209-681x1024.jpg" alt="torneira bonita e rustica "></a> E ainda pensando na minha possível futura casa na Toscana, não seria lindo ter uma torneira dessas no quintal? Assim como tem no filme. Claro, com videiras para deixar o lugar mais lindo, perfumado e apetitoso. Por enquanto é só, espero que esse coisas lindas da semana também tenha ajudado quem estiver lendo a pensar um pouco naquele lugar maravilhoso que você adoraria conhecer rs. Semana que vem tem mais. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

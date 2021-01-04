@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oi, gente. Que tal falarmos um pouquinho de moda e decoração para começar bem esse final de semana? Aqui vão algumas coisas lindas para nos inspirar.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oi, gente. Que tal falarmos um pouquinho de moda e decoração para começar bem esse final de semana? Aqui vão algumas coisas lindas para nos inspirar.</p>
 <h2 id="Essa-loja"><a href="#Essa-loja" class="headerlink" title="Essa loja"></a>Essa loja</h2><p><a href="/wp-content/uploads/2015/10/loja-rustica-decora%C3%A7%C3%A3o.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/loja-rustica-decora%C3%A7%C3%A3o-683x1024.jpg" alt="loja - decoração - rustica "></a> Gente, como não se apaixonar por essa loja??? Primeiro porque as roupas parecem lindas, segundo porque a decoração tá um arraso, bem rustica, dando um ar mais aconchegante, adorei.</p>
 <h2 id="Essa-make"><a href="#Essa-make" class="headerlink" title="Essa make"></a>Essa make</h2><p><a href="/wp-content/uploads/2015/10/6a219a834fb6fa1f02a6987a6459a09a.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/6a219a834fb6fa1f02a6987a6459a09a-683x1024.jpg" alt="make clássica "></a> É quando vejo essas fotos que eu fico triste por não ter coordenação motora para poder fazer uma make linda dessa haha.</p>
 <h2 id="Essas-listras"><a href="#Essas-listras" class="headerlink" title="Essas listras"></a>Essas listras</h2><p><a href="/wp-content/uploads/2015/10/vestido-listrado-look.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/vestido-listrado-look-683x1024.jpg" alt="vestido com listras"></a> Depois do poa, minha estampa predileta são as listras, por isso eu devo ter adorado esse look, listras por todos os lados haha.</p>
 <h2 id="Essa-poltrona"><a href="#Essa-poltrona" class="headerlink" title="Essa poltrona"></a>Essa poltrona</h2><p><a href="/wp-content/uploads/2015/10/decora%C3%A7%C3%A3o-poltrona-suspensa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/decora%C3%A7%C3%A3o-poltrona-suspensa-692x1024.jpg" alt="decoração poltrona suspensa"></a> É muito amor envolvido nessa poltrona haha, linda, aconchegante, e suspensa, amei. E aí, gostaram? Como sempre falo, coisas lindas nunca são demais e sempre melhoram o final de semana. Quem tiver sugestões de coisas lindas é só comentar aqui embaixo. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

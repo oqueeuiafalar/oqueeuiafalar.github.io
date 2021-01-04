@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,22 +157,60 @@
 
 </style>
         </div>
-        <h1>Doce de leite em pedaços</h1>
-
-<main>
-    <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02538.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02538.jpg?w=650" alt="Doce de leite em pedaços "></a> Gente, já faz um tempo que eu estava com uma vontade louca de comer doce de leite caseiro, e hoje finalmente minha mãe resolveu me ensinar a fazer, é muito fácil e ficam deliciosos, por isso resolvi compartilhar a receita com vocês. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02542.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02542.jpg?w=650" alt="Doce de leite em pedaços "></a> <strong>Ingredientes:</strong> </p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Doce de leite em pedaços</h1>
+        <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02538.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02538.jpg?w=650" alt="Doce de leite em pedaços "></a> Gente, já faz um tempo que eu estava com uma vontade louca de comer doce de leite caseiro, e hoje finalmente minha mãe resolveu me ensinar a fazer, é muito fácil e ficam deliciosos, por isso resolvi compartilhar a receita com vocês. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02542.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02542.jpg?w=650" alt="Doce de leite em pedaços "></a> <strong>Ingredientes:</strong> </p>
 <ul>
 <li>  3 litros de leite</li>
 <li>  1 kg de açúcar</li>
 </ul>
 <p><strong>Modo de preparo:</strong> Ponha o leite em uma panela e deixe ferver até reduzir pela metade (pra não subir e sujar todo o fogão, deixe uma panela de pau em cima da panela.) Junte o açúcar e mexa sem parar. Quando começar a engrossar continue mexendo, mas só em uma direção, até atingir o ponto desejado. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02539.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02539.jpg?w=650" alt="Doce de leite em pedaços "></a> Quem quiser fazer doce de leite cremoso, aquele pra comer de colher, usar como recheio de bolo, passar na torrada, retire do fogo enquanto estiver cremoso. Se você preferir o doce no ponto de corte, como eu fiz, mexa até soltar do fundo da panela. Retire do fogo e bata com uma colher de pau até começar a açucarar e perder o brilho. Em seguida, despeje o doce em uma superfície untada e espalhe. Espere ficar morno e corte da forma que preferir. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02545.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02545.jpg?w=650" alt="Doce de leite em pedaços "></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02547.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02547.jpg?w=650" alt="Doce de leite em pedaços "></a> Bem fácil, né? Façam e me contem como ficou. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -207,17 +244,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

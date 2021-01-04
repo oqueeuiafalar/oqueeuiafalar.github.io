@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Advinha só sobre o que são as coisas lindas dessa semana? :P Decoração e moda, vocês sabem como eu adoro essas coisas, né? :) Vamos lá, nossas coisas lindas são:</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Advinha só sobre o que são as coisas lindas dessa semana? :P Decoração e moda, vocês sabem como eu adoro essas coisas, né? :) Vamos lá, nossas coisas lindas são:</p>
 <h2 id="Essas-pranchetas"><a href="#Essas-pranchetas" class="headerlink" title="Essas pranchetas"></a>Essas pranchetas</h2><p><a href="/wp-content/uploads/2015/07/97c9e42939bab3a0b606bfe9c39099fe.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/97c9e42939bab3a0b606bfe9c39099fe.jpg" alt="pranchetas para recado na decoração "></a> Gente, eu estou apaixonada por essa ideia de uma parede só de pranchetas, sério mesmo, além de ficar super diferente e lindo, também é muito útil, afinal dá pra encher de recadinhos e lembretes.</p>
 <h2 id="Essa-simplicidade"><a href="#Essa-simplicidade" class="headerlink" title="Essa simplicidade"></a>Essa simplicidade</h2><p><a href="/wp-content/uploads/2015/07/8f3c8b77d6e9aef1ed3132cce30b041e.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/8f3c8b77d6e9aef1ed3132cce30b041e-683x1024.jpg" alt="vestido branco listrado e chapéu marsala"></a> Simples, porém, lindo, não concordam? Um vestido super básico com um chapéu e está arrasando, adorei.</p>
 <h2 id="Tudo-isso"><a href="#Tudo-isso" class="headerlink" title="Tudo isso"></a>Tudo isso</h2><p><a href="/wp-content/uploads/2015/07/12a3420958516a8573ab8ae68555cbde.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/12a3420958516a8573ab8ae68555cbde-683x1024.jpg" alt="decoração: sofá rosa e papel de parede florido"></a> Ahhhh ta tudo tão lindo nesse ambiente, esse papel de parede amorzinho, esse sofá lindíssimo e bem clássico, esse lustre que ta um espetáculo e essa mesinha fofa, é muito amor pra uma sala só.</p>
 <h2 id="Esses-lampioes"><a href="#Esses-lampioes" class="headerlink" title="Esses lampiões"></a>Esses lampiões</h2><p><a href="/wp-content/uploads/2015/07/14f1d2e6f417d7587ef4eec514bbeb7e.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/14f1d2e6f417d7587ef4eec514bbeb7e-681x1024.jpg" alt="decoração com lampiões pendurados "></a> Outra ideia linda pra decoração e que fica bem charmosa no inverno é usar vários lampiões com velas dentro, esse da foto foram todos pendurados, achei bem aconchegantes, vocês gostaram? Pois eu gostei de tudo, mal posso esperar para comprar minha casa de 180 metros quadrados para caber o máximo possível de coisas lindas (incluindo um closet bem grande que toda mulher merece ter hahaha) Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

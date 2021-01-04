@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Cinco grandes poemas de grandes poetas em vídeo para comemorar o dia do poeta + bonus</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2015/10/cinco-grandes-poemas-de-grandes-poetas-natalia.blog-br.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/cinco-grandes-poemas-de-grandes-poetas-natalia.blog-br-1024x512.png" alt="Dia do poeta"></a> Desde muito cedo a poesia teve um grande impacto na minha formação pessoal. Leio poesia há tanto tempo quanto sou capaz de ler, e escrevo poesia há tanto tempo quanto sou capaz de escrever.  À parte, é claro, a qualidade da minha produção poética não ser comparável com o dos meus ídolos poéticos, sempre gostei de ler grandes autores como Pablo Neruda, Vinícius de Moraes, Mario de Andrade, Carlos Drummond de Andrade, Fernando Pessoa e Walt Whitman.  Lembro de quando eu era criança e passava algumas noites tentando criar novas palavras, do incentivo do meu irmão à poesia, ou de como me sentí depois de mais velho ao ter contato com Fernando Pessoa.  Por isso, quis lembrar a data de 20 de Outubro, dia do poeta separando alguns dos meus poemas preferidos dos meus poetas favoritos. Aí vão 5 deles, em formato de vídeo e no final, para quem quiser se aventurar, um poema meu de bônus. Minha sugestão é: reserve para sí mesmo um tempinho e aprecie essas poesias, vai te fazer bem.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Cinco grandes poemas de grandes poetas em vídeo para comemorar o dia do poeta + bonus</h1>
+        <p><a href="/wp-content/uploads/2015/10/cinco-grandes-poemas-de-grandes-poetas-natalia.blog-br.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/cinco-grandes-poemas-de-grandes-poetas-natalia.blog-br-1024x512.png" alt="Dia do poeta"></a> Desde muito cedo a poesia teve um grande impacto na minha formação pessoal. Leio poesia há tanto tempo quanto sou capaz de ler, e escrevo poesia há tanto tempo quanto sou capaz de escrever.  À parte, é claro, a qualidade da minha produção poética não ser comparável com o dos meus ídolos poéticos, sempre gostei de ler grandes autores como Pablo Neruda, Vinícius de Moraes, Mario de Andrade, Carlos Drummond de Andrade, Fernando Pessoa e Walt Whitman.  Lembro de quando eu era criança e passava algumas noites tentando criar novas palavras, do incentivo do meu irmão à poesia, ou de como me sentí depois de mais velho ao ter contato com Fernando Pessoa.  Por isso, quis lembrar a data de 20 de Outubro, dia do poeta separando alguns dos meus poemas preferidos dos meus poetas favoritos. Aí vão 5 deles, em formato de vídeo e no final, para quem quiser se aventurar, um poema meu de bônus. Minha sugestão é: reserve para sí mesmo um tempinho e aprecie essas poesias, vai te fazer bem.</p>
 <h2 id="O-teu-riso-Pablo-Neruda"><a href="#O-teu-riso-Pablo-Neruda" class="headerlink" title="O teu riso - Pablo Neruda"></a>O teu riso - Pablo Neruda</h2><p><a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=IyU4i5HRiTM">https://www.youtube.com/watch?v=IyU4i5HRiTM</a>  </p>
 <h2 id="Fernando-Pessoa-Tabacaria"><a href="#Fernando-Pessoa-Tabacaria" class="headerlink" title="Fernando Pessoa - Tabacaria"></a>Fernando Pessoa - Tabacaria</h2><p>    [embed]<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=a1IBpsuCI14%5C%5B/embed%5C%5D">https://www.youtube.com/watch?v=a1IBpsuCI14\[/embed\]</a></p>
 <h2 id="Vinicius-de-Moraes-Soneto-do-amor-total"><a href="#Vinicius-de-Moraes-Soneto-do-amor-total" class="headerlink" title="Vinícius de Moraes - Soneto do amor total"></a>Vinícius de Moraes - Soneto do amor total</h2><p>  [embed]<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=7RmX%5C_LzPOP4%5C%5B/embed%5C%5D">https://www.youtube.com/watch?v=7RmX\_LzPOP4\[/embed\]</a> </p>
@@ -174,12 +173,50 @@
 <li>  <a target="_blank" rel="noopener" href="http://tvcultura.cmais.com.br/provocacoes/enforque-se/no-dia-da-salvacao-nao-me-salvem">“No dia da salvação não me salvem” outro poema que escreví, no site do programa Provocações</a></li>
 </ul>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -213,17 +250,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

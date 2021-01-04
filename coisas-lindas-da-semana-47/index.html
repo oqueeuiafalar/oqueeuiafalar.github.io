@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oi gente, tudo bem com vocês? Já estão se recuperando da ceia de natal? rs Como eu lí em algum lugar esses dias parece que eu vou voltar a sentir fome novamente só em Setembro de 2017 hahaha. Então lá vamos nós para o último coisas lindas de 2015 (mas ano que vem tem mais, viu rs).</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oi gente, tudo bem com vocês? Já estão se recuperando da ceia de natal? rs Como eu lí em algum lugar esses dias parece que eu vou voltar a sentir fome novamente só em Setembro de 2017 hahaha. Então lá vamos nós para o último coisas lindas de 2015 (mas ano que vem tem mais, viu rs).</p>
 <h2 id="Esse-cabelo"><a href="#Esse-cabelo" class="headerlink" title="Esse cabelo"></a>Esse cabelo</h2><p><a href="/wp-content/uploads/2015/12/corte-de-cabelo-curto.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/corte-de-cabelo-curto-706x1024.jpg" alt="como cortar o cabelo curto"></a> Eu adoro cabelos cacheados/ondulados como o meu, mas tenho que confessar que as vezes eu queria ter o cabelo liso só pra poder fazer esse tipo de corte, acho lindo, elegante e super moderno.</p>
 <h2 id="Essas-margaridas"><a href="#Essas-margaridas" class="headerlink" title="Essas margaridas"></a>Essas margaridas</h2><p><a href="/wp-content/uploads/2015/12/cesta-de-margarida.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/cesta-de-margarida-683x1024.jpg" alt="decoração com flores - cesta de margaridas "></a> Assim que eu bati o olho nessa cesta de flores eu fiquei encantada, muita delicadeza, fica lindo pra decorar a casa.</p>
 <h2 id="Essa-parede"><a href="#Essa-parede" class="headerlink" title="Essa parede"></a>Essa parede</h2><p><a href="/wp-content/uploads/2015/12/decora%C3%A7%C3%A3o-paredes-diferentes.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/decora%C3%A7%C3%A3o-paredes-diferentes-701x1024.jpg" alt="parede com textura "></a> Sempre adorei a ideia de fazer coisas diferentes em paredes, como textura, papel de paredes divertidos e essa da imagem a cima está linda, muito moderna, deixa qualquer ambiente mais bonito e agradável.</p>
 <h2 id="Essa-mulher"><a href="#Essa-mulher" class="headerlink" title="Essa mulher"></a>Essa mulher</h2><p><a href="/wp-content/uploads/2015/12/maquiagem-b%C3%A1sica-tons-sobrios-look.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/maquiagem-b%C3%A1sica-tons-sobrios-look-683x1024.jpg" alt="inspiração - maquiagem básica "></a> Gostei de tudo nessa foto, o chapéu bem clássico, os tons bem sóbrio e principalmente a make bem discreta e linda da modelo. E aí, o que você achou? Fechamos bem o ano de 2015? Espero que sim, beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

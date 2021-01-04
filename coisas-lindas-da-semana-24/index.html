@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Que coisa boa, 24 semanas de coisas lindas consecutivas e eu sempre tenho a certeza de que na próxima semana ainda vai ter mais, olha só as inspirações que separei para vocês essa semana.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Que coisa boa, 24 semanas de coisas lindas consecutivas e eu sempre tenho a certeza de que na próxima semana ainda vai ter mais, olha só as inspirações que separei para vocês essa semana.</p>
 <h2 id="Esse-quintal"><a href="#Esse-quintal" class="headerlink" title="Esse quintal"></a>Esse quintal</h2><p><a href="/wp-content/uploads/2015/07/e299e526771975663b59361382126cfa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/e299e526771975663b59361382126cfa-682x1024.jpg" alt="quintal florido "></a> Eu não sei bem se esse local é um quintal, mas assim que vi essa foto no Pinterest eu me apaixonei, quem não deseja ter um quintal lindo desse???</p>
 <h2 id="Essas-suculentas"><a href="#Essas-suculentas" class="headerlink" title="Essas suculentas"></a>Essas suculentas</h2><p><a href="/wp-content/uploads/2015/07/7b5b8ddbc089a5dfe39dd4947dad93a3.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/7b5b8ddbc089a5dfe39dd4947dad93a3-681x1024.jpg" alt="arranjo com suculentas "></a> Acho que esse foi o arranjo de suculentas mais lindo e delicado que eu já vi até hoje, já desejando uma gaiolinha dessa pra decorar aquele quintal ali de cima, hehe.</p>
 <h2 id="Essa-sacada"><a href="#Essa-sacada" class="headerlink" title="Essa sacada"></a>Essa sacada</h2><p><a href="/wp-content/uploads/2015/07/fc663b4f7a76dd6304d34cff3d90481d.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/fc663b4f7a76dd6304d34cff3d90481d.jpg" alt="sacada gourmet "></a> Ta aí mais uma sacada que eu vejo no Pinterest e que eu adorei, acho que vou acabar fazendo um post com dicas de decoração pra sacada, o que acham?</p>
 <h2 id="Essa-agenda"><a href="#Essa-agenda" class="headerlink" title="Essa agenda"></a>Essa agenda</h2><p><a href="/wp-content/uploads/2015/07/f73295bb8842d7ae88fbdcb7dc811126.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/f73295bb8842d7ae88fbdcb7dc811126.jpg" alt="agenda vintage"></a> Não sei bem se é uma agenda, um diário ou um álbum de fotografia, mas achei tão delicado e bonito que quero um pra mim, eu usaria como agenda ou álbum, não sei se tenho o dom pra escrever um diário, rsrs. E quem me conhece sabe que talvez eu não tivesse a coragem de escrever em algo tão bonito rs vocês teriam? Bom final de semana, gente. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

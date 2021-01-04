@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oi gente, tudo bem com você? Comigo tudo ótimo, tirando uma gripe daquelas que eu peguei do meu namorado haha. Essa semana eu vi em alguns sites uma coisas que eu já quero a alguns invernos (aquela estação linda, glamourosa e tão esperada por mim hehe) e eu nunca consigo comprar, e mesmo ainda estando no verão, lá se vem mais um inverno que eu continuo sonhando com ela, espero que esse ano deixe de ser sonho para se tornar realidade, e essa coisa é:</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oi gente, tudo bem com você? Comigo tudo ótimo, tirando uma gripe daquelas que eu peguei do meu namorado haha. Essa semana eu vi em alguns sites uma coisas que eu já quero a alguns invernos (aquela estação linda, glamourosa e tão esperada por mim hehe) e eu nunca consigo comprar, e mesmo ainda estando no verão, lá se vem mais um inverno que eu continuo sonhando com ela, espero que esse ano deixe de ser sonho para se tornar realidade, e essa coisa é:</p>
 <h2 id="Boot-over-the-knee"><a href="#Boot-over-the-knee" class="headerlink" title="Boot over the knee"></a>Boot over the knee</h2><p><a href="/wp-content/uploads/2015/03/ae9cf68a4e6887405fd168559068ccc7.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/ae9cf68a4e6887405fd168559068ccc7-683x1024.jpg" alt="boot over the knee"></a> Aii gente, eu acho tão linda e chique essa bota, principalmente para usar com saias e vestidos, já vou começar a procurar novamente pra ver se eu encontro uma esse ano, é que eu quero ela sem salto e é realmente muito difícil encontrar, mas eu não quero ficar mais alta que o meu namorado, então vou continuar procurando a sem salto haha.</p>
 <h2 id="Esse-lugar"><a href="#Esse-lugar" class="headerlink" title="Esse lugar"></a>Esse lugar</h2><p><a href="/wp-content/uploads/2015/03/507b575e7adbcffa7f004fb9615ba9f5.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/507b575e7adbcffa7f004fb9615ba9f5.jpg" alt="Piazza Navona em Roma"></a> Assim que eu vi essa imagem já sai igual uma louca procurando na internet onde é esse lugar, para eu já poder colocar na listas de lugares que eu necessito conhecer hehe. E fica na Itália, Piazza Navona em Roma, só para variar um pouco rs.</p>
 <h2 id="Esse-desktop"><a href="#Esse-desktop" class="headerlink" title="Esse desktop"></a>Esse desktop</h2><p><a href="/wp-content/uploads/2015/03/aa0bd88487a2e269f6d0a42193406a1e.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/aa0bd88487a2e269f6d0a42193406a1e-683x1024.jpg" alt="desktop clean"></a> Amei esse desktop, primeiramente que ele é muito clean e eu adoro e segundo que ele me lembra o Woody Allen, o que eu também adoro, então, já quero tudo isso pra mim hehe.</p>
 <h2 id="Essas-pulseiras"><a href="#Essas-pulseiras" class="headerlink" title="Essas pulseiras"></a>Essas pulseiras</h2><p><a href="/wp-content/uploads/2015/03/64eda1fd61f6b19f1f31faba8c1cc5ae.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/64eda1fd61f6b19f1f31faba8c1cc5ae-617x1024.jpg" alt="pulseiras com mensagens "></a> Acho que se a gente acorda de mau humor e resolve colocar essas pulseiras, o seu dia já via ser melhor, imagina o dia todo  você  olhando pra ela, além das frases serem ótimas elas também são lindas, toda mulher precisa de um conjunto assim.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

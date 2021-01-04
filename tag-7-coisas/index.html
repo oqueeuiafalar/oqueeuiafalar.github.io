@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Tag: 7 coisas</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2015/09/di%C3%A1rio-escrito.jpeg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/di%C3%A1rio-escrito.jpeg" alt="agenda escrita - escrevendo "></a> A Camila do blog <strong><a target="_blank" rel="noopener" href="http://www.poetizandomoda.com.br/">Poetizando Moda</a></strong> me indicou pra responder a tag 7 coisas e como eu adorei a tag, não resisti e respondi haha, bora conferir:</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Tag: 7 coisas</h1>
+        <p><a href="/wp-content/uploads/2015/09/di%C3%A1rio-escrito.jpeg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/di%C3%A1rio-escrito.jpeg" alt="agenda escrita - escrevendo "></a> A Camila do blog <strong><a target="_blank" rel="noopener" href="http://www.poetizandomoda.com.br/">Poetizando Moda</a></strong> me indicou pra responder a tag 7 coisas e como eu adorei a tag, não resisti e respondi haha, bora conferir:</p>
 <h2 id="7-coisas-que-eu-quero-fazer-antes-de-morrer"><a href="#7-coisas-que-eu-quero-fazer-antes-de-morrer" class="headerlink" title="7 coisas que eu quero fazer antes de morrer"></a>7 coisas que eu quero fazer antes de morrer</h2><p><strong>1 -</strong> viajar pelo mundo todo <strong>2 -</strong> pular de paraquedas <strong>3 -</strong> montar uma biblioteca em casa <strong>4 -</strong> fazer o blog crescer a cada dia mais <strong>5 -</strong> aprender a falar várias línguas <strong>6 -</strong> morar em outro país <strong>7 -</strong> voltar a ter aulas de guitarra</p>
 <h2 id="7-coisas-que-eu-mais-falo"><a href="#7-coisas-que-eu-mais-falo" class="headerlink" title="7 coisas que eu mais falo"></a>7 coisas que eu mais falo</h2><p><strong>1 -</strong> Vish! <strong>2 -</strong> Pixorra <strong>3 -</strong> O que que eu ia falar? <strong>4 -</strong> Gente! <strong>5 -</strong> Ai que sono. <strong>6 -</strong> Ai que preguiça. <strong>7 -</strong> Eu quero comprar …</p>
 <h2 id="7-coisas-que-eu-faco-bem"><a href="#7-coisas-que-eu-faco-bem" class="headerlink" title="7 coisas que eu faço bem"></a>7 coisas que eu faço bem</h2><p><strong>1 -</strong> Brigadeiro <strong>2 -</strong> Organizar meu guarda-roupas <strong>3 -</strong> Passar roupa <strong>4 -</strong> Dormir <strong>5 -</strong> Me esquecer das coisas <strong>6 -</strong> Ser pontual <strong>7 -</strong> Guardar segredos</p>
@@ -170,12 +169,50 @@
 <h2 id="7-coisas-que-eu-amo"><a href="#7-coisas-que-eu-amo" class="headerlink" title="7 coisas que eu amo"></a>7 coisas que eu amo</h2><p><strong>1 -</strong> O José <strong>2 -</strong> Minha família <strong>3 -</strong> Chocolate <strong>4 -</strong> Dormir <strong>5 -</strong> Compras <strong>6 -</strong> Fotografias <strong>7 -</strong> Viajar</p>
 <h2 id="7-coisas-que-me-encantam"><a href="#7-coisas-que-me-encantam" class="headerlink" title="7 coisas que me encantam"></a>7 coisas que me encantam</h2><p><strong>1 -</strong> Decoração <strong>2 -</strong> Casais que passam a vida toda juntos <strong>3 -</strong> Risada de bebe <strong>4 -</strong> Luzinha de Natal <strong>5 -</strong> Inverno <strong>6 -</strong> Lealdade <strong>7 -</strong> Música Bom gente, é isso aí, e agora indico a <strong><a target="_blank" rel="noopener" href="http://www.blogbelatriz.com/">Bia</a></strong> e a <strong><a target="_blank" rel="noopener" href="http://www.blogoncapintada.com/">Thalita</a></strong> para responderem a tag. E se você também gostou, responde aí me avisa aqui nos comentários. beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -209,17 +246,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

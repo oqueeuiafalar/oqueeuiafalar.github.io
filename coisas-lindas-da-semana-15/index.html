@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oi gente, como foi a semana? Tenho certeza que boa, afinal, teve mais um feriado haha. E pra embelezar ainda mais o feriado vamos lá ver as coisas lindas dessa semana.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oi gente, como foi a semana? Tenho certeza que boa, afinal, teve mais um feriado haha. E pra embelezar ainda mais o feriado vamos lá ver as coisas lindas dessa semana.</p>
 <h2 id="Essa-saia"><a href="#Essa-saia" class="headerlink" title="Essa saia"></a>Essa saia</h2><p><a href="/wp-content/uploads/2015/05/6ffb917c18d93f522646285af567dd3e.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/6ffb917c18d93f522646285af567dd3e-681x1024.jpg" alt="saia midi com blusa listrada "></a> Apesar de eu ter falado “Essa saia” o look todo está lindo de mais, não acham? Eu acho a saia midi a cara da elegância e prevejo que em breve terei alguma no armário haha.</p>
 <h2 id="Essas-almofadas"><a href="#Essas-almofadas" class="headerlink" title="Essas almofadas"></a>Essas almofadas</h2><p><a href="/wp-content/uploads/2015/05/54101b25-bf4b-4061-a82e-620139ac7106_hamburguer.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/54101b25-bf4b-4061-a82e-620139ac7106_hamburguer.jpg" alt="almofadas divertidas (Folhas de outo)"></a> Ahhh, olha que amor essas almofadas, são folhinhas de outono, vocês não fazem ideia de como eu sou apaixonada por folhinhas de outono <img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://natalia.blog.br/wp-content/plugins/wp-emoji-one/icons/2764.png"></p>
 <h2 id="Essa-meia"><a href="#Essa-meia" class="headerlink" title="Essa meia"></a>Essa meia</h2><p><a href="/wp-content/uploads/2015/05/f0a27404a9dcbe80c31c7293095c1d0d.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/f0a27404a9dcbe80c31c7293095c1d0d.jpg" alt="meia-calça de gatinho "></a> Essa é a meia-calça mais fofa da história. Eu acho que não teria coragem de usar, ou teria? Bom, não sei, mas que é a meia mais fofa que existe, ah isso é</p>
 <h2 id="Esse-desktop"><a href="#Esse-desktop" class="headerlink" title="Esse desktop"></a>Esse desktop</h2><p><a href="/wp-content/uploads/2015/05/986e24cf9cfa2c672e7c76b88b9eb232.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/986e24cf9cfa2c672e7c76b88b9eb232.jpg" alt="desktop clean "></a> Eu não sei bem se esse cantinho é um desktop, mas quando eu o vi no Pinterest eu o imaginei como sendo um desktop e me apaixonei. Primeiro porque esse abajur é um arraso, segundo porque eu adoro ambientes assim, bem clarinhos, principalmente para trabalhar. E vocês, o que acharam do coisas lindas dessa semana? Deu pra tomar um fôlego e se preparar para a próxima? Na pŕoxima não tem feriado, mas sempre tem coisas lindas :) Beijos.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

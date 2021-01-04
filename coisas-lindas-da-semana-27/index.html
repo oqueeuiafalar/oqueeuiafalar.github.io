@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oiii gente, primeiramente quero pedir desculpas porque semana passada eu não consegui publicar o “Coisas lindas da semana”, mas é porque eu estava com alguns probleminhas de saúde e daí não deu, hehe, mas agora que já está tudo resolvido, vamos lá ver as lindezas da semana.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oiii gente, primeiramente quero pedir desculpas porque semana passada eu não consegui publicar o “Coisas lindas da semana”, mas é porque eu estava com alguns probleminhas de saúde e daí não deu, hehe, mas agora que já está tudo resolvido, vamos lá ver as lindezas da semana.</p>
 <h2 id="Esse-poa"><a href="#Esse-poa" class="headerlink" title="Esse poa"></a>Esse poa</h2><p><a href="/wp-content/uploads/2015/08/look-pb-com-poa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/look-pb-com-poa-683x1024.jpg" alt="look p&amp;b com poa"></a> Acho que eu já comentei aqui no blog o quanto eu sou apaixonada por poa. Quando vi esse look P&amp;B com essa camisa linda de poa, me deu vontade de correr pro meu guarda roupa e montar um look com minha camisa de poa também haha.</p>
 <h2 id="Essa-decoracao"><a href="#Essa-decoracao" class="headerlink" title="Essa decoração"></a>Essa decoração</h2><p><a href="/wp-content/uploads/2015/08/quadrinhos.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/quadrinhos.png" alt="decoração com quadrinhos "></a> Ando bem viciada em olhar esse tipo de quadrinhos na internet, talvez eu acabe comprando alguns, acho que deixa qualquer decoração mais divertida e criativa,</p>
 <h2 id="Essa-camera"><a href="#Essa-camera" class="headerlink" title="Essa câmera"></a>Essa câmera</h2><p><a href="/wp-content/uploads/2015/08/b820f9156d3756bf31cc3f4585afa815.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/b820f9156d3756bf31cc3f4585afa815-683x1024.jpg" alt="câmera antiga decoração "></a> Ahhh eu quero um dessa. Claro que eu não saberia usar, haha, mas acho que ficaria tão lindo pra decoração, principalmente do desktop.</p>
 <h2 id="Esse-cesto"><a href="#Esse-cesto" class="headerlink" title="Esse cesto"></a>Esse cesto</h2><p><a href="/wp-content/uploads/2015/08/7b3d86ba13a45df3578495626d14814d.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/7b3d86ba13a45df3578495626d14814d.jpg" alt="cesto brando decoração "></a>   Tá aí um cesto super prático, serve tanto pra decoração quanto para guardar coisas, e fica um ambiente muito fofo. Espero que vocês tenham gostado do coisas lindas dessa semana e que não acontece mais de eu falhar nesse post, hehe. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

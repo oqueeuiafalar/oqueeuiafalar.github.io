@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>O Carteiro e o Poeta</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">O Carteiro e o Poeta</h1>
+        <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/05/dsc02698.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/05/dsc02698.jpg?w=650" alt="capa do filme O Carteiro e o Poeta"></a> O filme “O Carteiro e o Poeta” (Il Postino, 1994) conta a história do encontro entre o humilde Mario Ruoppolo e o poeta chileno Pablo Neruda. Na história Mario é um filho de pescador que se recusa a seguir a mesma profissão do pai, saindo assim em busca de emprego e Neruda, já consagrado como poeta vive exilado na ilha onde Mario mora na Itália. Assim que fica sabendo de um trabalho de carteiro Mario se candidata, e consegue o emprego. Sua função passa a ser entregar diariamente as correspondências do poeta Pablo Neruda. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/05/dsc02699.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/05/dsc02699.jpg?w=650" alt="contra capa do filme O Carteiro e o Poeta"></a> Aos poucos um laço de amizade se forma entre os dois. Mario apaixona-se por Beatrice, uma bela mulher da ilha, e passa a pedir conselhos sobre poesias para conquistar o seu amor. Mario casa-se com Beatrice e juntos tem um filho e Pablo Neruda volta ao seu país depois do período de exílio. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/05/1200878435_f.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/05/1200878435_f.jpg?w=650" alt="cena do filme O Carteiro e o Poeta"></a> Como um presente ao amigo, Mario grava o som do mar, das montanhas, do coração do filho na barriga da mãe e o envia a Neruda, já do outro lado do oceano. O carteiro e o poeta é uma história de amizade, amor e de descobertas, que nos faz refletir sobre a importância da amizade, o poder das palavras, e a simplicidade da vida. <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=68XXzPUv7sI">https://www.youtube.com/watch?v=68XXzPUv7sI</a></p>
 
-<main>
-    <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/05/dsc02698.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/05/dsc02698.jpg?w=650" alt="capa do filme O Carteiro e o Poeta"></a> O filme “O Carteiro e o Poeta” (Il Postino, 1994) conta a história do encontro entre o humilde Mario Ruoppolo e o poeta chileno Pablo Neruda. Na história Mario é um filho de pescador que se recusa a seguir a mesma profissão do pai, saindo assim em busca de emprego e Neruda, já consagrado como poeta vive exilado na ilha onde Mario mora na Itália. Assim que fica sabendo de um trabalho de carteiro Mario se candidata, e consegue o emprego. Sua função passa a ser entregar diariamente as correspondências do poeta Pablo Neruda. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/05/dsc02699.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/05/dsc02699.jpg?w=650" alt="contra capa do filme O Carteiro e o Poeta"></a> Aos poucos um laço de amizade se forma entre os dois. Mario apaixona-se por Beatrice, uma bela mulher da ilha, e passa a pedir conselhos sobre poesias para conquistar o seu amor. Mario casa-se com Beatrice e juntos tem um filho e Pablo Neruda volta ao seu país depois do período de exílio. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/05/1200878435_f.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/05/1200878435_f.jpg?w=650" alt="cena do filme O Carteiro e o Poeta"></a> Como um presente ao amigo, Mario grava o som do mar, das montanhas, do coração do filho na barriga da mãe e o envia a Neruda, já do outro lado do oceano. O carteiro e o poeta é uma história de amizade, amor e de descobertas, que nos faz refletir sobre a importância da amizade, o poder das palavras, e a simplicidade da vida. <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=68XXzPUv7sI">https://www.youtube.com/watch?v=68XXzPUv7sI</a></p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

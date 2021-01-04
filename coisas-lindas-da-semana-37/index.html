@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oi, gente! Tudo bem com vocês? Vamos começar um fim de semana lindo e ensolarado* falando de coisas lindas, decoração e moda? (* Embora eu precise confessar que gosto mesmo dos dias mais nublados :P)</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oi, gente! Tudo bem com vocês? Vamos começar um fim de semana lindo e ensolarado* falando de coisas lindas, decoração e moda? (* Embora eu precise confessar que gosto mesmo dos dias mais nublados :P)</p>
 <h2 id="Esses-potes"><a href="#Esses-potes" class="headerlink" title="Esses potes"></a>Esses potes</h2><p><a href="/wp-content/uploads/2015/10/pode-te-vidro-decora%C3%A7%C3%A3o.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/pode-te-vidro-decora%C3%A7%C3%A3o-682x1024.jpg" alt="pote de vidro - decoração - mesa"></a> Sabe aquele copinho de geléia, azeitona ou outras coisinhas que você compra pra casa e quando acaba o que vem dentro você joga fora? Então, olha que ótima utilidade pode ser dada para eles, ficou uma graça esses copinhos de porta talheres, bem bonito pra decorar uma mesa.</p>
 <h2 id="Essas-caixas"><a href="#Essas-caixas" class="headerlink" title="Essas caixas"></a>Essas caixas</h2><p><a href="/wp-content/uploads/2015/10/caixa-floral-caixa-vintage-caixa-para-decora%C3%A7%C3%A3o.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/caixa-floral-caixa-vintage-caixa-para-decora%C3%A7%C3%A3o-685x1024.jpg" alt="caixa floral - caixa vintage - caixa para decoração"></a> Eu sou apaixonada por tudo que é vintage  e essas caixas – maravilhosas – me fizeam sentir vontade de fazer uma coleção delas em casa  hahaha. Além de serem ótimas para guardar maquiagem, lenços e outras coisinhas mais, elas ficam lindas na decoração.</p>
 <h2 id="A-Taylor-Swift"><a href="#A-Taylor-Swift" class="headerlink" title="A Taylor Swift"></a>A Taylor Swift</h2><p><a href="/wp-content/uploads/2015/10/Taylor-Swift.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/Taylor-Swift-683x1024.jpg" alt=" Taylor Swift look - vintage "></a> E por falar em vintage, olha que coisa mais fofa esse look da Taylor Swift. Sempre fico babando pelos looks muito amor dela.</p>
 <h2 id="Esse-banheiro"><a href="#Esse-banheiro" class="headerlink" title="Esse banheiro"></a>Esse banheiro</h2><p><a href="/wp-content/uploads/2015/10/banheiro-rustico.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/banheiro-rustico-680x1024.jpg" alt="banheiro rustico - decoração banheiro"></a> Gostei desse banheiro bem rústico, apesar de passar um ar de ambiente bem serio, também me deu a sensação de aconchego, vocês também tiveram essa sensação ? E aí, o que acharam? Aposto que rolou um pouquinho de inspiração para decorar seu cantinho ou para se vestir bem, né? Assim espero rs! Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

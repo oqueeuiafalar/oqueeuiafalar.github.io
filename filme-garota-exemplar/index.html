@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Filme: Garota Exemplar</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Filme: Garota Exemplar</h1>
+        <p><a href="/wp-content/uploads/2014/10/cena-do-filme-garota-exemplar.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/cena-do-filme-garota-exemplar.jpg" alt="cena do filme garota exemplar"></a> Semana passada fui ao cinema e assisti “Garota Exemplar”, como eu ainda não li o livro não sabia muito bem do que se tratava o filme, apenas sabia que na história alguém iria desaparecer e confesso que o filme foi o oposto do que eu imaginava e superou todas as minhas expectativas, adorei. No começo do filme Nick Dunne (interpretado por Ben Affleck) está voltando para casa na manhã de seu 5º aniversário de casamento para encontrar sua esposa Amy (interpretada por Rosamund Pike), porém, ao chegar a casa ele encontra tudo revirado e percebe que sua esposa sumiu. Logo a policia inicia as investigações e Nick se torna o principal suspeito pelo desaparecimento da esposa. E a partir daí a história vai se desenrolando de forma intrigante, cheia de códigos e com um roteiro repleto de reviravoltas. <a href="/wp-content/uploads/2014/10/filme-garota-exemplar.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/filme-garota-exemplar.jpg" alt="filme garota exemplar"></a> “Garota Exemplar” ou “Amazing Amy” é o título dos livros infantis que os pais de Amy escreviam ainda quando ela era criança inspirados em sua vida, porém, sempre de forma exagerada, inventando coisas sobre Amy como, por exemplo, que ela era uma excelente atleta e musicista. O que achei mais interessante no filme é como ele mostra que a mídia pode manchar a imagem de alguém apenas através de especulações sobre essa pessoa, por exemplo, no filme o personagem interpretado por Ben Affleck é exibido nos noticíarios como um cínico apenas porque sorri em frente às câmeras, fazendo com que as pessoas acreditem de fato que ele tem alguma coisa a ver com o desaparecimento da esposa. Bem, Garota exemplar é um bom suspense, com um leve toque de humor e com uma história com várias reviravoltas interessantes que podem supreender o expectador e prender sua atenção. <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=tKwEdRC26xA">https://www.youtube.com/watch?v=tKwEdRC26xA</a></p>
 
-<main>
-    <p><a href="/wp-content/uploads/2014/10/cena-do-filme-garota-exemplar.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/cena-do-filme-garota-exemplar.jpg" alt="cena do filme garota exemplar"></a> Semana passada fui ao cinema e assisti “Garota Exemplar”, como eu ainda não li o livro não sabia muito bem do que se tratava o filme, apenas sabia que na história alguém iria desaparecer e confesso que o filme foi o oposto do que eu imaginava e superou todas as minhas expectativas, adorei. No começo do filme Nick Dunne (interpretado por Ben Affleck) está voltando para casa na manhã de seu 5º aniversário de casamento para encontrar sua esposa Amy (interpretada por Rosamund Pike), porém, ao chegar a casa ele encontra tudo revirado e percebe que sua esposa sumiu. Logo a policia inicia as investigações e Nick se torna o principal suspeito pelo desaparecimento da esposa. E a partir daí a história vai se desenrolando de forma intrigante, cheia de códigos e com um roteiro repleto de reviravoltas. <a href="/wp-content/uploads/2014/10/filme-garota-exemplar.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/filme-garota-exemplar.jpg" alt="filme garota exemplar"></a> “Garota Exemplar” ou “Amazing Amy” é o título dos livros infantis que os pais de Amy escreviam ainda quando ela era criança inspirados em sua vida, porém, sempre de forma exagerada, inventando coisas sobre Amy como, por exemplo, que ela era uma excelente atleta e musicista. O que achei mais interessante no filme é como ele mostra que a mídia pode manchar a imagem de alguém apenas através de especulações sobre essa pessoa, por exemplo, no filme o personagem interpretado por Ben Affleck é exibido nos noticíarios como um cínico apenas porque sorri em frente às câmeras, fazendo com que as pessoas acreditem de fato que ele tem alguma coisa a ver com o desaparecimento da esposa. Bem, Garota exemplar é um bom suspense, com um leve toque de humor e com uma história com várias reviravoltas interessantes que podem supreender o expectador e prender sua atenção. <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=tKwEdRC26xA">https://www.youtube.com/watch?v=tKwEdRC26xA</a></p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Decoração com adesivos de parede: o guia básico</h1>
-
-<main>
-    <p>Todos que gostam de informação sobre decoração de interiores sabem que os adesivos de parede são ferramentas cada vez mais úteis na valorização dos espaços. Utilizar corretamente estes adesivos, no entanto, não é uma tarefa tão fácil.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Decoração com adesivos de parede: o guia básico</h1>
+        <p>Todos que gostam de informação sobre decoração de interiores sabem que os adesivos de parede são ferramentas cada vez mais úteis na valorização dos espaços. Utilizar corretamente estes adesivos, no entanto, não é uma tarefa tão fácil.</p>
 <p>Diferentes paredes e materiais exigem diferentes aplicações e cuidados. É importante compreender cada situação para não errar com os adesivos de parede. Uma aplicação mal feita pode exigir, até mesmo, uma nova pintura na peça. Por isso, confira nosso guia básico para sempre acertar na decoração com adesivos de parede:</p>
 <h2 id="Atencao-ao-material"><a href="#Atencao-ao-material" class="headerlink" title="Atenção ao material"></a>Atenção ao material</h2><p>Sempre que você for utilizar os adesivos de parede em um ambiente interior, há algo necessário para se considerar. Além de escolher uma peça bonita que combine com o ambiente, é importante dar atenção ao material.</p>
 <p>Muitos adesivos apresentam um problema para ambientes internos. Eles podem possuir uma camada exterior brilhosa, que reflete a luminosidade de lâmpadas e do sol. Em alguns casos, isso não é um problema. No entanto, quando há detalhes, como textos e gráficos internos, a luminosidade simplesmente estraga a utilidade da peça.</p>
@@ -187,12 +186,50 @@
 <p>Na prática, aplicar adesivos de parede é bem menos simples do que isso. Ao molhar a peça, você retira boa parte da sua aderência e durabilidade. Resista aos impulsos nostálgicos e faça oprocesso a seco.</p>
 <p>Gostou das dicas? Confira mais dicas de decoração em: <a target="_blank" rel="noopener" href="http://tudoela.com/decoracao/">http://tudoela.com/decoracao/</a></p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -226,17 +263,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Resenha: Nove plantas do desejo e a flor da estufa</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2016/04/capa-do-livro-Nove-plantas-do-desejo-e-a-flor-da-estufa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Nove-plantas-do-desejo-e-a-flor-da-estufa-1024x768.jpg" alt="Nove plantas do desejo e a flor da estufa - resumo"></a></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: Nove plantas do desejo e a flor da estufa</h1>
+        <p><a href="/wp-content/uploads/2016/04/capa-do-livro-Nove-plantas-do-desejo-e-a-flor-da-estufa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/capa-do-livro-Nove-plantas-do-desejo-e-a-flor-da-estufa-1024x768.jpg" alt="Nove plantas do desejo e a flor da estufa - resumo"></a></p>
 <p>Lilá é uma publicitária divorciada que mora em Nova York e que leva uma vida bem tediosa, até que um dia ao passear por uma feira conhece Exley, um florista bonitão por quem ela acaba ficando bem interessada. Primeiro ela resolve comprar uma planta dele pra tentar uma aproximação, mas depois acaba ficando bem interessada nesse ramo, até que um dia após o trabalho ela andando  pela cidade acaba se deparando com uma lavanderia repleta de flores e plantas e fica muito curiosa, ao entrar lá ela conhece o dono do local, Armand, um homem bem estranho que após horas conversando lhe conta que no fundo da lavanderia tem um quarto com onde ele guarda nove plantas raras e que quem sabe um dia ela poderá conhecê-las.</p>
 <p><a href="/wp-content/uploads/2016/04/resenha-nove-plantas-do-desejo-e-a-flor-da-estufa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/resenha-nove-plantas-do-desejo-e-a-flor-da-estufa-1024x768.jpg" alt="páginas do livro nove plantas do desejo e a flor da estufa"></a></p>
 <p><a href="/wp-content/uploads/2016/04/Livro-Nove-plantas-do-desejo-e-a-flor-da-estufa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/Livro-Nove-plantas-do-desejo-e-a-flor-da-estufa-1024x768.jpg" alt="resenha nove plantas do desejo e a flor da estufa"></a></p>
@@ -171,12 +170,50 @@
 <p><a href="/wp-content/uploads/2016/04/Livro-nove-plantas-do-desejo-e-a-flor-da-estufa-resenha.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/Livro-nove-plantas-do-desejo-e-a-flor-da-estufa-resenha-1024x768.jpg" alt="resenha do livro - nove plantas do desejo e a flor da estufa"></a></p>
 <p>“Nove plantas do desejo e a flor da estufa” tem aquela história bem clichê, onde uma mulher parte em busca de aventuras, conhecer a natureza e claro a procura do amor, a protagonista não é das mais apaixonantes, mas ela tem seus momentos engraçados e comportamentos bem impulsivos e humanos o que a torna mais realista, podemos falar que o livro é bem maluco, Margot fez uma história repleta de amor, magia, traição, plantas exóticas, porém, o romance não foi lá essas coisas, foi bem água com açúcar e previsível. O que eu realmente gostei do livro foi aprender um pouco mais sobre plantas passando por orquídeas, gloxínias, mandrágora e tantas outras que eu nunca tinha ouvido falar.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -210,17 +247,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

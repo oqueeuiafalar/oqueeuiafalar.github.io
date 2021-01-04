@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Wishlist: Ovos de páscoa</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2015/03/dsc02662.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/dsc02662.jpg" alt="cesta com chocolates na páscoa "></a>  Está chegando a segunda época que eu mais gosto do ano, a páscoa, porque a primeira é o Natal, claro hehe. Sou chocólatra e quem é chocólatra assim como eu, sabe que essa época do ano é tudo de mais gostoso, porque onde quer que a gente olhe tem muito chocolate, então caímos na tentação sem medo e sem ninguém julgando, afinal, quem não cai na tentação de devorar uns chocolatinhos nessa época, né? rs. Por isso criei essa whishlist especial de páscoa, para quem quiser, já ir sabendo o que estou desejando tanto, apesar que neste listinha aí, não tem quase nada dos chocolates que eu estou louca pra comer, haha.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Wishlist: Ovos de páscoa</h1>
+        <p><a href="/wp-content/uploads/2015/03/dsc02662.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/dsc02662.jpg" alt="cesta com chocolates na páscoa "></a>  Está chegando a segunda época que eu mais gosto do ano, a páscoa, porque a primeira é o Natal, claro hehe. Sou chocólatra e quem é chocólatra assim como eu, sabe que essa época do ano é tudo de mais gostoso, porque onde quer que a gente olhe tem muito chocolate, então caímos na tentação sem medo e sem ninguém julgando, afinal, quem não cai na tentação de devorar uns chocolatinhos nessa época, né? rs. Por isso criei essa whishlist especial de páscoa, para quem quiser, já ir sabendo o que estou desejando tanto, apesar que neste listinha aí, não tem quase nada dos chocolates que eu estou louca pra comer, haha.</p>
 <h2 id="1-Baton-para-comer-de-colher"><a href="#1-Baton-para-comer-de-colher" class="headerlink" title="1 - Baton para comer de colher"></a>1 - <a target="_blank" rel="noopener" href="http://oferta.vc/6ByE" title="Baton para comer de colher ">Baton para comer de colher</a></h2><h2 id=""><a href="#" class="headerlink" title=""></a><a href="/wp-content/uploads/2015/03/01.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/01.jpg" alt="ovo de páscoa - baton para comer de colher"></a></h2><p>Sim, agora nós temos um ovo “Baton” pra comer de colher. Gente, só de olhar eu já fiquei babando, é até pecado fazerem uma coisa dessas.</p>
 <h2 id="2-Sweet-charm-–-Kopenhagem-mais-Pandora"><a href="#2-Sweet-charm-–-Kopenhagem-mais-Pandora" class="headerlink" title="2 - Sweet charm – Kopenhagem mais Pandora"></a>2 - <a target="_blank" rel="noopener" href="http://www.kopenhagen.com.br/produto/ovo-sweet-treasure/" title="Sweet charm – Kopenhagem mais Pandora "><strong>Sweet charm – Kopenhagem mais Pandora</strong></a></h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><a href="/wp-content/uploads/2015/03/02.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/02.jpg" alt="ovo de páscoa - sweet charm – Kopenhagem mais Pandora "></a></h2><p>Esse é o sonho de todas as mulheres nessa páscoa, além de ganhar um ovo de 1 kg da Kopenhagem, que tem aquele chocolate divino, ainda ganha uma pulseira da Pandora.</p>
 <h2 id="3-Ovo-drage-–-Ofner"><a href="#3-Ovo-drage-–-Ofner" class="headerlink" title="3 - Ovo dragê – Ofner"></a>3 - <a target="_blank" rel="noopener" href="https://www.ofner.com.br/index.php?view=detalhes_produto&id=424" title="Ovo dragê - Ofner "><strong>Ovo dragê – Ofner</strong></a></h2><h2 id="-2"><a href="#-2" class="headerlink" title=""></a><a href="/wp-content/uploads/2015/03/03.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/03.jpg" alt="ovo de páscoa - Ovo dragê – Ofner "></a></h2><p>Ele é lindo, é colorido, coberto de miçangas coloridas, é amor de mais e eu quero *-*</p>
@@ -171,12 +170,50 @@
 <h2 id="7-–-Ovo-Mickey-e-Minnie-–-Kopenhagen"><a href="#7-–-Ovo-Mickey-e-Minnie-–-Kopenhagen" class="headerlink" title="7 – Ovo Mickey e Minnie – Kopenhagen"></a><strong>7 – <a target="_blank" rel="noopener" href="http://www.kopenhagen.com.br/produto/ovo-mickey-300g/?cat=pascoa-disney" title="ovo Mickey e Minnie – Kopenhagen ">Ovo Mickey e Minnie – Kopenhagen</a></strong></h2><p><a href="/wp-content/uploads/2015/03/07.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/07.jpg" alt="Ovo mickey e minnie - kopenhagen "></a> Eu não quero um, eu quero os dois! Além do ovo todo colorido decorado com dragês, amarelo e vermelho se for e Mickey e rosa e branco se for a Minnie, vem com luminária, sim, com luminária, gente, e é o  Mickey e a Minnie, me explica como não se apaixonar ?</p>
 <h2 id="8-–-Ovo-Oreo-–-Lacta"><a href="#8-–-Ovo-Oreo-–-Lacta" class="headerlink" title="8 – Ovo Oreo – Lacta"></a><strong>8 – <a target="_blank" rel="noopener" href="http://oferta.vc/6ByP" title="Ovo Oreo – Lacta ">Ovo Oreo – Lacta</a></strong></h2><p><a href="/wp-content/uploads/2015/03/08.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/08.jpg" alt="ovo de páscoa oreo"></a> Gente, é aquele biscoito que todo mundo ama, e agora é aquele biscoito que todo mundo ama com uma casca de chocolate em volta, é pra comer rezando. Ai ai, é tanta coisa gostosa que fica difícil depois de fazer essa lista pensar em escolher apenas um ou dois, ou mesmo “só” três :P Então, porque eu sou muito legal vou deixar aqui uma boa dica para vocês: compartilhe esse post nas suas redes sociais e marque aquela pessoa que você gostaria que te presenteasse com uma dessas delícias, vale até colocar o número do seu ovo preferido. PS: Eu, por exemplo, pedi para meu namorado revisar o conteúdo desse post para mim e espero que ele tenha entendido o recadinho rs</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -210,17 +247,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

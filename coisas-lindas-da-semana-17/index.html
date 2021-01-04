@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Oba! Chegamos ao décimo sétimo coisas lindas, será que uma comemoração é válida quando chegarmos aos 20? Vou pensar rs. Olha só quanta coisa linda.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Oba! Chegamos ao décimo sétimo coisas lindas, será que uma comemoração é válida quando chegarmos aos 20? Vou pensar rs. Olha só quanta coisa linda.</p>
 <h2 id="Essa-bicicleta"><a href="#Essa-bicicleta" class="headerlink" title="Essa bicicleta"></a>Essa bicicleta</h2><p><a href="/wp-content/uploads/2015/05/b90c2a12db38e812033a5f398af985f6.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/b90c2a12db38e812033a5f398af985f6.jpg" alt="bicicleta com flores "></a> Eu acho  tão fofo quando vejo essas coisas antigas, como a bicicleta, com uma caixa/cesto cheio de flores, aqui perto de casa tem um convento que tem um arranjo assim no jardim, é encantador.</p>
 <h2 id="Esse-detalhe"><a href="#Esse-detalhe" class="headerlink" title="Esse detalhe"></a>Esse detalhe</h2><p><a href="/wp-content/uploads/2015/05/b106956fd01fa1e13731ffc0ffcc29f7.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/b106956fd01fa1e13731ffc0ffcc29f7-711x1024.jpg" alt="enfeite de cadeira para festa"></a> Olha que coisa mais linda e delicada!! Como eu sempre digo, menos é mais, quem não gostaria de usar esse arranjo para sua festa, hein?</p>
 <h2 id="Esse-sofa"><a href="#Esse-sofa" class="headerlink" title="Esse sofá"></a>Esse sofá</h2><p><a href="/wp-content/uploads/2015/05/f3937f14fb117498cf9b0f8ec36088af.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/f3937f14fb117498cf9b0f8ec36088af.jpg" alt="decoração com quadrinhos e sofá verde clássico "></a> Amando esse sofá como se não houvesse amanhã, só digo isso. Ah, e amando essa parede também.</p>
 <h2 id="Essa-decoracao"><a href="#Essa-decoracao" class="headerlink" title="Essa decoração"></a>Essa decoração</h2><p><a href="/wp-content/uploads/2015/05/010bc4d45fd5591f7e444efc9afc8723.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/010bc4d45fd5591f7e444efc9afc8723-683x1024.jpg" alt="decoração rosa/vintage "></a> Gostei muito dessa decoração, bem vintage *_* E aquele abajur ali no fundo é lindo, mas também poderia ser usado o abajur do coisas lindas da semana passada haha, <strong><a target="_blank" rel="noopener" href="http://natalia.blog.br/2015/05/09/coisas-lindas-da-semana-16/">lembram</a> ?</strong> Por essa semana é só, beijos para quem fica e para quem gosta do friozinho que começou a fazer esses dias, me ajudem a torcer para fazer mais desse clima essa semana também. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

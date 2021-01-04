@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>3º Livro do ano: A Expedição Kon-Tiki</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">3º Livro do ano: A Expedição Kon-Tiki</h1>
+        <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02197.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02197.jpg?w=650" alt="Livro A Expedição Kon-Tiki"></a> O livro conta a história do etnógrafo norueguês, Thor Heyerdal, que em 1947 reuniu mais cinco tripulantes e partiu do Peru até a Polinésia à bordo de uma jangada para provar sua teoria de que a Polinésia havia sido habitada por povos vindos da América do Sul e não da Ásia como se acreditava antes. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02232.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02232.jpg?w=650" alt="Livro A Expedição Kon-Tiki"></a> Em homenagem ao deus Inca do Sol, Thor e seus amigos batizaram a sua jangada de Kon Tiki e partiram na expedição que durou 101 dias pelo Pacífico partindo do Peru, enfrentando tubarões, tempestades e se divertindo com peixes voadores e dourados. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02200.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02200.jpg?w=650" alt="páginas do livro A Expedição Kon-Tiki"></a> A expedição Kon Tiki é uma história muito interessante e legal para quem gosta de aventuras. O legal do livro é que tem bastantes fotos tiradas durante a expedição, apesar disso achei a maneira como o livro foi escrito um pouco cansativa, com o autor insistindo muito em detalhes e fazendo rodeio durante a história Quem se interessou pelo livro lançado pela <strong>editora José Olympio</strong> , pode encontra-lo no  <a target="_blank" rel="noopener" href="http://www.submarino.com.br/produto/5796875/livro-expedicao-kon-tiki-8000-km-numa-jangada-atraves-do-pacifico" title="Submarino.com">Submarino.com</a> . Beijos!</p>
 
-<main>
-    <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02197.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02197.jpg?w=650" alt="Livro A Expedição Kon-Tiki"></a> O livro conta a história do etnógrafo norueguês, Thor Heyerdal, que em 1947 reuniu mais cinco tripulantes e partiu do Peru até a Polinésia à bordo de uma jangada para provar sua teoria de que a Polinésia havia sido habitada por povos vindos da América do Sul e não da Ásia como se acreditava antes. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02232.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02232.jpg?w=650" alt="Livro A Expedição Kon-Tiki"></a> Em homenagem ao deus Inca do Sol, Thor e seus amigos batizaram a sua jangada de Kon Tiki e partiram na expedição que durou 101 dias pelo Pacífico partindo do Peru, enfrentando tubarões, tempestades e se divertindo com peixes voadores e dourados. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/02/dsc02200.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/02/dsc02200.jpg?w=650" alt="páginas do livro A Expedição Kon-Tiki"></a> A expedição Kon Tiki é uma história muito interessante e legal para quem gosta de aventuras. O legal do livro é que tem bastantes fotos tiradas durante a expedição, apesar disso achei a maneira como o livro foi escrito um pouco cansativa, com o autor insistindo muito em detalhes e fazendo rodeio durante a história Quem se interessou pelo livro lançado pela <strong>editora José Olympio</strong> , pode encontra-lo no  <a target="_blank" rel="noopener" href="http://www.submarino.com.br/produto/5796875/livro-expedicao-kon-tiki-8000-km-numa-jangada-atraves-do-pacifico" title="Submarino.com">Submarino.com</a> . Beijos!</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

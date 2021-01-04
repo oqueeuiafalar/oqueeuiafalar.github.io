@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Cuca de maçã</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2014/10/DSC03246.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03246.jpg" alt="Cuca de maçã"></a> Oi gente, já faz um tempo que não atualizo essa categoria aqui no blog, estava até com saudade, hehe. E hoje eu resolvi passar uma receita pra você de cuca de maçã, um bolo muito tradicional no Sul do país e que é uma delicia. Essa receita eu sempre faço com minha mãe, então posso garantir que vocês vão gostar, vamos lá:   <a href="/wp-content/uploads/2014/10/DSC03263.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03263.jpg" alt="Pedaço de cuca de maçã"></a> <strong>Ingredientes da massa:</strong></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Cuca de maçã</h1>
+        <p><a href="/wp-content/uploads/2014/10/DSC03246.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03246.jpg" alt="Cuca de maçã"></a> Oi gente, já faz um tempo que não atualizo essa categoria aqui no blog, estava até com saudade, hehe. E hoje eu resolvi passar uma receita pra você de cuca de maçã, um bolo muito tradicional no Sul do país e que é uma delicia. Essa receita eu sempre faço com minha mãe, então posso garantir que vocês vão gostar, vamos lá:   <a href="/wp-content/uploads/2014/10/DSC03263.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03263.jpg" alt="Pedaço de cuca de maçã"></a> <strong>Ingredientes da massa:</strong></p>
 <ul>
 <li>  1 1/2 xícara de chá de açúcar</li>
 <li>  1/2 xícara de chá de amido de milho</li>
@@ -181,12 +180,50 @@
 </ul>
 <p><a href="/wp-content/uploads/2014/10/DSC03265.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03265.jpg" alt="Pedaço de bolo Cuca de maçã"></a> <strong>Preparo da massa:</strong> Em uma batedeira, bata as claras em neve, transfira para um recipiente e reserve. Depois, coloque na batedeira o açúcar, as gemas e a manteiga.  Bata até formar um creme. Adicione o leite com a batedeira ainda ligada. Desligue e acrescente a farinha de trigo e o amido de milho. Bata novamente. Acrescente as claras em neve e misture delicadamente com o auxilio de uma colher, após isso, acrescente o fermento em pó e em seguida unte uma forma de fundo falso com manteiga e farinha de trigo. Despeje a massa na assadeira. Corte as maçãs em fatias não muito grossas e coloque em cima da massa que já esta na assadeira. <strong>Preparo da farofa:</strong> Em um recipiente, coloque o açúcar, a farinha de trigo e a canela. Misture bem. Por último, coloque a manteiga em temperatura ambiente e misture, até ficar em pedaços. Após fazer isso, espalhe a farofa  por cima das maçãs. Leve ao forno médio, pré aquecido, a 180ºC por mais ou menos 40 minutos. <a href="/wp-content/uploads/2014/10/DSC03245.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03245.jpg" alt="Cuca de maçã"></a> <a href="/wp-content/uploads/2014/10/DSC03264.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03264.jpg" alt="Bolo cuca de maçã"></a> E aí, gostaram da receita? Façam em casa e me contem como ficou. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -220,17 +257,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

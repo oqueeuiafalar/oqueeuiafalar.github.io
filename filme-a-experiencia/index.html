@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Filme: A Experiência</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Filme: A Experiência</h1>
+        <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02446.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02446.jpg?w=650" alt="Capa do filme A Experiência "></a> O filme “A Experiência” (Das Experiment, Alemanha, 2001) conta a história de um grupo de voluntários selecionados para participar de uma experiência psicológica. A experiência consiste em uma prisão simulada onde vinte homens são divididos em dois grupos: guardas e prisioneiros. Logo que a experiência é anunciada no jornal, chama a atenção do taxista Tarek que resolve participar em busca da recompensa oferecida aos voluntários. Durante a experiência dois personagens ganham destaque, Tarek como um dos prisioneiros e Berus como guarda da prisão. No primeiro dia todos os voluntários levam a experiência como uma brincadeira, porém com o passar do tempo situações de conflito ficam cada vez mais frequentes e o clima cada vez mais tenso à medida que guardas e prisioneiros passam a se comportar de maneira violenta de acordo com seus papéis. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02447.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02447.jpg?w=650" alt="contra capa do filme  A Experiência "></a>   Os guardas da prisão, principalmente Berus passam a agir com autoritarismo e brutalidade, humilhando os presos que respondem com violência. Os pesquisadores responsáveis se recusam várias vezes a interromper a experiência, até o ponto em que ela foge totalmente do controle. A experiência, que deveria durar duas  semanas é interrompida após uma rebelião e a morte de um guarda e um prisioneiro. É um filme tenso do começo ao fim, que mostra como as pessoas se comportam diante da submissão e poder. O roteiro é muito bom e depois que o filme acaba ficamos pensando um bom tempo sobre ele. Será que o homem é naturalmente violento e agressivo? Vale a pena Assistir.</p>
 
-<main>
-    <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02446.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02446.jpg?w=650" alt="Capa do filme A Experiência "></a> O filme “A Experiência” (Das Experiment, Alemanha, 2001) conta a história de um grupo de voluntários selecionados para participar de uma experiência psicológica. A experiência consiste em uma prisão simulada onde vinte homens são divididos em dois grupos: guardas e prisioneiros. Logo que a experiência é anunciada no jornal, chama a atenção do taxista Tarek que resolve participar em busca da recompensa oferecida aos voluntários. Durante a experiência dois personagens ganham destaque, Tarek como um dos prisioneiros e Berus como guarda da prisão. No primeiro dia todos os voluntários levam a experiência como uma brincadeira, porém com o passar do tempo situações de conflito ficam cada vez mais frequentes e o clima cada vez mais tenso à medida que guardas e prisioneiros passam a se comportar de maneira violenta de acordo com seus papéis. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/04/dsc02447.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/04/dsc02447.jpg?w=650" alt="contra capa do filme  A Experiência "></a>   Os guardas da prisão, principalmente Berus passam a agir com autoritarismo e brutalidade, humilhando os presos que respondem com violência. Os pesquisadores responsáveis se recusam várias vezes a interromper a experiência, até o ponto em que ela foge totalmente do controle. A experiência, que deveria durar duas  semanas é interrompida após uma rebelião e a morte de um guarda e um prisioneiro. É um filme tenso do começo ao fim, que mostra como as pessoas se comportam diante da submissão e poder. O roteiro é muito bom e depois que o filme acaba ficamos pensando um bom tempo sobre ele. Será que o homem é naturalmente violento e agressivo? Vale a pena Assistir.</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

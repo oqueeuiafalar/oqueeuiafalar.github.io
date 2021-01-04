@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Chegamos ao coisas lindas 40 e lá vamos nós, mais um final de semana de moda, decoração e inspirações, que coisa boa né?</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Chegamos ao coisas lindas 40 e lá vamos nós, mais um final de semana de moda, decoração e inspirações, que coisa boa né?</p>
 <h2 id="Esse-chapeu"><a href="#Esse-chapeu" class="headerlink" title="Esse chapéu"></a>Esse chapéu</h2><p><a href="/wp-content/uploads/2015/11/chap%C3%A9u-azul-marinho-fedora.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/chap%C3%A9u-azul-marinho-fedora-683x1024.jpg" alt="chapéu fedora azul "></a> Estou apaixonada por esse chapéu. A cor é linda, e esse detalhe dourado deu delicadeza, o que pode valorizar qualquer look.</p>
 <h2 id="Essa-saia"><a href="#Essa-saia" class="headerlink" title="Essa saia"></a>Essa saia</h2><p><a href="/wp-content/uploads/2015/11/saia-midi-cinza.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/saia-midi-cinza-433x1024.jpg" alt="saia midi cinza com xadrez"></a> A cada dia que passa eu gosto mais e mais de saias midi, são super elegantes, confortáveis, sofisticada e se adaptam a qualquer ocasião. Essa da foto foi paixão a primeira vista, adorei esse tecido mais grosso que deu um volume legal e o quadriculado é lindo, como não amar?</p>
 <h2 id="Essa-porta"><a href="#Essa-porta" class="headerlink" title="Essa porta"></a>Essa porta</h2><p><a href="/wp-content/uploads/2015/11/porta-azul.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/porta-azul-596x1024.jpg" alt="fachada - porta azul "></a> Gente, sou muito apaixonada por portas, sério. Sempre me pego andando pelas ruas e “namorando” as portas alheias haha. Essa azul deu toda uma alegria para um ambiente que já era puro charme.</p>
 <h2 id="Essa-ideia"><a href="#Essa-ideia" class="headerlink" title="Essa ideia"></a>Essa ideia</h2><p><a href="/wp-content/uploads/2015/11/suporte-para-plantas-na-parede.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/suporte-para-plantas-na-parede-683x1024.jpg" alt="jardim vertical - horta "></a> Olha que boa ideia pra quem quer fazer uma hortinha em casa. Basta comprar aqueles varões e suportes de cortina, colocar em um cantinho ventilado e com boa iluminação e depois pregar ganchos com o que deseja ser plantado, acho que fica muito legal colocar na cozinha, até porque não ocupa muito espaço, mas se você mora em apartamento e tem sacada (é esse o nome?) também fica muito legal, e se quiser fazer algo mais decorativo, que tal plantar algumas flores, como orquídeas ? E aí, o que acharam? Beijos e bom final de semana!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

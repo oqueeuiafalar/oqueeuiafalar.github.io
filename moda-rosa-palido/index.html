@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Moda: Rosa palido</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Moda: Rosa palido</h1>
+        <p><a href="/wp-content/uploads/2015/07/flores-rosas-palidas.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/flores-rosas-palidas-662x1024.jpg" alt="flores rosas palidas"></a> Se tem uma cor que é linda e está em alta é o rosa pálido, porém, muitas  pessoas (assim como eu) o chamam de rosa nude haha. É um tom de rosa lindíssimo, elegante e muito delicado. É fácil de combinar em qualquer estação do ano, porque é uma cor muito feminina e delicada e que deixa qualquer look mais sofisticado. <a href="/wp-content/uploads/2015/07/looks-no-tom-rosa-palido.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/looks-no-tom-rosa-palido.png" alt="looks no tom rosa palido"></a> <a href="/wp-content/uploads/2015/07/looks-no-tom-rosa-nude.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/looks-no-tom-rosa-nude.png" alt="looks no tom rosa nude"></a> <a href="/wp-content/uploads/2015/07/looks-rosa-palido-e-nude.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/looks-rosa-palido-e-nude.png" alt="looks rosa palido e nude"></a> Eu sou apaixonada por nude, nude com um fundinho de rosa então, nem se fala. É a cara da elegância e feminilidade, não acham?</p>
 
-<main>
-    <p><a href="/wp-content/uploads/2015/07/flores-rosas-palidas.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/flores-rosas-palidas-662x1024.jpg" alt="flores rosas palidas"></a> Se tem uma cor que é linda e está em alta é o rosa pálido, porém, muitas  pessoas (assim como eu) o chamam de rosa nude haha. É um tom de rosa lindíssimo, elegante e muito delicado. É fácil de combinar em qualquer estação do ano, porque é uma cor muito feminina e delicada e que deixa qualquer look mais sofisticado. <a href="/wp-content/uploads/2015/07/looks-no-tom-rosa-palido.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/looks-no-tom-rosa-palido.png" alt="looks no tom rosa palido"></a> <a href="/wp-content/uploads/2015/07/looks-no-tom-rosa-nude.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/looks-no-tom-rosa-nude.png" alt="looks no tom rosa nude"></a> <a href="/wp-content/uploads/2015/07/looks-rosa-palido-e-nude.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/looks-rosa-palido-e-nude.png" alt="looks rosa palido e nude"></a> Eu sou apaixonada por nude, nude com um fundinho de rosa então, nem se fala. É a cara da elegância e feminilidade, não acham?</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

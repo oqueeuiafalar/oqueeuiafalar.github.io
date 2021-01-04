@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Resenha: As Horas Vermelhas</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: As Horas Vermelhas</h1>
+        <p>O livro <strong><a target="_blank" rel="noopener" href="https://www.planetadelivros.com.br/livro-as-horas-vermelhas/282477">As Horas Vermelhas</a></strong> é um romance distópico - apesar de achar que ele não deveria ser intitulado dessa forma - que conta a história de quatro mulheres que vivem sobre um mundo cercado de regras para as mulheres, o que por si já não é uma grande novidade. A Esposa,  a Filha, a Biografa e a Reparadora, essas são as quatro mulheres que nós vamos embarcar por dentro de suas vidas, onde o livro vai narrando de forma intercalada o mundo conservador onde tudo se passa. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/capa-do-livro-as-horas-vermelhas.jpg" alt="Capa do livro - As horas vermelhas" title="Capa do livro - As horas vermelhas"> De todas as mulheres, a principal de todo o livro é a Biografa Roberta. Ela tem quarenta e dois anos, é solteira, professora de história e que sonha em ser mãe. Ah, outro grande sonho de Roberta é escrever a biografia de uma exploradora das ilhas de Faroés. Roberta é professora de Matilda, a Filha. Matilda tem apenas quinze anos e ela é filha de um casal de idosos e não quer desapontá-los, porém, atualmente ela está em uma gravidez indesejada e ela não sabe como lidar com essa situação. O livro se passa nos EUA, e atualmente o aborto é proibido e pode até levar a mulher que abortar para a cadeia, o que deixa Matilda ainda mais perdida, e por medo de ser presa, de não conseguir ir para a faculdade e também de desapontar seus pais, Matilda resolve procurar a Reparadora. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/lombada-do-livro-as-horas-vermelhas.jpg" alt="Lombada do livro - As horas vermelhas" title="Lombada do livro - As horas vermelhas"> A Reparadora chama-se Gin, além de Reparadora, as pessoas da cidade também tem o habito de chamá-la de bruxa. A personagem de Gin é muito estranha, ela vive em uma cabana isolada com alguns animais como gatos e cabras, e também com sua tia congelada em freezer e praticamente todo mundo na cidade tem uma certa repulsa dessa mulher, porém, muitas mulheres em situações de desespero, assim como Matilda, acabam indo até a Reparadora para buscar ajuda, afinal de contas, ela tem um grande conhecimento em plantas. A quarta mulher da história é a Esposa. Uma mulher que apesar de aparentar viver uma vida de comercial de margarina com seus dois lindos filhos, ela está na verdade bem cansada da vida de casada que parece ter fracassado, e apesar dela tentar reerguer o relacionamento, o marido não aceita fazer terapia de casal. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/contra-capa-do-livro-as-horas-vermelhas.jpg" alt="contra capa do livro - As horas vermelhas" title="contra capa do livro - As horas vermelhas"> Conforme a história de cada uma dessas quatro mulheres vai sendo contada, a vida delas começa a se entrelaçar com todos seus medos e aspirações sobre o mundo tenebroso em que vive onde as leis restringem os diretos das mulheres - que novidade, não? Eu confesso que achei o livro um pouco complexo e cansativo, tem horas que eu fiquei bem perdida do que estava acontecendo na trama. Mas apesar disso, o livro é bem interessante, forte e reflexivo, mas de qualquer forma faltou um toque na trama para deixá-la mais envolvente e impactante, porém, eu acredito que o que podemos tirar disso é que esses problemas estão tão presentes em nosso dia a dia que nem nos choca mais. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/livro-as-horas-vermelhas.jpg" alt="livro - as horas vermelhas" title="livro - as horas vermelhas"> <strong>As Horas Vermelhas</strong> é uma leitura válida, interessante, porém, não deve-se ir lê-la com muita expectativas, se não pode acabar se frustrando, mas para quem vem buscando leituras que nos levem a reflexão dos diretos das mulheres, esse livro é bem interessante.</p>
 
-<main>
-    <p>O livro <strong><a target="_blank" rel="noopener" href="https://www.planetadelivros.com.br/livro-as-horas-vermelhas/282477">As Horas Vermelhas</a></strong> é um romance distópico - apesar de achar que ele não deveria ser intitulado dessa forma - que conta a história de quatro mulheres que vivem sobre um mundo cercado de regras para as mulheres, o que por si já não é uma grande novidade. A Esposa,  a Filha, a Biografa e a Reparadora, essas são as quatro mulheres que nós vamos embarcar por dentro de suas vidas, onde o livro vai narrando de forma intercalada o mundo conservador onde tudo se passa. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/capa-do-livro-as-horas-vermelhas.jpg" alt="Capa do livro - As horas vermelhas" title="Capa do livro - As horas vermelhas"> De todas as mulheres, a principal de todo o livro é a Biografa Roberta. Ela tem quarenta e dois anos, é solteira, professora de história e que sonha em ser mãe. Ah, outro grande sonho de Roberta é escrever a biografia de uma exploradora das ilhas de Faroés. Roberta é professora de Matilda, a Filha. Matilda tem apenas quinze anos e ela é filha de um casal de idosos e não quer desapontá-los, porém, atualmente ela está em uma gravidez indesejada e ela não sabe como lidar com essa situação. O livro se passa nos EUA, e atualmente o aborto é proibido e pode até levar a mulher que abortar para a cadeia, o que deixa Matilda ainda mais perdida, e por medo de ser presa, de não conseguir ir para a faculdade e também de desapontar seus pais, Matilda resolve procurar a Reparadora. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/lombada-do-livro-as-horas-vermelhas.jpg" alt="Lombada do livro - As horas vermelhas" title="Lombada do livro - As horas vermelhas"> A Reparadora chama-se Gin, além de Reparadora, as pessoas da cidade também tem o habito de chamá-la de bruxa. A personagem de Gin é muito estranha, ela vive em uma cabana isolada com alguns animais como gatos e cabras, e também com sua tia congelada em freezer e praticamente todo mundo na cidade tem uma certa repulsa dessa mulher, porém, muitas mulheres em situações de desespero, assim como Matilda, acabam indo até a Reparadora para buscar ajuda, afinal de contas, ela tem um grande conhecimento em plantas. A quarta mulher da história é a Esposa. Uma mulher que apesar de aparentar viver uma vida de comercial de margarina com seus dois lindos filhos, ela está na verdade bem cansada da vida de casada que parece ter fracassado, e apesar dela tentar reerguer o relacionamento, o marido não aceita fazer terapia de casal. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/contra-capa-do-livro-as-horas-vermelhas.jpg" alt="contra capa do livro - As horas vermelhas" title="contra capa do livro - As horas vermelhas"> Conforme a história de cada uma dessas quatro mulheres vai sendo contada, a vida delas começa a se entrelaçar com todos seus medos e aspirações sobre o mundo tenebroso em que vive onde as leis restringem os diretos das mulheres - que novidade, não? Eu confesso que achei o livro um pouco complexo e cansativo, tem horas que eu fiquei bem perdida do que estava acontecendo na trama. Mas apesar disso, o livro é bem interessante, forte e reflexivo, mas de qualquer forma faltou um toque na trama para deixá-la mais envolvente e impactante, porém, eu acredito que o que podemos tirar disso é que esses problemas estão tão presentes em nosso dia a dia que nem nos choca mais. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/livro-as-horas-vermelhas.jpg" alt="livro - as horas vermelhas" title="livro - as horas vermelhas"> <strong>As Horas Vermelhas</strong> é uma leitura válida, interessante, porém, não deve-se ir lê-la com muita expectativas, se não pode acabar se frustrando, mas para quem vem buscando leituras que nos levem a reflexão dos diretos das mulheres, esse livro é bem interessante.</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

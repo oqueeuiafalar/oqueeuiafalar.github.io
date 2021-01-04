@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Inspiração - como usar tênis branco</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2016/05/colete-jeans-vestido-t%C3%AAnis-look-do-dia-768x1024.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/colete-jeans-vestido-t%C3%AAnis-look-do-dia-768x1024-768x1024.jpg" alt="look com tênis branco"></a> Desde de 2015 a popularidade do tênis branco só faz aumentar, de lá pra cá ele tem aparecido muito tanto no streetstyle quanto nas passarelas. Eu sou apaixonada pelos tênis brancos, porque são fáceis de combinar e se adequam aos mais variados estilos, já fiz alguns looks usando tênis brancos aqui no blog, como <strong><a target="_blank" rel="noopener" href="http://natalia.blog.br/2016/04/13/look-do-dia-vestido-branco-e-colete-jeans/">esse look com vestido</a></strong> e <strong><a target="_blank" rel="noopener" href="http://natalia.blog.br/2015/07/13/look-do-dia-tudo-azul-marinho/">esse look com suéter</a></strong>. Vamos ver agora algumas inspirações pra gente poder se jogar também nessa tendência dos tênis brancos.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Inspiração - como usar tênis branco</h1>
+        <p><a href="/wp-content/uploads/2016/05/colete-jeans-vestido-t%C3%AAnis-look-do-dia-768x1024.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/colete-jeans-vestido-t%C3%AAnis-look-do-dia-768x1024-768x1024.jpg" alt="look com tênis branco"></a> Desde de 2015 a popularidade do tênis branco só faz aumentar, de lá pra cá ele tem aparecido muito tanto no streetstyle quanto nas passarelas. Eu sou apaixonada pelos tênis brancos, porque são fáceis de combinar e se adequam aos mais variados estilos, já fiz alguns looks usando tênis brancos aqui no blog, como <strong><a target="_blank" rel="noopener" href="http://natalia.blog.br/2016/04/13/look-do-dia-vestido-branco-e-colete-jeans/">esse look com vestido</a></strong> e <strong><a target="_blank" rel="noopener" href="http://natalia.blog.br/2015/07/13/look-do-dia-tudo-azul-marinho/">esse look com suéter</a></strong>. Vamos ver agora algumas inspirações pra gente poder se jogar também nessa tendência dos tênis brancos.</p>
 <h2 id="Tenis-branco-com-vestido"><a href="#Tenis-branco-com-vestido" class="headerlink" title="Tênis branco com vestido"></a>Tênis branco com vestido</h2><p><a href="/wp-content/uploads/2016/05/look-t%C3%AAnis-branco-com-vestido.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/look-t%C3%AAnis-branco-com-vestido-1024x576.jpg" alt="look com tênis e vestido "></a> Foto 1: Pinterest Foto 2: Princesa por acaso Foto 3: Pinterest Foto 4: Piza com estilo Uma das combinações que eu mais adoro fazer é usar os tênis brancos com vestido, pode ser curto ou comprido, sempre fica lindo. Combinar vestidos com tênis branco é muito fashion e super atual.</p>
 <h2 id="Tenis-branco-com-saia"><a href="#Tenis-branco-com-saia" class="headerlink" title="Tênis branco com saia"></a>Tênis branco com saia</h2><p><a href="/wp-content/uploads/2016/05/look-t%C3%AAnis-com-saia.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/look-t%C3%AAnis-com-saia-1024x576.jpg" alt="como usar tênis branco - look com saia"></a> Foto 1: Pinterest Foto 2: Hora de diva Foto 3: Pinterest Foto 4: Fashion for ward Assim como usar tênis branco com vestido, usar com saia fica igualmente lindo e bem atual, pode ser longa ou curta e até as saias midi ficam lindas, vai depender do estilo que você esta buscando montar e  dos seus gostos.</p>
 <h2 id="Tenis-branco-com-shorts"><a href="#Tenis-branco-com-shorts" class="headerlink" title="Tênis branco com shorts"></a>Tênis branco com shorts</h2><p><a href="/wp-content/uploads/2016/05/look-t%C3%AAnis-branco-com-shorts.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/look-t%C3%AAnis-branco-com-shorts-1024x576.jpg" alt="look com shorts e tênis"></a> Foto 1: Conecta com Telma Foto 2: Pinterest Foto 3: Pinterest Foto 4: Pinterest Usar tênis branco com shorts já é tendência há muito tempo, fica um look bem confortável e pratico, ótimo para o dia a dia.</p>
@@ -169,12 +168,50 @@
 <h2 id="Tenis-branco-com-colete"><a href="#Tenis-branco-com-colete" class="headerlink" title="Tênis branco com colete"></a>Tênis branco com colete</h2><p><a href="/wp-content/uploads/2016/05/look-t%C3%AAnis-branco-com-colete.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/look-t%C3%AAnis-branco-com-colete-1024x576.jpg" alt="look tênis com colete"></a> Foto 1: Pinterest Foto 2: Pinterest Foto 3: Windk Foto 4: Moda It Eu sou apaixonada por coletes, eles podem fazer aquele look mais básico de jeans e camiseta ficar muito fashion, é ótimo usa-los durante o dia, pra não passar nem calor e nem frio nesse clima maluco e aliado a um tênis branco fica muito cool.</p>
 <h2 id="Tenis-branco-com-calca"><a href="#Tenis-branco-com-calca" class="headerlink" title="Tênis branco com calça"></a>Tênis branco com calça</h2><p><a href="/wp-content/uploads/2016/05/Look-t%C3%AAnis-branco-com-cal%C3%A7a.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/Look-t%C3%AAnis-branco-com-cal%C3%A7a-1024x576.jpg" alt="look com calça e tênis "></a> Calças são peças super fáceis de combinar, e agora no inverno a gente acaba usando bastante, né! Se você esta em busca de conforto e praticidade, uma calça legal com um tênis branco vai resolver seu problema, e daí basta brincar com os acessórios, blazer, tricot, enfim, pra deixar o look casual mais divertido ou sofisticado. Viram como é fácil combinar o tênis branco com vários estilos e looks? Agora o guarda roupa de vocês tem mais um aliado, hehe. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -208,17 +245,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

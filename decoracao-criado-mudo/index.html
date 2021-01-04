@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Decoração: criado-mudo</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Decoração: criado-mudo</h1>
+        <p>Vocês sabem porque o criado-mudo tem esse nome? Antigamente os mordomos e os criados das pessoas ricas tinham a função de carregar os objetos que os ricos não queriam carregar, por isso esse móvel ficou com esse nome, afinal é ali que a gente coloca alguns objetos para ficarem mais acessíveis sem que a gente precise ficar carregando de um lado pro outro e ele é um objeto inanimado, por isso, criado-mudo. O criado-mudo além de ser muito útil e de fica ali do lado da cama, onde a gente já aproveita pra colocar tudo o que mais usamos para evitar ficar saindo do lugar toda hora, ele também serve  como objeto de decoração para o quarto, porque existe  vários modelos, cores e tamanhos, basta usar a imaginação e ver qual fica melhor no seu quarto. Então, vamos lá nos inspirar em algumas ideias? <a href="/wp-content/uploads/2015/06/criados1.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados1.png" alt="decoração com criado-mudo"></a> <a href="/wp-content/uploads/2015/06/criados3.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados3.png" alt="criado-mudo na decoração"></a> <a href="/wp-content/uploads/2015/06/criados2.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados2.png" alt="como decorar com criado mudo"></a> <a href="/wp-content/uploads/2015/06/criados4.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados4.png" alt="como usar criado mudo na decoração "></a> Espero que esse post tenha dado muitas ideias pra vocês deixarem seu cantinho ainda mais lindo e aconchegante. Beijos</p>
 
-<main>
-    <p>Vocês sabem porque o criado-mudo tem esse nome? Antigamente os mordomos e os criados das pessoas ricas tinham a função de carregar os objetos que os ricos não queriam carregar, por isso esse móvel ficou com esse nome, afinal é ali que a gente coloca alguns objetos para ficarem mais acessíveis sem que a gente precise ficar carregando de um lado pro outro e ele é um objeto inanimado, por isso, criado-mudo. O criado-mudo além de ser muito útil e de fica ali do lado da cama, onde a gente já aproveita pra colocar tudo o que mais usamos para evitar ficar saindo do lugar toda hora, ele também serve  como objeto de decoração para o quarto, porque existe  vários modelos, cores e tamanhos, basta usar a imaginação e ver qual fica melhor no seu quarto. Então, vamos lá nos inspirar em algumas ideias? <a href="/wp-content/uploads/2015/06/criados1.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados1.png" alt="decoração com criado-mudo"></a> <a href="/wp-content/uploads/2015/06/criados3.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados3.png" alt="criado-mudo na decoração"></a> <a href="/wp-content/uploads/2015/06/criados2.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados2.png" alt="como decorar com criado mudo"></a> <a href="/wp-content/uploads/2015/06/criados4.png"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/criados4.png" alt="como usar criado mudo na decoração "></a> Espero que esse post tenha dado muitas ideias pra vocês deixarem seu cantinho ainda mais lindo e aconchegante. Beijos</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

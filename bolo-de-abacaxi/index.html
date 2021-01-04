@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Bolo de abacaxi</h1>
-
-<main>
-    <p>Lá vai mais uma receita bem fácil pra vocês fazerem em casa :) <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/06/dsc02952.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/06/dsc02952.jpg?w=650" alt="Bolo de abacaxi com ameixa "></a> <strong>Ingredientes:</strong></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Bolo de abacaxi</h1>
+        <p>Lá vai mais uma receita bem fácil pra vocês fazerem em casa :) <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/06/dsc02952.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/06/dsc02952.jpg?w=650" alt="Bolo de abacaxi com ameixa "></a> <strong>Ingredientes:</strong></p>
 <ul>
 <li>  150 g de manteiga</li>
 <li>  2 xícaras (chá) de açúcar</li>
@@ -175,12 +174,50 @@
 </ul>
 <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/06/dsc02950.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/06/dsc02950.jpg?w=650" alt="Bolo de abacaxi com ameixa "></a> <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/06/dsc02954.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/06/dsc02954.jpg?w=650" alt="pedaço de Bolo de abacaxi com ameixa "></a> <strong>Modo de preparo:</strong> Bata na batedeira as claras em neve com uma pitada de sal, reserve. Bata também na batedeira a manteiga com o açúcar e as gemas até ficar cremoso. Acrescente o amido de milho peneirado com a farinha de trigo e o fermento, alternando com o leite. Mistura, por último, as claras em neve previamente batidas. Unte uma forma redonda e polvilhe com 1 xícara de chá de açúcar cristal. Forre o fundo da forma com fatias de abacaxi e coloque uma use ameixas para decorar. Despeje a massa. Leve ao forno médio, por cerca de 20 minutos. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/06/dsc02956.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/06/dsc02956.jpg?w=650" alt="pedaço de Bolo de abacaxi com ameixa "></a> Facinho, né gente?!?! E garanto, é bem gosto e lindo.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -214,17 +251,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

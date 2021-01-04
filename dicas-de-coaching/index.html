@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Planeje-se com essas 8 dicas de coaching</h1>
-
-<main>
-    <p>O primeiro mês do ano ainda não acabou e você tem a chance de se planejar para conseguir conquistar o que deseja, mas para isso vai precisar de disciplina, força de vontade e organização O coaching é um trabalho de gestão pessoal que pode te ajudar na conquista desses objetivos. Recentemente tive um papo sobre coaching que sugeriu que uma boa gestão dos planos da nossa vida pode ser dividida em 8 tópicos inter-relacionados. Vou expor cada um e dar exemplos:</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Planeje-se com essas 8 dicas de coaching</h1>
+        <p>O primeiro mês do ano ainda não acabou e você tem a chance de se planejar para conseguir conquistar o que deseja, mas para isso vai precisar de disciplina, força de vontade e organização O coaching é um trabalho de gestão pessoal que pode te ajudar na conquista desses objetivos. Recentemente tive um papo sobre coaching que sugeriu que uma boa gestão dos planos da nossa vida pode ser dividida em 8 tópicos inter-relacionados. Vou expor cada um e dar exemplos:</p>
 <h2 id="1-Objetivo"><a href="#1-Objetivo" class="headerlink" title="1. Objetivo"></a>1. Objetivo</h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/01/alvo-acertado-262438.jpg" alt="Alvo acertado simbolizando um objetivo alcançado."> Planeje o que gostaria de atingir no próximo ano. Os objetivos são os desejos que você quer ter alcançado ao olhar para trás daqui a um ano. É importante que eles sejam realizáveis e mensuráveis, mas também que tragam algum valor para sua vida. Exemplos de objetivo:</p>
 <ul>
 <li>  Aprender inglês;</li>
@@ -210,12 +209,50 @@
 </ul>
 <p>O entendimento e principalmente a aplicação dos 8 tópicos listados acima deve ajuda-lo a organizar-se melhor, entender-se melhor e estar na direção de sua própria vida com um sentido mais claro de proṕósito e acompanhamento de progresso. É importante que durante a definição de cada um dos tópicos fique claro a inter-relação entre todos eles de modo a construir um plano pessoal coerente, honesto e eficiente pronto para ajuda-lo a se tornar a pessoa que você gostaria de ser daqui a um ano. Esse planejamento pode te ajudar a ser um executivo de sucesso, um pai melhor ou um monge beneditino. O importante é que ele o ajuda a estar no controle da sua vida ao invés de ser surpreendido constantemente por novos, intermináveis e injustificáveis projetos que vão aparecendo.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -249,17 +286,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Crítica Homem Aranha: De Volta ao lar</h1>
-
-<main>
-    <p>Em 2002 não fui a estréia de “Homem Aranha” de Sam Raimi estrelado por Tobey Maguire. Naquela época, eu com a idade do Peter Parker já era fã dos quadrinhos do aracnídeo a um bom tempo.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Crítica Homem Aranha: De Volta ao lar</h1>
+        <p>Em 2002 não fui a estréia de “Homem Aranha” de Sam Raimi estrelado por Tobey Maguire. Naquela época, eu com a idade do Peter Parker já era fã dos quadrinhos do aracnídeo a um bom tempo.</p>
 <p>15 anos e 2 <em>reboots</em> depois corrigi minha ausência na estreia assistindo a “Homem-Aranha: De volta ao lar”. Aqui deixo algumas impressões de fã sobre o filme. Atenção: em cada título de tópico eu aviso sobre a existência de spoilers.</p>
 <p><a href="#resumo-homem-aranha-de-volta-ao-lar">Para pular os spoilers vá direto para o Resumão de Homem Aranha de Volta Ao Lar Sem Spoilers</a></p>
 <h2 id=""><a href="#" class="headerlink" title=""></a><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1.jpg" alt="Spider-Man-Homecoming-Poster-Header_1050_591_81_s_c1"></h2><h2 id="Historia-com-spoilers"><a href="#Historia-com-spoilers" class="headerlink" title="História com spoilers"></a>História com spoilers</h2><p>O filme conta a história de um Peter Parker adolescente interpretado por Tom Holland. O personagem está mais jovem na aparência e no comportamento comparado aos homens aranhas vividos por Tobey Maguire e Andrew Garfield.</p>
@@ -213,12 +212,50 @@
 <li>  Jota Teles</li>
 </ul>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -252,17 +289,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

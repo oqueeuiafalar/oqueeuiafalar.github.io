@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>02 vídeos engraçados e inteligentes para refletir sobre abusos contra as mulheres</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">02 vídeos engraçados e inteligentes para refletir sobre abusos contra as mulheres</h1>
+        <p>Recentemente assisti dois vídeos super bem feitos e bem humorados e com mensagens parecidas. O primeiro vídeo é um curta da cineastra francesa Eleanor Pourriat que inverte papéis de homens e mulheres para mostrar os abusos que as mulheres sofrem no dia a dia. O personagem principal é um homem que passa por situações como ouvir cantadas e obscenidades na rua, ter a inteligência subestimada e até ser violentado sexualmente. Enquanto isso mulheres fazem xixi nos becos, correm sem camisa com os seios à mostra e praticam outros abusos que mulheres da vida real sofrem diariamente. Um vídeo bem humorado e que seria cômico, se não fosse trágico. É bem curtinho e vale muito a pena assistir, tanto pelo humor quanto pela mensagem. Basta clicar no play que as legendas já estão em português :) <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=dhY9VAw6tFQ">https://www.youtube.com/watch?v=dhY9VAw6tFQ</a> O outro vídeo que eu estava comentado com vocês veio da Índia, fez muito sucesso nas redes sociais à pouco tempo e se chama “It’s your fault”. Esse vídeo mostra de forma bem irônica, com atrizes sorridentes, quais as atitudes das mulheres para que os homens se sintam provocados a estuprá-las. Com muita ironia o vídeo destaca à ideia de como as mulheres são culpadas por abusos que elas mesmas sofrem. Logo no começo do vídeo, a atriz Kalki Koechlin diz a seguinte afirmativa: “Sejamos sinceras, meninas. Os estupros são culpa nossas. Estudos científicos sugerem que as mulheres que usam saia são a principal causa do estupro. Sabe por quê? Porque homens tem olhos!” Também é bem interessante e se você ainda não viu, já pode dar uma olhadinha. <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=QH7r09qM2aA">https://www.youtube.com/watch?v=QH7r09qM2aA</a> Os dois vídeos conseguem mostrar o quantos são absurdas as situações que infelizmente já se tornaram comum em muitos lugares e conseguem, pelo menos um pouquinho, despertar em homens e mulheres reflexões sobre costumes  que precisam mudar. Super recomendo.</p>
 
-<main>
-    <p>Recentemente assisti dois vídeos super bem feitos e bem humorados e com mensagens parecidas. O primeiro vídeo é um curta da cineastra francesa Eleanor Pourriat que inverte papéis de homens e mulheres para mostrar os abusos que as mulheres sofrem no dia a dia. O personagem principal é um homem que passa por situações como ouvir cantadas e obscenidades na rua, ter a inteligência subestimada e até ser violentado sexualmente. Enquanto isso mulheres fazem xixi nos becos, correm sem camisa com os seios à mostra e praticam outros abusos que mulheres da vida real sofrem diariamente. Um vídeo bem humorado e que seria cômico, se não fosse trágico. É bem curtinho e vale muito a pena assistir, tanto pelo humor quanto pela mensagem. Basta clicar no play que as legendas já estão em português :) <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=dhY9VAw6tFQ">https://www.youtube.com/watch?v=dhY9VAw6tFQ</a> O outro vídeo que eu estava comentado com vocês veio da Índia, fez muito sucesso nas redes sociais à pouco tempo e se chama “It’s your fault”. Esse vídeo mostra de forma bem irônica, com atrizes sorridentes, quais as atitudes das mulheres para que os homens se sintam provocados a estuprá-las. Com muita ironia o vídeo destaca à ideia de como as mulheres são culpadas por abusos que elas mesmas sofrem. Logo no começo do vídeo, a atriz Kalki Koechlin diz a seguinte afirmativa: “Sejamos sinceras, meninas. Os estupros são culpa nossas. Estudos científicos sugerem que as mulheres que usam saia são a principal causa do estupro. Sabe por quê? Porque homens tem olhos!” Também é bem interessante e se você ainda não viu, já pode dar uma olhadinha. <a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=QH7r09qM2aA">https://www.youtube.com/watch?v=QH7r09qM2aA</a> Os dois vídeos conseguem mostrar o quantos são absurdas as situações que infelizmente já se tornaram comum em muitos lugares e conseguem, pelo menos um pouquinho, despertar em homens e mulheres reflexões sobre costumes  que precisam mudar. Super recomendo.</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

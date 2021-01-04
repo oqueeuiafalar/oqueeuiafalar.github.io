@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Eu não sei porque, mas o “Coisas lindas da semana” dessa semana está recheado de flores, e olha que nós estamos entrando no outono (estação maravilhosa *-*) que é repleto de folhas secas, porém maravilhosas, haha. Mas aconteceu, vi muitas fotos e ideias com flores essa semana, e uma mais linda que a outra, por isso resolvi compartilhar com vocês.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Eu não sei porque, mas o “Coisas lindas da semana” dessa semana está recheado de flores, e olha que nós estamos entrando no outono (estação maravilhosa *-*) que é repleto de folhas secas, porém maravilhosas, haha. Mas aconteceu, vi muitas fotos e ideias com flores essa semana, e uma mais linda que a outra, por isso resolvi compartilhar com vocês.</p>
 <h2 id="Esse-terrario"><a href="#Esse-terrario" class="headerlink" title="Esse terrário"></a>Esse terrário</h2><p><a href="/wp-content/uploads/2015/03/5a6b7a43b90740c3682117a3dee68b0b.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/5a6b7a43b90740c3682117a3dee68b0b-683x1024.jpg" alt="terrário em aquário "></a>   Eu já tinha visto essa ideia de montar mini jardins em vasos de vidro, tipo aqueles aquários de desenho animado, rs, mas não me lembro onde, e eu acho tão delicado, eu adoraria ter um desses para usar de decoração.</p>
 <h2 id="Esse-arranjo"><a href="#Esse-arranjo" class="headerlink" title="Esse arranjo"></a>Esse arranjo</h2><p><a href="/wp-content/uploads/2015/03/fc210f8fd4b213b510dfe0c53d7dcfad.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/fc210f8fd4b213b510dfe0c53d7dcfad.jpg" alt="arranjo de flores em garrafas de vidro para casamento "></a> Achei ótima essa ideia de decoração, é muito simples e  para quem esta pensando em casar no campo esses arranjos ficam muito charmosos e delicados.</p>
 <h2 id="Essa-decoracao"><a href="#Essa-decoracao" class="headerlink" title="Essa decoração"></a>Essa decoração</h2><p><a href="/wp-content/uploads/2015/03/15dce6b35a7e8259e4ce67a1403bf151.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/15dce6b35a7e8259e4ce67a1403bf151-683x1024.jpg" alt="decoração delicada para casamento na praia "></a> Essa foi outra ideia que eu vi e já pensei em casamento, haha. Pra mim, menos é mais e essa foto prova isso, achei lindíssima essa decoração, serve tanto para quem vai casar no campo quanto para quem vai casar na praia e fica de uma delicadeza sem igual.</p>
 <h2 id="Essa-segunda-decoracao"><a href="#Essa-segunda-decoracao" class="headerlink" title="Essa segunda decoração"></a>Essa segunda decoração</h2><p><a href="/wp-content/uploads/2015/03/b15dc85020b1cf698ae61146630f51bc.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/b15dc85020b1cf698ae61146630f51bc.jpg" alt="decoração para mesa com suculentas"></a> Eu sempre gostei muito de suculentas, acho super prático para se ter em casa, minha irmã tem algumas na casa dela e sempre que vou lá fico olhando e achando muito fofo. E essa decoração de mesa ficou um encanto, não ficou? Mais uma vez repito, menos é mais, haha, essa ideia dá pra usar em várias ocasiões, como almoço de casamento, batizado, aniversário, fica rústico e elegante. Pois é, nessa semana em que nós aqui no Brasil deixamos o verão eu já começo a pensar em como aproveitar a nova estação que está chegando, mas jamais deixo de lado as minhas paixões por temas florais e por simplicidade, afinal para o que é bonito não existe dia certo, não é mesmo? Semana que vem tem mais, excelente comecinho de outono para todos. Beijos.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>E aí gente, como foi a semana? Muitos preparativos e ansiedade para o carnaval? Eu confesso que eu só fico ansiosa para o feriado mesmo, para eu poder relaxar em casa ou fazer algumas organizações, hehe. E pensando nisso, achei uma ideia linda de decoração na internet que eu necessito compartilhar com vocês, que é:</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>E aí gente, como foi a semana? Muitos preparativos e ansiedade para o carnaval? Eu confesso que eu só fico ansiosa para o feriado mesmo, para eu poder relaxar em casa ou fazer algumas organizações, hehe. E pensando nisso, achei uma ideia linda de decoração na internet que eu necessito compartilhar com vocês, que é:</p>
 <h2 id="Esse-enfeite"><a href="#Esse-enfeite" class="headerlink" title="Esse enfeite"></a>Esse enfeite</h2><p><a href="/wp-content/uploads/2015/02/2ced3978fbbadc89326d268a64d8dddc.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/2ced3978fbbadc89326d268a64d8dddc-684x1024.jpg" alt="enfeite de lâmpada para flores, vaso de flores "></a> Eu nunca na vida iria pensar em fazer isso com uma lâmpada, sério mesmo. Mas a ideia foi ótima, ficou uma decoração leve e fofa ao mesmo tempo, para quem tem jardim em casa seria muito legal colocar essa ideia em prática, não acham?</p>
 <h2 id="Esse-quintal"><a href="#Esse-quintal" class="headerlink" title="Esse quintal"></a>Esse quintal</h2><h2 id=""><a href="#" class="headerlink" title=""></a><a href="/wp-content/uploads/2015/02/5e681a7ffc21a6a90978ab85c7f18c81.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/5e681a7ffc21a6a90978ab85c7f18c81.jpg" alt="quinta\jardim rustico "></a></h2><p>Eu me apaixonei por esse quintal, quer coisa mais aconchegante? Me lembra aqueles lugares que a gente só vê em filmes que são filmados na Itália e que ficamos babando e sonhando com um lugar daqueles para poder juntar a família, fazer lanches ou simplesmente relaxar.</p>
 <h2 id="Esse-espelho"><a href="#Esse-espelho" class="headerlink" title="Esse espelho"></a>Esse espelho</h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a><a href="/wp-content/uploads/2015/02/07972c03e729d7144347cbe481d0ab58.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/07972c03e729d7144347cbe481d0ab58-619x1024.jpg" alt="espelho com moldura clássica "></a></h2><p>Que mulher nessa vida nunca sonhou com um espelho espetacular desses? Além de grande ele tem essa moldura linda de morrer que me faz ficar aqui olhando e tentando imaginar onde colocar caso eu compre um (triste ter um quarto pequeno, rs).</p>
 <h2 id="Esses-pinguins-de-sueter"><a href="#Esses-pinguins-de-sueter" class="headerlink" title="Esses pinguins de suéter"></a>Esses pinguins de suéter</h2><p><a href="/wp-content/uploads/2015/02/C_4_foto_1080011_image.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/C_4_foto_1080011_image.jpg" alt="pinguins de suéter "></a> E para finalizar…. ah, o momento mais lindo desse coisas lindas da semana. Vários sites divulgaram nessa semana a história de um senhor de 109 anos que tricota suéteres para pinguins na Austrália. Acontece que os pinguins foram expostos à um derramamento de óleo e segundo uma fundação australiana que cuida dos pinguins, o óleo os impede de manter a temperatura corporal e por isso os suéteres tricotadas pelo simpático senhor Alfred e outros voluntários é de grande ajuda. Viu como as vezes a fé na humanidade pode ser recuperada? :P Fiquei feliz pelos pinguins. Por enquanto é só, ah… essa semana também fiquei parceira das editoras <a target="_blank" rel="noopener" href="http://www.editoragaivota.com.br;/" title="Gaivota"><strong>Gaivota</strong></a> e <a target="_blank" rel="noopener" href="http://www.editorabiruta.com.br/" title="Biruta"><strong>Biruta</strong></a>, então quem gosta da minha sessão de <a target="_blank" rel="noopener" href="http://natalia.blog.br/category/resenhas-livros/" title="resenhas de livros"><strong>resenhas de livros</strong></a>, pode aguardar que logo vem coisa boa.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

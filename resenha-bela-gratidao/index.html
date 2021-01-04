@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Resenha: Bela Gratidão</h1>
-
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resenha-livro-bela-gratid%C3%A3o.jpg" alt="Livro Bela Gratidão "> <strong>Bela Gratidão</strong> da autora Corey Ann Haydu é um livro que fala sobre transformações e crescimento e nele conhecemos Montana e sua família. Montana é uma adolescente de 17 anos que foi abandonada pela mãe ainda criança e viveu até os 16 anos com o pai e a irmã Arizona, mas agora que Arizona foi para a faculdade Montana mora apenas com o pai na maior parte do ano. Montana passou boa parte de sua vida vendo seu pai, um cirurgião plástico, entrar e sair de relacionamentos amorosos com alguns casamentos bem curtos. Com tantos casamentos, Montana e Arizona sentem que suas vidas é uma série de perdas com tantas madrastas chegando e partindo e elas se sentem bem confusas e frustradas com isso. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/lombada-livro-bela-gratid%C3%A3o.jpg" alt="Resenha do livro - Bela Gratidão "> Após Arizona ir para a faculdade, Montana começou a se sentir sozinha e durante as aulas de teatro que ela faz, conhece Karissa. Karissa é um pouco mais velha que Montana, tem 23 anos, mas é alegre, descontraída e muito comunicativa. Montana vê em Karissa aquela pessoa que estava fazendo falta em sua vida depois que Arizona foi embora e se apega a ela a transformando em amiga e confidente. Nas férias de verão, quando Arizona volta para passar um tempo na cidade natal, Montana também acaba conhecendo Bernardo, um garoto que já há meses paquera com Montana no parque e que finalmente resolve se aproximar dela e os dois acabam se apaixonando e fazendo coisas estranhas juntos como pintar o cabelo de rosa e rabiscar o corpo um do outro com palavras e corações. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/contra-capa-livro-bela-gratid%C3%A3o.jpg" alt="Livro Bela Gratidão de Corey Ann Haydu"> Mas parece que durante aquele verão tudo resolveu acontecer na vida de Montana, além, de mais uma madrasta ter ido recentemente embora, Arizona esta de volta a cidade para passar as férias, porém, não fica na casa da família e seu pai Sean resolve aparecer novamente com mais uma namorada, porém, por essa namorada ninguém esperava e promete causar muitos transtornos e abalos emocionais à família. </p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: Bela Gratidão</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resenha-livro-bela-gratid%C3%A3o.jpg" alt="Livro Bela Gratidão "> <strong>Bela Gratidão</strong> da autora Corey Ann Haydu é um livro que fala sobre transformações e crescimento e nele conhecemos Montana e sua família. Montana é uma adolescente de 17 anos que foi abandonada pela mãe ainda criança e viveu até os 16 anos com o pai e a irmã Arizona, mas agora que Arizona foi para a faculdade Montana mora apenas com o pai na maior parte do ano. Montana passou boa parte de sua vida vendo seu pai, um cirurgião plástico, entrar e sair de relacionamentos amorosos com alguns casamentos bem curtos. Com tantos casamentos, Montana e Arizona sentem que suas vidas é uma série de perdas com tantas madrastas chegando e partindo e elas se sentem bem confusas e frustradas com isso. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/lombada-livro-bela-gratid%C3%A3o.jpg" alt="Resenha do livro - Bela Gratidão "> Após Arizona ir para a faculdade, Montana começou a se sentir sozinha e durante as aulas de teatro que ela faz, conhece Karissa. Karissa é um pouco mais velha que Montana, tem 23 anos, mas é alegre, descontraída e muito comunicativa. Montana vê em Karissa aquela pessoa que estava fazendo falta em sua vida depois que Arizona foi embora e se apega a ela a transformando em amiga e confidente. Nas férias de verão, quando Arizona volta para passar um tempo na cidade natal, Montana também acaba conhecendo Bernardo, um garoto que já há meses paquera com Montana no parque e que finalmente resolve se aproximar dela e os dois acabam se apaixonando e fazendo coisas estranhas juntos como pintar o cabelo de rosa e rabiscar o corpo um do outro com palavras e corações. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/contra-capa-livro-bela-gratid%C3%A3o.jpg" alt="Livro Bela Gratidão de Corey Ann Haydu"> Mas parece que durante aquele verão tudo resolveu acontecer na vida de Montana, além, de mais uma madrasta ter ido recentemente embora, Arizona esta de volta a cidade para passar as férias, porém, não fica na casa da família e seu pai Sean resolve aparecer novamente com mais uma namorada, porém, por essa namorada ninguém esperava e promete causar muitos transtornos e abalos emocionais à família. </p>
 <blockquote>
 <p>Esse é o único lugar onde já morei. A estrutura da minha família esta sempre mudando, mas o prédio de tijolos vermelhos, a varanda da entrada caindo aos pedaços, a tinta amarela do meu quarto, a vista do restaurante italiano do outro lado da rua continuam iguais.</p>
 </blockquote>
 <p>Bela Gratidão é todo narrado por Montana, mostrando suas fragilidades, medos e como ela vai crescer e se tornar mais madura depois de todos os tormentos que esse verão promete trazer para a sua vida. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resumo-do-livro-bela-gratid%C3%A3o.jpg" alt="Bela Gratidão "> Um tema muito importante que Bela Gratidão aborda é o padrão de beleza. O pai de Montana e Arizona é apaixonado por sua profissão, o que é uma coisa boa, porém, ele vê defeitos em todas as mulheres que passa por sua vida, incluindo suas filhas. Ele esta sempre buscando um jeito de torna-las mais bonitas e perfeitas. O título Bela Gratidão é uma referencia a um diário que Montana mantém, onde destacas sempre três coisas pelas quais ela foi grata naquele determinado dia. Eu já tentei fazer um diário assim também, mas acho que devido ao meu estresse, acabei não conseguindo haha.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

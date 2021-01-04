@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>De domingo a domingo - saia de couro</h1>
-
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/como-usar-saia-de-couro-1.jpg" alt="inspirações - saia de couro - como usar"> Muitas pessoas acham que a <strong>saia de couro</strong> esta restrita aos dias frios, mas eu fico feliz em informar que não. As saias de couro podem ser usadas o ano todo, até naqueles dias super quentes elas ficam lindas, basta saber montar o look. As <strong>saias de couro</strong> são uns dos itens mais clássicos do guarda roupa de toda mulher, mas não podemos deixar de falar que elas podem ser encontradas nas mais variadas modelagens, como as amadas <strong>mini saias</strong>, na modelagem lápis, <strong>plissada</strong>, com fenda, enfim, você só não pode esquecer de avaliar qual a situação você vai usa-la e qual estilo esta querendo montar. Fiz uma seleção de saias para todos os dias da semana, passando pelo <strong>office look</strong> até looks mais casuais e para festas, bora escolher alguns:</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">De domingo a domingo - saia de couro</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/como-usar-saia-de-couro-1.jpg" alt="inspirações - saia de couro - como usar"> Muitas pessoas acham que a <strong>saia de couro</strong> esta restrita aos dias frios, mas eu fico feliz em informar que não. As saias de couro podem ser usadas o ano todo, até naqueles dias super quentes elas ficam lindas, basta saber montar o look. As <strong>saias de couro</strong> são uns dos itens mais clássicos do guarda roupa de toda mulher, mas não podemos deixar de falar que elas podem ser encontradas nas mais variadas modelagens, como as amadas <strong>mini saias</strong>, na modelagem lápis, <strong>plissada</strong>, com fenda, enfim, você só não pode esquecer de avaliar qual a situação você vai usa-la e qual estilo esta querendo montar. Fiz uma seleção de saias para todos os dias da semana, passando pelo <strong>office look</strong> até looks mais casuais e para festas, bora escolher alguns:</p>
 <h2 id="Domingo"><a href="#Domingo" class="headerlink" title="Domingo"></a>Domingo</h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/look-com-saia-de-couro.jpg" alt="como usar saia de couro"> Fotos: Mariana Casemiro - Tudo com moda</p>
 <h2 id="Segunda"><a href="#Segunda" class="headerlink" title="Segunda"></a>Segunda</h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/como-usar-saia-de-couro.jpg" alt="look com saia de couro"> Fotos: Pinterest - Steal the look</p>
 <h2 id="Terca"><a href="#Terca" class="headerlink" title="Terça"></a>Terça</h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/office-look-saia-de-couro.jpg" alt="look com saia de couro - como usar"> Fotos: Steal the look - Segura o picumã</p>
@@ -170,12 +169,50 @@
 <h2 id="Sexta"><a href="#Sexta" class="headerlink" title="Sexta"></a>Sexta</h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/Look-com-saia-de-couro.jpg" alt="como usar mini saia de couro"> Fotos: Pinterest</p>
 <h2 id="Sabado"><a href="#Sabado" class="headerlink" title="Sábado"></a>Sábado</h2><p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/saia-de-couro-como-usar-look.jpg" alt="mini saia de couro - como usar"> Fotos: Pinterest - Closet da Rê Viram só como é possível usar a <strong>saia de couro</strong> durante toda a semana? Basta escolher qual modelo é melhor para cada ocasião e sair por aí arrasando. Espero que vocês tenham gostado das inspirações. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -209,17 +246,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

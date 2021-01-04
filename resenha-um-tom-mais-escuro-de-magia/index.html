@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Resenha: Um tom mais escuro de magia</h1>
-
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-um-tom-mais-escuro-de-magia.jpg" alt="resumo - um tom mais escuro de magia "> Gente, acabei de ler o livro “Um tom mais escuro de magia” da V. E. Schwab e eu estou apaixonada. O livro é faz parte de uma trilogia e eu já estou ansiosa para ler os próximos capítulos haha.   O livro fala sobre quatro mundos distintos, mas que possuem duas coisas em comum: uma cidade chamada Londres e magia, alguns com magia sobrando e outros com quase nada, mas ainda assim possuem um pouco.   As cidades de Londres são conhecidas como Londres Vermelha, Londres Branca, Londres Cinza e Londres Preta, e Kell, um dos últimos Antari vivos, consegue viajar por todas elas utilizando sua magia e levando mensagens de seus reis e rainhas e também aproveita para praticar seu hobby de contrabandear algumas coisas para ele mesmo. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/p%C3%A1gina-do-livro-um-tom-mais-escuro-de-magia.jpg" alt="sobre o livro - um tom mais escuro de magia"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/lombada-do-livro-um-tom-mais-escuro-de-magia.jpg" alt="resumo do livro um tom mais escuro de magia"></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: Um tom mais escuro de magia</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-um-tom-mais-escuro-de-magia.jpg" alt="resumo - um tom mais escuro de magia "> Gente, acabei de ler o livro “Um tom mais escuro de magia” da V. E. Schwab e eu estou apaixonada. O livro é faz parte de uma trilogia e eu já estou ansiosa para ler os próximos capítulos haha.   O livro fala sobre quatro mundos distintos, mas que possuem duas coisas em comum: uma cidade chamada Londres e magia, alguns com magia sobrando e outros com quase nada, mas ainda assim possuem um pouco.   As cidades de Londres são conhecidas como Londres Vermelha, Londres Branca, Londres Cinza e Londres Preta, e Kell, um dos últimos Antari vivos, consegue viajar por todas elas utilizando sua magia e levando mensagens de seus reis e rainhas e também aproveita para praticar seu hobby de contrabandear algumas coisas para ele mesmo. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/p%C3%A1gina-do-livro-um-tom-mais-escuro-de-magia.jpg" alt="sobre o livro - um tom mais escuro de magia"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/lombada-do-livro-um-tom-mais-escuro-de-magia.jpg" alt="resumo do livro um tom mais escuro de magia"></p>
 <blockquote>
 <p>Se o vermelho era a cor da magia em equilíbrio, da harmonia entre o poder e a humanidade, o preto era a cor da magia desequilibrada, desordenada e sem limites.</p>
 </blockquote>
@@ -171,12 +170,50 @@
 </blockquote>
 <p>Holland é o outro Antari que faz parte da história. Enquanto Kell é da linda e acolhedora Londres Vermelha e é tratado como príncipe pelo povo e como um filho pelo rei e rainha, Holland pertence à sombria Londres Branca, governada pelos irmãos Dane. Astrid e Athos são gêmeos e governam a Londres Branca da pior forma possível, eles são cruéis, cometem barbaridades com o povo e principalmente com Holland, mas sem um vilão, o livro não tem graça não é mesmo haha.   O livro é brilhante, tem aventura e suspense do início ao fim. Schwab descreve com detalhes todos os mundos. As Londres e os personagens são muito bem construídos fazendo com que a gente se envolva e se sinta parte da história. Kell e Lila acaba de entrar na minha lista de personagens prediletos, um é bem diferente do outro, mas eles conseguem se completar e ir em busca de um bem comum.   Eu já virei fã da autora Schwab e estou louca para ler os próximos livros. Para quem gosta de livros de fantasia, com muito mistério e aventura, “<strong>Um tom mais escuro de magia</strong>” pode te dar tudo isso de forma muito divertida e te levando para viajar nas varias versões de Londres de Schwab.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -210,17 +247,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

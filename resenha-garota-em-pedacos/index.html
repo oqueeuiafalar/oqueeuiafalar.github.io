@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Resenha: Garota em pedaços</h1>
-
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-do-livro-garota-em-peda%C3%A7os.jpg" alt="resenha - garota em pedaços "> O livro “<strong>Garota em pedaços</strong>” é  aquele que vai te deixar arrasada em alguns momentos, mas vale cada linha, O livro é divido em três partes e a protagonista chama-se Charlotte Davis, mais conhecida como Charlie, uma garota de 17 anos que já passou por muitos baixos – sem os altos – na vida. Quando mais nova Charlie perdeu o pai e sua mãe começou a descontar nela toda a dor e amargura que carregava dentro dela, porém, Charlie nunca se abria com ninguém, pois, no colégio ela não tinha muitos amigos e tinha a solidão como sua fiel companheira, até que chega Ellis, uma aluna nova no colégio e ai finalmente Charlie ganha uma melhor amiga. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/p%C3%A1gina-do-livro-garota-em-peda%C3%A7os.jpg" alt="resumo do livro - garota em pedaços"> O livro começa no hospital psiquiátrico para jovens chamado Creeley Center. Charlie esta lá há seis meses e não fala uma palavra. Antes de ir para Creeley, Charlie morava na rua com dois amigos, Evan e Dump, até que eles conseguiram abrigo em Seed House, onde o dono chama-se Frank e é lá que começa um dos maiores infernos da vida de Charlie. Durante o período que Charlie esta internada, ela aproveita para observar tudo o que acontece no hosptital e nos contar um pouco sobre as garotas que também estão lá fazendo tratamento. Como Blue, uma ex-viciada valentona e Louisa, a menina de cabelos vermelhos que é sua companheira de quarto e que escreve inúmeros diários. Mas por falta de dinheiro, Charlie precisa deixar o hospital – justo quando ela começou a melhorar de sua mudez – e o desespero que ela tem em voltar a morar com a mãe a faz pedir ajuda para um velho amigo, Michael. E lá vai Charlie para a quente cidade de Tucson tentar reorganizar sua vida e ficar próxima do amigo e antiga paixão, mas Charlie não podia imaginar que Michael ia precisar ficar fora por um longo período, então, ela se vê novamente sozinha, em um lugar desconhecido, com medo de voltar a se auto mutilar – Charlie se cortava antes de ser internada, tentando esquecer as dores e problemas de sua vida. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/contra-capa-garota-em-peda%C3%A7os-resumo.jpg" alt="resenha do livro - garota em pedaços"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/lombada-do-livro-garota-em-peda%C3%A7os.jpg" alt="livro garota em pedaços - resenha"> Apesar de todas as dificuldades, Charlie consegue um emprego lavando pratos no café True Grit, onde ela conhece Riley West, e ai sua vida vai virar um inferno tudo de novo. O livro é extremamente doloroso, ver Charlie sofrer do começo ao fim é perturbador. Não apenas Charlie, mas West e também ver como todas aquelas garotas internadas sofrem e se auto mutilam, como o mundo, as coisas, os pensamentos e as pessoas as machucam é bem marcante. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-garota-em-peda%C3%A7os.jpg" alt="resumo do livro - garota em pedaços"></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: Garota em pedaços</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-do-livro-garota-em-peda%C3%A7os.jpg" alt="resenha - garota em pedaços "> O livro “<strong>Garota em pedaços</strong>” é  aquele que vai te deixar arrasada em alguns momentos, mas vale cada linha, O livro é divido em três partes e a protagonista chama-se Charlotte Davis, mais conhecida como Charlie, uma garota de 17 anos que já passou por muitos baixos – sem os altos – na vida. Quando mais nova Charlie perdeu o pai e sua mãe começou a descontar nela toda a dor e amargura que carregava dentro dela, porém, Charlie nunca se abria com ninguém, pois, no colégio ela não tinha muitos amigos e tinha a solidão como sua fiel companheira, até que chega Ellis, uma aluna nova no colégio e ai finalmente Charlie ganha uma melhor amiga. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/p%C3%A1gina-do-livro-garota-em-peda%C3%A7os.jpg" alt="resumo do livro - garota em pedaços"> O livro começa no hospital psiquiátrico para jovens chamado Creeley Center. Charlie esta lá há seis meses e não fala uma palavra. Antes de ir para Creeley, Charlie morava na rua com dois amigos, Evan e Dump, até que eles conseguiram abrigo em Seed House, onde o dono chama-se Frank e é lá que começa um dos maiores infernos da vida de Charlie. Durante o período que Charlie esta internada, ela aproveita para observar tudo o que acontece no hosptital e nos contar um pouco sobre as garotas que também estão lá fazendo tratamento. Como Blue, uma ex-viciada valentona e Louisa, a menina de cabelos vermelhos que é sua companheira de quarto e que escreve inúmeros diários. Mas por falta de dinheiro, Charlie precisa deixar o hospital – justo quando ela começou a melhorar de sua mudez – e o desespero que ela tem em voltar a morar com a mãe a faz pedir ajuda para um velho amigo, Michael. E lá vai Charlie para a quente cidade de Tucson tentar reorganizar sua vida e ficar próxima do amigo e antiga paixão, mas Charlie não podia imaginar que Michael ia precisar ficar fora por um longo período, então, ela se vê novamente sozinha, em um lugar desconhecido, com medo de voltar a se auto mutilar – Charlie se cortava antes de ser internada, tentando esquecer as dores e problemas de sua vida. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/contra-capa-garota-em-peda%C3%A7os-resumo.jpg" alt="resenha do livro - garota em pedaços"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/lombada-do-livro-garota-em-peda%C3%A7os.jpg" alt="livro garota em pedaços - resenha"> Apesar de todas as dificuldades, Charlie consegue um emprego lavando pratos no café True Grit, onde ela conhece Riley West, e ai sua vida vai virar um inferno tudo de novo. O livro é extremamente doloroso, ver Charlie sofrer do começo ao fim é perturbador. Não apenas Charlie, mas West e também ver como todas aquelas garotas internadas sofrem e se auto mutilam, como o mundo, as coisas, os pensamentos e as pessoas as machucam é bem marcante. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-garota-em-peda%C3%A7os.jpg" alt="resumo do livro - garota em pedaços"></p>
 <blockquote>
 <p>A vida de uma garota é a pior coisa do mundo. A vida de uma garota é: você nasce, sangra e queima.</p>
 </blockquote>
 <p>Ultimamente temas que abordam doenças mentais esta bem em alta, como depressão, suicídio e auto mutilação, e com certeza tem que ter um motivo para esse boom. Talvez a nossa vida cada dia mais louca, correndo de um lado para o outro, tentando abraçar o mundo sozinho, tendo que ser o melhor em tudo. Por isso, se você esta passando por qualquer situação semelhante, busque ajuda, no Brasil liguei para o 141 ou acesse o <strong><a target="_blank" rel="noopener" href="http://www.cvv.org.br/">Centro de Valorização da Vida</a></strong> ,isso pode te ajudar, e muito! No fim, apesar do livro ser muito dolorido, a mensagem é bonita, é quando apesar das cicatrizes, é hora de cuidar das feridas e bolar uma forma de seguir em frente. Recomendo a leitura!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

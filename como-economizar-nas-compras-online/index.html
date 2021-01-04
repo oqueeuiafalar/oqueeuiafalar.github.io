@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>9 Dicas de Como Economizar nas Compras Online.</h1>
-
-<main>
-    <p>A prática de fazer compras online vem crescendo cada dia mais, isso deve-se por conta da praticidade de fazer comparações de marcas, preços e pesquisar por lojas com o melhor custo x benefícios. Porém, quando falamos de compras online é preciso ter muito cuidado para não gastar mais do que se deve, afinal, a gente acaba se empolgando com tanta praticidade e  opções. Mas para você que deseja fazer compras mais inteligentes pela internet eu separei 9 dicas de como economizar nas compras online que com certeza vão te ajudar. Confira! <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/12/como-fazer-compras-online.jpg" alt="como fazer compras online" title="como fazer compras online"></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">9 Dicas de Como Economizar nas Compras Online.</h1>
+        <p>A prática de fazer compras online vem crescendo cada dia mais, isso deve-se por conta da praticidade de fazer comparações de marcas, preços e pesquisar por lojas com o melhor custo x benefícios. Porém, quando falamos de compras online é preciso ter muito cuidado para não gastar mais do que se deve, afinal, a gente acaba se empolgando com tanta praticidade e  opções. Mas para você que deseja fazer compras mais inteligentes pela internet eu separei 9 dicas de como economizar nas compras online que com certeza vão te ajudar. Confira! <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/12/como-fazer-compras-online.jpg" alt="como fazer compras online" title="como fazer compras online"></p>
 <h2 id="1-Utilize-cupons-de-desconto"><a href="#1-Utilize-cupons-de-desconto" class="headerlink" title="1. Utilize cupons de desconto"></a>1. Utilize cupons de desconto</h2><p>Todo mundo adora ganhar um desconto na hora de comprar alguma coisa, não é mesmo? E uma grande vantagem das compras online é poder usar cupons de desconto.  Comumente quando eu vou fazer compras online, sempre pesquiso por um cupom antes de fechar a compra. A <strong><a target="_blank" rel="noopener" href="https://www.cupomvalido.com.br/">CupomVálido</a></strong>, por exemplo, disponibiliza cupons de desconto para várias grandes lojas online que a gente costuma comprar com uma certa frequência como <a target="_blank" rel="noopener" href="https://www.cupomvalido.com.br/desconto/americanas/">Americanas</a>, <a target="_blank" rel="noopener" href="https://www.cupomvalido.com.br/desconto/netshoes/">Netshoes</a>, <a target="_blank" rel="noopener" href="https://www.cupomvalido.com.br/desconto/centauro/">Centauro</a>, <a target="_blank" rel="noopener" href="https://www.cupomvalido.com.br/desconto/submarino/">Submarino</a>, <a target="_blank" rel="noopener" href="https://www.cupomvalido.com.br/desconto/zattini/">Zattini</a>, <a target="_blank" rel="noopener" href="https://www.cupomvalido.com.br/desconto/saraiva/">Saraiva</a> entre tantas outras.  E uma dica para você usar o site da CupomVálido de forma ainda mais inteligente é cadastrar seu email no site e sempre que tiver um cupom novo de alguma loja você irá receber uma notificação, além disso você também pode seguir a CupomVálido nas redes sociais e sempre ficar por dentro de todas as novidades.</p>
 <h2 id="2-Faca-pesquisas-de-preco"><a href="#2-Faca-pesquisas-de-preco" class="headerlink" title="2. Faça pesquisas de preço"></a>2. Faça pesquisas de preço</h2><p>Uma das grandes vantagens de fazer compras online é pode fazer pesquisas de preço, afinal, é bem comum o produto aparecer com um preço em um site, e em outro ele estar mais em conta. Para isso, você também pode usar sites comparadores de preço que vão te mostrar o valor do mesmo produto em várias lojas diferentes, além disso, esses sites também costumam mostrar como está a evolução do preço dos produtos, então você consegue saber se ele está mais barato agora ou se no mês passado.</p>
 <h2 id="3-Fique-atento-ao-frete"><a href="#3-Fique-atento-ao-frete" class="headerlink" title="3. Fique atento ao frete"></a>3. Fique atento ao frete</h2><p>É bem comum a gente se empolgar na hora da compra online e se esquecer de ver quanto é o frete para entregar esse produto. Por isso, antes de finalizar a sua compra faça simulações de frete do mesmo produto em lojas diferentes, além disso, também fique atento se não há um ponto de entrega da loja em um lugar próximo que você consiga ir buscar, pois muitas vezes retirar o produto na loja é frete grátis. Por isso, na hora de finalizar a sua compra some quanto vai ficar a entrega junto com o preço do produto em mais de uma loja e escolha a que tem o melhor custo x benefício.  <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/12/fazendo-compras-online.jpg" alt="fazendo compras online" title="fazendo compras online"></p>
@@ -172,12 +171,50 @@
 <h2 id="8-Observe-os-juros-das-compras-parceladas"><a href="#8-Observe-os-juros-das-compras-parceladas" class="headerlink" title="8. Observe os juros das compras parceladas"></a>8. Observe os juros das compras parceladas</h2><p>Muita gente tem o hábito de fazer compras parceladas e nesse momento tudo o que eu posso de falar é: só compre parcelado se for realmente necessário! Isso porque, infelizmente, é comum ter juros em compras parceladas, por isso, fique atento a porcentagem de juros conforme o número de parcelas, pois algumas lojas disponibilizam parcelas de até 3 ou 4 vezes sem juros, mas para isso é preciso ficar atento na hora de finalizar a comprar.</p>
 <h2 id="9-Planeje-suas-compras"><a href="#9-Planeje-suas-compras" class="headerlink" title="9. Planeje suas compras"></a>9. Planeje suas compras</h2><p>Por último, mas não menos importante, é necessário fazer planejamento na hora de fazer as compras online. Pois como já falamos nesse post, é comum a gente se animar com tantas opções e acabar gastando mais do que se deve.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -211,17 +248,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

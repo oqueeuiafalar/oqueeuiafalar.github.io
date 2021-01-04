@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Resenha: Mais Que Amigos - Lauren Layne</h1>
-
-<main>
-    <p><strong>Sinopse:</strong> Será que vale a pena arriscar uma grande amizade em troca de um romance inesquecível? Aos vinte e dois anos, a jovem Parker Blanton leva a vida que sempre sonhou. Tem um namorado inteligente e responsável, um emprego promissor e a companhia de seu melhor amigo, Ben Olsen, com quem divide um lindo apartamento. Parker e Ben são tão grudados que muita gente duvida que os dois nunca tenham tido um caso, mas eles não se importam com o que as pessoas pensam. Sabem que não foram feitos um para o outro - pelo menos não no amor. Por isso, quando um acontecimento inesperado faz com que Parker se veja sem namorado e com o coração partido, ela sabe que pode contar com Ben para ajudá-la a sacudir a poeira e partir para outra. Afinal, ninguém melhor do que seu grande amigo para lhe mostrar os prazeres da solteirice … certo? <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/capa-do-livro-mais-que-amigos.jpg" alt="capa do livro - Mais Que Amigos" title="capa do livro - Mais Que Amigos"> Bom gente,  <strong>Mais Que Amigos</strong> é um livro indicado apenas para quem curte aquele clichê de comédia romântica, afinal, desde a primeira página a gente já sabe sem sombra de dúvida como o livro vai terminar. Só para vocês entenderem um pouco melhor sobre a amizade de Parker e Ben, eles se conheceram na faculdade e desde então se tornaram inseparáveis, e sim, pode acreditar nunca rolou nada entre eles, por mais que todo mundo desconfie, mas como você já deve ter imaginado e como o nome do livro já entrega - <strong>Mais Que Amigos</strong> - sim, eles vão ter um caso. Sim, isso é o spoiler mais obvio do mundo haha. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/p%C3%A1ginas-do-livro-mais-que-amigos.jpg" alt="páginas do livro - Mais Que Amigos" title="páginas do livro - Mais Que Amigos"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/resenha-livro-mais-que-amigos.jpg" alt="resenha do livro - Mais Que Amigos" title="resenha do livro - Mais Que Amigos"> Mesmo depois de formados, Parker e Ben dividem um apartamento e enquanto Ben leva a vida de galinha pegador, Parker namora Lance, um rapaz sério, inteligente e super responsável, mas de uma hora para a outra esse relacionamento chega ao fim e é ai que começa todo o auê da história, que se eu contar a vai perder totalmente a graça porque dai vou entregar detalhes demais.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: Mais Que Amigos - Lauren Layne</h1>
+        <p><strong>Sinopse:</strong> Será que vale a pena arriscar uma grande amizade em troca de um romance inesquecível? Aos vinte e dois anos, a jovem Parker Blanton leva a vida que sempre sonhou. Tem um namorado inteligente e responsável, um emprego promissor e a companhia de seu melhor amigo, Ben Olsen, com quem divide um lindo apartamento. Parker e Ben são tão grudados que muita gente duvida que os dois nunca tenham tido um caso, mas eles não se importam com o que as pessoas pensam. Sabem que não foram feitos um para o outro - pelo menos não no amor. Por isso, quando um acontecimento inesperado faz com que Parker se veja sem namorado e com o coração partido, ela sabe que pode contar com Ben para ajudá-la a sacudir a poeira e partir para outra. Afinal, ninguém melhor do que seu grande amigo para lhe mostrar os prazeres da solteirice … certo? <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/capa-do-livro-mais-que-amigos.jpg" alt="capa do livro - Mais Que Amigos" title="capa do livro - Mais Que Amigos"> Bom gente,  <strong>Mais Que Amigos</strong> é um livro indicado apenas para quem curte aquele clichê de comédia romântica, afinal, desde a primeira página a gente já sabe sem sombra de dúvida como o livro vai terminar. Só para vocês entenderem um pouco melhor sobre a amizade de Parker e Ben, eles se conheceram na faculdade e desde então se tornaram inseparáveis, e sim, pode acreditar nunca rolou nada entre eles, por mais que todo mundo desconfie, mas como você já deve ter imaginado e como o nome do livro já entrega - <strong>Mais Que Amigos</strong> - sim, eles vão ter um caso. Sim, isso é o spoiler mais obvio do mundo haha. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/p%C3%A1ginas-do-livro-mais-que-amigos.jpg" alt="páginas do livro - Mais Que Amigos" title="páginas do livro - Mais Que Amigos"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/resenha-livro-mais-que-amigos.jpg" alt="resenha do livro - Mais Que Amigos" title="resenha do livro - Mais Que Amigos"> Mesmo depois de formados, Parker e Ben dividem um apartamento e enquanto Ben leva a vida de galinha pegador, Parker namora Lance, um rapaz sério, inteligente e super responsável, mas de uma hora para a outra esse relacionamento chega ao fim e é ai que começa todo o auê da história, que se eu contar a vai perder totalmente a graça porque dai vou entregar detalhes demais.</p>
 <blockquote>
 <p>A gente conseguiu contornar todos os clichês sobre homens e mulheres serem amigos, por que não superaria o clichê de que o sexo estraga a amizade?</p>
 </blockquote>
 <p>O livro  <strong>Mais Que Amigos</strong> é uma leitura bem rápida e fluida pelas suas 220 páginas, desde o início a autora Lauren Layne já deixa bem clara qual a sua proposta, portanto, se você não curte esse tipo de leitura não há porque investir tempo para depois sair falando mal, afinal, o livro se sai muito bem no que propõe. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/contra-capa-livro-mais-que-amigos.jpg" alt="contra capa do livro - Mais Que Amigos" title="contra capa do livro - Mais Que Amigos"> <strong>Mais Que Amigos</strong> tem partes divertidas, outras nem tanto, trechos cansativos e outros bem empolgantes. Como falei lá no começo, é clichê do início ao fim, mas para quem curte uma comédia romântica e só quer um livro para se distrair e se divertir,  <strong>Mais Que Amigos</strong>    é uma proposta agradável.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

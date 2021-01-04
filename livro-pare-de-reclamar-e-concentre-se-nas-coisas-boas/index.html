@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Resenha do livro \&#34;Pare de reclamar e concentre-se nas coisas boas\&#34;</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2016/02/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/02/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa.jpg" alt="livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa"></a></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha do livro \&#34;Pare de reclamar e concentre-se nas coisas boas\&#34;</h1>
+        <p><a href="/wp-content/uploads/2016/02/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/02/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa.jpg" alt="livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas-capa"></a></p>
 <p>“Pare de reclamar e concentre-se nas coisas boas”, é um daqueles livros que deixa a sessão de auto ajuda da livraria mais interessante.</p>
 <p>O livro conta de maneira informal e despretensiosa o nascimento e desenvolvimento do projeto <a target="_blank" rel="noopener" href="http://www.acomplaintfreeworld.org/">A Complaint Free World”</a> (Um mundo sem reclamações) sob a perspectiva do autor Will Bowen, pastor e criador do projeto.</p>
 <p>O projeto sustenta-se por trás de uma ideia simples e poderosa de que uma vida melhor e mais leve pode começar com um comprometimento de ficarmos 21 dias sem reclamar. Nas palavras do autor: <em>“Menos dor, mais serenidade e alegria… Que tal? Não é apenas possível. É provável. Lutar conscientemente para reformatar seu disco rígido mental não é uma coisa fácil, mas você pode começar agora e em pouco tempo é provável que tenha uma vida muito melhor.”</em></p>
@@ -179,12 +178,50 @@
 <p>Confira um <a target="_blank" rel="noopener" href="http://www.esextante.com.br/media/upload/livros/Pare_de_reclamar_Trecho.pdf">trecho do livro “Pare de reclamar e concentre-se nas coisas boas”</a> no site da editora sextante, [compartilhe esse post](<a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=">https://www.facebook.com/sharer/sharer.php?u=</a> <a target="_blank" rel="noopener" href="http://natalia.blog.br/2016/02/24/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas">http://natalia.blog.br/2016/02/24/livro-pare-de-reclamar-e-concentre-se-nas-coisas-boas</a>) para que seus amigos também possam aceitar o desafio de ficar sem reclamar junto com você :)</p>
 <p>Abraço!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -218,17 +255,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>4 cores de batom que toda mulher precisa ter</h1>
-
-<main>
-    <p>Batom é um item indispensável para as mulheres, até as que não gostam muito de maquiagem sempre tem um batom à mão. Eu sou apaixonada por eles, tenho de várias cores, porém, tem algumas cores que são essenciais na necessaire de toda mulher. Ninguém é obrigada a ter um batom azul, preto ou roxo na bolsa, mas os mais básicos acho super útil ter, afinal nunca se sabe quando irá precisar, né? Esse post vai servir de inspiração pra vocês  saírem correndo pras lojas mais próxima em busca de novos batons.</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">4 cores de batom que toda mulher precisa ter</h1>
+        <p>Batom é um item indispensável para as mulheres, até as que não gostam muito de maquiagem sempre tem um batom à mão. Eu sou apaixonada por eles, tenho de várias cores, porém, tem algumas cores que são essenciais na necessaire de toda mulher. Ninguém é obrigada a ter um batom azul, preto ou roxo na bolsa, mas os mais básicos acho super útil ter, afinal nunca se sabe quando irá precisar, né? Esse post vai servir de inspiração pra vocês  saírem correndo pras lojas mais próxima em busca de novos batons.</p>
 <h2 id="Batom-Nude"><a href="#Batom-Nude" class="headerlink" title="Batom Nude"></a>Batom Nude</h2><p><a href="/wp-content/uploads/2015/10/make-batom-nude.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/make-batom-nude.jpg" alt="make batom nude"></a> Muita gente pensa que o nude é aquele batom para ser usado apenas no dia-a-dia, afinal ele é básico e sempre deixa com um ar sofisticado, mas ele também é uma ótima opção para quando quer fazer uma make que destaca bem os olhos, mas como vocês podem ver nas fotos, ele fica lindo pra se usar em festa, mesmo que a make esteja bem neutra.</p>
 <h2 id="Batom-Vermelho"><a href="#Batom-Vermelho" class="headerlink" title="Batom Vermelho"></a>Batom Vermelho</h2><p><a href="/wp-content/uploads/2015/10/make-batom-vermelho.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/make-batom-vermelho.jpg" alt="make batom vermelho"></a> Depois do nude, batons vermelhos são os meus prediletos principalmente quando eles são matte. O batom vermelho tem a capacidade de deixar qualquer make muito poderosa, basta colocar um rímel e delineador que você estará arrasando.</p>
 <h2 id="Batom-Marrom"><a href="#Batom-Marrom" class="headerlink" title="Batom Marrom"></a>Batom Marrom</h2><p><a href="/wp-content/uploads/2015/10/make-batom-marrom.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/make-batom-marrom.jpg" alt="make batom marrom"></a> Eu adoro os batons marrons com um fundinho puxado para o vermelho, como esse da segunda foto, muito sofisticado, aqueles que são bem escuros caem super bem para pessoas que tem os lábios bem grossos, eles ficam lindos, pra mim o marrom tem quase o mesmo efeito que o vermelho, não é preciso de muito para arrasar, afinal eles são o ponto forte da maquiagem.</p>
 <h2 id="Batom-Rosa"><a href="#Batom-Rosa" class="headerlink" title="Batom Rosa"></a>Batom Rosa</h2><p><a href="/wp-content/uploads/2015/10/make-batom-rosa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/make-batom-rosa.jpg" alt="make batom rosa"></a> Eu seria capaz de ter uma coleção de batons rosas em casa, haha, porque existem tantos tons dentro do rosa, como os que tem um fundinho alaranjado, os bem fortes, os fraquinhos quase nude, os pink chocantes, os cintilantes, aii é tudo lindo haha. Eles não são difíceis de combinar, e sempre deixa o visual mais feminino, daí você pode escolher um mais claro e ficar bem delicada e romântica, ou um pink e ficar bem poderosa, dá pra brincar muito com esse tom. E aí, vocês também acham que esses tons de batons são essenciais para toda mulher? <strong>Fotos:</strong> Getty Images</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

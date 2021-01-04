@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Como usar livros na decoração</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Como usar livros na decoração</h1>
+        <p>Que eu amo livros, todo mundo ta cansado de saber, mas depois de ler o que fazer com eles? Jogar fora está fora de hipótese, então, porque não usa-los na decoração, ele podem dá um ar de elegância ou descontração aos ambientes. Livros de moda, gastronomia, artes, enfim, existem vários livros que tem uma lombada ou capa que chama bastante atenção, por isso eles ficam maravilhosos na decoração. Se for em uma sala de estar fica muito charmoso colocar alguns livros assim sobre a mesa de centro, principalmente se houver mais alguns enfeites como uma bandeja de prata e um porta retratos ou velas com embalagens bem bonitas. <a href="/wp-content/uploads/2015/11/livros-decora%C3%A7%C3%A3o-sala-de-estar.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/livros-decora%C3%A7%C3%A3o-sala-de-estar.jpg" alt="decoração sala de estar - livros na decoração da sala"></a> O lugar onde eu mais costumo passar horas lendo é meu quarto, por isso é uma boa ideia fazer da sua cabeceira de cama uma estante. Usando várias prateleiras é possível deixar o quarto bem harmônico e aconchegante, além de ter a mão seus livros preferidos. O que eu gosto nesse tipo de decoração com livros, é usar coleções, fica mais a cara do dono do quarto e também é bem legal colocar aqueles livros que são quase iguais um ao lado do outro, harmonia com praticidade. <a href="/wp-content/uploads/2015/11/decora%C3%A7%C3%A3o-de-quarto-cabeceira-de-cama.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/decora%C3%A7%C3%A3o-de-quarto-cabeceira-de-cama.jpg" alt="livros na decoração da cabeceira da cama - decoração no quarto"></a> Outra aposta bem legal é fazer uma cabeceira de cama literalmente de livros, claro que esses terão que ficar grudados na parede, mas fica muito charmoso, não fica? Apesar de eu amar esse estilo de decoração, não sei se eu teria coragem de fazer isso com meus livros, haha, a não ser que fossem livros que eu não gostou muito, ou não pretendo ler novamente. <a href="/wp-content/uploads/2015/11/cabeceira-de-livros-arquitrecos-via-kika-reichert.jpeg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/cabeceira-de-livros-arquitrecos-via-kika-reichert.jpeg" alt="cabeceira de cama feita com livros"></a> Se você tem aquelas coleções tipo enciclopédia em casa, o que fica muito legal é pedir pra um marceneiro fazer uma tampa de mesa, ou mesmo comprar uma de vidro ou de algum material que você mais gosta (acho muito charmosa aquelas que são estofadas) e fazer as pernas usando os livros, fica muito diferente, e tenho certeza que vai fazer sucesso, porque é lindo. <a href="/wp-content/uploads/2015/11/mesa-de-centro-feita-de-livros.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/mesa-de-centro-feita-de-livros.jpg" alt="livro - mesa de centro - decor - sala de estar"></a> Você é do estilo mais básica? Então escolha três ou quatro livros da sua preferência (mas bem bonitos), coloque-os sobre uma mesinha de canto e em cima deles enfeite com vela e um vaso de flor solitário, bem clean, mas muito fofo. <a href="/wp-content/uploads/2015/11/livros-na-decora%C3%A7%C3%A3o-clean.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/livros-na-decora%C3%A7%C3%A3o-clean.jpg" alt="decor - livros - mesa"></a> Ta pensando em realmente fazer uma estante? Bom, muitas pessoas que tem escada em suas casas sofrem do dilema que é: o que fazer com aquele espaço que fica embaixo da escada? Quer aproveitamento melhor que fazer uma bela estante, além de ficar lindo, provavelmente ali vai se tornar um dos seus lugares preferidos da casa, pelo menos seria o meu haha. <a href="/wp-content/uploads/2015/11/estante-embaixo-da-escada.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/estante-embaixo-da-escada.jpg" alt="estante - decor - embaixo da escada"></a> Espero que tenham gostado e coloquem as dicas em prática, rs. Beijos!</p>
 
-<main>
-    <p>Que eu amo livros, todo mundo ta cansado de saber, mas depois de ler o que fazer com eles? Jogar fora está fora de hipótese, então, porque não usa-los na decoração, ele podem dá um ar de elegância ou descontração aos ambientes. Livros de moda, gastronomia, artes, enfim, existem vários livros que tem uma lombada ou capa que chama bastante atenção, por isso eles ficam maravilhosos na decoração. Se for em uma sala de estar fica muito charmoso colocar alguns livros assim sobre a mesa de centro, principalmente se houver mais alguns enfeites como uma bandeja de prata e um porta retratos ou velas com embalagens bem bonitas. <a href="/wp-content/uploads/2015/11/livros-decora%C3%A7%C3%A3o-sala-de-estar.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/livros-decora%C3%A7%C3%A3o-sala-de-estar.jpg" alt="decoração sala de estar - livros na decoração da sala"></a> O lugar onde eu mais costumo passar horas lendo é meu quarto, por isso é uma boa ideia fazer da sua cabeceira de cama uma estante. Usando várias prateleiras é possível deixar o quarto bem harmônico e aconchegante, além de ter a mão seus livros preferidos. O que eu gosto nesse tipo de decoração com livros, é usar coleções, fica mais a cara do dono do quarto e também é bem legal colocar aqueles livros que são quase iguais um ao lado do outro, harmonia com praticidade. <a href="/wp-content/uploads/2015/11/decora%C3%A7%C3%A3o-de-quarto-cabeceira-de-cama.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/decora%C3%A7%C3%A3o-de-quarto-cabeceira-de-cama.jpg" alt="livros na decoração da cabeceira da cama - decoração no quarto"></a> Outra aposta bem legal é fazer uma cabeceira de cama literalmente de livros, claro que esses terão que ficar grudados na parede, mas fica muito charmoso, não fica? Apesar de eu amar esse estilo de decoração, não sei se eu teria coragem de fazer isso com meus livros, haha, a não ser que fossem livros que eu não gostou muito, ou não pretendo ler novamente. <a href="/wp-content/uploads/2015/11/cabeceira-de-livros-arquitrecos-via-kika-reichert.jpeg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/cabeceira-de-livros-arquitrecos-via-kika-reichert.jpeg" alt="cabeceira de cama feita com livros"></a> Se você tem aquelas coleções tipo enciclopédia em casa, o que fica muito legal é pedir pra um marceneiro fazer uma tampa de mesa, ou mesmo comprar uma de vidro ou de algum material que você mais gosta (acho muito charmosa aquelas que são estofadas) e fazer as pernas usando os livros, fica muito diferente, e tenho certeza que vai fazer sucesso, porque é lindo. <a href="/wp-content/uploads/2015/11/mesa-de-centro-feita-de-livros.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/mesa-de-centro-feita-de-livros.jpg" alt="livro - mesa de centro - decor - sala de estar"></a> Você é do estilo mais básica? Então escolha três ou quatro livros da sua preferência (mas bem bonitos), coloque-os sobre uma mesinha de canto e em cima deles enfeite com vela e um vaso de flor solitário, bem clean, mas muito fofo. <a href="/wp-content/uploads/2015/11/livros-na-decora%C3%A7%C3%A3o-clean.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/livros-na-decora%C3%A7%C3%A3o-clean.jpg" alt="decor - livros - mesa"></a> Ta pensando em realmente fazer uma estante? Bom, muitas pessoas que tem escada em suas casas sofrem do dilema que é: o que fazer com aquele espaço que fica embaixo da escada? Quer aproveitamento melhor que fazer uma bela estante, além de ficar lindo, provavelmente ali vai se tornar um dos seus lugares preferidos da casa, pelo menos seria o meu haha. <a href="/wp-content/uploads/2015/11/estante-embaixo-da-escada.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/estante-embaixo-da-escada.jpg" alt="estante - decor - embaixo da escada"></a> Espero que tenham gostado e coloquem as dicas em prática, rs. Beijos!</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

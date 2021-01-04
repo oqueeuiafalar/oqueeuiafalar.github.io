@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>10 filmes que todo mundo assistiu menos eu</h1>
-
-<main>
-    <p>Assim que a lista dos <a target="_blank" rel="noopener" href="http://www.revistabula.com/5413-os-25-melhores-filmes-dos-ultimos-25-anos-segundo-o-imdb/">25 melhores filmes dos últimos 25 anos</a> foi publicada eu conversei com minha namorada e autora nesse blog, Natalia, sobre a possibilidade de assistirmos todos aqueles filmes, muitos deles, inéditos para mim. O problema: ela já assistiu todos aqueles filmes, alguns mais de uma vez. Foi então que eu percebi que não é de hoje que eu tenho que ouvir “Não acredito que você ainda não assistiu” em muitas conversas com amigos sobre clássicos e blockbusters. A lista abaixo mostra 10 filmes que todo mundo viu, menos eu. Aposto que vocês já assistiram todos da lista, não é mesmo?</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">10 filmes que todo mundo assistiu menos eu</h1>
+        <p>Assim que a lista dos <a target="_blank" rel="noopener" href="http://www.revistabula.com/5413-os-25-melhores-filmes-dos-ultimos-25-anos-segundo-o-imdb/">25 melhores filmes dos últimos 25 anos</a> foi publicada eu conversei com minha namorada e autora nesse blog, Natalia, sobre a possibilidade de assistirmos todos aqueles filmes, muitos deles, inéditos para mim. O problema: ela já assistiu todos aqueles filmes, alguns mais de uma vez. Foi então que eu percebi que não é de hoje que eu tenho que ouvir “Não acredito que você ainda não assistiu” em muitas conversas com amigos sobre clássicos e blockbusters. A lista abaixo mostra 10 filmes que todo mundo viu, menos eu. Aposto que vocês já assistiram todos da lista, não é mesmo?</p>
 <h2 id="10-Interestelar-2014"><a href="#10-Interestelar-2014" class="headerlink" title="10. Interestelar - 2014"></a>10. Interestelar - 2014</h2><p><a href="/wp-content/uploads/2015/11/interestelar21.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/interestelar21-1024x575.jpg" alt="Cena do filme &#39;Interestelar&#39; de 2014"></a> Interestelar saiu aqui no Brasil em 2014 e eu me lembro de muita gente comparando o filme com 2001 - Uma odisséia no espaço. Além disso o filme é dirigido por Christopher Nolan, o que já deveria ser motivo suficiente para eu já ter assistido.  O tempo passou desde que interestelar estreou, eu já mudei até de endereço mas ainda estou devendo essa.</p>
 <h2 id="9-O-Espetacular-Homem-Aranha-2-A-Ameaca-de-Electro-2014"><a href="#9-O-Espetacular-Homem-Aranha-2-A-Ameaca-de-Electro-2014" class="headerlink" title="9. O Espetacular Homem-Aranha 2: A Ameaça de Electro - 2014"></a>9. O Espetacular Homem-Aranha 2: A Ameaça de Electro - 2014</h2><p><a href="/wp-content/uploads/2015/11/o-espetacular-homem-aranha-2-ameaca-de-electro-2014.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/o-espetacular-homem-aranha-2-ameaca-de-electro-2014.jpg" alt="O espetacular homem-aranha 2: ameaça de electro - 2014"></a> Sou fã de carteirinha do cabeça de teia desde meus 8 anos de idade, então por que será que não assisti ainda o segundo filme da nova franquia do teioso? Não assisti o espetacular homem aranha 2 ainda pois o primeiro filme da franquia não me agradou ao contrário do Homem Aranha 2 de 2004 com Tobey Maguire que é meu filme de super herói favorito. Ou seja, preferi evitar a decepção, será que fiz bem?  </p>
 <h2 id="8-Operacao-Big-Hero-6-2014"><a href="#8-Operacao-Big-Hero-6-2014" class="headerlink" title="8. Operação Big Hero 6 - 2014"></a>8. Operação Big Hero 6 - 2014</h2><p><a href="/wp-content/uploads/2015/11/operacao-big-hero-6.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/operacao-big-hero-6-1024x640.jpg" alt="Operacão Big Hero 6 - Imagem de divulgação"></a> Apesar do oscar de melhor animação de 2014 e do carisma total do Baymax, personagem principal do filme, eu ainda não assisti Big Hero 6, acreditam? Como sempre confio na qualidade de animações desse porte acho que Big Hero 6 deve ser uns dos primeiros filmes dessa lista que eu vou assistir.</p>
@@ -173,12 +172,50 @@
 <h2 id="2-Que-horas-ela-volta-2015"><a href="#2-Que-horas-ela-volta-2015" class="headerlink" title="2. Que horas ela volta? - 2015"></a><strong>2. Que horas ela volta? - 2015</strong></h2><p><a href="/wp-content/uploads/2015/11/que-horas-ela-volta.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/que-horas-ela-volta-1024x604.jpg" alt="Cena de &#39;Que horas ela volta&#39; "></a> Um filme que trata das relações entre patrões e empregados com certeza tem uma mensagem a transmitir e tem tido uma crítica positiva mesmo em sites que tratam mais do seu conteúdo social do que sobre sua produção cinematográfica e ainda está passando em algumas salas de São Paulo. Quem sabe, hein :)  </p>
 <h2 id="1-12-anos-de-escravidao-2013"><a href="#1-12-anos-de-escravidao-2013" class="headerlink" title="1. 12 anos de escravidão - 2013"></a>1. 12 anos de escravidão - 2013</h2><p><a href="/wp-content/uploads/2015/11/cena-de-12-anos-de-escravidao.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/cena-de-12-anos-de-escravidao.jpg" alt="cena de 12 anos de escravidão"></a> Desde a temática da procura pela liberdade até a trilha sonora produzida por Hans Zimmer me interessam. Confesso que comecei a assistir 12 anos de escravidão e parei no meio. Minha intenção é voltar e assistí-lo desde o começo. Se você também tem uma lista de filmes que todo mundo viu menos você (e que você gostaria de assistir), faça como eu, crie sua própria lista e conte pra gente que filmes são esses, vai que os seus filmes eu já assisti :P No blog você confere mais <a target="_blank" rel="noopener" href="http://natalia.blog.br/category/dicas-filmes/">dicas de filmes</a>, tem <a target="_blank" rel="noopener" href="http://natalia.blog.br/2015/06/10/6-filmes-para-assistir-no-dia-dos-namorados/">filmes românticos</a>, as <a target="_blank" rel="noopener" href="http://natalia.blog.br/2014/12/15/as-6-melhores-animacoes-nos-cinemas-em-2015-tem-pinguins-de-madasgascar-pequeno-principe-peanuts-e-muito-mais/">animações divertidas de 2015</a> e até <a target="_blank" rel="noopener" href="http://natalia.blog.br/2015/09/21/06-filmes-que-se-passam-em-paris/">filmes que se passam em paris</a> :) Abraço!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -212,17 +249,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

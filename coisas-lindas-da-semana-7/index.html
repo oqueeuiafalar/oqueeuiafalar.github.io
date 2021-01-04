@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,21 +157,59 @@
 
 </style>
         </div>
-        <h1>Coisas lindas da semana</h1>
-
-<main>
-    <p>Eu nunca fui muito ligada em maquiagem, mas ultimamente devo confessar que ando me interessando, o problema está na coordenação motora, os traços sempre ficam bizarros e as sombras eu prefiro nem comentar, mas ví uma foto tão linda essa semana que me deu vontade de focar um pouco mais para fazer boas maquiagens, e a foto foi:</p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Coisas lindas da semana</h1>
+        <p>Eu nunca fui muito ligada em maquiagem, mas ultimamente devo confessar que ando me interessando, o problema está na coordenação motora, os traços sempre ficam bizarros e as sombras eu prefiro nem comentar, mas ví uma foto tão linda essa semana que me deu vontade de focar um pouco mais para fazer boas maquiagens, e a foto foi:</p>
 <h2 id="Essa"><a href="#Essa" class="headerlink" title="Essa!"></a>Essa!</h2><p><a href="/wp-content/uploads/2015/03/9359e5cecc98aa5fd0544ce16e9d6990.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/9359e5cecc98aa5fd0544ce16e9d6990-534x1024.jpg" alt="maquiagem básica com olho bem esfumado "></a> Sempre achei lindo demais um olho bem esfumado e essa <em>make</em> da foto esta a coisa mais linda de viver. Ainda vou aprender a fazer isso :D</p>
 <h2 id="Essa-prateleira"><a href="#Essa-prateleira" class="headerlink" title="Essa prateleira"></a>Essa prateleira</h2><p><a href="/wp-content/uploads/2015/03/74dc19421ec6b19a0ceed86eca3beb84.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/74dc19421ec6b19a0ceed86eca3beb84-683x1024.jpg" alt="prateleira simples com corda"></a> Sempre achei lindo demais um olho bem esfumado e essa <em>make</em> da foto esta a coisa mais linda de viver. Ainda vou aprender a fazer isso :D</p>
 <h2 id="Esse-banheiro"><a href="#Esse-banheiro" class="headerlink" title="Esse banheiro"></a>Esse banheiro</h2><p><a href="/wp-content/uploads/2015/03/8f5f2e4a2349b17b71258f0178e003a7.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/8f5f2e4a2349b17b71258f0178e003a7-683x1024.jpg" alt="banheiro decorado com bicicleta "></a> <strong>A</strong>hhh gente, é amor demais essa decoração para o banheiro. Eu que não sei andar de bicicleta ia amar ter uma, nem que seja apenas para servir de decoração para o banheiro hehe.</p>
 <h2 id="Essa-parede"><a href="#Essa-parede" class="headerlink" title="Essa parede"></a>Essa parede</h2><p><a href="/wp-content/uploads/2015/03/aec8ae4ecf22476f7c6ff39c28c2a713.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/aec8ae4ecf22476f7c6ff39c28c2a713-678x1024.jpg" alt="parede com tinta de losa para cozinha "></a> Acho legal uma parede dessas em casa porque você pode brincar, criar recados, fazer um mural para quando seus amigos forem te visitar e deixar recadinhos. É uma forma criativa de interagir com as pessoas, principalmente na cozinha, você pode colocar o cardápio que irá servir, enfim, só usar a imaginação, além de ficar lindo, não concordam? Bom, por essa semana é só, quem sabe à partir de agora com minhas inspirações sobre maquiagem o blog não ganhe uma categoria nova? Haha Boa semana para vocês, beijos.</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -206,17 +243,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

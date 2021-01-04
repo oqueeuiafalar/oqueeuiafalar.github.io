@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Bolo de fubá rápido, pratico e gostoso</h1>
-
-<main>
-    <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/03/dsc022481.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/03/dsc022481.jpg?w=650" alt="Bolo de fubá"></a> Se tem um bolo que eu amo pra tomar aquele lanchinho da tarde - é, é lanchinho, porque não tomo café :P - é bolo de fubá. Minha mãe tem uma receita que é bem fácil, até eu consigo fazer haha, e que resolvi compartilhar com vocês, espero que gostem. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/03/dsc022471.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/03/dsc022471.jpg?w=650" alt="Bolo de fubá"></a> <strong>Ingredientes:</strong></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Bolo de fubá rápido, pratico e gostoso</h1>
+        <p><a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/03/dsc022481.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/03/dsc022481.jpg?w=650" alt="Bolo de fubá"></a> Se tem um bolo que eu amo pra tomar aquele lanchinho da tarde - é, é lanchinho, porque não tomo café :P - é bolo de fubá. Minha mãe tem uma receita que é bem fácil, até eu consigo fazer haha, e que resolvi compartilhar com vocês, espero que gostem. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/03/dsc022471.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/03/dsc022471.jpg?w=650" alt="Bolo de fubá"></a> <strong>Ingredientes:</strong></p>
 <ul>
 <li>  200 ml de leite</li>
 <li>  200 ml de óleo</li>
@@ -173,12 +172,50 @@
 </ul>
 <p>**Modo de preparo: ** No liquidificador, bata o leite, o óleo e os ovos, até misturar bem. Acrescente o ao poucos açúcar e continue batendo. Em seguida coloque o fubá, o trigo e bata bem, até a massa ficar cremosa. Por último, coloque o fermento, misturando delicadamente com uma colher ou um fuê. Transfira a massa para uma forma untada com margarina/manteira e enfarinhada, e leve para assar por 40 minutos. <a target="_blank" rel="noopener" href="http://162.243.62.160/wp-content/uploads/2014/03/dsc02271.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.iohttp://162.243.62.160/wp-content/uploads/2014/03/dsc02271.jpg?w=650" alt="pedaço de Bolo de fubá com café"></a> Bem fácil, né? Façam e contem-me o que acharam. Beijos!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -212,17 +249,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

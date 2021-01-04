@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,10 +157,10 @@
 
 </style>
         </div>
-        <h1>Resenha: A garota perfeita</h1>
-
-<main>
-    <p><a href="/wp-content/uploads/2016/07/livro-A-garota-perfeita-capa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/livro-A-garota-perfeita-capa-1024x768.jpg" alt="cada do livro - a garota perfeita - resumo"></a></p>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: A garota perfeita</h1>
+        <p><a href="/wp-content/uploads/2016/07/livro-A-garota-perfeita-capa.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/livro-A-garota-perfeita-capa-1024x768.jpg" alt="cada do livro - a garota perfeita - resumo"></a></p>
 <p>O livro “A garota perfeita” publicado pela <strong><a target="_blank" rel="noopener" href="http://www.planetadelivros.com.br/aa-garota-perfeita-livro-215796.html">editora Planeta</a></strong> fala sobre o desaparecimento de Mia Dennet, filha de um famoso juiz. Tudo começa quando uma colega de trabalho de Mia liga para a casa dos pais dela para saber se alguém tem notícias dela, já que ela não tinha ido trabalha e ninguém conseguia entrar em contato.</p>
 <p>Quando adolescente Mia costumava fugir de casa e vivia aprontando, por isso, o pai não fica muito preocupado no começo do desaparecimento, pensando que isso é apenas mais uma de suas fugas em busca de atenção. Mas por outro lado, a mãe de Mia não consegue ficar tranquila, ela acredita que algo de muito ruim pode ter acontecido à sua filha e resolve acionar a policia.</p>
 <p><a href="/wp-content/uploads/2016/07/lombada-do-livro-a-garota-perfeita-mary-kubica.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/lombada-do-livro-a-garota-perfeita-mary-kubica-1024x768.jpg" alt="resenha - a garota perfeita - mary kubica"></a></p>
@@ -177,12 +176,50 @@
 <p><a href="/wp-content/uploads/2016/07/capa-do-livro-a-garota-perfeita-mary-kubica.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/capa-do-livro-a-garota-perfeita-mary-kubica-1024x768.jpg" alt="resumo do livro - a garota perfeita "></a></p>
 <p>O livro é um thriller psicológico estimulante, e a autora ter usado três personagens para narrar a história foi excelente, pois assim nós temos três pontos de vista diferentes sobre o mesmo acontecimento. Esse livro é um Best Seller e não é atoa, é aquele livro que enquanto você não chega ao fim você não consegue se controlar e parar de ler. Excelente!</p>
 
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -216,17 +253,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

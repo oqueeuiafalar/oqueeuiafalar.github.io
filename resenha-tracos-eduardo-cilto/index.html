@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Resenha: Traços - Eduardo Cilto</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Resenha: Traços - Eduardo Cilto</h1>
+        <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-livro-tra%C3%A7os-de-por-Eduardo-Cilto.jpg" alt="resenha do livro traços de por Eduardo Cilto"> O livro “<strong>Traços</strong>” do <strong>youtuber Eduardo Cilto</strong> trás como personagem principal Matheus, um adolescente nerd que tem uma quedinha por sua melhor amiga, Beatriz, uma jovem de personalidade forte que não mede esforços para alcançar seus objetivos. Após uma festa junina do colégio, Matheus e Beatriz vão parar na casa de uma amiga – que se diz bruxa – e acabam participando de um ritual meio estranho e Beatriz leva o resultado final desses estranhos acontecimentos muito a sério e resolve que ela precisa ir em busca de seu destino. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/p%C3%A1ginas-do-livro-tra%C3%A7os-de-eduardo-cilto.jpg" alt="resumo livro - traços de Eduardo Cilto"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/contra-capa-do-livro-tra%C3%A7os.jpg" alt="resenha do livro traços de eduardo cilto"> Sabe onde ela acha que esta o destino dela? Em São Paulo, a maior cidade do Brasil e claro que ela convida Matheus para ajudá-la nessa jornada. No começo Matheus fica relutante se vai ou não, mas no fim ele não consegue imaginar sua melhor amiga se virando sozinha na cidade grande e embarca com ela rumo a uma viagem cheia de altos e baixos. O livro tem um ou outro momento divertido, mas não é aquele NOSSA QUE LIVRO! hahaha. A história é toda narrada pelo ponto de vista de Matheus, e apesar de ser um livro previsível, o final não é, termina justamente da maneira que você jamais esperaria. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-do-livro-tra%C3%A7os-de-eduardo-cilto.jpg" alt="resumo do livro TRAÇOS"> Traços não foi um livro que me empolgou e eu não sairia por ai falando: Você precisar ler esse livro! Acredito que muita gente possa gostar dele para passar o tempo, naquele final de semana preguiçoso, mas sem criar expectativas.</p>
 
-<main>
-    <p><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/capa-livro-tra%C3%A7os-de-por-Eduardo-Cilto.jpg" alt="resenha do livro traços de por Eduardo Cilto"> O livro “<strong>Traços</strong>” do <strong>youtuber Eduardo Cilto</strong> trás como personagem principal Matheus, um adolescente nerd que tem uma quedinha por sua melhor amiga, Beatriz, uma jovem de personalidade forte que não mede esforços para alcançar seus objetivos. Após uma festa junina do colégio, Matheus e Beatriz vão parar na casa de uma amiga – que se diz bruxa – e acabam participando de um ritual meio estranho e Beatriz leva o resultado final desses estranhos acontecimentos muito a sério e resolve que ela precisa ir em busca de seu destino. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/p%C3%A1ginas-do-livro-tra%C3%A7os-de-eduardo-cilto.jpg" alt="resumo livro - traços de Eduardo Cilto"> <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/contra-capa-do-livro-tra%C3%A7os.jpg" alt="resenha do livro traços de eduardo cilto"> Sabe onde ela acha que esta o destino dela? Em São Paulo, a maior cidade do Brasil e claro que ela convida Matheus para ajudá-la nessa jornada. No começo Matheus fica relutante se vai ou não, mas no fim ele não consegue imaginar sua melhor amiga se virando sozinha na cidade grande e embarca com ela rumo a uma viagem cheia de altos e baixos. O livro tem um ou outro momento divertido, mas não é aquele NOSSA QUE LIVRO! hahaha. A história é toda narrada pelo ponto de vista de Matheus, e apesar de ser um livro previsível, o final não é, termina justamente da maneira que você jamais esperaria. <img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/resenha-do-livro-tra%C3%A7os-de-eduardo-cilto.jpg" alt="resumo do livro TRAÇOS"> Traços não foi um livro que me empolgou e eu não sairia por ai falando: Você precisar ler esse livro! Acredito que muita gente possa gostar dele para passar o tempo, naquele final de semana preguiçoso, mas sem criar expectativas.</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 

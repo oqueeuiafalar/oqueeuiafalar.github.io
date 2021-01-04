@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="page">
+    <div class="page--post">
         <header class="page__header">
             <a class="page__header__logo" href="https://oqueeuiafalar.github.io">
                 <img src="/images/oqueeuiafalar-logo-rosa.png">
@@ -33,15 +33,14 @@
 </nav>
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
-    window.GLOBAL.toggleMobileMenu = function(){
+    window.GLOBAL.toggleMobileMenu = function() {
         const categoriesBar = document.querySelector("[data-sel='categories-bar']");
         const body = document.querySelector("body");
         categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
         body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
-        console.log(body);
     }
 </script>
-<style>
+<style data-is-critical>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -158,17 +157,55 @@
 
 </style>
         </div>
-        <h1>Trend alert: skinny scarf</h1>
+        <main class="page__main">
+    <div class="content">
+        <h1 class="title--is-1">Trend alert: skinny scarf</h1>
+        <p><a href="/wp-content/uploads/2015/12/skinny-scarf-trend-alert.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/skinny-scarf-trend-alert.jpg" alt="tendência - skinny scarf"></a> Se tem um acessório que ta ganhando muita força no mundo da moda ele é o <strong>skinny scarf.</strong> A peça ganhou muito destaque no desfile de inverno 2016 da grife Chloé e nada mais é que um lenço bem comprido e fininho que dá um toque de charme para qualquer look, além de ser super compatível com o clima quente do Brasil. Selecioneis algumas imagens pra vocês poderem se inspirar e se jogar nessa nova tendência. <a href="/wp-content/uploads/2015/12/trend-alert-skinny-scarf.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/trend-alert-skinny-scarf-1024x677.jpg" alt="skinny scarf - como usar"></a> Foto 1: Pinterest / Foto 2: StyleCaster Os lenços mais tradicionais nas passarelas são os mais sóbrios como preto, caramelo e nude, mas na  street style podemos ver eles um pouco mais divertidos, como com estampas de poás. <a href="/wp-content/uploads/2015/12/ted%C3%AAncia-skinny-scarf.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/ted%C3%AAncia-skinny-scarf.jpg" alt="tedência - skinny scarf - como usar"></a> Fotos: WhoWhatWear <a href="/wp-content/uploads/2015/12/como-usar-trend-alert-skinny-scarf.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/como-usar-trend-alert-skinny-scarf.jpg" alt="como usar a tendência - skinny scarf"></a> Fotos: Asos O legal dessa tendência é que até aqueles looks mais clássicos, românticos ou sérios podem ganhar ares mais <em>cool</em> com a ajuda do lenço. Por aqui ainda é um pouco difícil achar onde comprar esse acessório, mas é sempre bom ficar por dentro das tendências e se for o caso, só procurar a sua costureira e pedir pra ela fazer, não é?</p>
 
-<main>
-    <p><a href="/wp-content/uploads/2015/12/skinny-scarf-trend-alert.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/skinny-scarf-trend-alert.jpg" alt="tendência - skinny scarf"></a> Se tem um acessório que ta ganhando muita força no mundo da moda ele é o <strong>skinny scarf.</strong> A peça ganhou muito destaque no desfile de inverno 2016 da grife Chloé e nada mais é que um lenço bem comprido e fininho que dá um toque de charme para qualquer look, além de ser super compatível com o clima quente do Brasil. Selecioneis algumas imagens pra vocês poderem se inspirar e se jogar nessa nova tendência. <a href="/wp-content/uploads/2015/12/trend-alert-skinny-scarf.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/trend-alert-skinny-scarf-1024x677.jpg" alt="skinny scarf - como usar"></a> Foto 1: Pinterest / Foto 2: StyleCaster Os lenços mais tradicionais nas passarelas são os mais sóbrios como preto, caramelo e nude, mas na  street style podemos ver eles um pouco mais divertidos, como com estampas de poás. <a href="/wp-content/uploads/2015/12/ted%C3%AAncia-skinny-scarf.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/ted%C3%AAncia-skinny-scarf.jpg" alt="tedência - skinny scarf - como usar"></a> Fotos: WhoWhatWear <a href="/wp-content/uploads/2015/12/como-usar-trend-alert-skinny-scarf.jpg"><img  loading='lazy' src="https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/como-usar-trend-alert-skinny-scarf.jpg" alt="como usar a tendência - skinny scarf"></a> Fotos: Asos O legal dessa tendência é que até aqueles looks mais clássicos, românticos ou sérios podem ganhar ares mais <em>cool</em> com a ajuda do lenço. Por aqui ainda é um pouco difícil achar onde comprar esse acessório, mas é sempre bom ficar por dentro das tendências e se for o caso, só procurar a sua costureira e pedir pra ela fazer, não é?</p>
-
+    </div>
 </main>
 
 <script type="text/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.context = "__post,_content,_id,asset_dir,canonical_path,categories,comments,content,date,description,excerpt,featured_image,full_source,id,lang,layout,link,more,next,path,permalink,photos,prev,published,raw,site,slug,source,tags,title,updated".split(",");
 </script>
+<style>
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.content img {
+    display: block;
+    margin: 16px 0;
+}
+
+.content p {
+    font-weight: 300;
+    line-height: 1.4;
+    color: #303030;
+    font-size: 1.1em;
+}
+
+.content a {
+    color: #f06;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    margin: 16px 0;
+    font-weight: 600;
+    color: #030303;
+}
+
+.title--is-1 {
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+</style>
     </div>
     <footer class="page__footer">
         <div class="cloud-tags">
@@ -202,17 +239,23 @@ html, body {
 body img {
     max-width: 100%;
 }
-.page {
+.page,
+.page--post {
     display: block;
     margin: 0;
 }
 
 @media(min-width: 768px) {
-    .page {
+    .page,
+    .page--post {
         display: grid;
         grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main sidebar ." "footer footer footer footer";
         grid-template-columns: 1fr minmax(538px, 900px) minmax(230px, 300px) 1fr;
         margin: 0;
+    }
+
+    .page--post {
+        grid-template-areas: ". header header ." "navbar navbar navbar navbar" ". main main ." ". sidebar sidebar ." "footer footer footer footer";
     }
 }
 
