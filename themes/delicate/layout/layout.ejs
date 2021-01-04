@@ -19,6 +19,9 @@
     }, {
         value: page.archive,
         isCurrent: is_archive()
+    }, {
+        value: config.title,
+        isCurrent: true
     }].find(function(item, index, list) {
         return item.isCurrent === true;
     }).value;
