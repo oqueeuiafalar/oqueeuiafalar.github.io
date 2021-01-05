@@ -34,13 +34,15 @@
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.toggleMobileMenu = function() {
-        const categoriesBar = document.querySelector("[data-sel='categories-bar']");
-        const body = document.querySelector("body");
-        categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
-        body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
+        if(window.innerWidth < 768) {
+            const categoriesBar = document.querySelector("[data-sel='categories-bar']");
+            const body = document.querySelector("body");
+            categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
+            body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
+        }
     }
 </script>
-<style data-is-critical>
+<style>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -55,7 +57,7 @@
 .categories-bar--mobile {
     padding: 16px 24px;
     border-top: 1px solid rgba(0, 0, 0, .1);
-    box-shadow: 0px 3px 3px rgba(0, 0, 0, .1);
+    box-shadow: 0 3px 3px rgba(0, 0, 0, .1);
     background: #fff;
 }
 
@@ -169,7 +171,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/aleatoriedades/">Aleatoriedades</a><a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/aleatoriedades/">Aleatoriedades</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/inspire-se-com-new-darlings/" class="post-box__title__link">
@@ -185,108 +187,117 @@
         Continue
     </span>
 </div>
+
 <style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
-
-@media(min-width: 768px) {
     .post-box {
+        display: grid;
+        grid-gap: 10px;
         grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
+                "post-box-categories"
+                "post-box-image"
+                "post-box-title"
+                "post-box-description"
+                "post-box-call-to-action";
+        padding: 16px;
+        text-decoration: none;
+        color: #333;
+        font-family: sans-serif;
+        margin: 8px;
+        grid-template-rows: auto auto 1fr auto;
     }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
+    @media(min-width: 768px) {
+        .post-box {
+            grid-template-areas:
+                    "post-box-image post-box-categories post-box-categories"
+                    "post-box-image post-box-title post-box-title"
+                    "post-box-image post-box-description post-box-description"
+                    "post-box-image post-box-call-to-action post-box-call-to-action";
+            grid-template-columns: 1fr 1fr;
+        }
+    }
 
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
+    .post-box__image {
+        width: 100%;
+        grid-area: post-box-image;
+        max-height: 300px;
+        object-fit: cover;
+        align-self: center;
+        background-color: #fafafa;
+        min-height: 100%;
+        border: none;
+    }
 
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
+    .post-box__title {
+        grid-area: post-box-title;
+        margin: 16px 8px;
+        font-size: 1.65em;
+        color: #333;
+    }
 
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
+    .post-box__separator {
+        color: #303030;
+        margin-right: 4px;
+    }
 
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
+    .post-box__title__link {
+        text-decoration: none;
+        color: inherit;
+    }
 
-.post-box__categories {
-    grid-area: post-box-categories;
-}
+    .post-box__title:after {
+        content: "";
+        width: 100px;
+        height: 2px;
+        background: #f06;
+        display: block;
+        margin-top: 16px;
+    }
 
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
+    .post-box__description {
+        grid-area: post-box-description;
+        display: -webkit-box;
+        -webkit-line-clamp: 6;
+        -webkit-box-orient: vertical;
+        max-height: calc(8em * 1.05);
+        overflow: hidden;
+        margin-left: 8px;
+        font-size: 1.05em;
+        line-height: 1.4;
+    }
 
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
+    .post-box__categories {
+        grid-area: post-box-categories;
+    }
 
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
+    .post-box__call-to-action {
+        grid-area: post-box-call-to-action;
+        margin-left: 8px;
+        text-transform: uppercase;
+        color: #f06;
+        font-weight: 100;
+        font-size: .8em;
+        cursor: pointer;
+    }
+
+    .post-box__call-to-action:after {
+        content: "";
+        margin-top: 2px;
+    }
+
+    .post-box__categories__link {
+        text-transform: uppercase;
+        text-decoration: none;
+        margin-left: 8px;
+        margin-top: 8px;
+        font-size: .9em;
+        color: #f06;
+        font-weight: 100;
+    }
 </style>
+
+
+
 
     
         <div class="post-box">
@@ -299,7 +310,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-dia-macacao-jeans-com-regata-jeans/" class="post-box__title__link">
@@ -315,108 +326,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -429,7 +340,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-do-dia-vestido-listrado/" class="post-box__title__link">
@@ -445,108 +356,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -559,7 +370,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-dia-blazer-shorts/" class="post-box__title__link">
@@ -575,108 +386,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -689,7 +400,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-do-dia-jeans-cardigan-cinza/" class="post-box__title__link">
@@ -705,108 +416,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -819,7 +430,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-dia-macacao-estampado-oxford-rosa/" class="post-box__title__link">
@@ -835,108 +446,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -949,7 +460,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-do-dia-vestido-cinza-jaqueta-jeans/" class="post-box__title__link">
@@ -965,108 +476,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -1079,7 +490,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-do-dia-maxi-cardigan/" class="post-box__title__link">
@@ -1095,108 +506,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -1209,7 +520,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-do-dia-regata-com-renda/" class="post-box__title__link">
@@ -1225,108 +536,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
         <div class="post-box">
@@ -1339,7 +550,7 @@
         >
     
     <div class="post-box__categories">
-        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
+        <a class="post-box__categories__link" href="/categoria/look-do-dia/">Look do dia</a><span class="post-box__separator">,</span><a class="post-box__categories__link" href="/categoria/moda/">Moda</a>
     </div>
     <h2 class="post-box__title">
         <a href="/look-do-dia-macacao-jeans-destroyed/" class="post-box__title__link">
@@ -1355,108 +566,8 @@
         Continue
     </span>
 </div>
-<style>
-.post-box {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-areas:
-        "post-box-categories"
-        "post-box-image"
-        "post-box-title"
-        "post-box-description"
-        "post-box-call-to-action";
-    padding: 16px;
-    text-decoration: none;
-    color: #333;
-    font-family: sans-serif;
-    margin: 8px;
-    grid-template-rows: auto auto 1fr auto;
-}
 
-@media(min-width: 768px) {
-    .post-box {
-        grid-template-areas:
-            "post-box-image post-box-categories post-box-categories"
-            "post-box-image post-box-title post-box-title"
-            "post-box-image post-box-description post-box-description"
-            "post-box-image post-box-call-to-action post-box-call-to-action";
-        grid-template-columns: 1fr 1fr;
-    }
-}
 
-.post-box__image {
-    width: 100%;
-    grid-area: post-box-image;
-    max-height: 300px;
-    object-fit: cover;
-    align-self: center;
-    background-color: #fafafa;
-    min-height: 100%;
-    border: none;
-}
-
-.post-box__title {
-    grid-area: post-box-title;
-    margin: 16px 8px;
-    font-size: 1.65em;
-    color: #333;
-}
-
-.post-box__title__link {
-    text-decoration: none;
-    color: inherit;
-}
-
-.post-box__title:after {
-    content: "";
-    width: 100px;
-    height: 2px;
-    background: #f06;
-    display: block;
-    margin-top: 16px;
-}
-
-.post-box__description {
-    grid-area: post-box-description;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    max-height: calc(8em * 1.05);
-    overflow: hidden;
-    margin-left: 8px;
-    font-size: 1.05em;
-    line-height: 1.4;
-}
-
-.post-box__categories {
-    grid-area: post-box-categories;
-}
-
-.post-box__call-to-action {
-    grid-area: post-box-call-to-action;
-    margin-left: 8px;
-    text-transform: uppercase;
-    color: #f06;
-    font-weight: 100;
-    font-size: .8em;
-    cursor: pointer;
-}
-
-.post-box__call-to-action:after {
-    content: "";
-    margin-top: 2px;
-}
-
-.post-box__categories__link {
-    text-transform: uppercase;
-    text-decoration: none;
-    margin-left: 8px;
-    margin-top: 8px;
-    font-size: .9em;
-    color: #f06;
-    font-weight: 100;
-}
-</style>
 
     
 

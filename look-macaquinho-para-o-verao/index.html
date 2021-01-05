@@ -34,13 +34,15 @@
 <script type="application/javascript">
     window.GLOBAL = window.GLOBAL || {};
     window.GLOBAL.toggleMobileMenu = function() {
-        const categoriesBar = document.querySelector("[data-sel='categories-bar']");
-        const body = document.querySelector("body");
-        categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
-        body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
+        if(window.innerWidth < 768) {
+            const categoriesBar = document.querySelector("[data-sel='categories-bar']");
+            const body = document.querySelector("body");
+            categoriesBar.style.display = categoriesBar.style.display !== "initial" ? "initial" : "none";
+            body.style.overflow = body.style.overflow === "hidden" ? "initial" : "hidden";
+        }
     }
 </script>
-<style data-is-critical>
+<style>
 .categories-bar {
     position: fixed;
     top: 0;
@@ -55,7 +57,7 @@
 .categories-bar--mobile {
     padding: 16px 24px;
     border-top: 1px solid rgba(0, 0, 0, .1);
-    box-shadow: 0px 3px 3px rgba(0, 0, 0, .1);
+    box-shadow: 0 3px 3px rgba(0, 0, 0, .1);
     background: #fff;
 }
 
