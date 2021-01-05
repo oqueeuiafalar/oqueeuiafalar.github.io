@@ -1,6 +1,6 @@
 <main class="page__main">
     <% (page.posts || []).forEach((post, index) => { %>
-        <%- include('../source/components/post-box', {post: post}) %>
+        <%- include('../source/components/post-box', {post, index}) %>
     <% }) %>
 
     <%- include('../source/components/paginator') %>
