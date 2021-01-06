@@ -79,6 +79,10 @@
     line-height: 2;
     overflow: auto;
 }
+.categories-bar__link[href="<%= url_for(page.path) %>"],
+.categories-bar__link[href="<%= url_for(page.path).replace('index.html', '') %>"] {
+    color: #f06;
+}
 
 .categories-bar__link--action {
     display: flex;
