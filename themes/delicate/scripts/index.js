@@ -5,3 +5,4 @@ hexo.extend.helper.register("get_widgets_from_config", require("./helpers/get_wi
 hexo.extend.helper.register("print_tags_with_template", require("./helpers/print_tags_with_template"));
 hexo.extend.helper.register("print_categories_with_template", require("./helpers/print_categories_with_template"));
 hexo.extend.helper.register("print_with_condition", require("./helpers/print_with_condition"));
+hexo.extend.helper.register("svg_icon", require("./helpers/svg_icon"));
