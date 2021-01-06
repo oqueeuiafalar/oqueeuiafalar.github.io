@@ -1,12 +1,14 @@
 <div class="post-box">
-    <% if(post.featured_image.url !== null) { %>
+    <% if(post.featured_image && post.featured_image.url !== null) { %>
         <img
             style="cursor: pointer;"
             loading="lazy"
             class="post-box__image" src="<%= post.featured_image.url %>"
             onclick="location.href='<%= url_for(post.path) %>'"
         >
-    <% } //endif %>
+    <% } else { %>
+        <span class="post-box__image--not-found"></span>
+    <% } // fim do else %>
     <div class="post-box__categories">
         <%- replace_classes({
             "post-box__categories-link": "post-box__categories__link"
@@ -61,7 +63,8 @@
         }
     }
 
-    .post-box__image {
+    .post-box__image,
+    .post-box__image--not-found {
         width: 100%;
         grid-area: post-box-image;
         max-height: 300px;
@@ -70,6 +73,9 @@
         background-color: #fafafa;
         min-height: 100%;
         border: none;
+    }
+    .post-box__image--not-found {
+        background-color: #666;
     }
 
     .post-box__title {
