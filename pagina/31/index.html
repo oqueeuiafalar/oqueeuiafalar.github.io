@@ -674,11 +674,22 @@
 </div>
 <style>
 .paginator {
-    margin-left: 16px;
     padding-left: 8px;
     font-family: sans-serif;
     font-size: 1em;
     margin: 16px 0;
+}
+
+.paginator__number,
+.paginator__number--current,
+.paginator__number--space {
+    color: #333;
+    text-decoration: none;
+    padding: 8px 16px;
+    background-color: hsl(0deg 0% 95%);
+    margin: 0 4px;
+    display: inline-block;
+    font-weight: 600;
 }
 
 .paginator__number--current {
@@ -689,14 +700,15 @@
     font-weight: 400;
 }
 
-.paginator__number {
-    color: #333;
-    text-decoration: none;
-    padding: 8px 16px;
-    background-color: hsl(0deg 0% 95%);
-    margin: 0 4px;
-    display: inline-block;
-    font-weight: 600;
+.paginator__number--space {
+    font-weight: 100;
+    background-color: #fff;
+}
+
+.paginator__number--current:only-child,
+.paginator__number--space:only-child,
+.paginator__number:only-child {
+    display:none;
 }
 
 .paginator__text {
@@ -709,14 +721,7 @@
     font-weight: 600;
 }
 
-.paginator__number--space {
-    color: #333;
-    text-decoration: none;
-    padding: 8px 16px;
-    margin: 0 4px;
-    display: inline-block;
-    font-weight: 100;
-}
+
 </style>
 
 </main>
