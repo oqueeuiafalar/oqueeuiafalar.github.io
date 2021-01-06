@@ -1,4 +1,5 @@
 // ## Helpers
+hexo.extend.filter.register("after_render:html", require("./helpers/after_render"));
 hexo.extend.filter.register("after_post_render", require("./helpers/after_post_render"));
 hexo.extend.helper.register("replace_classes", require("./helpers/replace_classe"));
 hexo.extend.helper.register("get_widgets_from_config", require("./helpers/get_widget_from_config"));
