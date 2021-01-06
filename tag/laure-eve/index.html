@@ -226,7 +226,8 @@
         }
     }
 
-    .post-box__image {
+    .post-box__image,
+    .post-box__image--not-found {
         width: 100%;
         grid-area: post-box-image;
         max-height: 300px;
@@ -235,6 +236,9 @@
         background-color: #fafafa;
         min-height: 100%;
         border: none;
+    }
+    .post-box__image--not-found {
+        background-color: #666;
     }
 
     .post-box__title {
