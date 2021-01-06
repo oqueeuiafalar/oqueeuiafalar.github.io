@@ -3,35 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
     <%
     const pageConfigs = [{
         title: page.category,
+        robots: "noindex, follow",
         isCurrent: is_category()
     }, {
         title: page.tag,
+        robots: "noindex, follow",
         isCurrent: is_tag()
     }, {
         title: page.title,
+        robots: "index, follow",
         isCurrent: is_post() || is_page()
     }, {
         title: "Home",
+        robots: "index, follow",
         isCurrent: is_home()
     }, {
         title: page.archive,
+        robots: "noindex, follow",
         isCurrent: is_archive()
     }, {
         title: config.title,
+        robots: "index, follow",
         isCurrent: true
     }];
 
     const currentPage = pageConfigs.find(function(item) {
         return item.isCurrent === true;
     });
-
     %>
-    <%- [currentPage.title, config.title].join(" | ") -%>
-    </title>
+    <title><%- [currentPage.title, config.title].join(" | ") -%></title>
+    <%- include('../source/components/in-head-seo', {page: page, robots: currentPage.robots}) %>
 </head>
 
 <body>
@@ -78,6 +82,7 @@
            }))
        %>
     </script>
+
 <style>
 html, body {
     margin: 0;

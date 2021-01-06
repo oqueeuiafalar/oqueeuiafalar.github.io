@@ -1,4 +1,4 @@
-<% const widgets = getWidgetsFromConfig(); %>
+<% const widgets = get_widgets_from_config(); %>
 <% widgets.forEach(widget => { %>
     <%- include(`../widgets/${widget.template}`, {widget}) %>
 <% }) %>
