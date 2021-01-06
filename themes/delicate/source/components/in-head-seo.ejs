@@ -1,6 +1,11 @@
 <meta name="robots" content="<%- robots %>">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="<%- config.title %>">
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 
 <% if(is_post()){ %>
     <% const description = (page.description || page.excerpt).slice(0, 200); %>
