@@ -46,7 +46,7 @@ Assim que a lista dos [25 melhores filmes dos últimos 25 anos](http://www.revis
 
 ## 3. **Django Livre - 2012**
 
-[![Cena de Django livre - 2012 com Di Caprio e Jamie Foxx](/wp-content/uploads/2015/11/django-livre-2012.jpg)](/wp-content/uploads/2015/11/django-livre-2012.jpg) Tarantino + Leonardo Di Caprio + Jammie Foxx = Por que eu não ví esse filme ainda? ![](http://natalia.blog.br/wp-content/plugins/wp-emoji-one/icons/1F626.png) 
+[![Cena de Django livre - 2012 com Di Caprio e Jamie Foxx](/wp-content/uploads/2015/11/django-livre-2012.jpg)](/wp-content/uploads/2015/11/django-livre-2012.jpg) Tarantino + Leonardo Di Caprio + Jammie Foxx = Por que eu não ví esse filme ainda? 
 
 ## **2\. Que horas ela volta? - 2015**
 

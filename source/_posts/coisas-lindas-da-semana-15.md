@@ -22,7 +22,7 @@ Oi gente, como foi a semana? Tenho certeza que boa, afinal, teve mais um feriado
 
 ## Essas almofadas
 
-[![almofadas divertidas (Folhas de outo)](/wp-content/uploads/2015/05/54101b25-bf4b-4061-a82e-620139ac7106_hamburguer.jpg)](/wp-content/uploads/2015/05/54101b25-bf4b-4061-a82e-620139ac7106_hamburguer.jpg) Ahhh, olha que amor essas almofadas, são folhinhas de outono, vocês não fazem ideia de como eu sou apaixonada por folhinhas de outono ![](http://natalia.blog.br/wp-content/plugins/wp-emoji-one/icons/2764.png)
+[![almofadas divertidas (Folhas de outo)](/wp-content/uploads/2015/05/54101b25-bf4b-4061-a82e-620139ac7106_hamburguer.jpg)](/wp-content/uploads/2015/05/54101b25-bf4b-4061-a82e-620139ac7106_hamburguer.jpg) Ahhh, olha que amor essas almofadas, são folhinhas de outono, vocês não fazem ideia de como eu sou apaixonada por folhinhas de outono 
 
 ## Essa meia
 

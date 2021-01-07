@@ -60,4 +60,4 @@ A melhor parte dessa experiência foi aprender sobre ela e tirar várias conclus
 
 ## Agora é com você.
 
-Você topa o desafio de ficar uma semana sem reclamar de nada? Se sim, já pode começar. Ah, e convide aquele seu (sua) amigo(a) que gosta muito de reclamar, pode ser de grande ajuda. ![](http://natalia.blog.br/wp-content/plugins/wp-emoji-one/icons/1F60B.png) Abraços
+Você topa o desafio de ficar uma semana sem reclamar de nada? Se sim, já pode começar. Ah, e convide aquele seu (sua) amigo(a) que gosta muito de reclamar, pode ser de grande ajuda. Abraços
