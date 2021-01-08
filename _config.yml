@@ -10,7 +10,10 @@ keywords:
 author: Natalia Santos
 language: pt-BR
 timezone: ''
-logo_url: "/images/oqueeuiafalar-logo-rosa.png"
+logo:
+  url: "/images/oqueeuiafalar-logo-rosa.png"
+  width: 380
+  height: 206
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
