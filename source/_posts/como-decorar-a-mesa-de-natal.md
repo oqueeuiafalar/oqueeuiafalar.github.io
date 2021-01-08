@@ -11,7 +11,7 @@ date: 2017-12-18 14:01:56
 # <extra>
 description: 'Todo mundo sente vontade de fazer uma bela decoração da mesa de natal, cheia de detalhes e arranjos, afinal, é uma noite especial e toda a família e amigos se reúnem em volta da mesa para poder confraternizar. Existem alguns detalhes que a gente pode pensar ao decorar a mesa de natal, como as cores, velas e enfeites com temas natalinos como o Papai Noel, flocos de neve e bolas de natal. Mas existem vários outros itens que também podem ser usado para decorar a mesa de natal como pinhas, flores, pisca pisca e não podemos esquecer-nos das comidas típicas e das frutas, que fazem toda a diferença na hora de compor a mesa de natal. A seguir vou mostrar para vocês uma serie de dicas de como decorar a mesa de natal e deixa-la bem bonita para agradar os &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/11/decoração-de-mesa-de-natal-com-renas.jpg'
+  url: '/wp-content/uploads/2017/11/decoração-de-mesa-de-natal-com-renas.jpg'
   width: '828'
   height: '828'
 # </extra>

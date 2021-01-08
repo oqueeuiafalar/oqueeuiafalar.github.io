@@ -11,7 +11,7 @@ date: 2016-08-15 13:13:28
 # <extra>
 description: 'Já perceberam que toda vez que a gente resolve fazer dieta começamos a ingerir mais frutas? Afinal, elas são naturais, saudáveis e auxiliam no emagrecimento, certo? Nem tão certo assim. Claro que é super importante ingerir frutas diariamente, elas são ricas em ferro, fibras, vitaminas e muitos nutrientes que são necessários para o funcionamento do nosso organismo, mas como tudo que é demais faz mal, até as frutas entram nessa ordem. Algumas frutas têm um alto valor calórico, por isso acabam atrapalhando quem está tentando emagrecer, porque quando pensamos em alimentos saudáveis como frutas achamos que podemos comer mais que o recomendado e é ai que a dieta vai por água abaixo. E conversando com uma amiga que é nutricionista tive a ideia de fazer este post e mostrar o valor calórico de algumas frutas pra vocês, vamos lá: Açaí: &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/frutas.jpg'
+  url: '/wp-content/uploads/2016/08/frutas.jpg'
   width: '828'
   height: '828'
 # </extra>

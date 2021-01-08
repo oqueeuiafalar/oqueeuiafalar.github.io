@@ -8,7 +8,7 @@ date: 2016-05-18 11:05:22
 # <extra>
 description: 'Estamos no ano de 2083 e há muito tempo às pessoas não se interessam mais pelos livros, por isso eles pararam de serem produzidos, mas não apenas os livros de papel, os livros digitais também. Os poucos que ainda restam podem ser encontrados na Cosmonet ou na Docuteca Nacional. Agora você deve estar pensando que os livros caíram em desuso por causa dos ebook, né? Mas então porque as pessoas também deixaram de ler os livros digitais sendo que elas poderiam ter milhares de livros dentro de um único dispositivo? Acontece que as pessoas simplesmente perderam o interesse pelos livros e começaram a ler um ou outro capítulo de cada livro e deixa-lo de lado e passando para o próximo fazendo com que eles se tornassem algo desinteressante e nunca acabando nenhuma leitura. (Que medo disso!) E é nesse mundo &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/livro-2083.jpg'
+  url: '/wp-content/uploads/2016/05/livro-2083.jpg'
   width: null
   height: null
 # </extra>

@@ -13,7 +13,7 @@ date: 2018-01-25 13:01:57
 # <extra>
 description: 'O verão já começou faz mais de um mês, mas se você ainda esta na dúvida de como montar seus looks de verão, confira esse post cheios de modelos e dicas.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/bolsa-com-estampa-de-abacaxi.jpg'
+  url: '/wp-content/uploads/2018/01/bolsa-com-estampa-de-abacaxi.jpg'
   width: '667'
   height: '667'
 # </extra>

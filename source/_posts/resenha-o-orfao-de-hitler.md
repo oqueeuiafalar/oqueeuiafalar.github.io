@@ -14,7 +14,7 @@ date: 2016-11-21 09:52:46
 # <extra>
 description: 'No livro “O órfão de Hitler” o menino Piotr Bruck após perder seus pais assassinados durante a invasão soviética à Polônia, acaba sendo enviado para um orfanato. Já no orfanato Piotr e vários outros garotos são submetidos a vários exames para averiguar sua raça. Piotr era filho de pai alemão e mãe polonesa, e era um garoto loiro e de olhos azuis e acabou sendo considerada “raça pura” sendo assim aceitável pelos nazistas para viver entre o povo alemão. Piotr acaba sendo adotado pela família do professor Franz Kaltenbach, um pesquisador de ciência racial, onde seus estudos determinam quem é considerado “raça pura” ou não através da cor dos olhos, cabelos, formato do crânio e outros exames, e Piotr passa a ser chamado Peter e vai morar em Berlin. Peter passa seus dias entre a escola e na Hitler-Jugend, se &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/resenha-o-órfão-de-hitler.jpg'
+  url: '/wp-content/uploads/2016/10/resenha-o-órfão-de-hitler.jpg'
   width: '828'
   height: '828'
 # </extra>

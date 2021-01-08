@@ -12,7 +12,7 @@ date: 2018-06-24 20:50:33
 # <extra>
 description: 'Para os amantes de espionagem, mas que buscam algo divertido e leve para ler, Liberdade pode ser uma escolha muito boa e divertida'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/capa-livro-liberdade-andrea-portes.jpg'
+  url: '/wp-content/uploads/2018/06/capa-livro-liberdade-andrea-portes.jpg'
   width: '1000'
   height: '1000'
 # </extra>

@@ -12,7 +12,7 @@ date: 2019-05-26 17:36:02
 # <extra>
 description: 'Sinopse:   Adèle tem a vida perfeita: é uma jornalista de sucesso em Paris, onde vive com seu marido cirurgião e seu filho pequeno em um lindo apartamento. Mas, debaixo da superfície, ela está entediada com seu trabalho e seu casamento &#8211; enquanto é consumida por uma necessidade insaciável de sexo a qualquer custo. Movida menos pelo prazer do que pela compulsão, ela organiza  seu dia em torno de casos extraconjugais, chegando atrasada ao trabalho e mentindo para o marido, até se enredar definitivamente em sua própria armadilha.  No Jardim do Ogro   é um romance visceral sobre um corpo escravizado por seus impulsos, o vício sexual e suas consequências implacáveis. Resenha: Quando recebi o livro   No Jardim do Ogro   fiquei super ansiosa para ler, afinal, &#8221; Canção de Ninar &#8221; da mesma autora, Leïla Slimani, foi um dos livros mais interessantes que eu li &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/05/no-jardim-do-ogro.jpg'
+  url: '/wp-content/uploads/2019/05/no-jardim-do-ogro.jpg'
   width: '668'
   height: '668'
 # </extra>

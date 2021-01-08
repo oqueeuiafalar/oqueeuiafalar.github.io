@@ -15,7 +15,7 @@ date: 2016-10-03 16:34:29
 # <extra>
 description: 'Eu sou apaixonada por macacão, além de estar super em alta também é uma das peças mais curingas de um guarda roupa, porque a gente não precisa ficar pensando no que vai combinar com o que, né haha. No look de hoje escolhi essa macacão estampado de passarinhos maravilhosoooo! Outra coisa que eu amo nesse macacão é que além dele ser bem estiloso ele tem bolsos, e eu amo roupas com bolso, ficam bem mais charmosas. Não escolhi esse macacão por acaso. No dia que escolhi esse look eu ia andar muito durante o dia todo e queria algo bem confortável e também bem bonito e diferente porque o usei no último dia do Oscar Fashion Days, o maior evento de moda do Vale do Paraíba e também para ir em um evento na Candy Skull Boutique, uma loja muito &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/look-macacão-longo-estampado.jpg'
+  url: '/wp-content/uploads/2016/09/look-macacão-longo-estampado.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -8,7 +8,7 @@ date: 2014-10-13 18:25:43
 # <extra>
 description: '“Projeto Felizes para Sempre” é um livro da jornalista e escritora Alisa Bowman onde ela conta como percebeu que seu casamento estava fracassando e todo o processo para salva-lo. &nbsp; Alisa é uma mulher comum, com todas as neuras e excessos que toda mulher tem e que estava tão carente e insatisfeita no casamento que ela começou a planejar mentalmente o funeral de seu próprio marido, pois ela não conseguia aceitar a idéia de pedir o divorcio, então mentalmente ela criava situações para se livrar dele sem que precisasse se divorciar. Até que em um dia, conversando com uma amiga, ela decide que vai tentar salvar seu casamento, e aí começa uma saga por livros de auto ajuda, pesquisas na internet, questionários e testes que ela pede para que Mark, seu marido, a ajude a resolver. O livro começa contando &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03222.jpg'
+  url: '/wp-content/uploads/2014/10/DSC03222.jpg'
   width: null
   height: null
 # </extra>

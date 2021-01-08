@@ -14,7 +14,7 @@ date: 2017-09-22 13:13:04
 # <extra>
 description: 'O principal motivo de eu ter escolhido o livro “Os filhos da tempestade” para ler foi que ele se passa no Triângulo das Bermudas, aquele local super misterioso onde embarcações e aviões somem sem deixar vestígio.  E para a minha sorte, o livro é maravilhoso. A história começa lá em 1697 na cidade de Salém, alguns anos após um grande julgamento de pessoas condenadas a morte por bruxaria. Lá uma jovem chamada Carol Smith é encontrada na floresta coberta por sangue e junto a um bebê machucado, e surge novamente uma onda de medo de que a história venha a se repetir e comece uma verdadeira caça às bruxas. O inquisidor responsável por seu julgamento tentando evitar uma nova onda de histeria resolve envia-la para ser julgada no Vaticano, então Carol Smith embarca em um navio rumo à Europa, porém, &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/capa-livro-Os-filhos-da-tempestade.jpg'
+  url: '/wp-content/uploads/2017/09/capa-livro-Os-filhos-da-tempestade.jpg'
   width: '828'
   height: '828'
 # </extra>

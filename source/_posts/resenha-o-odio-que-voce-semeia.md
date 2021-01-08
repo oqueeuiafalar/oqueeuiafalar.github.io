@@ -15,7 +15,7 @@ date: 2017-12-21 10:31:53
 # <extra>
 description: 'Apesar de o livro O ódio que você semeia ser uma história simples, ele é muito impactante. A história de ficção nos leva para nossa realidade da forma mais direta e mais chocante possível. Em &#8220;O ódio que você semeia&#8221; temos como protagonista Starr, uma adolescente de 16 anos que vive em um bairro pobre e perigoso, onde os traficantes mandam no local e em contra ponto com a realidade de seu local de origem, Starr estuda durante o dia em uma escola cara onde a maioria das pessoas é branca e ela é uma das poucas alunas negras. Starr resolve ir a uma festa e lá encontra seu amigo de infância, Kalil. Depois de uma confusão Kalil resolve oferecer carona para Starr  e no caminho para a casa da garota, eles acabam sendo parados por um policial. O pai de &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/12/resenha-livro-o-ódio-que-você-semeia.jpg'
+  url: '/wp-content/uploads/2017/12/resenha-livro-o-ódio-que-você-semeia.jpg'
   width: '828'
   height: '828'
 # </extra>

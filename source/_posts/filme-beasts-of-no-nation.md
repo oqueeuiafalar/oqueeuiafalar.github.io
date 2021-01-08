@@ -8,7 +8,7 @@ date: 2015-11-09 11:19:38
 # <extra>
 description: 'Em outubro o Netflix disponibilizou para os assinantes o seu primeiro longa-metragem entitulado “Beasts of no nation”. O filme conta a história de Agu, um menino africano que após ver a vila onde morava com sua família ser destruída pela guerra civil é recrutado pelo grupo de resistência. A partir desse momento podemos ver a transformação que ocorre com o menino. No inicio do filme Agu é realmente só uma criança, gosta de brincar com seus irmãos, vive correndo de um lado pro outro, cheio de imaginação e que consegue ser alegre e espontâneo como toda criança é, mesmo vivendo em um mundo cheio de adversidades. Após ser recrutado pelo grupo de resistência Agu perde a inocência, começa a usar drogas, matar pessoas e fazer o máximo para ser aceito pelo comandante da facção. O mais tocante é que ele &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/Filme-Beasts-of-no-nation-Netflix.jpeg'
+  url: '/wp-content/uploads/2015/11/Filme-Beasts-of-no-nation-Netflix.jpeg'
   width: null
   height: null
 # </extra>

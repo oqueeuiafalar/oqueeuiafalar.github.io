@@ -13,7 +13,7 @@ date: 2017-01-12 08:12:20
 # <extra>
 description: 'Você conhece o New Darlings? Não? Pois se você é apaixonado por fotografias e ama looks do dia esta perdendo tempo. New Darlings é um blog muito fofo formado pelo casal Christina e Robert de Phoenix, Arizona, e que é recheado de fotos maravilhosas e de muitos looks do dia. Christina e Robert tem um estilo meio hipster e também básico e montam looks incríveis em cenários lindos que com certeza vai servir de muita inspiração para quem gosta de look do dia. Aqui vai algumas inspirações que eu roubei do blogs deles para encher vocês de muito amor. Gostaram do estilo maravilhoso desse casal? Bora lá acessar o blog New Darlings para ver mais fotos lindas. Beijos!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/12/foto-casal-hipster.jpg'
+  url: '/wp-content/uploads/2016/12/foto-casal-hipster.jpg'
   width: '1024'
   height: '1024'
 # </extra>

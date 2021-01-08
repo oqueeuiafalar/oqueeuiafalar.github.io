@@ -8,7 +8,7 @@ date: 2015-04-06 19:12:43
 # <extra>
 description: 'Esses dias atrás resolvi ir em busca de algum produto novo para tratamento de cabelos, uma moça em uma loja me indicou as ampolas “Apaga Danos” da Garnier. Resolvi testar o produto que promete apagar os danos e reconstruir os fios até as pontas e gente, o produto é realmente muito bom. Na embalagem está escrito para deixar o produto agir por um minuto, porém, para um resultado mais intenso pode-se deixar mais alguns minutos, eu deixei agindo por cinco minutos porque sou desesperada mesmo, hehehe. Eu pensei que o produto fosse ser como um óleo, mas não é, tem a textura de um creme e um cheiro muito bom. Quando usei a primeira ampola já gostei bastante do resultado, meu cabelo ficou super hidratado. Eu que tenho cabelos ondulados tenho medo de passar produtos que acabam tirando aquele movimento &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSC03647-1024x768.jpg'
+  url: '/wp-content/uploads/2015/04/DSC03647-1024x768.jpg'
   width: null
   height: null
 # </extra>

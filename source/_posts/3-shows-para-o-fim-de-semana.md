@@ -12,7 +12,7 @@ date: 2016-08-19 13:29:59
 # <extra>
 description: 'Há finais de semana que tudo o que eu mais quero é ficar em casa assistindo meus DVDs de show, adoro fazer isso. Por isso hoje vou indicar pra vocês três shows que eu sempre assisto e nunca me canso, na verdade existem outros shows que eu sempre assisto, quem sabe eu não faça “3 shows para o final de semana parte II” haha. Eu espero que vocês gostem das dicas, afinal são ótimos shows pra embalar aquele fim de semana preguiçoso. U2 360º At the Rose Bowl Se tem uma banda que sou apaixonada desde criança, essa banda é U2, então pra mim qualquer show deles já faz com que meu dia fique muito melhor. Resolvi indicar esse em especifico porque é um DVD duplo, portanto, muitas horas de U2 haha e a estrutura do show é magnífica, é &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/shows-para-assistir-no-fim-de-semana.jpg'
+  url: '/wp-content/uploads/2016/08/shows-para-assistir-no-fim-de-semana.jpg'
   width: '2048'
   height: '2048'
 # </extra>

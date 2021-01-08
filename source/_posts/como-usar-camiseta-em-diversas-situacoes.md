@@ -12,7 +12,7 @@ date: 2017-11-23 09:09:37
 # <extra>
 description: 'Camiseta faz parte do nosso dia a dia, então é claro que todo mundo quer aprender como usar camiseta em diversas situações de nossa vida. Vem aprender e se inspirar'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/10/como-usar-camiseta-vestido.jpg'
+  url: '/wp-content/uploads/2017/10/como-usar-camiseta-vestido.jpg'
   width: '828'
   height: '828'
 # </extra>

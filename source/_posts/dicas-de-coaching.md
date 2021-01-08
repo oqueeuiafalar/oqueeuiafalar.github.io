@@ -8,7 +8,7 @@ date: 2017-01-26 10:31:32
 # <extra>
 description: 'O primeiro mês do ano ainda não acabou e você tem a chance de se planejar para conseguir conquistar o que deseja, mas para isso vai precisar de disciplina, força de vontade e organização O coaching é um trabalho de gestão pessoal que pode te ajudar na conquista desses objetivos. Recentemente tive um papo sobre coaching que sugeriu que uma boa gestão dos planos da nossa vida pode ser dividida em 8 tópicos inter-relacionados. Vou expor cada um e dar exemplos: 1. Objetivo Planeje o que gostaria de atingir no próximo ano. Os objetivos são os desejos que você quer ter alcançado ao olhar para trás daqui a um ano. É importante que eles sejam realizáveis e mensuráveis, mas também que tragam algum valor para sua vida. Exemplos de objetivo: Aprender inglês; Ter uma página bem sucedida no facebook; 2. &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/01/clean-desktop.jpg'
+  url: '/wp-content/uploads/2017/01/clean-desktop.jpg'
   width: '828'
   height: '828'
 # </extra>

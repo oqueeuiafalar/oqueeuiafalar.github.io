@@ -8,7 +8,7 @@ date: 2014-08-25 17:20:19
 # <extra>
 description: 'O livro “A doce vida na Úmbria” mostra a vida de Marlena de Blasi, autora do livro, e de Fernando, um casal apaixonado que está em busca de um lar. Depois de procurar, procurar e procurar e de chegar até a descrença de que encontrariam uma casa que de fato agradasse a eles, finalmente eles se apaixonam por um local, um antigo salão de baile de um palácio em Orvieto, uma cidade da província italiana da Úmbria. Eles resolvem negociar o aluguel e por fim, ficam com o apartamento, porém, como vocês podem imaginar, por ser um lugar medieval, o local necessita de algumas reformas, o que acaba demorando muito mais do que eles podiam imaginar e os deixa um pouco chateados, e como o que está ruim sempre pode piorar, o lugar que eles resolvem ficar para aguardar o &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/dsc03165.jpg'
+  url: '/wp-content/uploads/2014/08/dsc03165.jpg'
   width: null
   height: null
 # </extra>

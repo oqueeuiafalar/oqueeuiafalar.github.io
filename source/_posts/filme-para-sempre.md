@@ -8,7 +8,7 @@ date: 2014-12-24 13:07:50
 # <extra>
 description: 'O filme “Para sempre” foi adaptado do livro de mesmo nome, e é baseado em uma história real, mas como ainda não li o livro, não sei se o filme o segue fielmente, portanto, vou me basear apenas no filme. “Para sempre” começa mostrando Leo, interpretado por Channing Tatum e Paige, interpretada por Rachel McAdams, um casal apaixonado e feliz. Eles são casados a pouco tempo, porém, um acidente de carro acontece e muda a vida dos dois completamente. Ambos estavam no carro no momento do acidente, apesar de Leo não sofrer nenhum ferimento grave, Paige fica em coma por dias e quando acorda descobre que perdeu a memória dos últimos quatro anos de sua vida. No decorrer do filme vemos Leo sofrendo o tempo todo por Paige não se lembrar mais dele e de nada que ligue ao relacionamento &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/12/maxresdefault.jpg'
+  url: '/wp-content/uploads/2014/12/maxresdefault.jpg'
   width: null
   height: null
 # </extra>

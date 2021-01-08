@@ -8,7 +8,7 @@ date: 2015-11-30 21:51:43
 # <extra>
 description: 'Assim que a lista dos 25 melhores filmes dos últimos 25 anos foi publicada eu conversei com minha namorada e autora nesse blog, Natalia, sobre a possibilidade de assistirmos todos aqueles filmes, muitos deles, inéditos para mim. O problema: ela já assistiu todos aqueles filmes, alguns mais de uma vez. Foi então que eu percebi que não é de hoje que eu tenho que ouvir “Não acredito que você ainda não assistiu” em muitas conversas com amigos sobre clássicos e blockbusters. A lista abaixo mostra 10 filmes que todo mundo viu, menos eu. Aposto que vocês já assistiram todos da lista, não é mesmo? 10. Interestelar &#8211; 2014 Interestelar saiu aqui no Brasil em 2014 e eu me lembro de muita gente comparando o filme com 2001 &#8211; Uma odisséia no espaço. Além disso o filme é dirigido por Christopher &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/interestelar21-1024x575.jpg'
+  url: '/wp-content/uploads/2015/11/interestelar21-1024x575.jpg'
   width: null
   height: null
 # </extra>

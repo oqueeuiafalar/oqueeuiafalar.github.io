@@ -8,7 +8,7 @@ date: 2014-08-18 17:56:06
 # <extra>
 description: 'Entre os meses de janeiro e julho desse ano, a Folha de SP lançou uma coleção super charmosa de fábulas infantis. E olha, não tem como não amar a coleção, já postei aqui um tempo atrás sobre a edição da Chapeuzinho Vermelho. E todos os livros da série seguem o mesmo padrão de qualidade, capa dura, texto com bom tamanho pra leitura, desenhos muito bonitos e delicados. Depois do livro da chapeuzinho me apaixonei e adquiri a coleção inteira. Acabei descobrindo que alguns dos livrinhos eram relançamentos de uma coleção francesa chamada &#8220;Les petites classiques&#8221;, como &#8220;Os três porquinhos&#8221;, &#8220;O patinho feio&#8221; e &#8220;O gato de botas&#8221;, um dos meus preferidos, já outras edições foram preparadas exclusivamente por artistas brasileiros como o ilustrador Weberson Santiago, em parceria com a Folha. Todos os livrinhos ainda acompanham um cd com a história &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/dsc03088.jpg'
+  url: '/wp-content/uploads/2014/08/dsc03088.jpg'
   width: null
   height: null
 # </extra>

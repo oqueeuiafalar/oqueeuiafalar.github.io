@@ -8,7 +8,7 @@ date: 2015-01-31 12:34:15
 # <extra>
 description: 'Quantas conversas vocês já começaram essa semana com a frase &#8220;Que calor é esse, hein?&#8221;. Pois é, até as minhas amigas mais entusiastas do calor estão achando a temperatura acima do agradável. Eu que sou apaixonada por frio então estou morrendo de saudade de ficar em casa naquela climinha agradável, pensando em detalhes da decoração da casa rs. Mas já já Julho tá aí e minhas merecidas duas semanas de frio vem junto com ele 😛 #ounão Enquanto isso não acontece vou me inspirando com algumas imagens que encontro na internet. E ai que vontade de tomar um sorvete! Esse sorvete! Ai gente, que delicia. Eu amo sorvete, quem não ama? Mas esse ai eu amo ainda mais, porque ele é lindo haha. Quero muito encontrar um lugar que vende um assim aqui na minha cidade pra eu poder me &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/01/3d64e50485502a115b96d4856ba755e9-682x1024.jpg'
+  url: '/wp-content/uploads/2015/01/3d64e50485502a115b96d4856ba755e9-682x1024.jpg'
   width: null
   height: null
 # </extra>

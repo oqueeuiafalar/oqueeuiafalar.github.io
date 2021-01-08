@@ -8,7 +8,7 @@ date: 2016-01-20 18:17:30
 # <extra>
 description: 'Recentemente lí o livro &#8220;Quem me roubou de mim?&#8221; de Fábio de Melo. A leitura apresentou-se como uma grata surpresa capaz de superar a minha barreira inicial preconceituosa sobre um livro escrito por um padre católico. De mesmo modo que vários de meus amigos, desde criança eu me sentí deslocado no meio da religiosidade cristã, optando como alguns deles por conhecer outros tipos de religiosidade. O legal é que o livro &#8220;Quem me roubou de mim?&#8221; me foi dado de presente pela esposa de um amigo que é atéia. Pois bem, o livro não trata prioritariamente de religião alguma mas daquilo que é chamado pelo autor de &#8220;sequestro da subjetividade&#8221;. A narrativa de &#8220;Quem me roubou de mim?&#8221; concentra-se em contar várias histórias reais de pessoas que foram sequestradas de sua subjetividade e junto com essas histórias oferecer opiniões filosóficas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/quem-me-roubou-de-mim-capa-min-1024x768.jpg'
+  url: '/wp-content/uploads/2016/01/quem-me-roubou-de-mim-capa-min-1024x768.jpg'
   width: null
   height: null
 # </extra>

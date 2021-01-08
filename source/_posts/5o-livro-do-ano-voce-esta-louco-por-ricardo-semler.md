@@ -8,7 +8,7 @@ date: 2014-03-25 09:49:21
 # <extra>
 description: 'O livro &#8220;Você está louco!&#8221; conta histórias do autor Ricardo Semler, assim como suas perspectivas e experiências acerca de diversos assuntos, destacando-se sua experiência como administrador e CEO da Semco S/A, empresa que herdou de seu pai e que através da gestão promovida pelo autor viu seus rendimentos saltarem de 4 milhões de dólares, em 1982, para 212 milhões de dólares em 2003. Além do resultado financeiro extremamente positivo, Semler conta como teve sucesso no processo de democratização da fábrica. Em uma constante contestação de ideias consagradas como se fossem regras imutáveis, Semler mostra como mesmo sendo tratados como loucos é necessários aplicarmos mudanças nos nossos modos de pensar, de agir e de administrar nossas vidas, nossas relações e nossos trabalhos. O modelo implementado pelo autor como CEO da Semco S/A se opôs à diversos pontos da administração científica, propondo &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/03/dsc02385.jpg?w=650'
+  url: '/wp-content/uploads/2014/03/dsc02385.jpg?w=650'
   width: null
   height: null
 # </extra>

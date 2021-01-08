@@ -12,7 +12,7 @@ date: 2019-05-14 06:32:50
 # <extra>
 description: 'Sinopse:   Ahmed está preso em uma cidade que não quer nada com ele. Recém-chegado a Bruxelas, na Bélgica, o jovem de catorze anos fugiu de uma vida de incertezas e sofrimento na Síria, perdendo o pai na perigosa viagem à costa da Europa. Agora, Ahmed precisa lugar para sobreviver sozinho, mas, sem ninguém para confiar e sem ter para onde ir, ele começa a perder as esperanças. Até que ele conhece Max, um menino americano. Solitário e com saudades de casa, Max está sendo incomodado por um valentão na escola e não fala uma palavra em francês. Quando as vidas de Max e Ahmed colidem, cresce uma amizade entre eles, desafiando todas as probabilidades. Juntos, aprenderão o que significa ser corajoso e como a esperança pode mudar seus destinos. Tendo como pano de fundo a crise dos refugiados Sírios na &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/05/o-garoto-de-lugar-nenhum.jpg'
+  url: '/wp-content/uploads/2019/05/o-garoto-de-lugar-nenhum.jpg'
   width: '353'
   height: '353'
 # </extra>

@@ -14,7 +14,7 @@ date: 2017-09-11 10:56:55
 # <extra>
 description: 'O primeiro livro que eu li do David Levithan foi Will &amp; Will, livro esse que ele escreveu em parceria com John Green e eu amei. Agora no livro “À primeira vista” eu amei ainda mais hehe. O livro “À primeira vista” foi escrito em parceria com Nina LaCour e conta a história de dois adolescentes, Kate e Mark que acabam se encontrando por acaso em um bar na abertura da semana do Orgulho Gay de São Francisco. Kate acaba entrando no bar quando esta fugindo de Violet – uma garota por quem ela esta apaixonada, porém, ela morre de medo de conhecer pessoalmente – e se depara com Mark dançando só de cuecas em cima do bar. Os dois estudam no mesmo colégio, mas não são amigos e no começo fica com um clima meio constrangedor para Mark, mas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/08/capa-do-livro-à-primeira-vista.jpg'
+  url: '/wp-content/uploads/2017/08/capa-do-livro-à-primeira-vista.jpg'
   width: '828'
   height: '828'
 # </extra>

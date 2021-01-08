@@ -15,7 +15,7 @@ date: 2018-04-30 12:53:03
 # <extra>
 description: 'Confira a resenha do livro A Gaiola Dourada - A liberdade não é para todos é o primeiro volume da trilogia Dons Sombrios de Vic James.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/04/resenha-livro-a-gaiola-dourada.jpg'
+  url: '/wp-content/uploads/2018/04/resenha-livro-a-gaiola-dourada.jpg'
   width: '1000'
   height: '1000'
 # </extra>

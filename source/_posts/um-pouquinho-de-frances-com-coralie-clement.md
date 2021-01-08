@@ -8,7 +8,7 @@ date: 2015-02-16 19:03:33
 # <extra>
 description: 'Já faz um tempo que meu namorado resolveu que quer porque quer aprender francês, uma das línguas mais bonitas que eu já escutei apesar de não entender praticamente nada, haha. Mas como ele é auto-didata e eu não, ele está me ensinando algumas coisas e assim nós acabamos conhecendo uma cantora muito fofa e talentosa chama Coralie Clément. Coralie Clément é uma cantora francesa que mistura alguns estilos de música, como bossa nova, jazz e folk e ela consegue fazer isso muito bem, porque suas músicas são ótimas. Seu primeiro album foi lançado em 2001, intitulado Salle des pas perdus. Coralie Clement, já esteve no Brasil em 2009 para lançar seu último disco, e é conhecida pela voz frágil e suave e pelas canções repletas de instrumentos e estilos. Pensando nesse meu novo vício musical, eu resolvi selecionar sete músicas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/2ccef14e5cedc1c0389ce68b84d93891.jpg'
+  url: '/wp-content/uploads/2015/02/2ccef14e5cedc1c0389ce68b84d93891.jpg'
   width: null
   height: null
 # </extra>

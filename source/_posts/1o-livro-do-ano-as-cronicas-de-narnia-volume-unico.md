@@ -8,7 +8,7 @@ date: 2014-01-31 23:25:53
 # <extra>
 description: 'Resolvi que vou postar aqui todos os livros que eu ler durante o ano, como acabei de terminar a faculdade creio que agora vou conseguir ler muitos mais livros do que no ano passado. E não é que já terminei meu primeiro livro do ano, vou tentar resumi-lo ao máximo aqui, pois é um livro bem grande e é divido em 7 partes. 1º crônica &#8211; O sobrinho do mago: Tudo começa quando Digory e sua amiga Polly entram no escritório de André, tio de Digory. Polly é enganada pelo tio e toca em um anel mágico e some. Digory apavorado resolve ir resgatar a amiga e também toca no anel, lá eles se veem em outro mundo, onde os dois resolvem explorar os lugares desconhecidos, encarando muitas aventuras. Adorei a primeira crônica, eu como muita gente assisti primeiro o filme &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/02/nc3a1rnia.jpg?w=300'
+  url: '/wp-content/uploads/2014/02/nc3a1rnia.jpg?w=300'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2014-12-10 20:08:05
 # <extra>
 description: 'Velas são ótimas peças decorativas porque elas deixam o ambiente mais aconchegante e com um charme todo especial, principalmente no Natal. E pensando nisso resolvi fazer uma busca no Pinterest para criar essa lista com velas que com certeza vão servir de inspirar para você decorar sua casa neste fim de ano. De qual das ideias de velas vocês gostaram mais? Tem alguma ideia diferente? Se sim, me mandem aqui nos comentários que eu vou adorar saber e quem sabe, eu também faça em casa . Beijos!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/12/Velas-decorativas-de-Natal-001.jpg'
+  url: '/wp-content/uploads/2014/12/Velas-decorativas-de-Natal-001.jpg'
   width: null
   height: null
 # </extra>

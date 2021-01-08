@@ -13,7 +13,7 @@ date: 2017-12-26 07:55:16
 # <extra>
 description: 'Olá, Adeus e Tudo Mais é um livro leve, divertido e mostra que não podemos ter tudo na vida, devemos escolher o que é melhor para aquele momento'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/12/resenha-livro-ola-adeus-e-tudo-mais.jpg'
+  url: '/wp-content/uploads/2017/12/resenha-livro-ola-adeus-e-tudo-mais.jpg'
   width: '828'
   height: '828'
 # </extra>

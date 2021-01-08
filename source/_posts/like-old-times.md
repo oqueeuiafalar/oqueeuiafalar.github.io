@@ -9,7 +9,7 @@ date: 2014-03-28 14:27:24
 # <extra>
 description: '&nbsp; Bolsa: Vince Vonn| Shorts: Marisa| Sapatilha: Moleca| Suspensório: Loja Peralta  Resolvi dar uma limpada no meu guarda-roupas essa semana e achei meu suspensório, eu nem me lembrava mais que tinha hihihi, agora deu vontade de comprar outros, de outras cores, vermelho. xadrez, nude, de couro &#8230;.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/03/dsc02387.jpg?w=650'
+  url: '/wp-content/uploads/2014/03/dsc02387.jpg?w=650'
   width: null
   height: null
 # </extra>

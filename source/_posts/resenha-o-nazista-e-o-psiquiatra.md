@@ -13,7 +13,7 @@ date: 2017-01-16 14:26:38
 # <extra>
 description: '“O nazista e o psiquiatra” é um livro rico em detalhes e em material, é cheio de anotações de Kelley, dos guardas, cartas dos presos, artigos de jornais, mas nem por isso ele deixa de ser bem maçante, às vezes parece que o autor esta dando voltas, mas ai de repente o julgamento já esta começando e tudo volta a ficar mais interessante, porém, após o julgamento volta a ficar maçante, mas nem por isso menos interessante.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/01/capa-livro-o-nazista-e-o-psiquiatra.jpg'
+  url: '/wp-content/uploads/2017/01/capa-livro-o-nazista-e-o-psiquiatra.jpg'
   width: '828'
   height: '828'
 # </extra>

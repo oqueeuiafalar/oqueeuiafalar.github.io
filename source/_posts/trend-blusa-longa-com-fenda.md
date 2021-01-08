@@ -8,7 +8,7 @@ date: 2015-11-02 15:48:12
 # <extra>
 description: 'Uma peça que promete ser a sensação da nova temporada são as blusas longas com fenda. Além de lindas e super confortáveis, elas deixam o visual mais moderno e descolado. As blusas podem ser mais ou menos longas, assim como as fendas podem receber um recorte mais ou menos profundo, podendo assim agradar os diversos gostos e dando a possibilidade de criação de looks diferentes. Essa peça é bem versátil, ela pode ser usada com shorts (o modo que eu mais gosto), saia e até calça e pra deixar o visual ainda mais produzido é só caprichar nos acessórios como colares, brincos e chapéus. Vocês gostaram dessa nova tendência? Eu adorei, já quero sair pra comprar a minha o quanto antes, hehe.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/YouCom-blusa-alongada-com-fenda.jpg'
+  url: '/wp-content/uploads/2015/10/YouCom-blusa-alongada-com-fenda.jpg'
   width: null
   height: null
 # </extra>

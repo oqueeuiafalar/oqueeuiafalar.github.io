@@ -8,7 +8,7 @@ date: 2016-07-04 08:49:35
 # <extra>
 description: 'Tenho certeza que você aí tem alguma frase ou palavra que você adora, certo? Já pensou em usá-las na decoração da sua casa? Uma tendência que já vem de alguns anos é usar a tipografia na decoração, além de dar um toque de personalidade ao ambiente ele pode ficar bem mais descontraído e moderno. O uso da tipografia não se restringe a um único ambiente ou objeto, ela pode estar na parede, almofadas, quadros, sala, banheiro, escritório, as possibilidades são infinitas. Se você quer fugir um pouco de obvio que é decorar a sala com um papel de parede todo escrito ou almofadas, a boa ideia é decorar a escada. Você pode escolher alguma música ou poema que gosta e ir colocando frases dele de degrau em degrau, ou usar aquele lugar que fica embaixo da escada e ninguém sabe &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/escada-com-tipografia.jpg'
+  url: '/wp-content/uploads/2016/07/escada-com-tipografia.jpg'
   width: null
   height: null
 # </extra>

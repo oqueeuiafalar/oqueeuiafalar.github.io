@@ -11,7 +11,7 @@ date: 2017-02-20 08:34:17
 # <extra>
 description: 'Depois de tantos anos finalmente pude ter o prazer de voltar a mergulhar no mundo mágico de Harry Potter. “Relíquias da morte”, último livro da série que foi lançado há quase 10 anos e agora no ano passado, 2016, fomos presenteados com “Harry Potter e a criança amaldiçoada”. Muitos fãs ficaram com receito de ler esse livro, pois ele não é 100% J.K. Rowling, mas mesmo com a participação de Jack Thorne e John Tiffany e sem saber nada da história, eu estava muito ansiosa para ler. Harry Potter agora é casado com Gina, pai de três filhos, Lílian, Tiago e Alvo Severo e é Diretor de Execução das Leis da Magia. Alvo não tem um relacionamento muito bom com seu pai, e tudo piora quando ele vai para Hogwarts. Pra começar o Chapéu Seletor acaba enviando Alvo para Sonserina, &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/01/resenha-Harry-Potter-e-a-criança-amaldiçoada.jpg'
+  url: '/wp-content/uploads/2017/01/resenha-Harry-Potter-e-a-criança-amaldiçoada.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-04-18 12:43:53
 # <extra>
 description: 'E aí gente, já começaram a curtir o feriado? O coisas lindas dessa semana dá um pouquinho de várias dicas pra vocês, quem sabe um look despojado para o feriado, ou apenas uma rede, ou talvez quem sabe uma viagem para uma cidade linda? Esse já é o coisas lindas 13, mas com certeza só vem recheado de coisas para trazer sorte, vamos começar. Esse look Gente, ela conseguiu misturar tudo o que eu adoro nesse look, jeans destroyed, blazer e all star. Acho bem legal essa combinação, porque tira aquela formalidade e dá um ar mais jovial, vou aderir. O que acham? Jardim Botânico de Curitiba Ah, quando eu vi essa foto no Pinterest me bateu uma saudade de Curitiba, do jardim Botânico,  daquela cidade tão maravilhosa&#8230; do clima delicioso, adoraria poder visitar de novo. Esse quadro Ei donos &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/e0bdcd55bbb81eee1bf19b9ff429b767-698x1024.jpg'
+  url: '/wp-content/uploads/2015/04/e0bdcd55bbb81eee1bf19b9ff429b767-698x1024.jpg'
   width: null
   height: null
 # </extra>

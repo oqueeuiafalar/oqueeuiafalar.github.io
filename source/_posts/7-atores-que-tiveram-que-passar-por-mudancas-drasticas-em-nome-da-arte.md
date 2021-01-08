@@ -8,7 +8,7 @@ date: 2014-03-17 16:19:47
 # <extra>
 description: 'Muitos atores fazem de tudo para conseguir um bom papel no cinema, uns engordam, outros emagrecem. Vamos conferir 7 atores que se esforçaram muito em nome da arte. Em 2012 o rapper 50 Cent teve que emagrecer 24 kg para ser o protagonista do filme &#8220;All things fall apart&#8221;.  Em 2003 a atriz Charlize Theron ficou irreconhecível no filme &#8220;Monster &#8211; Desejo Assassino&#8221;. Para interpretar a serial killer Aileen Wuornos, ela teve que engordar 13 kg e raspas as sobrancelhas. O filme lhe rendeu o Oscar de melhor atriz. Em 2008 o ator Jared Leto engordou 28 kg para interpretar o assassino de John Lennon no filme &#8220;Chapter 27&#8220;. Para viver o Ron Woodruff, um viciado em drogas que contrai Aids no filme &#8220;Clube de Compras Dallas&#8221;, ator Matthew McConaughey teve que emagrecer 17 kg.  Em 2001 o ator Tom Hanks emagreceu mais de &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/03/50-cent-body-transformation.jpg?w=650'
+  url: '/wp-content/uploads/2014/03/50-cent-body-transformation.jpg?w=650'
   width: null
   height: null
 # </extra>

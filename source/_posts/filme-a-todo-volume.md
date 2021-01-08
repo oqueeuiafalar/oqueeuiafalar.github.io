@@ -8,7 +8,7 @@ date: 2014-11-06 19:45:09
 # <extra>
 description: 'Quem concorda comigo que a guitarra é o instrumento mais popular ou pelo menos o que atrai mais fãs e admiradores? Pois o diretor Davis Guggenheim resolveu reunir três dos maiores nomes da guitarra mundial para fazer um documentário. O filme “It might get loud” lançado no Brasil com o título de “A todo volume” é um documentário que mostra a relação de três grandes músicos com a guitarra, que são: Jimmy Page (Led Zeppelin), The Edge (U2) e Jack White (White Stripes). Logo no começo do filme já podemos ver Jack White construindo uma guitarra usando um pedaço de madeira, garrafa e corda. O documentário mostra como surgiu o interesse de cada um pelo instrumento e até como foi desenvolvida suas habilidades e estilos únicos de tocar, mostrando quais foram suas primeiras guitarras, como se tornaram profissionais e algumas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/11/DSC03272-1024x768.jpg'
+  url: '/wp-content/uploads/2014/11/DSC03272-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2016-04-04 13:27:44
 # <extra>
 description: 'Se você tem alguma jaqueta jeans velha ou calça esquecida lá no fundo do seu guarda-roupa, chegou à hora de pegar ela e usar de toda sua criatividade para customizá-la. Você já ouviu falar em patches? Não? Pois bem, são aquelas figurinhas engraçadas e as vezes até frases que são usadas para customizar roupas, mochilas e até sapatos. As peças que mais caíram no gosto pra ser customizadas foram as jaquetas jeans, geralmente as oversized, mas também podemos encontrar a tendência em calças, sapatos, bolsas e acessórios, no melhor estilo anos 90. Se você preferir também pode usar os patches em outros tecidos, além de ficar bem legal, é mais exclusivo, já que as lojas costumam comercializar mais em jeans. O que eu mais gosto dessa tendência é que além de bem divertida, ela é bem fácil de se fazer &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/TREND-PATCHES-ityourself.jpg'
+  url: '/wp-content/uploads/2016/04/TREND-PATCHES-ityourself.jpg'
   width: null
   height: null
 # </extra>

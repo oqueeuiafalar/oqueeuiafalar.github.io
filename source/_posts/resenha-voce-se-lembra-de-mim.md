@@ -8,7 +8,7 @@ date: 2016-06-13 13:24:58
 # <extra>
 description: 'Sempre ouvi falar muito bem dos livros da Megan Maxwell, porém, nunca tinha pego nenhum pra ler e resolvi começar por um que a Editora Planeta me enviou, que foi o “Você se lembra de mim?” ao ler a sinopse na contra-capa do livro não achei que ele seria lá essas coisas, mas como nunca fui de desistir de um livro, resolvi seguir em frente. Logo no começo do livro tem uma nota da autora onde ela revela que o livro é divido em duas partes e a primeira é real, é baseada na história de amor dos pais dela, ai já comecei a me interessar mais. A primeira parte do livro se passa na década de 60 e conta a história de Carmem e Loli, duas irmãs espanholas que partem rumo a Alemanha em busca de emprego e no &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/06/livro-você-se-lembra-de-mim-1024x768.jpg'
+  url: '/wp-content/uploads/2016/06/livro-você-se-lembra-de-mim-1024x768.jpg'
   width: null
   height: null
 # </extra>

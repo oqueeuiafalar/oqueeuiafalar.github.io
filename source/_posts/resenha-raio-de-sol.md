@@ -8,7 +8,7 @@ date: 2016-08-07 23:26:23
 # <extra>
 description: 'Olha, assim que eu terminei o livro “Raio de Sol” eu entrei naquela ressaca literária das brabas haha. A protagonista desse livro chama-se Kate Sedgwick, porém, seu melhor amigo Gus a chama de Raio de sol. Mas gente meu sonho é ter as qualidades que essa menina tem, sabe aquelas pessoas que distribuem auto astral por onde passam com brilhos nos olhos e tudo o mais, então, ela é ainda mais que isso, bem humorada, divertida, espontânea e conforme a história vai se passando eu fui vendo por tudo que a personagem já tinha passado de ruim na vida, eu fiquei ainda mais boquiaberta de como ela pode ser uma pessoa tão incrível e sem maldades, mas não sei se no mundo existe alguém assim, se existir, por favor, me apresenta e vamos ser amigas, hehe. Enfim, vamos voltar para &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/capa-do-livro-raio-de-sol-kim-holden.jpg'
+  url: '/wp-content/uploads/2016/08/capa-do-livro-raio-de-sol-kim-holden.jpg'
   width: '2048'
   height: '2048'
 # </extra>

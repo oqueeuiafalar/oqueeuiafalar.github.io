@@ -8,7 +8,7 @@ date: 2014-07-28 17:44:54
 # <extra>
 description: 'Todo mundo sabe que Jogos Vorazes virou sucesso no cinema, né, mas eu além de adorar os filmes resolvi ler a trilogia, por isso vou resenhar pra vocês os três livros conforme eu for lendo. Antes de começar a resenhar o livro, só quero explicar o que são os Jogos Vorazes. Os jogos vorazes são um tipo de reality show que acontece anualmente na capital e que é transmitido pela TV, onde 24 jovens, um menino e uma menina de cada um dos doze distintos existentes na trama são sorteados para lutar entre si, dentro de uma arena, até a morte, para que no fim reste apenas um sobrevivente. O livro começa com Katniss vivendo normalmente no distrito 12, fazendo o possível pra sustentar sua mãe e irmã depois da morte do pai nas minas onde trabalhava, caçando com seu &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/07/dsc03125.jpg'
+  url: '/wp-content/uploads/2014/07/dsc03125.jpg'
   width: null
   height: null
 # </extra>

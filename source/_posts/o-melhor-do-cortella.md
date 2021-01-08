@@ -15,7 +15,7 @@ date: 2019-01-13 17:14:33
 # <extra>
 description: 'Mário Sergio Cortella sem dúvida é um dos intelectuais brasileiros mais populares da atualidade e em 2018 ele completou 30 anos da publicação de seu primeiro livro &#8211; Descartes: A Paixão pela Razão. No livro   O Melhor do Cortella   nos temos um breve relato do autor contanto como foi sua trajetória nesses 30 anos como autor, professor, secretário municipal de Educação de São Paulo e também como apresentador de programas de TV. Depois de entendermos melhor como  Mário Sergio Cortella se tornou uma grande referência o livro    O Melhor do Cortella    nos mostra uma seleção de frases e ideias que foram utilizadas nos livros publicados pelo mesmo durante esses 30 anos. O Melhor do Cortella &#8211; Trilhas do Pensar    é o primeiro volume de uma trilogia para comemorar tantos anos de escrita, ideias, pensamentos e frases. Aqui o livro &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/01/lombada-livro-o-melhor-do-cortella.jpg'
+  url: '/wp-content/uploads/2019/01/lombada-livro-o-melhor-do-cortella.jpg'
   width: '1000'
   height: '1000'
 # </extra>

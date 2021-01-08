@@ -8,7 +8,7 @@ date: 2014-08-22 18:29:55
 # <extra>
 description: 'O terceiro volume da série “Jogos vorazes”, “A esperaça” é o mais complexo, brutal e adulto livro da série. Nesse livro Katniss se torna o símbolo da revolução dos distritos contra a capital, ela é o tordo. Os rebeldes interceptam várias vezes o sinal de TV da capital pra entrar com pontoprop – uma maneira de burlar e usar o sinal da rede de televisão da capital para veicular seus vídeos, porém, logo de cara eles percebem que sem a simpatia e charme de Peeta, Katniss não tem muitas chances de cativar o público. Haymitch, antigo treinador de Katniss e Peeta nota que Katniss consegue conquistar o público apenas quando ela age de forma espontânea, e assim resolvem gravá-la durante a guerra, enquanto ela está nos distritos. Nesse mesmo instante Peeta está sendo torturado pela capital, e logo Katniss descobre &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/dsc03141.jpg'
+  url: '/wp-content/uploads/2014/08/dsc03141.jpg'
   width: null
   height: null
 # </extra>

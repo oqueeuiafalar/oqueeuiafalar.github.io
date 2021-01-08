@@ -18,7 +18,7 @@ date: 2018-01-05 11:59:49
 # <extra>
 description: 'Ahhh gente, eu estava louca pra postar esse look do dia haha. Estou simplesmente apaixonada por esse vestido. Na primavera/verão eu fico super animada em usar roupas mais coloridas. tem tudo a ver com a estação. Esse vestido tem muitas cores que conversão entre si, o que dá muita vida ao vestido. Esse fundo azul escuro, com as flores mostarda e laranja ficaram bem legais. O modelo tem elástico logo abaixo dos seios, deixando ele bem soltinho em baixo e com um leve babadinho na beirada. Ele tem uma amarração na alça esquerda e um decote bem delicado nas costas, o que deixa o vestido mais fresquinho e a gente com um pouco menos de calor haha. Essa bolsa eu já usei em outros looks e gosto bastante dela primeiro por causa da cor, que é muito fácil de montar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-bolsa-caramelo.jpg'
+  url: '/wp-content/uploads/2017/09/como-usar-bolsa-caramelo.jpg'
   width: '828'
   height: '828'
 # </extra>

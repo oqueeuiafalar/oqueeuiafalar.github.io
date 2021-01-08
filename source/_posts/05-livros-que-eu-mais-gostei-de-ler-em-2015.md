@@ -8,7 +8,7 @@ date: 2015-12-28 13:29:52
 # <extra>
 description: 'E mais um ano esta acabando e claro que foi mais um ano de muita leitura. Em 2015 fiz parceria com ótimas editoras como a Biruta, Gaivota  e a editora Belas Letras  além de ter recebidos ótimos livros da editora Novo Conceito   e claro, também comprei alguns porque ninguém é de ferro, hehe. Pra conseguir fazer essa lista de cinco livros foi muito difícil, porque li muita coisa boa – quem acompanha o blog sabe disso – mas depois de ler e reler as resenhas consegui selecionar os cinco livros que mais gostei de ler esse ano e eu espero que se alguém aí do outro lado da telinha não tenha lido alguns destes, se anime para lê-los no próximo ano. Vamos lá? 5º livro &#8211; Sushi &#8220;Sushi&#8221; conta a história de três personagens, Ashling uma moça supersticiosa que mora em &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/lista-de-melhores-livros-2015-1024x768.jpg'
+  url: '/wp-content/uploads/2015/12/lista-de-melhores-livros-2015-1024x768.jpg'
   width: null
   height: null
 # </extra>

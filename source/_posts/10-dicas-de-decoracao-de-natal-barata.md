@@ -12,7 +12,7 @@ date: 2016-11-28 10:24:26
 # <extra>
 description: 'É bom sentir esse clima natalino no ar, mas sem precisar gastar muito, separei dez dicas de decoração natalina barata para todo mundo poder entrar no clima,'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/decoração-natalina-dourada.jpg'
+  url: '/wp-content/uploads/2016/11/decoração-natalina-dourada.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-08-31 12:30:16
 # <extra>
 description: 'Não sei nem como começar a escrever essa resenha. Acabei de terminar o livro e não tenho palavras pra dizer quão lindo e o quanto ele me tocou. “Como eu era antes de você” conta a história de Will Traynor e Louisa Clark. Will era um homem ativo, inteligente, que adorava praticar esportes, namorar e amava seu trabalho, mas sua vida muda completamente, quando ao atravessar uma rua ele é atropelado por uma moto e fica tetraplégico. Louisa Clark é uma jovem de 26 anos que ainda mora com os pais, é garçonete em um pequeno café e namora a quase sete anos Patrick, um atleta que só pensa em calorias, exercícios e campeonatos. Porém,  o dono do café onde ela trabalha, resolve fechá-lo e aí ela começa a procurar um novo emprego, pois ela precisa ajuda com as despesas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/livro-como-eu-era-antes-de-você-1024x768.jpg'
+  url: '/wp-content/uploads/2015/08/livro-como-eu-era-antes-de-você-1024x768.jpg'
   width: null
   height: null
 # </extra>

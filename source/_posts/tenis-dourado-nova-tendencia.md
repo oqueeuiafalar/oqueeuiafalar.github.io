@@ -12,7 +12,7 @@ date: 2016-08-25 09:24:01
 # <extra>
 description: '&nbsp; Já pensou em usar tênis dourado? Não? Pois saiba que ele é super tendência e esta nos pés de todas as fashionistas. Além de muito conforto eles são lindos e dão todo aquele ar de: Ei! Eu entendo tudo de moda! Haha. E não precisa ter medo de arriscar nos looks, eles ficam bem até com algo mais social como um terninho (os todo preto ou todo branco ficam maravilhosos com os golden sneakers)  e claro que é aposta certa com jeans e camiseta. Pra quem tem medo de se jogar logo de cara em um tênis totalmente dourado, uma boa pedida é comprar aqueles que têm apenas alguns detalhes no tom, assim vai se acostumando e já já esta com o pé todo montado no ouro haha. Onde comprar? Pra deixar vocês com mais vontade ainda de sair &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/08/golden-sneakers.jpg'
+  url: '/wp-content/uploads/2016/08/golden-sneakers.jpg'
   width: '564'
   height: '564'
 # </extra>

@@ -13,7 +13,7 @@ date: 2018-09-27 18:42:31
 # <extra>
 description: 'É Assim que Acaba é o segundo livro da autora Colleen Hoover que eu leio e que eu amo. o primeiro foi Confesse, um livro muito envolvente e que eu devorei super rápido, porém, É Assim Que Acaba me tocou muito mais, porque ele trata de um assunto muito atual e que assombra a vida de milhares de mulheres: a violência doméstica. Quando comecei a ler a história de É Assim Que Acaba eu pensei que seria apenas mais um romance como todos os outros. Lily, uma jovem que tem um sonho de abrir a sua própria floricultura e Ryle que sonha em se tornar o maior neurocirurgião de Boston, até ai, tudo bem. Quando Lily e Ryle se conhecem no alto de um prédio eu só pensava: hum! vai ser mais um romance mamão com açúcar, e até certa parte é sim. Apesar das &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/09/livro-é-assim-que-acaba-colleen-hoover.jpg'
+  url: '/wp-content/uploads/2018/09/livro-é-assim-que-acaba-colleen-hoover.jpg'
   width: '1000'
   height: '1000'
 # </extra>

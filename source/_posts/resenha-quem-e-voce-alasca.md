@@ -8,7 +8,7 @@ date: 2016-05-13 09:19:18
 # <extra>
 description: 'Miles não tem uma vida muito animada, ele esta prestes a entrar no último ano do colégio e nunca teve namorada, zero amigos, e suas noites são sempre em casa mesmo, nada de diversão e bebedeira pra poder contar um dia para seus netos, a única coisa que ele tem é sua paixão as últimas palavras das pessoas antes de morrerem (por isso ele gosta tanto de ler biografias) e uma família amorosa. Como a vida de Miles é bem chata e sempre na mesmice, ele decide embarcar em um grande talvez e ir terminar os estudos antes da faculdade em um colégio interno, o mesmo que seu pai estudou. E então Miles arruma as malas e vai em busca de uma grande mudança na sua vida e quem sabe finalmente fazer amigos e ter histórias para contar no futuro. &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/Capa-do-livro-Quem-é-você-Alasca-1024x768.jpg'
+  url: '/wp-content/uploads/2016/05/Capa-do-livro-Quem-é-você-Alasca-1024x768.jpg'
   width: null
   height: null
 # </extra>

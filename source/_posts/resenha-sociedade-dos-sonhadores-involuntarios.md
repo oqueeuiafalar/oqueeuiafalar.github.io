@@ -8,7 +8,7 @@ date: 2017-10-16 11:22:30
 # <extra>
 description: 'A maior parte do livro “A sociedade dos sonhadores involuntários” se passa em Angola e narra a história de quatro personagens distintos que se conectam através de sonhos. Daniel Benchimol é um jornalista que costuma investigar desaparecimentos, vive em conflito com a sua ex-mulher e também com a família dela e tem dois personagens que sempre estão vagando pelos seus sonhos, Moira e seu amigo Hossi. Moira é uma artista plástica moçambicana que pinta seus próprios sonhos. Hélio Castro é um neurocientista brasileiro, que esta desenvolvendo uma maquina capaz de filmar sonhos e ele acaba se aproximando de Moira por causa de seus quadros pintados com inspirações em sonhos. Hossi é um dono de hotel com passado obscuro e que apesar de não conseguir sonhar, vive visitando os sonhos de muitas outras pessoas, porém, ele não tem consciência nenhuma disso. &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/10/capa-livro-a-socidade-dos-sonhadores-involuntários.jpg'
+  url: '/wp-content/uploads/2017/10/capa-livro-a-socidade-dos-sonhadores-involuntários.jpg'
   width: '828'
   height: '828'
 # </extra>

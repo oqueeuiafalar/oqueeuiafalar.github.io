@@ -13,7 +13,7 @@ date: 2016-10-28 12:34:34
 # <extra>
 description: 'O Halloween está chegando e caso você não vá sair por aí pedindo “ doces ou travessuras ” e nem tenha alguma festa aterrorizante para ir, que tal fazer uma'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/giphy.gif'
+  url: '/wp-content/uploads/2016/10/giphy.gif'
   width: '828'
   height: '828'
 # </extra>

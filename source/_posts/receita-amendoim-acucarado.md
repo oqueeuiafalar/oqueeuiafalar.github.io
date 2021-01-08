@@ -8,7 +8,7 @@ date: 2015-04-22 16:04:55
 # <extra>
 description: 'Gente, a receita de hoje vai ser tão simples quanto deliciosa! Qualquer um pode fazer e todo mundo vai adorar. Lembram que na páscoa eu fiz um post sobre decoração criativa  e lá eu disse que ia ensinar vocês a fazerem amendoins açucarados? Meu objetivo era ensinar antes da páscoa, mas meus planos saíram do controle e só consegui escrever o post hoje haha, tudo bem já que não tem data certa pra gente comer esses amendoins deliciosos, né? Então, vamos a receita: Ingredientes 2 xícaras de chá de amendoim cru 2 xícaras de chá de açúcar 1 xícara de chá de água 1 colher de café de chocolate em pó Modo de preparo: Misture todos os ingredientes em uma panela grande e leve ao fogo para ferver. Vá mexendo delicadamente as vezes. Quando começar a borbulhar deve-se começar a &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSC03666-1024x768.jpg'
+  url: '/wp-content/uploads/2015/04/DSC03666-1024x768.jpg'
   width: null
   height: null
 # </extra>

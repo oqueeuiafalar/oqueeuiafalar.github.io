@@ -8,7 +8,7 @@ date: 2015-05-27 16:43:47
 # <extra>
 description: '“Um ano na Provence” me lembrou um pouco dos livros “Sob o sol da Toscana” ou “A doce vida na Úmbria”, por se tratar do tema viagem para europa em busca de uma vida mais simples rs. Provence, ou Provença como também é chamada em português, é uma região no sudeste da França de lindas paisagens floridas e capaz de proporcionar uma vida tranquila ao sabor das estações do ano. É um livro autobiográfico, em que cada capítulo conta um mês do ano em que o autor Peter Mayle e sua esposa saíram de uma vida agitada na Inglaterra e se mudaram para Provence. A história é narrada de maneira fantástica e cheia de encanto, você consegue sentir o quão apaixonado o autor está pelo novo lugar que escolheu morar, pela cultura, cores e sabores. Aliás, por falar em sabores, &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/capa-do-livro-um-ano-na-provence-1024x768.jpg'
+  url: '/wp-content/uploads/2015/05/capa-do-livro-um-ano-na-provence-1024x768.jpg'
   width: null
   height: null
 # </extra>

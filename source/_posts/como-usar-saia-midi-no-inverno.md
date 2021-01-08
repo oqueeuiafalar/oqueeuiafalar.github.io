@@ -11,7 +11,7 @@ date: 2017-07-10 10:30:57
 # <extra>
 description: 'Ah, minha estação favorita do ano finalmente chegou com tudo, já estamos aí usando várias e várias camadas de roupa no melhor estilo cebola, né, nom?  Haha Mas não é porque o frio chegou com tudo que nós temos que ficar menos estilosas ou só sair de casa usando calça. Mini saia com bota fica linda, não acha? A saia longa também fica bem legal, né? Mas você já pensou em usar e abusar das saias midi durante o inverno? Não? Pois saiba que a saia midi é muito elegante e ela pode acrescentar um toque de bom gosto e fashionista nos seus looks de inverno. E esse post é para ajudar você aí a continuar linda e fashion durante os dias frios e te mostrar de vez como é possível usar a saia midi durante toda esta estação sem &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/como-usar-saia-midi-com-jaqueta-de-couro.jpg'
+  url: '/wp-content/uploads/2017/07/como-usar-saia-midi-com-jaqueta-de-couro.jpg'
   width: '828'
   height: '828'
 # </extra>

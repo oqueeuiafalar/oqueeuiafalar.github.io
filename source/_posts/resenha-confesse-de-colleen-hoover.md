@@ -15,7 +15,7 @@ date: 2017-11-27 11:28:29
 # <extra>
 description: 'Sempre ouvi falar muito bem sobre os livros da Collen Hoover, e após, ler Confesse devo dizer que ela é ótima e que o livro me proporcionou uma leitura incrível e que dá vontade de sair recomendando para todo mundo. Um dos protagonistas chama-se Owen, um jovem pintor que se inspira em confissões anônimas que são deixadas no seu ateliê para criar suas obras, o mais chocante é que as confissões que Hoover usa no livro são reais, fornecidas por seus leitores, e eu digo chocante, porque tem algumas que são realmente de arrepiar os cabelos. Sou grata todos os dias que meu marido e seu irmão são exatamente iguais, isso significa que é pequena a chance de meu marido descobrir que nosso filho não é dele. A outra protagonista é Auburn.  Adam foi o primeiro namorado e grande amor &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/11/Capa-do-livro-Confesse.jpg'
+  url: '/wp-content/uploads/2017/11/Capa-do-livro-Confesse.jpg'
   width: '828'
   height: '828'
 # </extra>

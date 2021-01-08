@@ -8,7 +8,7 @@ date: 2016-01-30 13:14:13
 # <extra>
 description: 'Agora que as férias estão acabando, vai começar tudo de novo, acordar cedo, ir pra escola, trabalhos, seminários, provas, aquela correria, e vocês já perceberam que você pode estar a mil, toda agitada, super acordada, mas basta sentar para estudar que bate aquele sono avassalador? E isso acontece justamente naquela matéria que você já não tem muita facilidade ou bem na véspera da prova. Pois é amiga, você não está sozinha nessa, todos nos seres humanos normais já sentimos muito sono tomando conta de nós durante aqueles momentos mais preciosos que reservamos para estudar. E pensando nisso eu  separei algumas dicas que eu costumo usar pra não cair no sono na hora que vou estudar, é só acompanhar o post. Lave o rosto Corre pro banheiro e joga água nesse rosto, se a água estiver gelada, melhor ainda, você vai &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/estudando-e-trabalhando.jpg'
+  url: '/wp-content/uploads/2016/01/estudando-e-trabalhando.jpg'
   width: null
   height: null
 # </extra>

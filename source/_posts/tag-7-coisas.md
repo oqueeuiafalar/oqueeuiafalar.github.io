@@ -8,7 +8,7 @@ date: 2015-09-30 11:47:48
 # <extra>
 description: 'A Camila do blog Poetizando Moda me indicou pra responder a tag 7 coisas e como eu adorei a tag, não resisti e respondi haha, bora conferir: 7 coisas que eu quero fazer antes de morrer 1 &#8211; viajar pelo mundo todo 2 &#8211; pular de paraquedas 3 &#8211; montar uma biblioteca em casa 4 &#8211; fazer o blog crescer a cada dia mais 5 &#8211; aprender a falar várias línguas 6 &#8211; morar em outro país 7 &#8211; voltar a ter aulas de guitarra 7 coisas que eu mais falo 1 &#8211; Vish! 2 &#8211; Pixorra 3 &#8211; O que que eu ia falar? 4 &#8211; Gente! 5 &#8211; Ai que sono. 6 &#8211; Ai que preguiça. 7 &#8211; Eu quero comprar &#8230; 7 coisas que eu faço bem 1 &#8211; Brigadeiro 2 &#8211; Organizar meu guarda-roupas 3 &#8211; Passar roupa 4 &#8211; Dormir 5 &#8211; Me esquecer das coisas 6 &#8211; Ser pontual 7 &#8211; Guardar segredos &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/diário-escrito.jpeg'
+  url: '/wp-content/uploads/2015/09/diário-escrito.jpeg'
   width: null
   height: null
 # </extra>

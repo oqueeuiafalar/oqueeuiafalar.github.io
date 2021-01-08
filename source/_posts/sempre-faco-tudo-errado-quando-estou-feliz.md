@@ -10,7 +10,7 @@ date: 2018-02-12 09:45:14
 # <extra>
 description: 'Sempre faço tudo errado quando estou feliz é um livro de Raquel Segal onde através de tirinhas, elas nos leva para viajar nas bad da vida.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/02/resenha-livro-sempre-faço-tudo-errado-quando-estou-feliz.jpg'
+  url: '/wp-content/uploads/2018/02/resenha-livro-sempre-faço-tudo-errado-quando-estou-feliz.jpg'
   width: '750'
   height: '750'
 # </extra>

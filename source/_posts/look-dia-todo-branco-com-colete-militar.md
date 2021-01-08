@@ -12,7 +12,7 @@ date: 2017-03-30 09:04:50
 # <extra>
 description: 'Oi gente, tudo bem? Agora que chegou o outono os dias viram aquela beleza, né! Friozinho de manhã, muito quente de tarde e volta a fazer frio de noite haha. Então ainda é possível sair de shorts sem precisar usar meia calça, e como tudo mundo sabe, eu sou apaixonada por shorts. para passear eles são uma ótima pedida porque são muito confortáveis e ficam uma graça em vários looks como usando com tênis, sapatilhas, rasteirinhas, coletes, regatas, enfim, o shorts é democrático haha. Como no dia que fui usar esse look estava bem quente, optei por usa-lo todo branco &#8211; dizem que fica mais fresco haha &#8211; mas como estava básico demais e sem nem um ar de criatividade, resolvi completa-lo com um colete, que é meio parka e estilo militar, que esta bem em alta. Coletes são peças &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/02/look-do-dia-todo-branco-com-colete-militar.jpg'
+  url: '/wp-content/uploads/2017/02/look-do-dia-todo-branco-com-colete-militar.jpg'
   width: '828'
   height: '828'
 # </extra>

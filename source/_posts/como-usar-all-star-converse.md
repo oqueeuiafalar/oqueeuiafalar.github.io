@@ -12,7 +12,7 @@ date: 2017-06-20 09:57:12
 # <extra>
 description: 'Uns dos tênis mais clássicos que existem são os converse all star, eles surgiram no mundo do basquete e acabou caindo no gosto dos jovens e também das cr'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/02/como-usar-all-star.jpg'
+  url: '/wp-content/uploads/2017/02/como-usar-all-star.jpg'
   width: '828'
   height: '828'
 # </extra>

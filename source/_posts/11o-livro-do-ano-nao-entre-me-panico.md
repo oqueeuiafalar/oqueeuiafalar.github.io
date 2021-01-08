@@ -8,7 +8,7 @@ date: 2014-06-06 15:50:00
 # <extra>
 description: 'Recentemente ganhei de presente a coleção &#8220;O guia dos mochileiros das galáxias&#8221; e como prometi vou resenhar os livros da série um a um. O primeiro livro da chamada &#8220;trilogia de cinco&#8221; começa com  Arthur Dent defendendo sua casa de ser demolida para dar lugar a uma auto estrada, o que nem ele e nem toda a Terra sabiam é que naquele exato momento alienígenas vogons executavam a demolição do nosso planeta com a mesma finalidade de construir uma auto estrada inter galática. Momentos antes da destruição do planeta, um amigo de Arthur, Ford Prefect revela ser um alienígena vindo do planeta Betelgeuse e ambos partem de carona pelo universo em uma nave vogon que passava sobre a Terra. À partir desse momento, Ford e Arthur passam a viver aventuras totalmente improváveis na companhia de outros personagens como a humana &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc02910.jpg?w=650'
+  url: '/wp-content/uploads/2014/06/dsc02910.jpg?w=650'
   width: null
   height: null
 # </extra>

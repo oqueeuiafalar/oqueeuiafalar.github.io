@@ -10,7 +10,7 @@ date: 2015-02-04 20:10:38
 # <extra>
 description: 'Eu sempre tive problema com o carnaval, enquanto todos meus amigos saem pra festejar e foliar durante os quatro dias, eu fico em casa pensando: por que será que eles gostam tanto dessa festa? Pois é, eu nunca gostei do carnaval, aquela música que não faz em nada meu estilo, a TV mostrando coisas chatas e repetitivas o tempo todo – aliás, Deus abençoe quem inventou a TV a cabo rs. Enfim, gosto é gosto e não se discute, certo?!?! Mas se você assim como eu não gosta de carnaval e fica aí durante quatro dias quebrando a cabeça pensando o que fazer para sair desse tédio rsrs aqui vão algumas dicas para te ajudar. 1º Vá ao cinema Eu adoro ir ao cinema na época de carnaval, não tem fila, como tem pouca gente nas salas então não tem &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/01.jpg'
+  url: '/wp-content/uploads/2015/02/01.jpg'
   width: null
   height: null
 # </extra>

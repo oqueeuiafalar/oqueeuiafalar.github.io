@@ -10,7 +10,7 @@ date: 2020-01-16 21:56:10
 # <extra>
 description: 'Sinopse: Quatro meses se passaram após a descoberta do Jardim e de suas borboletas jovens mulheres, sequestradas e mantidas em cativeiro por um homem brutal e obsessivo, conhecido apenas como Jardineiro. O inverno está chegando ao fim, e as Borboletas sobreviventes esperam ansiosamente por dias mais quentes e tranquilos. Para os agentes Brandon Eddison, Victor  Hanoverian e Mercedes Ramirez, no entanto, a calma não parece valer: em outra parte dos Estados Unidos, uma jovem surge brutalmente assassinada. Os indícios apontam para a ação de mais um serial-killer psicopata, capaz não apenas de matar a sangue frio, mas também de elaborar a cena a ser descoberta: a jovem é encontrada no altar de uma vela igreja, com a garganta cortada e o corpo rodeado de flores. Resenha:  Quando terminei o livro "O Jardim das Borboletas" eu fiquei estasiada, afinal, o livro é'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2020/01/rosas-de-maio.jpg'
+  url: '/wp-content/uploads/2020/01/rosas-de-maio.jpg'
   width: '553'
   height: '553'
 # </extra>

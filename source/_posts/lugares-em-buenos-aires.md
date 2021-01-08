@@ -17,7 +17,7 @@ date: 2018-03-17 09:11:21
 # <extra>
 description: 'Lugares em Buenos Aires para visitar, fotografar e comer é o que não falta. Confira várias dicas de lugares que você precisa conhecer em Buenos Aires.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/paredes-coloridas-bairro-el-caminito.jpg'
+  url: '/wp-content/uploads/2018/01/paredes-coloridas-bairro-el-caminito.jpg'
   width: '1000'
   height: '1000'
 # </extra>

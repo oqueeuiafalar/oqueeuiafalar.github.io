@@ -11,7 +11,7 @@ date: 2016-09-12 07:58:33
 # <extra>
 description: 'Muitas pessoas acham que a saia de couro esta restrita aos dias frios, mas eu fico feliz em informar que não. As saias de couro podem ser usadas o ano todo, até naqueles dias super quentes elas ficam lindas, basta saber montar o look. As saias de couro são uns dos itens mais clássicos do guarda roupa de toda mulher, mas não podemos deixar de falar que elas podem ser encontradas nas mais variadas modelagens, como as amadas mini saias, na modelagem lápis, plissada, com fenda, enfim, você só não pode esquecer de avaliar qual a situação você vai usa-la e qual estilo esta querendo montar. Fiz uma seleção de saias para todos os dias da semana, passando pelo office look até looks mais casuais e para festas, bora escolher alguns: Domingo Segunda Terça Quarta Quinta Sexta Sábado Viram só &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/como-usar-saia-de-couro-1.jpg'
+  url: '/wp-content/uploads/2016/09/como-usar-saia-de-couro-1.jpg'
   width: '828'
   height: '828'
 # </extra>

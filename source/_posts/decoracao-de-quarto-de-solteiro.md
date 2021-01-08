@@ -11,7 +11,7 @@ date: 2017-10-27 09:11:51
 # <extra>
 description: 'A decoração de quarto de solteiro é um assunto sensacional de ser abordado, afinal como é um assunto em alta no universo da decoração, existem diversas ideias sensacionais rolando por aí. Nos mais variados estilos, como com cores contrastando, com a utilização de pallets e outros estilos e ideias que existem por aí. Então hoje vou trazer para você algumas ideias sensacionais que podem levar a você encontrar a inspiração que tanto procura. Verde com branco Essa combinação de cores é incrível para quem gosta de um quarto de solteiro com cores mais claras. É lindo como algumas listras ainda conseguem deixar uma delicadeza ainda maior no quarto. Detalhes em madeira escura Deixar alguns detalhes com um tom de madeira mais escura é perfeito para você que gosta de um estilo um pouco mais rustico no seu quarto. Branco com &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/10/quarto-branco-com-piso-de-porcelanato.jpg'
+  url: '/wp-content/uploads/2017/10/quarto-branco-com-piso-de-porcelanato.jpg'
   width: '828'
   height: '828'
 # </extra>

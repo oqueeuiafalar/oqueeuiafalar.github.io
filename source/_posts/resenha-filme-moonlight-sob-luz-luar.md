@@ -11,7 +11,7 @@ date: 2017-02-16 14:09:58
 # <extra>
 description: 'O filme “Moonlight: Sob a luz do luar” foi construído com base em uma peça de teatro que não chegou a ser lançada. O longa conta a história de Chiron, um garoto negro, nascido na periferia de Miami e sem nenhuma base familiar. Divido em três partes, o filme mostra toda a vida de Chiron, passando pela infância, adolescência e adulto. Aos 9 anos Chiron é conhecido como Little e já é um menino desconfiado, perseguido por outros garotos e que usa do silêncio como um mecanismo de defesa. Na adolescência Little não gosta de apelidos e quer ser chamado pelo seu nome de batismo, Chiron, é quando ele começa a descobrir sobre sua sexualidade, mas isso o enche de duvidas e  nessa fase ele sofre ainda mais bullying no colégio. Chiron anda sempre sozinho pelos cantos e até mesmo &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/02/cena-do-filme-moonlight-sob-a-luz-do-luar.jpg'
+  url: '/wp-content/uploads/2017/02/cena-do-filme-moonlight-sob-a-luz-do-luar.jpg'
   width: '828'
   height: '828'
 # </extra>

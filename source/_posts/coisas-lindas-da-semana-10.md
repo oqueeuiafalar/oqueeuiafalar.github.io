@@ -8,7 +8,7 @@ date: 2015-03-28 12:37:52
 # <extra>
 description: 'Acreditam que já é a décima semana de coisas lindas aqui no blog? Parece que realmente o tempo voa, ainda bem que quando o assunto é inspiração toda semana nos reserva algumas coisas boas, por exemplo:  Esses quadros Eu não sei se esses círculos pregados na parede são quadros, só sei que eu adorei, acho bem legal quando resolvem decorar uma parede que é lisa com vários quadros, ou pratos, fica bem descontraído e bonito e nesse caso da foto, ficou vintage, o que fez eu amar mais ainda, hehe. Esses porta-retratos Outra coisa que fica lindo na decoração são porta-retratos. São objetos que além de lindos, também remetem a momentos bons, a recordações que nos deixam mais felizes e esse da foto ficou lindo, bem clean, mas eu adorei. Essa porta Gente, assim que eu vi essa porta eu &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/cb3a7a65c00dc46356d79dddf2aa0c41-427x1024.jpg'
+  url: '/wp-content/uploads/2015/03/cb3a7a65c00dc46356d79dddf2aa0c41-427x1024.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-09-23 11:26:01
 # <extra>
 description: '&nbsp; Os abajures e as luminárias além de serem muito úteis em casa (pelo menos eu uso bastante pra trabalhar, ler&#8230;) eles também conseguem dar um toque todo especial para qualquer decoração. Eles ficam ótimos em todos os ambientes da casa, lindos na sala, nos quartos são super essenciais, e uma luminária é item necessário em qualquer desktop. Por isso selecionei alguns modelos que podem te ajudar tanto na inspiração para a decoração, como na hora de trabalhar ou apenas para dar aquele charmoso clima que só uma iluminação amarela consegue. 1- Luminária de Mesa Viking B Vermelho na Americanas 2- Abajur Chaos Amarela no Extra 3- Luminária de Mesa Cristal na Casa das Luminárias 4- Abajur Anequim Branco no Submarino 5- Luminária de mesa na Casa das Luminárias 6- Abajur Orquídea no Extra 7- Abajur Psicodália no Mobly 8- &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/luminarias-679x1024.png'
+  url: '/wp-content/uploads/2015/09/luminarias-679x1024.png'
   width: null
   height: null
 # </extra>

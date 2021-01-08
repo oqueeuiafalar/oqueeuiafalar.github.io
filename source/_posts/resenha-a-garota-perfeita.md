@@ -8,7 +8,7 @@ date: 2016-07-25 10:41:07
 # <extra>
 description: 'O livro “A garota perfeita” publicado pela editora Planeta fala sobre o desaparecimento de Mia Dennet, filha de um famoso juiz. Tudo começa quando uma colega de trabalho de Mia liga para a casa dos pais dela para saber se alguém tem notícias dela, já que ela não tinha ido trabalha e ninguém conseguia entrar em contato. Quando adolescente Mia costumava fugir de casa e vivia aprontando, por isso, o pai não fica muito preocupado no começo do desaparecimento, pensando que isso é apenas mais uma de suas fugas em busca de atenção. Mas por outro lado, a mãe de Mia não consegue ficar tranquila, ela acredita que algo de muito ruim pode ter acontecido à sua filha e resolve acionar a policia. O detetive Gabe Hoffman é o responsável pelo caso de Mia Dennet e fica obcecado por achar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/livro-A-garota-perfeita-capa-1024x768.jpg'
+  url: '/wp-content/uploads/2016/07/livro-A-garota-perfeita-capa-1024x768.jpg'
   width: null
   height: null
 # </extra>

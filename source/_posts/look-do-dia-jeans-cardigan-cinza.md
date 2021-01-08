@@ -14,7 +14,7 @@ date: 2016-10-20 09:07:34
 # <extra>
 description: 'Como usar cardigan com jeans skinny'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/como-usar-cardigan-e-jeans.jpg'
+  url: '/wp-content/uploads/2016/10/como-usar-cardigan-e-jeans.jpg'
   width: '828'
   height: '828'
 # </extra>

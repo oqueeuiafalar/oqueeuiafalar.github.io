@@ -8,7 +8,7 @@ date: 2015-03-25 19:25:43
 # <extra>
 description: 'Gente, eu estava de bobeira, sem nada pra fazer e daí resolvi procurar um filme pra ver no Netflix, encontrei um chamado “A boa mentira” com a Reese Witherspoon. No começo tava achando o filme um pouco cansativo, não sei se é porque eu coloquei ele as 23h e eu já estava com sono, mas enfim hehe, o que importa é que eu amei. No começo do filme vemos um ataque de milícia que destrói uma vila que fica ao Sul do Sudão onde os irmãos Mamere e Theo vêem seus pais morrerem e a partir daí eles são obrigados a liderar os jovens que ainda estão vivos em busca do campo de refugiados no Quênia, páis onde conseguem chegar depois de uma longa jornada e onde vivem durantes muitos anos. Até que os EUA começam a ajudar algumas dessas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/A-Boa-Mentira-06.jpg'
+  url: '/wp-content/uploads/2015/03/A-Boa-Mentira-06.jpg'
   width: null
   height: null
 # </extra>

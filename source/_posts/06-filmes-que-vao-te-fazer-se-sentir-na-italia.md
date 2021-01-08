@@ -8,7 +8,7 @@ date: 2014-07-16 20:05:03
 # <extra>
 description: 'Depois que li o livro “Sob o sol da Toscana” minha vontade de conhecer a Itália só aumentou, sempre me vejo fazendo planos de viagens pra lá, conhecer aquelas cidades lindas e românticas, e pensando tanto na Itália me veio a ideia de fazer uma lista com alguns filmes que eu adoro e que se passam nesse país encantador. Sob o sol da Toscana Como eu já disse na minha resenha que você pode ler aqui, o filme foi baseado no livro da autora Frances Mayes. No filme Diane Lane interpreta a autora que vive me São Francisco, porém, quando seu casamento acaba ela fica triste e deprimida e uma amiga lhe dá de presente uma passagem pra Toscana, e lá sua vida muda totalmente, pois faz novos amigos, novos amores e até compra uma casa antiga na Toscana que &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/07/06990_2-1342115059.jpg'
+  url: '/wp-content/uploads/2014/07/06990_2-1342115059.jpg'
   width: null
   height: null
 # </extra>

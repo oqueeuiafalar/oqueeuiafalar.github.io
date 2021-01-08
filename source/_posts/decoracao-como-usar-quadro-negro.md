@@ -8,7 +8,7 @@ date: 2015-12-23 14:40:43
 # <extra>
 description: 'Quem diria que um dia os quadros negros sairiam das salas de aula direto pras paredes de nossas casas, né? Essa tendência de usar quadros negros pra ajudar na decoração da casa está cada dia mais em alta e há duas formas de fazê-lo ou usando as tintas na cor verde ou preta, ambas foscas, ou usando folhas adesivas, que são bem parecidas com papel contact e a vantagem das folhas é que são bem mais fáceis de aplicar por não fazerem tanta sujeira. Separei algumas inspirações pra vocês já começarem o ano cheio de ideias para a nova decoração, vamos lá conferir: Quadro negro na cozinha Acho que o ambiente mais legal pra se ter um quadro negro é na cozinha, não sei explicar muito o porque, mas acho super legal a ideia de desenhar utensílios que usamos na &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/quadro-negro-na-cozinha-como-usar-1024x595.jpg'
+  url: '/wp-content/uploads/2015/12/quadro-negro-na-cozinha-como-usar-1024x595.jpg'
   width: null
   height: null
 # </extra>

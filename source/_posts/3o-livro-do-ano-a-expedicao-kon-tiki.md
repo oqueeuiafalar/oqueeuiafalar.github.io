@@ -8,7 +8,7 @@ date: 2014-02-25 07:14:47
 # <extra>
 description: 'O livro conta a história do etnógrafo norueguês, Thor Heyerdal, que em 1947 reuniu mais cinco tripulantes e partiu do Peru até a Polinésia à bordo de uma jangada para provar sua teoria de que a Polinésia havia sido habitada por povos vindos da América do Sul e não da Ásia como se acreditava antes. Em homenagem ao deus Inca do Sol, Thor e seus amigos batizaram a sua jangada de Kon Tiki e partiram na expedição que durou 101 dias pelo Pacífico partindo do Peru, enfrentando tubarões, tempestades e se divertindo com peixes voadores e dourados. A expedição Kon Tiki é uma história muito interessante e legal para quem gosta de aventuras. O legal do livro é que tem bastantes fotos tiradas durante a expedição, apesar disso achei a maneira como o livro foi escrito um pouco cansativa, com &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/02/dsc02197.jpg?w=650'
+  url: '/wp-content/uploads/2014/02/dsc02197.jpg?w=650'
   width: null
   height: null
 # </extra>

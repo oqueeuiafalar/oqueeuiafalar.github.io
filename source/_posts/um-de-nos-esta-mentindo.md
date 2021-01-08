@@ -12,7 +12,7 @@ date: 2018-02-17 10:22:10
 # <extra>
 description: 'O livro Um de Nós Está Mentindo é um young adult cheio de suspense e reviravoltas que você precisa ler. Confira a resenha de Um de nós está mentindo aqui.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/02/capa-um-de-nós-está-mentindo.jpg'
+  url: '/wp-content/uploads/2018/02/capa-um-de-nós-está-mentindo.jpg'
   width: '750'
   height: '750'
 # </extra>

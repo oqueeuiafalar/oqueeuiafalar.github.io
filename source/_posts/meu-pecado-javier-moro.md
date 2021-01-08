@@ -13,7 +13,7 @@ date: 2019-03-31 08:12:24
 # <extra>
 description: 'O livro &quot; Meu Pecado &quot; é mais um romance histórico de Javier Moro onde embarcamos para o mundo de Hollywood na década de 30. Confira!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/03/capa-livro-meu-pecado-javier-moro.jpg'
+  url: '/wp-content/uploads/2019/03/capa-livro-meu-pecado-javier-moro.jpg'
   width: '1000'
   height: '1000'
 # </extra>

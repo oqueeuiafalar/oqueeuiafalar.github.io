@@ -8,7 +8,7 @@ date: 2015-04-13 16:04:47
 # <extra>
 description: 'No livro “Anoitece no Iraque &#8211; Projeto Brainwashing” o autor, Patrick Ericson mistura fatos reais com ficção e nos conta uma empolgante história sobre uma conspiração envolvendo o atentado de 11 de setembro. O livro é narrado pelo tenente Jack Parsons, um homem que perde sua esposa grávida no atentado contra as torres gêmeas e resolve ir como soldado para o Iraque em buscas de respostas e vingança. O livro também conta com algumas histórias em paralelo, uma delas é do repórter Rory Moore da BBC World News, que está em busca de um dossiê que contém provas de que os atentados de 11 de setembro foram na verdade uma armação das grandes nações, e no meio disso tudo os caminhos de Jack e Rory se cruzam. Um detalhe do livro que eu gostei é que cada capítulo se inicia &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/DSC03627-1024x768.jpg'
+  url: '/wp-content/uploads/2015/04/DSC03627-1024x768.jpg'
   width: null
   height: null
 # </extra>

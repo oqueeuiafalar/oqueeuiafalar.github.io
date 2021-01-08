@@ -8,7 +8,7 @@ date: 2014-05-22 17:57:06
 # <extra>
 description: 'Gente, vocês já ouviram falar da Mariana Valente ou Malipi? Pois é, ela é uma talentosíssima ilustradora que enche seus traços de delicadeza e encanto, separei alguns trabalhos dela pra vocês verem, com certeza vão amar. Vocês podem conferir um pouco mais do trabalho dela aqui: Malipi Beijos!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/01.jpg?w=650'
+  url: '/wp-content/uploads/2014/05/01.jpg?w=650'
   width: null
   height: null
 # </extra>

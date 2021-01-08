@@ -8,7 +8,7 @@ date: 2016-05-16 13:54:25
 # <extra>
 description: '&nbsp; Esses tempos atrás eu estava em busca de um sabonete esfoliante que valesse o custo beneficio, e procurei, procurei e procurei e achei um com o cheiro delicioso na O Boticário, comprei logo de cara, afinal, eu adoro os produtos da marca. O sabonete esfoliante Nativa SPA de lichia da O Boticário é uma delícia, os grânulos são grandes, o que eu conto como ponto positivo, mas para não machucar a pele tem que passar suavemente, e ele faz bastante espuma, outro ponto positivo para o sabonete. A sensação de pele perfumada, super macia e aveludada após o banho é uma delícia, adoro esse produto e a linha contém outros cheiros maravilhosos também, como o de ameixa e açaí. Nas lojas físicas é bem fácil encontrar, mas quem quiser também pode adquirir o produto pelo site da O Boticário. &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/05/sabonete-esfoliante-Nativa-SPA-de-lichia-da-O-Boticário-1024x768.jpg'
+  url: '/wp-content/uploads/2016/05/sabonete-esfoliante-Nativa-SPA-de-lichia-da-O-Boticário-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-10-16 23:38:41
 # <extra>
 description: 'Oi, gente! Tudo bem com vocês? Vamos começar um fim de semana lindo e ensolarado* falando de coisas lindas, decoração e moda? (* Embora eu precise confessar que gosto mesmo dos dias mais nublados :P) Esses potes Sabe aquele copinho de geléia, azeitona ou outras coisinhas que você compra pra casa e quando acaba o que vem dentro você joga fora? Então, olha que ótima utilidade pode ser dada para eles, ficou uma graça esses copinhos de porta talheres, bem bonito pra decorar uma mesa. Essas caixas Eu sou apaixonada por tudo que é vintage  e essas caixas – maravilhosas – me fizeam sentir vontade de fazer uma coleção delas em casa  hahaha. Além de serem ótimas para guardar maquiagem, lenços e outras coisinhas mais, elas ficam lindas na decoração. A Taylor Swift E por falar em vintage, olha que &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/pode-te-vidro-decoração-682x1024.jpg'
+  url: '/wp-content/uploads/2015/10/pode-te-vidro-decoração-682x1024.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2016-02-06 13:12:53
 # <extra>
 description: 'Jack é um menino de cinco anos e tudo o que ele conhece do mundo é o quarto de 10 metros quadrados que ele vive junto com Ma, a sua mãe. Para ele o lugar é aconchegante e não vê problemas em viver ali, afinal, aquele é o único mundo que ele conhece. Joy &#8211; o verdadeiro nome de Ma &#8211; está sequestrada há sete anos e ela resolve explicar para Jack que fora do quarto existe um mundo que ele apenas conhece pela televisão e que se ele a ajudar em um plano de fuga, ele um dia poderá conhecer pessoalmente. Quase no final do filme vemos uma transformação muito grande em Jack, na forma de como ele vê o mundo e também a triste realidade de sua mãe que entra em uma depressão profunda por não saber lidar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/02/O-quarto-de-jack-filme.jpg'
+  url: '/wp-content/uploads/2016/02/O-quarto-de-jack-filme.jpg'
   width: null
   height: null
 # </extra>

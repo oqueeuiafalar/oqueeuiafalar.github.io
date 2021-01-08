@@ -8,7 +8,7 @@ date: 2015-09-07 17:53:45
 # <extra>
 description: 'Essa semana eu estava organizando algumas coisas e achei uma caixa que tenho desde que eu era criança, porém, como fazia muito tempo que não mexia nela, nem lembrava mais o que tinha lá dentro. Ao abrir essa caixa encontrei muitas coisas que eram tão importantes pra mim a uns 16 anos atrás e hoje eu já nem lembrava mais que existiam. Me dei conta que essas coisas, embora não façam parte do meu momento de vida atual, ainda mantêm sua importância na minha vida pelo papel fundamental que tiveram no meu crescimento e na definição da pessoa que me tornei e que ainda posso me tornar. Encontrei muitas cartelas de adesivos, aqueles bem fofos, sabe (?) com desenhos do Mickey, anjinhos, borboletas, até da moranguinho haha, e também cartinhas que trocava com algumas amigas no colégio, agendas cheias de &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/felicidade-baloes.jpg'
+  url: '/wp-content/uploads/2015/09/felicidade-baloes.jpg'
   width: null
   height: null
 # </extra>

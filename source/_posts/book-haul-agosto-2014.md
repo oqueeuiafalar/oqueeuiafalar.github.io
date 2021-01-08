@@ -8,7 +8,7 @@ date: 2014-10-06 15:06:34
 # <extra>
 description: 'Oi gente, depois de um bom tempo escrevendo aqui no blog resolvi criar um canal no youtube, é por lá que pretendo postar alguns vídeos para quem me acompanha aqui. O primeiro video é um book haul sobre os livros que comprei em agosto desse ano. Apesar de o book haul ser agosto eu só gravei recentemente e ainda não resenhei nenhum desses livros para o blog, mas em breve resenharei. Nesse primeiro vídeo estou falando desses livros: 1º Dias melhores virão &#8211; Jennifer Weiner 2º Esposa 22 &#8211; Melaine Gideon 3º O diabo &#8211; Liev Tolstói 4º Advogado do diabo &#8211; Andrew Neiderman 5º Uma mente brilhante &#8211; Sylvia Nasar 6º O lado bom da vida &#8211; Matthew Quick 7º Projeto felizes para sempre &#8211; Alisa Bowman 8º Querido John &#8211; Nicholas Sparks 9º Um homem de sorte &#8211; Nicholas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/bookhaul-agosto-2014.jpg'
+  url: '/wp-content/uploads/2014/10/bookhaul-agosto-2014.jpg'
   width: null
   height: null
 # </extra>

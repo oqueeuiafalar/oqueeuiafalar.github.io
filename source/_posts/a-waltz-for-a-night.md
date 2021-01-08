@@ -9,7 +9,7 @@ date: 2014-08-07 17:54:29
 # <extra>
 description: 'O post de hoje é uma dica musical de um filme muito fofo. A música se chama “A waltz for a night”, e é interpretada pela atriz francesa Julie Delpy. &#8220;A waltz for a night&#8221; faz parte do filme “Antes do pôr-do-sol’, segundo filme da trilogia que conta com “Antes do amanhecer” e “Antes da meia noite”. &#8220;Antes do amanhecer&#8221; foi um romance de grande sucesso na década de 90, onde Celine, uma moça francesa, e Jesse um rapaz americano se conhecem em uma viagem de trem e quando em Viena eles resolvem desembarcar e se apaixonam, porém há um problema, no dia seguinte ela terá que ir pra Paris e ele terá que voltar para os Estados Unidos, ficando anos sem se ver. E ai o espectador fica com aquela pergunta em mente: Eles vão ou não se reencontrar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/antes_do_amanhecer.jpg'
+  url: '/wp-content/uploads/2014/08/antes_do_amanhecer.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2016-04-18 14:35:14
 # <extra>
 description: 'No livro “As lágrimas de Shiva” temos como protagonista Javier, um rapaz de 15 anos que é obrigado a ir passar as férias  em Santander na casa de seus tios Adela e Luís e de suas quatro primas, Rosa, Margarida, Violeta e Açucena, o que o deixa bem irritado, afinal seu irmão vai poder ir pra casa de outros tios, porém, é na cidade grande e tudo isso acontece porque seu pai esta com tuberculose e precisa evitar ao máximo o contato com outras pessoas. Javier adora livros de ficção cientifica e coisas relacionadas ao espaço, por isso ele está muito ansioso para ver a chegada do homem à lua, pois o livro se passa em 1969, mas ao chegar à casa dos tios em Villa Candelária fica desapontado ao descobrir que eles não têm televisão, porém, o tio promete &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/04/resenha-as-lágrimas-de-shiva-1024x768.jpg'
+  url: '/wp-content/uploads/2016/04/resenha-as-lágrimas-de-shiva-1024x768.jpg'
   width: null
   height: null
 # </extra>

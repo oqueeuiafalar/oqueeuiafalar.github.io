@@ -8,7 +8,7 @@ date: 2014-04-10 09:32:08
 # <extra>
 description: 'O post de hoje é sobre o talentosíssimo Jimmy Liao. Fiquei conhecendo o trabalho dele através do Pinterest e confesso que me apaixonei. Jimmy Liao é um ilustrador e escritor taiwanes que trabalhou durante doze anos com publicidade até que resolveu mudar e se dedica ao público infantil. Seus trabalhos são ricos em detalhes, cheios de personalidade e de uma delicadeza incrível, não tem como não amar. Separei pra vocês algumas ilustrações para que possam conhecer um pouco do trabalho dele, espero que gostem. Quem também amou as ilustrações de Jimmy Liao pode acompanhar seu trabalho em sua página pessoal no facebook ou nessa página mantida por fãs.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/04/tumblr_md9zwwq5pn1qavvo2o1_500.jpg?w=650'
+  url: '/wp-content/uploads/2014/04/tumblr_md9zwwq5pn1qavvo2o1_500.jpg?w=650'
   width: null
   height: null
 # </extra>

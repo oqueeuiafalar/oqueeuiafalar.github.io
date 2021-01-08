@@ -8,7 +8,7 @@ date: 2014-08-28 20:34:59
 # <extra>
 description: 'Não importa se são cheios de florzinhas fofas, listrados ou com estampas geométricas, o que importa é que papeis de parede são ótimos pra mudar um ambiente, deixando-os mais aconchegantes e divertidos. Houve um tempo em que o papel de parede era considerado coisa velha, hoje graças à tecnologia ele voltou com tudo e nos ajuda a transformar ambientes, sem que precisemos comprar móveis novos ou reformar a casa toda. Pensando nisso e olhando muitas fotos no Pinterest, que confesso me fizeram ter vontade de ir a uma loja e redecorar a casa toda, fiz este post, pra que vocês possam se inspirar e fazer da sua casa um lugar mais divertido e aconchegante. 01. 02. 03. 04. 05. 06. 07. 08. 09. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. E aí, sentiram aquela vontade de redecorar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/01-632x1024.jpg'
+  url: '/wp-content/uploads/2014/08/01-632x1024.jpg'
   width: null
   height: null
 # </extra>

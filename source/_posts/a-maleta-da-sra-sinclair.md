@@ -13,7 +13,7 @@ date: 2019-08-17 08:07:57
 # <extra>
 description: 'Sinopse:   A britânica Roberta Pietrykowski adora encontrar e ler as cartas e postais perdidos em meio a edições antigas dos livros que aparecem para ser revendidos na livraria Old &amp; New, onde trabalha. Esses pequenos pedaços da vida alheia a fazem imaginar o que pode ter acontecido aos seus donos. E é também uma carta, que ela encontra numa mala que pertencia a uma certa sra. Sinclair, escrita por seu avô, Jan Pietrykowski, que dará um novo sentido à sua vida, fazendo-a imaginar uma história diferente da que lhe foi contada sobre sua origem. Quem teria sido a dona daquela misteriosa mala? E por que ela, Roberta, teria herdado o misterioso objeto, bem como todas as lembranças guardadas nela? É o que este romance, que viaja entre 1940 e 2010, revela ao leitor. Resenha:   no livro Maleta da Sra. Sinclair  a história em dois períodos &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/08/a-maleta-da-sra-sinclair.jpg'
+  url: '/wp-content/uploads/2019/08/a-maleta-da-sra-sinclair.jpg'
   width: '750'
   height: '750'
 # </extra>

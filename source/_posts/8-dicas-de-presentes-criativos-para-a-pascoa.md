@@ -8,7 +8,7 @@ date: 2014-04-17 09:36:06
 # <extra>
 description: 'A Páscoa está chegando e eu sei que essa época do ano pede muita caixa de bombom, ovos de páscoa, cestas e outras delícias feitas de chocolate que praticamente todo mundo adora. Mas sei também que muita gente gostaria de dar um presente mais criativo e fugir um pouco do chocolate (só um pouco :P) e por isso fiz uma listinha com alguns presentes bem criativos e diferentes que encontrei na Monky, FoundIt, Imaginarium e Toy Store para que vocês possam presentear as pessoas queridas nesse domingo. 1 &#8211; Coelhada reunida da FoundIt (coelho e chocolates num presente só) 2 &#8211; O que trazes pra mim da FoundIt (coelhos e bem casados) 3 &#8211; Almofada mofy media de coelho da Imaginarium 4 &#8211; Sabonete líquido em formato de cupcake de chocolate da Imaginarium 5 &#8211; Caneca com tampa de coelhinho &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/04/rect62461.png?w=650'
+  url: '/wp-content/uploads/2014/04/rect62461.png?w=650'
   width: null
   height: null
 # </extra>

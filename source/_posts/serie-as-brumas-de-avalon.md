@@ -8,7 +8,7 @@ date: 2014-10-30 21:06:33
 # <extra>
 description: 'Gente, finalmente ganhei a coleção de livros “As Brumas de Avalon”. Esses livros foram escritos por Marion Zimmer Bradley e é composto por quatro volumes, que são: A Senhora da Magia; A grande rainha;  O gamo-rei e O prisioneiro da árvore. Como ainda não comecei a ler os livros, não posso entrar em detalhes sobre eles, mas pra quem não sabe nada da história possa adiantar apenas que ela conta sobre o rei Arthur, porém, é contada através do ponto de vista feminino. Estou muito ansiosa pra começar a ler a série, e como vocês sabem, assim que eu for terminando as leituras venho aqui no blog comentar sobre o livro  pra vocês. Pra quem se interessar pela coleção, a Americanas. com esta fazendo uma promoção, só conferir aqui.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03357.jpg'
+  url: '/wp-content/uploads/2014/10/DSC03357.jpg'
   width: null
   height: null
 # </extra>

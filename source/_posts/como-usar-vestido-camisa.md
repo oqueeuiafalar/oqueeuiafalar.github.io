@@ -13,7 +13,7 @@ date: 2017-09-15 08:25:39
 # <extra>
 description: 'Oie gente, tudo bem? Se tem um tecido que nunca sai de moda, esse tecido é o jeans &#8211; graças a Deus haha &#8211; e esse vestido apesar de não ser jeans, tem um tecido que lembra muito o jeans, uma tendência de azul que vem desde 2016 e continua super em alta. Quando eu ganhei esse vestido não foi amor à primeira vista, mas isso até eu experimentar. Ele além de ser muito confortável, fica lindo no corpo e bem acinturadinho graças a essa amarração na cintura. É aquele tipo de vestido que nunca sai de moda, adoro! Estou apaixonada por esse óculos. Mas devo confessar que paguei minha língua ao usa-lo, porque antigamente eu detestava óculos espelhado, mas hoje tem modelos tão lindos &#8211; principalmente esse da Livo &#8211; que eu não consigo resistir. O vestido     &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/como-usar-óculos-espelhado.jpg'
+  url: '/wp-content/uploads/2017/09/como-usar-óculos-espelhado.jpg'
   width: '828'
   height: '828'
 # </extra>

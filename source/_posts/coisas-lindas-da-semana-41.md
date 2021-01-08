@@ -8,7 +8,7 @@ date: 2015-11-14 11:56:34
 # <extra>
 description: 'Oi, pessoas lindas preparadas e preparados para mais um coisas lindas da semana? Esses detalhes Ai, não sei se estou apaixonada pelo decote ou pela corrente, tudo tão lindo e delicado. Esse tênis Ahhh eu quero esse tênis, muito lindo, não acham? E os cachorrinhos – de verdade – mais lindos ainda, amor demais pra uma foto só. Esse espaço  Acho que toda criança deveria ter um lugarzinho assim em casa, pra brincar e estudar e logo depois organizar tudo hehe. Esse pôster  Adoro esse tipo de pôster, fica lindo pra decorar a casa principalmente se a sua for bem clean, e com esse frase aí, ai natal, chega logo. E aí, o que acharam? Já deu para sentir que estou começando a sentir os ares do natal, né? Rs Beijos, bom final de semana.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/decotes-nas-costas-com-corrente-683x1024.jpg'
+  url: '/wp-content/uploads/2015/11/decotes-nas-costas-com-corrente-683x1024.jpg'
   width: null
   height: null
 # </extra>

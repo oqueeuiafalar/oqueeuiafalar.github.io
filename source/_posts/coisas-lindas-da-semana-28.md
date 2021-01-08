@@ -8,7 +8,7 @@ date: 2015-08-08 11:23:36
 # <extra>
 description: 'Coisas lindas 28 vem com tudo porque falar de coisas boas e lindas nunca é demais. Vamos lá que hoje tem decoração, moda e até sobre arquitetura russa 😛 Esse quarto &nbsp; Me apaixonei demais por esse quarto, bem rústico e muito aconchegante, olho pra ele e já sinto de vontade de pegar uma xícara de chocolate quente, meu edredom, um livro, me deitar naquela cama e esquecer da vida, haha. Esse desktop Sim, eu sei que eu sou um pouco confusa, em uma hora digo que adoro um ambiente rústico e de repente eu também adoro esse ambiente super clean, haha. Mas fazer o que, a cabeça de uma bipolar é assim mesmo, mas quem não gostaria de um ambiente assim pra trabalhar, hem? A Rússia Alguém por favor me leve pra Rússia!! Eu adoro o inverno, amo dias &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/4e371677af14a7a6b3322942f40ea153-685x1024.jpg'
+  url: '/wp-content/uploads/2015/08/4e371677af14a7a6b3322942f40ea153-685x1024.jpg'
   width: null
   height: null
 # </extra>

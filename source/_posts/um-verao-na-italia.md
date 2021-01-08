@@ -14,7 +14,7 @@ date: 2018-06-05 19:15:28
 # <extra>
 description: 'Esta em busca de uma leitura leve e gostosa? ﻿Um Verão na Itália﻿ pode ser uma ótima escolha onde você poderá viajar por lindas paisagens e comidas saborosas.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/capa-livro-um-verão-na-itália-de-carrie-elks.jpg'
+  url: '/wp-content/uploads/2018/06/capa-livro-um-verão-na-itália-de-carrie-elks.jpg'
   width: '1000'
   height: '1000'
 # </extra>

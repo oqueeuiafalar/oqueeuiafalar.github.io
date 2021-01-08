@@ -12,7 +12,7 @@ date: 2017-05-23 09:52:10
 # <extra>
 description: 'Talvez eu ainda não seja tão velho assim mas ainda vivenciei o final de uma época em que era comum venderem enciclopédias nas escolas. O livro “50 grandes ideias da humanidade&#8221; que você precisa conhecer” me lembrou de uma parte boa da minha relação com aquelas enciclopédias do meu período escolar: graças a esses livros acabei aprofundando ou tendo um contato inicial com muitas grandes ideias. O autor é professor da Universidade de Oxford e soube reunir bem 50 grandes ideias em um livro curto, rápido, fácil de ler. O estilo do livro não lembra em nada o que poderíamos esperar de uma enciclopédia. As 50 ideias são divididas em 6 temas principais: filosofia, religião, política, economia, arte e ciência. Provavelmente os temas mais importantes para sociedade e pra vida humana. Cada ideia é formada de um texto que começa &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/05/50-grandes-ideias-da-humanidade-que-você-precisa-conhecer-resenha.jpg'
+  url: '/wp-content/uploads/2017/05/50-grandes-ideias-da-humanidade-que-você-precisa-conhecer-resenha.jpg'
   width: '828'
   height: '828'
 # </extra>

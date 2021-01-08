@@ -9,7 +9,7 @@ date: 2015-05-13 15:31:58
 # <extra>
 description: 'O look que eu trouxe hoje é super confortável e eu amei. Eu adoro kimonos e eles ainda estão na moda e eu espero que essa moda dure por muito tempo, afinal eles são lindos e deixam qualquer look mais elegante e despojado, não acham? &nbsp; Usando: Shorts: Marisa / Kimono: Marisa / Mocassim: Via Mia / Óculos: Phelps E vocês, também aderiram essa moda dos kimonos? Quero ver fotos, hem!! Beijos!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/05/DSCN0340.jpg'
+  url: '/wp-content/uploads/2015/05/DSCN0340.jpg'
   width: null
   height: null
 # </extra>

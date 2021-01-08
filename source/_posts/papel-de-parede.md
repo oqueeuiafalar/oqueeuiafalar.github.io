@@ -11,7 +11,7 @@ date: 2020-03-23 17:16:33
 # <extra>
 description: 'Quer saber como escolher o modelo certo de papel de parede para a sua casa e aprender como a colocá-lo? Então, acesse nosso post e anote todas as dicas.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2020/03/atelie-decorado-com-papel-de-parede-anos-70.jpg'
+  url: '/wp-content/uploads/2020/03/atelie-decorado-com-papel-de-parede-anos-70.jpg'
   width: '1200'
   height: '1200'
 # </extra>

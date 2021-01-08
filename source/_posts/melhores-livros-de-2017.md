@@ -10,7 +10,7 @@ date: 2017-12-28 09:42:15
 # <extra>
 description: 'Chegou o momento de escolher os melhores livros de 2017. Para mim é sempre um dos post mais prazerosos e difíceis de fazer, porque apesar de eu ter escolhido cinco livros que eu amei, ficaram tantos outros de fora que eu também amei haha. Esse ano eu fiz algo que raramente eu faço, me dei a chance de ler mais biografias e fiquei muito feliz por isso, porque pude ler biografias incríveis. Também fiz parceria com a Galera Record que me mandou muitos livros fantásticos para ler e mantive a parceria com a Editora Planeta que eu já amo por me proporcionar tantas leituras incríveis. Ah, e também tem o Coletivo Editorial, que me fez embarcar em uma viagem para  Índia com a Biografia de Radhanath Swami. Enfim, leitura boa foi o que mais teve esse ano, claro que teve &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/12/melhores-livros-do-ano.jpg'
+  url: '/wp-content/uploads/2017/12/melhores-livros-do-ano.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -15,7 +15,7 @@ date: 2017-07-01 11:46:11
 # <extra>
 description: 'Tendo seu início a partir da década de 30, a música pop é um estilo muito comercializado e,  como o próprio nome diz, muito popular. É um gênero que mistura diversos estilos, não tendo uma característica que o define por si próprio como o rock, jazz e o samba, por exemplo. Porém, a integração de elementos tão diversos que são responsáveis pelo sucesso da música pop no mundo todo. Mesmo tendo seu início na década de 30, foi só em 1950 que o pop se consolidou no mercado. Buscando influências do jazz, soul e country, junto de uma melodia simples, batidas repetidas e uma letra de fácil memorização, não demorou muito para as pessoas comprarem a ideia e se tornarem fã dos artistas desse gênero. Outros elementos responsáveis pela popularização do pop são as performances dos cantores em seus shows. &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/06/madonna.jpg'
+  url: '/wp-content/uploads/2017/06/madonna.jpg'
   width: '828'
   height: '828'
 # </extra>

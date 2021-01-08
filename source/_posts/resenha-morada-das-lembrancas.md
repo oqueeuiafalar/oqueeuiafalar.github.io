@@ -8,7 +8,7 @@ date: 2015-10-12 09:49:02
 # <extra>
 description: 'No livro “Morada das lembranças” temos como protagonista uma menina de sete anos que após o pai ser assassinado durante a Revolução Russa, ela se vê obrigada a fugir da Rússia junto com a mãe e o irmão, ainda bebe. A narrativa dela fugindo é bem tensa e tocante, ela fica durante horas amarrada a perna da mãe, por debaixo da saia, enquanto o irmão vai no colono dela, pois a mãe só pode tirar do país de forma legal apenas uma criança, por isso, sobra para a menina ficar escondida debaixo da saia, passando calor, dor, fome e medo. A família foge primeiramente para a Polônia, onde eles vão encontrar Alex, um amigo da mãe que os ajudará a pega um navio com rumo ao Rio de Janeiro. Ao chegar no Rio de Janeiro a menina fica encantada com &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/capa-do-livro-Moda-das-Lembranças-1024x768.jpg'
+  url: '/wp-content/uploads/2015/10/capa-do-livro-Moda-das-Lembranças-1024x768.jpg'
   width: null
   height: null
 # </extra>

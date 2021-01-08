@@ -8,7 +8,7 @@ date: 2015-12-19 13:07:21
 # <extra>
 description: 'Oba! Menos de uma semana pra uma das minhas datas preferidas do ano, e claro, o coisas lindas número 46 vem com muitos toques de natal, espero que gostem. Essa sala Ta tudo tão lindo nessa sala que eu nem sei por onde começar a falar da decoração haha. Adoro quem faz decoração de natal dourada (apesar de eu achar mais a cara do réveillon. Mas nessa sala está tudo perfeito, o detalhe em volta da lareira, as meias, os presentes todos embrulhados no mesmo tom, essa árvore divina &#8230; Esses embrulhos Olha só que prática e linda essa inspiração de embrulho para os presentes de natal. Bem fácil de fazer, e pra quem não quiser enfeitar com as colheres, pode usar um papai Noel, um bombom, uma flor, ao que remeta a alguma coisa que a pessoa a ser &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/12/decoração-de-sala-para-o-natal-683x1024.jpg'
+  url: '/wp-content/uploads/2015/12/decoração-de-sala-para-o-natal-683x1024.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-01-12 18:22:16
 # <extra>
 description: 'Bom gente, como prometido aqui vai a parte dois do post sobre São Thomé das Letras. Pra quem não viu ainda, ou quer ver de novo a parte 1 da viagem, é só clicar aqui. Dia 2) Cachoeiras de São Thomé das Letras Acordamos cedo ainda sem saber o que iríamos fazer. Uma pesquisa rápida no google mostrou várias cachoeiras e grutas para se conhecer na cidade. Tiramos o carro da garagem e seguimos por 8km de estrada de terra que vai no sentido contrário à Três Corações e leva até as principais cachoeiras da região. Passamos por várias cachoeiras, como a cachoeira da Eubióse (a apenas 2km da cidade, por isso de fácil acesso), a cachoeira do Flávio e o Véu de Noiva. Na cachoeira Véu de noiva, entramos um pouco, a água é muito boa, límpida e fria. &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/01/50.jpg'
+  url: '/wp-content/uploads/2015/01/50.jpg'
   width: null
   height: null
 # </extra>

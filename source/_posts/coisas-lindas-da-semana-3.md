@@ -8,7 +8,7 @@ date: 2015-02-07 14:33:42
 # <extra>
 description: 'Gente, essa semana passou voando. Pelo menos para mim. Ou será que para todo mundo essas semanas que antecedem o carnaval passam depressa mesmo? Essa semana só choveu por aqui, exceto é claro, na segunda-feira quando não choveu, caiu o mundo haha. Embora eu não seja muito fã de pular carnaval, como expliquei nesse post em que dou dicas para quem não curte o carnaval, não quero atrapalhar a curtição de ninguém então to aqui na torcida para não chover todos os dias de carnaval 😛 E não é que essa já é meu terceiro “coisas lindas da semana” ?!? Sorte minha que toda semana tem coisa linda para compartilhar 🙂 Esse céu de guarda-chuvas E eu já estou um pouco enjoada do meu guarda-chuva, tava querendo comprar um mais moderninho/diferente, daí vim fazer uma pesquisa na net e me deparo &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/2bafa75a3b5e2bce0790241120c7c2d1-685x1024.jpg'
+  url: '/wp-content/uploads/2015/02/2bafa75a3b5e2bce0790241120c7c2d1-685x1024.jpg'
   width: null
   height: null
 # </extra>

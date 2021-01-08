@@ -8,7 +8,7 @@ date: 2014-05-02 11:34:33
 # <extra>
 description: 'O filme &#8220;O Carteiro e o Poeta&#8221; (Il Postino, 1994) conta a história do encontro entre o humilde Mario Ruoppolo e o poeta chileno Pablo Neruda. Na história Mario é um filho de pescador que se recusa a seguir a mesma profissão do pai, saindo assim em busca de emprego e Neruda, já consagrado como poeta vive exilado na ilha onde Mario mora na Itália. Assim que fica sabendo de um trabalho de carteiro Mario se candidata, e consegue o emprego. Sua função passa a ser entregar diariamente as correspondências do poeta Pablo Neruda. Aos poucos um laço de amizade se forma entre os dois. Mario apaixona-se por Beatrice, uma bela mulher da ilha, e passa a pedir conselhos sobre poesias para conquistar o seu amor. Mario casa-se com Beatrice e juntos tem um filho e Pablo Neruda volta ao &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02698.jpg?w=650'
+  url: '/wp-content/uploads/2014/05/dsc02698.jpg?w=650'
   width: null
   height: null
 # </extra>

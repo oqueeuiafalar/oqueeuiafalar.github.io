@@ -8,7 +8,7 @@ date: 2015-02-28 14:09:49
 # <extra>
 description: 'O “Coisas lindas da semana” dessa semana poderia se chamar “Sob o sol da Toscana”. Se você pensou no filme, sim você esta certo, me inspirei nele pra fazer esse post. Como eu estou tentando praticar ao máximo o inglês, para não esquecer tudo o que aprendi no cursinho de anos eu resolvi começar a ver filmes e seriados que eu gosto sem legenda e em inglês, e essa semana eu assisti esse filme que eu amo demais, que já assisti várias vezes e que ainda vou ver muito. Para quem não conhece a história, que é baseada em um livro, pode conferir a resenha do livro aqui Essa mulher Essa mulher consegue transmitir paz, amor, felicidade e tranqüilidade, tudo em uma foto só. Tão linda! Essa vila Ainda vou dá uma de Frances (do filme Sob o sol da Toscana) &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/da6c770e86440a10f3de1368bc9a071d-684x1024.jpg'
+  url: '/wp-content/uploads/2015/02/da6c770e86440a10f3de1368bc9a071d-684x1024.jpg'
   width: null
   height: null
 # </extra>

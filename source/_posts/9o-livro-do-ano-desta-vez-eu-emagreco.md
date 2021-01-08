@@ -8,7 +8,7 @@ date: 2014-05-20 09:36:28
 # <extra>
 description: 'O livro “Desta vez eu emagreço!” do jornalista Claudir Franciatto e do Dr. Alfredo Halpern é divido em duas partes. Na primeira parte vemos Claudir contando sua história desde a infância, onde ele sofria bulling de seus amigos e irmão, recebendo os mais variados apelidos por ser gordo, passando pela sua adolescência, onde ele começou a espichar, consequentemente emagreceu e assim ele pensou que finalmente poderia conquistar alguma menina, mas para o seu azar, seu rosto encheu de espinhas e ele continuou com seus amores apenas platônicos. Por volta dos 17 anos ele parou de crescer e voltou a engordar e resolveu procurar um médico para ajuda-lo, e foi aí que ele começou a tomar anfetamina, foram anos usando essa droga até que ela começou a mostrar seus efeitos colaterais, como depressão e insônia. Claudir tentou os mais variados tipos &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02831.jpg?w=650'
+  url: '/wp-content/uploads/2014/05/dsc02831.jpg?w=650'
   width: null
   height: null
 # </extra>

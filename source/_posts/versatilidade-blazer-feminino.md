@@ -10,7 +10,7 @@ date: 2017-07-24 10:12:01
 # <extra>
 description: 'O blazer é uma das peças mais clássicas do mundo da moda. Durante muito tempo, ele foi considerado uma peça exclusivamente masculina, mas com a evolução dessa indústria no século XX, Coco Chanel, uma das maiores estilistas de todos os tempos, acabou adaptando para o guarda roupa feminino, virando uma tendência entre as mulheres. Atualmente, podemos encontrar blazers nas mais modelagens, estampas e cores. Por ser uma peça muito versátil, ele fica bem nas mais variadas silhuetas. Não importa se você tem o corpo oval, triangular, retangular ou ampulheta, há blazer para todos eles. Pensando nisso, separei algumas dicas de como usa-los. Blazer com calça social É uma das formas mais tradicionais de usar blazer. Caso não queira deixar tudo muito conservador, opte por blazers estampados e com cores diferentes. Eles se destacam e acabam saindo do padrão terninho preto &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/07/blazer-preto.jpg'
+  url: '/wp-content/uploads/2017/07/blazer-preto.jpg'
   width: '828'
   height: '828'
 # </extra>

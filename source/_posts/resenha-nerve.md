@@ -12,7 +12,7 @@ date: 2016-12-22 10:16:45
 # <extra>
 description: 'Vee é uma garota que é maquiadora de seus amigos durante uma peça de teatro, além de ajudar nos bastidores da peça. Vee tem uma quedinha por Matthew, o garoto mais popular da escola, e esta ansiosa para a festa em comemoração ao final da temporada da peça e também para poder sair do castigo que seus pais impuseram a ela. Tem um jogo que esta fazendo muito sucesso chamado “Nerve” e Vee em um momento impensado e querendo sair dos bastidores que é sua vida, resolve se inscrever nele. Nerve é uma espécie de verdade ou desafio, mas nesse caso é só desafio mesmo haha. O jogo é dividido entre observadores que pagam uma taxa para poder assistir aos desafios, e os jogadores que aceita desafios em troca de prêmios, a cada rodada os desafios vão ficando mais difíceis &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/capa-livro-nerve.jpg'
+  url: '/wp-content/uploads/2016/11/capa-livro-nerve.jpg'
   width: '828'
   height: '828'
 # </extra>

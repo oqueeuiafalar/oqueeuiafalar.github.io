@@ -12,7 +12,7 @@ date: 2017-05-03 10:38:44
 # <extra>
 description: 'Quem me acompanha no Instagram viu que a Editora Galera me enviou um mimo muito lindo, o livro “O canto mais escuro da floresta” da Holly Black, dentro de uma caixinha branca cheia de pétalas de flores secas e um vidrinho de essência. O cheiro me embalou durante toda história – porque o livro realmente pegou o cheirinho pra ele haha – e por incrível que parece os dois se completam e muito. A história se passa na cidade de Fairfold, um lugar onde humanos e fadas vivem se cruzando o tempo todo e onde muitos eventos estranhos e assustadores acontecem. Fairfold é uma cidade bem pequena, cercada por uma floresta, e é lá na floresta que vive o Povo, são seres (fadas e monstros) que até então viviam em paz com o resto dos moradores da cidade, mas as &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/05/capa-do-livro-o-canto-mais-escuro-da-floresta-de-Holly-Black.jpg'
+  url: '/wp-content/uploads/2017/05/capa-do-livro-o-canto-mais-escuro-da-floresta-de-Holly-Black.jpg'
   width: '828'
   height: '828'
 # </extra>

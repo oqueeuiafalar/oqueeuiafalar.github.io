@@ -8,7 +8,7 @@ date: 2015-07-11 11:36:02
 # <extra>
 description: 'Advinha só sobre o que são as coisas lindas dessa semana? 😛 Decoração e moda, vocês sabem como eu adoro essas coisas, né? 🙂 Vamos lá, nossas coisas lindas são: Essas pranchetas Gente, eu estou apaixonada por essa ideia de uma parede só de pranchetas, sério mesmo, além de ficar super diferente e lindo, também é muito útil, afinal dá pra encher de recadinhos e lembretes. Essa simplicidade Simples, porém, lindo, não concordam? Um vestido super básico com um chapéu e está arrasando, adorei. Tudo isso Ahhhh ta tudo tão lindo nesse ambiente, esse papel de parede amorzinho, esse sofá lindíssimo e bem clássico, esse lustre que ta um espetáculo e essa mesinha fofa, é muito amor pra uma sala só. Esses lampiões Outra ideia linda pra decoração e que fica bem charmosa no inverno é usar vários lampiões com &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/07/97c9e42939bab3a0b606bfe9c39099fe.jpg'
+  url: '/wp-content/uploads/2015/07/97c9e42939bab3a0b606bfe9c39099fe.jpg'
   width: null
   height: null
 # </extra>

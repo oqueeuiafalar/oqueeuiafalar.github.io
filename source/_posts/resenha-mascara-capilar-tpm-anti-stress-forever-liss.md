@@ -12,7 +12,7 @@ date: 2016-09-22 09:49:56
 # <extra>
 description: 'Oi gente, tudo bem? Como vocês sabem, esse ano eu fui pela primeira vez na Beauty Fair e um dos stands que eu acabei visitando foi o da Forever Liss. Eu nunca tinha usado nada da marca, mas como sempre ouvi falar muito bem fiquei super ansiosa assim que eu ganhei a Máscara Capilar TPM Anti Stress. O creme promete hidratar e regenerar os fios, além, de tranquilizar o frizz. Ele é bem fácil de ser usado, após lavar os cabelos com shampoo basta aplica-lo no cabelo (eu apliquei mecha por mecha) e massageá-lo um pouco durante 10 minutos e pronto, agora é só lavar. A máscara capilar TPM anti stress possui ingredientes naturais na sua formula, que são: Aloe e vera: revitaliza e hidrata os cabelos desde o couro cabeludo deixando-os mais sedosos e brilhantes; Erva doce: protege os &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/resenha-Máscara-Capilar-TPM-Anti-Stress-Forever-liss.jpg'
+  url: '/wp-content/uploads/2016/09/resenha-Máscara-Capilar-TPM-Anti-Stress-Forever-liss.jpg'
   width: '828'
   height: '828'
 # </extra>

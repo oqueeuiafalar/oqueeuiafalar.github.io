@@ -14,7 +14,7 @@ date: 2017-08-10 06:59:07
 # <extra>
 description: 'Oi gente, tudo bem? Ahhh vocês não fazem ideia de como eu estou amando usar essa saia midi. Quando eu a vi na loja foi amor a primeira vista, sério! mas como ela estava com um preço salgado eu acabei demorando algumas semanas para comprar e fiquei morrendo de medo de acabar todas as peças (afinal a vendedora me disse que tinha poucas) e eu ficar sem, mas como eu sou persistente, fiz uma peregrinação semanal à loja e um dia ela estava em PROMOÇÃO haha. A saia midi é um dos modelos que mais esta em alta e isso é muito bom, afinal, além delas serem lindas e muito elegantes, também são super confortáveis e é possível fazer várias combinações com elas. Quem é mais clássica com certeza tem uma saia midi no guarda-roupa, elas ficam super elegante se &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/11/como-usar-saia-midi-com-camiseta.jpg'
+  url: '/wp-content/uploads/2016/11/como-usar-saia-midi-com-camiseta.jpg'
   width: '828'
   height: '828'
 # </extra>

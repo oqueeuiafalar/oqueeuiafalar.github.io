@@ -15,7 +15,7 @@ date: 2017-09-05 09:22:07
 # <extra>
 description: 'O livro “Graça e maldição” têm como protagonista River, uma adolescente que acaba de se mudar para uma pequena cidade junto com a mãe. River é muito reservada, adora ficar na companhia de seus livros e faz o possível para levar uma vida tranquila e guarda alguns segredos a sete chaves. Ao chegar à cidade River começa a saber da fama da família Grace e ao começar a frequentar a escola ela logo fica encantada com Ferin Grace, aquele típico garoto de filme adolescente norte americano que todas as garotas do colégio querem. A família Grace é muito rica e poderosa, e por onde ela passa deixa pessoas morrendo de inveja e admiração. Há uma história na cidade de que eles são feiticeiros e que uma maldição ronda a família, e claro, isso deixa River bem interessada no assunto. Summer &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/capa-do-livro-graça-e-maldição.jpg'
+  url: '/wp-content/uploads/2017/09/capa-do-livro-graça-e-maldição.jpg'
   width: '828'
   height: '828'
 # </extra>

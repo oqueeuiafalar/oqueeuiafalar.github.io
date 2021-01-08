@@ -9,7 +9,7 @@ date: 2014-04-30 06:07:13
 # <extra>
 description: 'Shorts: Marisa / Blusa: presente / Sapatilha: Sonho dos Pés / Esmalte: Impala &#8211; Na Estrada &nbsp; Gente, esse post era pra ter ido ao ar semana passada, mas por alguns probleminhas técnicos não consegui postar, hehe. Beijão, até breve!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/04/dsc026721.jpg?w=650'
+  url: '/wp-content/uploads/2014/04/dsc026721.jpg?w=650'
   width: null
   height: null
 # </extra>

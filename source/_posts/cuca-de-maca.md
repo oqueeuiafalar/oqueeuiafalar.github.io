@@ -8,7 +8,7 @@ date: 2014-10-08 18:11:26
 # <extra>
 description: 'Oi gente, já faz um tempo que não atualizo essa categoria aqui no blog, estava até com saudade, hehe. E hoje eu resolvi passar uma receita pra você de cuca de maçã, um bolo muito tradicional no Sul do país e que é uma delicia. Essa receita eu sempre faço com minha mãe, então posso garantir que vocês vão gostar, vamos lá:   Ingredientes da massa: 1 1/2 xícara de chá de açúcar 1/2 xícara de chá de amido de milho 3 xícaras de chá de farinha de trigo 1/2 xícara de chá de leite 4 ovos 1 colher de sopa de fermento em pó 4 colheres de sopa de manteiga 2 maçãs Ingredientes da farofa: 4 colheres de sopa de manteiga 1 colher rasa de sopa de canela em pó 1/2 xícara de chá de açúcar 1 xícara de chá &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03246.jpg'
+  url: '/wp-content/uploads/2014/10/DSC03246.jpg'
   width: null
   height: null
 # </extra>

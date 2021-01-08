@@ -14,7 +14,7 @@ date: 2017-11-30 08:48:02
 # <extra>
 description: 'O natal está chegando e você está pensando em qual guirlanda usar para enfeitar a porta da sua casa? Você já pensou em usar uma guirlanda minimalista?'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/11/como-fazer-guirlanda-minimalista.jpg'
+  url: '/wp-content/uploads/2017/11/como-fazer-guirlanda-minimalista.jpg'
   width: '828'
   height: '828'
 # </extra>

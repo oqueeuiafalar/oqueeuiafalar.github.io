@@ -12,7 +12,7 @@ date: 2017-12-08 08:08:13
 # <extra>
 description: 'Tem muita decoração de natal fácil de fazer, bastar ter um pouco de criatividade e escolher os itens certos para deixar a decoração ainda mais bonita.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/12/decoração-de-árvore-de-natal-com-pinha.jpg'
+  url: '/wp-content/uploads/2017/12/decoração-de-árvore-de-natal-com-pinha.jpg'
   width: '828'
   height: '828'
 # </extra>

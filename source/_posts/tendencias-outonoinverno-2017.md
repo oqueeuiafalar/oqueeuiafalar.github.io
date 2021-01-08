@@ -15,7 +15,7 @@ date: 2017-05-16 10:17:47
 # <extra>
 description: 'O inverno é uma estação muito especial para os amantes da moda. Isso porque é uma época do ano em que os principais estilistas do mundo todo aproveitam os grandes desfiles para lançarem tendências e inovarem em alguns estilos e tipos de tecidos. E em 2017, esse processo promete se intensificar cada vez mais. Nem chegamos no inverno, e já temos alguma ideia do que está por vir. Separei alguns dos principais estilos que prometem dominar nos próximos meses. Veludo O veludo é com certeza o tecido do momento. Em todas as lojas, sapatos, bolsas, muitas fashionistas, o veludo esta por todos os lados. Ele já fez muito sucesso há alguns anos atrás, e agora volta com sua popularidade, principalmente nas cores escuras. Apesar de ser um tecido bem sofisticado, agora ele voltou para ser usado em todas as situações &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/05/gorro-de-tricô.jpg'
+  url: '/wp-content/uploads/2017/05/gorro-de-tricô.jpg'
   width: '828'
   height: '828'
 # </extra>

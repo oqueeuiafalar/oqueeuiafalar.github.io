@@ -8,7 +8,7 @@ date: 2016-06-06 14:41:05
 # <extra>
 description: 'Gente, eu ganhei do meu namorado a HQ mais fofa, linda e realista do mundo dos relacionamentos que já foi inventada na história desse planeta (nunca li nenhuma outra, mas ela é linda, fofa e ponto final!) Já ouviram falar na palavra Soppy? Não? A tradução dessa palavra seria algo como meloso, romântico demais, grudento demais, mas a HQ que leva o mesmo nome “Soppy- os pequenos detalhes do amor” é romântica sim,  porém, não é tão fantasiosa como quando a gente pensa em algo muito meloso ou romântico. Em “Soppy – os pequenos detalhes do amor” a autora e designer  inglesa Philippa Rice mostra como é seu relacionamento com seu namorado Luke Pearson, mas ela não mostra só aquelas partes boas, lindas e maravilhosas, ela mostra toda aquela parte do cotidiano mesmo, como a ida ao supermercado, decidindo quem &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/06/capa-do-livro-Soppy-os-pequenos-detalhes-do-amor-1024x768.jpg'
+  url: '/wp-content/uploads/2016/06/capa-do-livro-Soppy-os-pequenos-detalhes-do-amor-1024x768.jpg'
   width: null
   height: null
 # </extra>

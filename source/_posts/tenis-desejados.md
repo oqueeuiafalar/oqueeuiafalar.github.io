@@ -13,7 +13,7 @@ date: 2018-02-05 08:05:18
 # <extra>
 description: 'Usar tênis esta super na moda e alguns tênis desejados podem montar looks incríveis. Confira os tênis desejados do momento.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/02/Puma-Creeper-white.jpg'
+  url: '/wp-content/uploads/2018/02/Puma-Creeper-white.jpg'
   width: '680'
   height: '680'
 # </extra>

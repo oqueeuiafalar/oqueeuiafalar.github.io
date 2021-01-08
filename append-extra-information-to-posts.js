@@ -9,7 +9,7 @@ const extractMetaAttribute  = (text = "", options) => {
 };
 
 const fixAbsoluteWPContentUrl = (url = "") => {
-    const configBaseUrl = "http://oqueeuiafalar.github.io/"
+    const configBaseUrl = "https://natalia.blog.br/"
     return url.replace(/(.+?)\/wp-content(.+?)/i, `${configBaseUrl}wp-content$2`);
 };
 

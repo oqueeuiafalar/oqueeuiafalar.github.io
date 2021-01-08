@@ -8,7 +8,7 @@ date: 2016-10-31 19:03:11
 # <extra>
 description: '&nbsp; Continuando nosso post sobre Curiosidades sobre os Beatles encontradas no livro &#8220;As letras dos Beatles 1. John Lennon negou que Lucy in the Sky with diamonds fizesse referência a LDS O rumor de que as iniciais da música indicassem algum envolvimento com LSD começou em 1967 e foi negado por John Lennon embora ele usasse LSD. A curiosidade dessa famosa música dos Beatles é que ela surgiu a partir de um desenho de Julian, filho de Lennon na época com 4 anos. Julian desenhou uma amiga da mesma idade no céu voando com diamantes. 2. All you need is love foi usada em um programa de TV exibido mundialmente em 1967 &#8220;All you need is love&#8221; foi usada pelos Beatles em sua participação em um programa de TV exibido para 26 países simultaneamente, o maior evento do tipo até &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/livro-as-lestras-dos-beatles-capa-cama.jpg'
+  url: '/wp-content/uploads/2016/10/livro-as-lestras-dos-beatles-capa-cama.jpg'
   width: '828'
   height: '828'
 # </extra>

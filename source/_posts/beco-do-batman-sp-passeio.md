@@ -12,7 +12,7 @@ date: 2017-03-23 09:50:24
 # <extra>
 description: 'A primeira vez que ouvi falar do Beco do Batman foi a uns 2 anos atrás pouco antes de vir morar na cidade de São Paulo. O nome impactante me fez acreditar que o Beco do Batman deveria ser um lugar sombrio e perigoso. Exatamente o contrário do lugar cheio de cores, criatividade e visitantes de várias culturas que encontrei quando finalmente o visitei junto com minha companheira Natalia. O Beco do Batman é uma galeria de arte a céu aberto localizada na Vila Madalena, famoso bairro boêmio da cidade de São Paulo. Tudo começou com um grafite do Batman nos anos 80 que acabou mudando a história do beco e fazendo dele atração turística obrigatória da região. No domingo em que o visitamos encontramos muitas pessoas no lugar: amigos, casais de namorados, crianças, ciclistas e grupos de estrangeiros guiados &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/03/Beco-do-Batman-Casal-posa-para-foto-em-frente-a-muro-com-grafite.jpg'
+  url: '/wp-content/uploads/2017/03/Beco-do-Batman-Casal-posa-para-foto-em-frente-a-muro-com-grafite.jpg'
   width: '828'
   height: '828'
 # </extra>

@@ -8,7 +8,7 @@ date: 2014-03-27 07:08:02
 # <extra>
 description: '&nbsp; Hoje estou inaugurando uma nova seção aqui no blog onde pretendo compartilhar algumas listas de desejos com vocês. E para inaugurar essa seção criei uma lista com alguns CDs de artistas que eu gosto e que tem músicas muito boas. Muita gente me acha maluca porque ainda compro CDs, mas eu não acho, amo comprar e colecionar CDs. Ter minhas músicas só arquivadas em um mp3 não me satisfaz, preciso ter o encarte, ver as fotos, cantar lendo as letras, isso tudo me faz muito bem. E pensando nisso hoje, resolvi criar uma Wish List com os 7 CDs que eu tô querendo muito no momento. Resolvi colocar uma música de cada CD pra quem não conhece, ficar conhecendo melhor, mas podem ter certeza que tem muita música boa em cada um desses CDs. Josh Groban &#8211; All That Echoes Música: &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/03/1658626_1419550471636505_2128995367_o2.jpg'
+  url: '/wp-content/uploads/2014/03/1658626_1419550471636505_2128995367_o2.jpg'
   width: null
   height: null
 # </extra>

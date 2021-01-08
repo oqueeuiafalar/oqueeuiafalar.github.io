@@ -11,7 +11,7 @@ date: 2019-02-09 07:25:09
 # <extra>
 description: 'Sinopse:   Será que vale a pena arriscar uma grande amizade em troca de um romance inesquecível? Aos vinte e dois anos, a jovem Parker Blanton leva a vida que sempre sonhou. Tem um namorado inteligente e responsável, um emprego promissor e a companhia de seu melhor amigo, Ben Olsen, com quem divide um lindo apartamento. Parker e Ben são tão grudados que muita gente duvida que os dois nunca tenham tido um caso, mas eles não se importam com o que as pessoas pensam. Sabem que não foram feitos um para o outro &#8211; pelo menos não no amor. Por isso, quando um acontecimento inesperado faz com que Parker se veja sem namorado e com o coração partido, ela sabe que pode contar com Ben para ajudá-la a sacudir a poeira e partir para outra. Afinal, ninguém melhor do que &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/02/resenha-livro-mais-que-amigos.jpg'
+  url: '/wp-content/uploads/2019/02/resenha-livro-mais-que-amigos.jpg'
   width: '1000'
   height: '1000'
 # </extra>

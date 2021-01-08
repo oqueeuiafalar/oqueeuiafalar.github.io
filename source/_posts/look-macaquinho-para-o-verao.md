@@ -15,7 +15,7 @@ date: 2018-03-29 07:39:23
 # <extra>
 description: 'Sempre que eu vejo um macaquinho em alguma arara de loja eu já fico: eu quero! eu quero! Até porque não tem escolha melhor que o macaquinho para o verão.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/11/cabelo-ondulado-médio-como-cortar.jpg'
+  url: '/wp-content/uploads/2017/11/cabelo-ondulado-médio-como-cortar.jpg'
   width: '828'
   height: '828'
 # </extra>

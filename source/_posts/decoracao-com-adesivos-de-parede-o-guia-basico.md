@@ -8,7 +8,7 @@ date: 2016-07-20 14:18:40
 # <extra>
 description: 'Todos que gostam de informação sobre decoração de interiores sabem que os adesivos de parede são ferramentas cada vez mais úteis na valorização dos espaços. Utilizar corretamente estes adesivos, no entanto, não é uma tarefa tão fácil. Diferentes paredes e materiais exigem diferentes aplicações e cuidados. É importante compreender cada situação para não errar com os adesivos de parede. Uma aplicação mal feita pode exigir, até mesmo, uma nova pintura na peça. Por isso, confira nosso guia básico para sempre acertar na decoração com adesivos de parede: Atenção ao material Sempre que você for utilizar os adesivos de parede em um ambiente interior, há algo necessário para se considerar. Além de escolher uma peça bonita que combine com o ambiente, é importante dar atenção ao material. Muitos adesivos apresentam um problema para ambientes internos. Eles podem possuir uma camada exterior brilhosa, que reflete a luminosidade de lâmpadas e &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/Adesivos-de-parede-sala.jpg'
+  url: '/wp-content/uploads/2016/07/Adesivos-de-parede-sala.jpg'
   width: null
   height: null
 # </extra>

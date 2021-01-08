@@ -8,7 +8,7 @@ date: 2014-06-12 10:14:35
 # <extra>
 description: 'Lá vai mais uma receita bem fácil pra vocês fazerem em casa 🙂 Ingredientes: 150 g de manteiga 2 xícaras (chá) de açúcar 4 ovos 1 1/2 xícara (chá) de amido de milho 1 1/2 xícara (chá) de farinha de trigo 1 colher (sopa) de fermento em pó 1 xícara (chá) de leite 1 pitadinha de sal Abacaxi e ameixas em calda Modo de preparo: Bata na batedeira as claras em neve com uma pitada de sal, reserve. Bata também na batedeira a manteiga com o açúcar e as gemas até ficar cremoso. Acrescente o amido de milho peneirado com a farinha de trigo e o fermento, alternando com o leite. Mistura, por último, as claras em neve previamente batidas. Unte uma forma redonda e polvilhe com 1 xícara de chá de açúcar cristal. Forre o fundo da forma com &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc02952.jpg?w=650'
+  url: '/wp-content/uploads/2014/06/dsc02952.jpg?w=650'
   width: null
   height: null
 # </extra>

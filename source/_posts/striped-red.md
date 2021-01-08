@@ -9,7 +9,7 @@ date: 2014-07-14 17:58:42
 # <extra>
 description: 'Sapatilha: Sonho dos pés/ Calça: Renner/ Blusa: não sei. &nbsp; Semana passada eu e meu namorado resolvemos sair pra dar uma volta de tarde e como eu já tinha comprado essa calça vermela linda a muito tempo, porém nunca tinha usado, resolvi fazer um look bem confortável, que eu amei, e tirar umas fotos pra vocês 🙂 &nbsp; Beijão!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/07/eueueue.jpg'
+  url: '/wp-content/uploads/2014/07/eueueue.jpg'
   width: null
   height: null
 # </extra>

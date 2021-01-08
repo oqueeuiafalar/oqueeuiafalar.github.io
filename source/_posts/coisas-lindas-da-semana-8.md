@@ -8,7 +8,7 @@ date: 2015-03-14 14:22:24
 # <extra>
 description: 'Oi gente, tudo bem com você? Comigo tudo ótimo, tirando uma gripe daquelas que eu peguei do meu namorado haha. Essa semana eu vi em alguns sites uma coisas que eu já quero a alguns invernos (aquela estação linda, glamourosa e tão esperada por mim hehe) e eu nunca consigo comprar, e mesmo ainda estando no verão, lá se vem mais um inverno que eu continuo sonhando com ela, espero que esse ano deixe de ser sonho para se tornar realidade, e essa coisa é: Boot over the knee Aii gente, eu acho tão linda e chique essa bota, principalmente para usar com saias e vestidos, já vou começar a procurar novamente pra ver se eu encontro uma esse ano, é que eu quero ela sem salto e é realmente muito difícil encontrar, mas eu não quero ficar mais alta &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/ae9cf68a4e6887405fd168559068ccc7-683x1024.jpg'
+  url: '/wp-content/uploads/2015/03/ae9cf68a4e6887405fd168559068ccc7-683x1024.jpg'
   width: null
   height: null
 # </extra>

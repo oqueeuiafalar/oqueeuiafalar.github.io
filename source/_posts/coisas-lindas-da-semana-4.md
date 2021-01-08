@@ -8,7 +8,7 @@ date: 2015-02-14 14:31:18
 # <extra>
 description: 'E aí gente, como foi a semana? Muitos preparativos e ansiedade para o carnaval? Eu confesso que eu só fico ansiosa para o feriado mesmo, para eu poder relaxar em casa ou fazer algumas organizações, hehe. E pensando nisso, achei uma ideia linda de decoração na internet que eu necessito compartilhar com vocês, que é: Esse enfeite Eu nunca na vida iria pensar em fazer isso com uma lâmpada, sério mesmo. Mas a ideia foi ótima, ficou uma decoração leve e fofa ao mesmo tempo, para quem tem jardim em casa seria muito legal colocar essa ideia em prática, não acham? Esse quintal Eu me apaixonei por esse quintal, quer coisa mais aconchegante? Me lembra aqueles lugares que a gente só vê em filmes que são filmados na Itália e que ficamos babando e sonhando com um lugar daqueles para &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/2ced3978fbbadc89326d268a64d8dddc-684x1024.jpg'
+  url: '/wp-content/uploads/2015/02/2ced3978fbbadc89326d268a64d8dddc-684x1024.jpg'
   width: null
   height: null
 # </extra>

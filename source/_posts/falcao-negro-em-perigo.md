@@ -8,7 +8,7 @@ date: 2014-08-04 19:30:46
 # <extra>
 description: 'Quem me conhece sabe que eu me interesso bastante por filmes históricos, principalmente os de guerra, e por isso “Falcão Negro em perigo” está na minha lista de melhores filmes. O filme “Falcão negro em perigo” conta a história real de uma operação militar dos Estados Unidos na Somália em 1993, durante um período de guerra civil no país africano. As tropas americanas, formadas por grupos de Deltas e Rangers, recebem como missão capturar dois generais que são aliados a um líder miliciano que confisca os alimentos que a ONU manda para os cidadãos e os usa para alimentar sua milícia. A missão que era tratada como aparentemente simples sai totalmente do controle, quando dois helicópteros chamados de “Falcões Negros” caem no meio da cidade, e os soldados que pensavam que a operação duraria apenas 30 minutos tem que passar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/dsc03132.jpg'
+  url: '/wp-content/uploads/2014/08/dsc03132.jpg'
   width: null
   height: null
 # </extra>

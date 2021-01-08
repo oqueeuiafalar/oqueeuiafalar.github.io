@@ -14,7 +14,7 @@ date: 2016-09-19 14:54:55
 # <extra>
 description: 'Preciso confessar que eu estou um pouco viciada nesse vestido cinza. Ele já apareceu em outro look aqui no blog, mas ultimamente tenho usado ele pra ir em quase todos os lugares haha. Apesar do vestido ter manga longa, ele é bem fresquinho e então resolvi usá-lo no final de semana em que fui à Beauty Fair e coloquei uma jaqueta para completar o look e para me proteger do frio, porque SP é aquele loucura de três estações em um dia só, né! O lugar que escolhi para tirar as fotos foi no Parque Trianon, que fica na Avenida Paulista e é um lugar muuuuuiiito lindo e perfeito para quem quer paz para fotografar haha. Outra peça que ando usando muito é essa jaqueta jeans. Eu adoro esses modelos com corte mais largo, principalmente se estou usando uma roupa &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/look-de-batom-vermelho.jpg'
+  url: '/wp-content/uploads/2016/09/look-de-batom-vermelho.jpg'
   width: '828'
   height: '828'
 # </extra>

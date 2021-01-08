@@ -12,7 +12,7 @@ date: 2017-03-27 08:12:03
 # <extra>
 description: 'O livro “Silêncio” de Shusaku Endo retrata o Japão do século XVII, quando cristãos eram perseguidos por budistas que queriam que eles abandonassem seus princípios cristãos para  seguir as tradições budistas. Durante esse tempo, muitas pessoas foram torturadas e mortas, e Ferreira, um padre que após passar por muito sofrimento resolveu abandonar seu ministério e vê a igreja lhe dando as costas. Mas os padres Garpes e Sebastião resolvem ir até o Japão em busca do padre Ferreira, pois, eles não entendiam o que tinha acontecido e lá chegando eles vêem um povo com medo, miserável e que estava sedento por um pouco de fé e por isso os padres resolvem começar uma peregrinação como missionários. Porém, nem tudo era tão fácil assim, os padres precisavam fazer tudo escondidos, pois, se os samurais descobrissem a presença deles ali, a comunidade &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/03/resenha-silêncio-de-Shusaku-Endo.jpg'
+  url: '/wp-content/uploads/2017/03/resenha-silêncio-de-Shusaku-Endo.jpg'
   width: '828'
   height: '828'
 # </extra>

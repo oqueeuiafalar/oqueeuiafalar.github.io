@@ -8,7 +8,7 @@ date: 2015-03-16 18:05:40
 # <extra>
 description: '  Está chegando a segunda época que eu mais gosto do ano, a páscoa, porque a primeira é o Natal, claro hehe. Sou chocólatra e quem é chocólatra assim como eu, sabe que essa época do ano é tudo de mais gostoso, porque onde quer que a gente olhe tem muito chocolate, então caímos na tentação sem medo e sem ninguém julgando, afinal, quem não cai na tentação de devorar uns chocolatinhos nessa época, né? rs. Por isso criei essa whishlist especial de páscoa, para quem quiser, já ir sabendo o que estou desejando tanto, apesar que neste listinha aí, não tem quase nada dos chocolates que eu estou louca pra comer, haha. 1 &#8211; Baton para comer de colher Sim, agora nós temos um ovo “Baton” pra comer de colher. Gente, só de olhar eu já fiquei babando, é &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/dsc02662.jpg'
+  url: '/wp-content/uploads/2015/03/dsc02662.jpg'
   width: null
   height: null
 # </extra>

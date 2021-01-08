@@ -8,7 +8,7 @@ date: 2018-11-26 19:31:55
 # <extra>
 description: 'Quando você não está em casa, pequenas dúvidas podem começar a enlouquecer sua mente. Eu desliguei a cafeteira? Eu configurei o alarme de segurança? As crianças estão fazendo o dever de casa ou assistindo televisão? Com um &#8220;lar inteligente&#8221;, como os que estão surgindo atualmente no mercado imobiliário, você pode silenciar todas essas preocupações com uma rápida olhada no seu smartphone ou tablet. Você pode conectar os dispositivos e aparelhos em sua casa para que eles possam se comunicar uns com os outros e com você. Qualquer dispositivo que use eletricidade pode ser colocado em sua rede doméstica e sob seu comando. Só para você ter uma ideia, há casas decoradas que podem ser gerenciadas com controle remoto, tablet ou smartphone; os aparelhos da casa “reagem” ao seu chamado. A maioria dessas aplicações está relacionada à iluminação com pendentes ou arandelas, segurança &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/11/casa-inteligente.jpg'
+  url: '/wp-content/uploads/2018/11/casa-inteligente.jpg'
   width: '1299'
   height: '1299'
 # </extra>

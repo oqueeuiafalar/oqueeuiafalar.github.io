@@ -8,7 +8,7 @@ date: 2016-01-25 19:33:08
 # <extra>
 description: 'Como eu já tinha falado na resenha de “O regresso” estou correndo atrás pra tentar ver a maioria dos filmes indicados ao Oscar 2016, e o escolhido do ultimo final de semana foi “Mad Max: Estrada da fúria”, regravado agora com Tom Hardy no papel principal. O filme mostra um mundo pós-apocalíptico onde as pessoas se matam por combustível e por água e onde Max é chamado de “Guerreiro das Estradas”, mas ele acaba sendo capturado pelos Garotos  de Guerra e é levado para a Cidadela que é comandada pelo Immortan Joe, um tirano  que é dono de milhões de litros de água e que usa isso em seu beneficio para poder manter a população escravizada. Os Garotos de Guerra são seguidores de Immortan Joe e estão dispostos a fazer de tudo por ele, até mesmo sacrificar a sua própria &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Tom-Hardy-Mad-Max-estrada-da-fúria.jpg'
+  url: '/wp-content/uploads/2016/01/Tom-Hardy-Mad-Max-estrada-da-fúria.jpg'
   width: null
   height: null
 # </extra>

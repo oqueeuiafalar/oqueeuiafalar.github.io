@@ -12,7 +12,7 @@ date: 2017-12-06 16:02:00
 # <extra>
 description: 'O garoto está de volta conta à história de Becky Flowers e Reed Stewart. Quando adolescente Becky era uma garota estudiosa, que amava ler clássicos como os livros de Jane Austen e não conseguia entender porque as pessoas eram tão fascinadas por Reed Stewart, um garoto convencido e que amava jogar golfe. Mas o destino resolveu fazer os dois se aproximarem, quando um professor decide que eles devem formar uma dupla para fazer um trabalho de escola. E foi assim que Reed pode mostrar quem ele realmente era para Becky, um rapaz que adorava sim golfe, mas que também era engraçado, educado e que para sua surpresa, também lia vários clássicos da literatura, entre eles, livros da Jane Austen, e então Becky acabou se apaixonando. Mas na noite do baile de formatura, os dois resolveram aprontar todas, ficaram bêbados e acabaram &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/12/resenha-livro-o-garoto-esta-de-volta-meg-cabot.jpg'
+  url: '/wp-content/uploads/2017/12/resenha-livro-o-garoto-esta-de-volta-meg-cabot.jpg'
   width: '828'
   height: '828'
 # </extra>

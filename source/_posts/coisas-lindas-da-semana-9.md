@@ -8,7 +8,7 @@ date: 2015-03-21 13:11:06
 # <extra>
 description: 'Eu não sei porque, mas o “Coisas lindas da semana” dessa semana está recheado de flores, e olha que nós estamos entrando no outono (estação maravilhosa *-*) que é repleto de folhas secas, porém maravilhosas, haha. Mas aconteceu, vi muitas fotos e ideias com flores essa semana, e uma mais linda que a outra, por isso resolvi compartilhar com vocês. Esse terrário &nbsp; Eu já tinha visto essa ideia de montar mini jardins em vasos de vidro, tipo aqueles aquários de desenho animado, rs, mas não me lembro onde, e eu acho tão delicado, eu adoraria ter um desses para usar de decoração. Esse arranjo Achei ótima essa ideia de decoração, é muito simples e  para quem esta pensando em casar no campo esses arranjos ficam muito charmosos e delicados. Essa decoração Essa foi outra ideia que eu vi e &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/03/5a6b7a43b90740c3682117a3dee68b0b-683x1024.jpg'
+  url: '/wp-content/uploads/2015/03/5a6b7a43b90740c3682117a3dee68b0b-683x1024.jpg'
   width: null
   height: null
 # </extra>

@@ -9,7 +9,7 @@ date: 2014-09-12 21:18:33
 # <extra>
 description: 'Gente, não é de hoje que eu andava procurando uma saia xadrez, as vezes encontrava alguma para vender, mas nunca exatamente do jeitinho que eu queria, isso até que um belo dia dando uma volta na Riachuelo encontrei essa saia e me apaixonei à primeira vista. A combinação da estampa xadrez com uma camiseta da cor estampada é uma boa escolha para quem quer compor um look bonito e simples, não tem erro 🙂 Tirei essas fotos mês passado quando não estava tão quente, como dá para perceber e só de olhar já me bateu uma pontinha de saudade do inverno rs, em vocês não?'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/DSC03170.jpg'
+  url: '/wp-content/uploads/2014/09/DSC03170.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2017-10-23 19:04:31
 # <extra>
 description: 'Eu cresci apaixonado por rock, especialmente pela banda Queen, também ouvia muito Led Zeppelin e Black Sabbath. O U2 passou quase despercebido nas minhas playlists até alguns anos atrás quando eu e a Natalia começamos a namorar. Ela é uma grande fã do U2. Desde criancinha. Então quando o U2 anunciou shows da turnê The Joshua Tree para o Brasil eu e ela compramos ingressos. O show foi no último sábado 21/10 e aqui conto para vocês a minha experiência como alguém que foi a seu primeiro show grande e ao seu primeiro show do U2. Que horas chegar no show? &nbsp; O show de abertura com Noel Gallagher&#8217;s High Flying Birds começou às 19:20. Chegamos no estádio às 15:00 e ficamos em um bom lugar na fila do portão 15. Chegar cedo e ter um bom lugar na fila &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/10/rsz_grande-img-1046339-u2-no-morumbi.jpg'
+  url: '/wp-content/uploads/2017/10/rsz_grande-img-1046339-u2-no-morumbi.jpg'
   width: '800'
   height: '800'
 # </extra>

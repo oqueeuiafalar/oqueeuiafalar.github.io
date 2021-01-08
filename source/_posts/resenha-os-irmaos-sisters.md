@@ -14,7 +14,7 @@ date: 2017-11-15 10:11:52
 # <extra>
 description: 'O livro Os irmãos Sisters é um faroeste que se passa em 1850, época em que houve uma grande migração do povo estado unidense saindo do norte do país para o oeste, buscando melhores condições de vida e ouro. É nesse cenário que conhecemos os irmãos Eli Sister e Charlie Sister. Desde pequenos eles não se desgrudam, principalmente depois de um “acidente” provocado pelo pai agressivo que eles tinham. Os dois crescem e resolvem trabalhar juntos, em uma profissão nada legal, eles são assassinos profissionais. Os irmãos Sisters são contratados pelo rico e poderoso Comodoro para irem atrás de Morris – que também trabalha para Comodoro – e para matar Warn, que se encontra junto com Morris. Mas nessa longa jornada que começa em Oregon e vai até a Califórnia muita coisa acontece e assim a gente começa a entender &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/11/resenha-livro-os-irmãos-sisters.jpg'
+  url: '/wp-content/uploads/2017/11/resenha-livro-os-irmãos-sisters.jpg'
   width: '828'
   height: '828'
 # </extra>

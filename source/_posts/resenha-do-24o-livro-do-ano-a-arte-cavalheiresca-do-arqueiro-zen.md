@@ -8,7 +8,7 @@ date: 2014-09-17 19:01:29
 # <extra>
 description: '&nbsp; O livro “A arte cavalheiresca do arqueiro zen” conta a experiência de um ocidental ao se chocar com toda a espiritualidade oriental representada no livro pelo zen budismo. O alemão Eugen Herrigel,  viveu no Japão durante seis anos lecionando filosofia na Tohoku Imperial University. Ele tinha muito interesse pela arte milenar do uso de arco e flecha e por isso procurou o mestre Kenzô Awa para lhe orientar, levando também sua esposa nesta experiência, onde ela pode estudar arranjos florais. A trajetória de Herrigel no aprendizado do arco e flecha passa por diversas fases de contemplação, total falta de compreensão, desistência, retomada e finalmente entendimento da prática do arco e flecha como uma maneira de meditação que leva à uma compreensão mais direta e não especulativa da realidade. O principal atrativo da história é a maneira como as duas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/capa-do-livro-A-Arte-Cavalheiresca-do-arqueiro-zen-1024x768.jpg'
+  url: '/wp-content/uploads/2014/09/capa-do-livro-A-Arte-Cavalheiresca-do-arqueiro-zen-1024x768.jpg'
   width: null
   height: null
 # </extra>

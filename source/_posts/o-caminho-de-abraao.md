@@ -13,7 +13,7 @@ date: 2018-05-21 20:41:36
 # <extra>
 description: 'Livro &#8211; O Caminho de Abraão O livro O Caminho de Abraão é o primeiro romance do jornalista Jamil Chade, que intercala no livro os horrores na guerra da Síria e a história de Abraão, o patriarca das três religiões &#8211; cristianismo, islamismo e judaísmo. No romance O Caminho de Abraão conhecemos Hagar, uma jovem francesa filha de imigrantes argelinos que apesar da vida difícil na periferia de Marselha, se destacar nos estudos e consegue uma vaga para cursar química em uma das faculdades mais renomadas da França. Hagar se forma justamente quando começa uma grande crise econômica no mundo e milhares de pessoas se veem desempregadas, incluindo Hagar. Recém formada e frustrada por não conseguir o tão sonhado emprego, ela resolve ir embora de Paris e voltar para a casa dos pais em Marselha, uma vez lá, ela começa &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/05/capa-livro-o-caminho-de-abraao.jpg'
+  url: '/wp-content/uploads/2018/05/capa-livro-o-caminho-de-abraao.jpg'
   width: '1000'
   height: '1000'
 # </extra>

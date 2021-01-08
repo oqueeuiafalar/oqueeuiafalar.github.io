@@ -8,7 +8,7 @@ date: 2015-08-22 11:27:14
 # <extra>
 description: 'Oi, gente. Para quem gosta de coisas lindas, eis que estamos aqui novamente com as coisas mais lindas dessa semana. Espero que gostem, lá vamos nós 🙂 Esse penteado Como não se apaixonar por esse penteado? Tenho certeza que as noivas de plantão já estão pirando só de olhar para essa foto haha. Combina muito com casamentos feitos durante o dia, no campo, lindo, delicado e muito romântico. Esse balanço Esse balanço é daquele tipo que só vemos em fotos ou em filmes, concordam? Eu adoraria ter essa delicadeza embelezando meu quintal, rs. Esse &#8220;cantinho&#8221; Quer lugar melhor que esse pra relaxar? Acho difícil encontrar, hein haha. Esses copos Ahh, amei esse jogo de copos e a bandeja também. Além de ficarem lindos na decoração, acho que a bebida fica até mais geladinha, devido ao metal. E aí, se inspiraram? &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/08/penteado-com-trança-para-noiva-683x1024.jpg'
+  url: '/wp-content/uploads/2015/08/penteado-com-trança-para-noiva-683x1024.jpg'
   width: null
   height: null
 # </extra>

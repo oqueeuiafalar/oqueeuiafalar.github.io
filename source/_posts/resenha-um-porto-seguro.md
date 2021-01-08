@@ -8,7 +8,7 @@ date: 2015-02-02 19:38:26
 # <extra>
 description: '“Um porto seguro” conta a história de Katie, uma mulher misteriosa que vai morar em uma casa isolada em uma cidadezinha chamada Southport, na Carolina do Norte e que faz o possível para não se envolver com ninguém, até que uma mulher chamada Jo resolve se mudar para uma casa ao lado da sua e elas acabam virando boas amigas. Outro personagem muito importante é Alex, pai de dois filhos, viúvo e que tem uma loja na pequena cidade e faz o possível para ser o melhor pai do mundo e suprir a falta que sua ex-mulher faz para as crianças. Mas vivendo em uma cidade pequena como aquela, claro que  Alex e Katie iam acabar se conhecendo, afinal ela é garçonete em um dos restaurante mais freqüentados da cidade e ele tem um mercadinho onde tudo que se precisa &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/02/DSC03539-1024x768.jpg'
+  url: '/wp-content/uploads/2015/02/DSC03539-1024x768.jpg'
   width: null
   height: null
 # </extra>

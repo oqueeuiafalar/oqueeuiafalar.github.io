@@ -14,7 +14,7 @@ date: 2017-12-11 21:24:46
 # <extra>
 description: 'A primeira parte do livro Treze de FML Pepper se passar em Niterói e é lá que conhecemos Rebeca e Karl. Rebeca é uma jovem ladra e descrente de tudo.  Ela, junto com sua mãe, utiliza de seus conhecimentos e habilidades com informática e se tornar uma hacker, aplicando golpes e roubando muito dinheiro. Rebeca e sua mãe tem uma divida com um agiota chamado Jean Pierre e elas montam um plano, o que também seria um último golpe, para tentar sumir e fazer com que Jean Pierre nunca mais as encontre. Na véspera do grande golpe, Rebeca conhece Madame Nadeje, uma cartomante em um parque de diversões que lhe conta muitas coisas de seus futuro e lhe dá pistas para tentar fugir dos caminhos que podem à levar para a desgraça, porém, Rebeca é cética, e acha tudo aquilo uma &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/12/resenha-livro-treze.jpg'
+  url: '/wp-content/uploads/2017/12/resenha-livro-treze.jpg'
   width: '828'
   height: '828'
 # </extra>

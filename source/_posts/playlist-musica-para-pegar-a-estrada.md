@@ -8,7 +8,7 @@ date: 2015-04-15 19:04:16
 # <extra>
 description: 'Fim de semana prolongado te lembra o que? Bem, como nem sempre quero apenas tirar um tempinho pro descanso outra coisa que eu adoro fazer é pegar a estrada, viajar. Posso apostar que se você já fez isso algumas vezes na vida deve ter boas histórias para contar. Viajar nos enche de experiências significativas, e pegar estrada pode ser uma maneira de afastar preocupações e nos deixar levar. Quando misturamos isso com boa música, então não tem nada melhor, não é mesmo? Por isso, andei me lembrando de grandes músicas de estrada e criei uma playlist temática para vocês já curtirem nesse próximo feriado prolongado. São músicas para ficar guardadas na nossa mente e daí sempre que você ouvir aquela música de novo vai acabar se lembrando daquele bons momentos, daquela viagem divertida e tal. Assim que você der o play &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/04/Vai-viajar-20-músicas-perfeitas-para-ouvir-na-sua-viagem-3.jpg'
+  url: '/wp-content/uploads/2015/04/Vai-viajar-20-músicas-perfeitas-para-ouvir-na-sua-viagem-3.jpg'
   width: null
   height: null
 # </extra>

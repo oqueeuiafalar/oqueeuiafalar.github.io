@@ -14,7 +14,7 @@ date: 2018-06-01 10:39:09
 # <extra>
 description: 'Se você gosta de fábulas ou tem interesse por vários tipos de escrita com certeza o livro A Garota que Bebeu a Lua é uma leitura mais que recomendada.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/livro-a-garota-que-bebeu-a-lua.jpg'
+  url: '/wp-content/uploads/2018/06/livro-a-garota-que-bebeu-a-lua.jpg'
   width: '1000'
   height: '1000'
 # </extra>

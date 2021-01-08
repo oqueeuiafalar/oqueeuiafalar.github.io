@@ -8,7 +8,7 @@ date: 2016-06-29 17:12:26
 # <extra>
 description: '“Flor da pele” conta a história de Isabel Zendal, que foi a primeira enfermeira a embarcar em uma missão internacional. Após a morte de sua mãe e da miséria em que vivia com sua família, Isabel vai trabalhar na casa de uma família na cidade, lá ela se torna criada e ao contrário do que imaginava, ela é muito bem recebida pela família de Dom Jerónimo Hijosa. Com o passar do tempo Isabel vai crescendo e se tornando uma bela moça e começa a trair os olhares dos rapazes, até que se apaixona por um e acaba engravidando, e ele a abandona. Em pleno século XVIII uma jovem solteira e grávida era motivo de vergonha, mas a família de Dom Jerónimo ainda assim a perdoa e não a manda embora. Após alguns anos, Dom Jerónimo oferece a Isabel o cargo &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/06/javier-moro-flor-da-pele-livro-capa.jpg'
+  url: '/wp-content/uploads/2016/06/javier-moro-flor-da-pele-livro-capa.jpg'
   width: null
   height: null
 # </extra>

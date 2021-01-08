@@ -9,7 +9,7 @@ date: 2015-06-15 14:01:06
 # <extra>
 description: 'Eu estou em uma fase meio cinza e preto ultimamente, deve ser por causa do inverno, hehe. Esse moletom é do meu namorado, mas como eu o adoro, fui e peguei ele pra poder compor o look, quem nunca pegou alguma peça de roupa do namorado, né? haha Gostaram do look? Me conta aqui o que vocês mais gostam de pegar no guarda-roupa do namorado, hehe. Beijos!'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/06/colar-de-perolas-e-meletom-de-caveira-1024x768.jpg'
+  url: '/wp-content/uploads/2015/06/colar-de-perolas-e-meletom-de-caveira-1024x768.jpg'
   width: null
   height: null
 # </extra>

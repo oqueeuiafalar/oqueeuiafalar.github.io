@@ -8,7 +8,7 @@ date: 2014-05-09 06:06:18
 # <extra>
 description: 'O livro “A Queda” é um monologo de um ex-advogado chamado Jean-Baptiste Clamance que se auto-intitula juiz penitente e que durante todo o livro, sim, durante todo o livro, faz uma auto-análise para uma pessoa que não nos é revela. No livro podemos ver sua vida antes da queda e após a queda. Antes da queda era uma vida tranqüila que ele amava, onde ele era um talentoso advogado e que gostava de pegar casos complicados e sempre se dava bem em tudo. Até que começa sua queda, onde temos a sensação da angústia de Jean-Baptiste por não ter feito nada perante uma mulher preste a se suicidar sendo depois “perseguido” por seu fantasma. Jean-Baptiste, que era advogado parisiense resolve instalar seu escritório em um boteco chamado México-City na cidade de Amsterdã. Ele divide seus pensamentos com os freqüentadores do &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/05/dsc02746.jpg?w=650'
+  url: '/wp-content/uploads/2014/05/dsc02746.jpg?w=650'
   width: null
   height: null
 # </extra>

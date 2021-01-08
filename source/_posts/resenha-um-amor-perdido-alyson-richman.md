@@ -11,7 +11,7 @@ date: 2019-01-22 20:50:09
 # <extra>
 description: 'Sinopse:    Na Praga do pré-guerra, Lenka, uma jovem estudante de arte, apaixona-se por Josef, um médico recém-formado. Casam-se, mas, pouco tempo depois, como tantas outras famílias, são separados pela guerra. Na América, Josef torna-se um obstetra bem-sucedido e constrói uma família, apesar de nunca esquecer a mulher que acredita ter morrido. Mas, no campo de Terezin, Lenka sobrevive graças aos seus dotes artísticos e à memória de um marido que julgava nunca voltar a ver. Do conforto da vida em Praga antes da ocupação, aos horrores da Europa em guerra.    Um Amor Perdido   explora a resistência do primeiro amor e do espirito humano e a capacidade de recordar. Resenha:   Um amor perdido   nos transporta para três períodos da história, o pré-guerra, o durante a Segunda Guerra Mundial e o pós-guerra e logo conhecemos a forte protagonista Lenka, uma jovem de &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2019/01/resenha_livro_um-amor-perdido.jpg'
+  url: '/wp-content/uploads/2019/01/resenha_livro_um-amor-perdido.jpg'
   width: '1000'
   height: '1000'
 # </extra>

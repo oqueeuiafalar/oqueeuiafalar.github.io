@@ -8,7 +8,7 @@ date: 2015-11-26 13:09:45
 # <extra>
 description: 'Que eu amo livros, todo mundo ta cansado de saber, mas depois de ler o que fazer com eles? Jogar fora está fora de hipótese, então, porque não usa-los na decoração, ele podem dá um ar de elegância ou descontração aos ambientes. Livros de moda, gastronomia, artes, enfim, existem vários livros que tem uma lombada ou capa que chama bastante atenção, por isso eles ficam maravilhosos na decoração. Se for em uma sala de estar fica muito charmoso colocar alguns livros assim sobre a mesa de centro, principalmente se houver mais alguns enfeites como uma bandeja de prata e um porta retratos ou velas com embalagens bem bonitas. O lugar onde eu mais costumo passar horas lendo é meu quarto, por isso é uma boa ideia fazer da sua cabeceira de cama uma estante. Usando várias prateleiras é possível deixar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/livros-decoração-sala-de-estar.jpg'
+  url: '/wp-content/uploads/2015/11/livros-decoração-sala-de-estar.jpg'
   width: null
   height: null
 # </extra>

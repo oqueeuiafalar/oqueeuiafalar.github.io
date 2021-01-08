@@ -8,7 +8,7 @@ date: 2014-08-11 16:56:36
 # <extra>
 description: 'E quando a gente pensa que depois de ler “Jogos Vorazes” seria bem difícil Suzanne Collins deixar os outros livros tão bons quanto, a gente se surpreende com “Em chamas”, que na minha opinião, é muito melhor. Assim como no primeiro livro, ele é divido em partes e a primeira parte do livro chamada “A fagulha” faz jus ao nome, já que o começo do livro é bem morno, com Katniss e Peeta de volta ao distrito 12, porém morando na vila dos vitoriosos. A cada 25 anos realizam-se as comemorações do ”Massacre Quartenário”, onde o presidente de Panem escolhe um cartão que fica dentro de uma caixa contendo regras totalmente diferentes para a colheita desse ano especial. No primeiro massacre do 25º ano dos jogos vorazes, cada distrito deveria escolher qual de suas crianças iam para a arena. No &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/dsc03135.jpg'
+  url: '/wp-content/uploads/2014/08/dsc03135.jpg'
   width: null
   height: null
 # </extra>

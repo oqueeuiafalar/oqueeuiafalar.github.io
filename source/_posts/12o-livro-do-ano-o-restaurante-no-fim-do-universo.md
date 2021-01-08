@@ -8,7 +8,7 @@ date: 2014-06-10 06:49:31
 # <extra>
 description: 'O “O restaurante no fim do universo” é o segundo livro da série “O guia do mochileiro das galáxias” e este livro é mais sarcástico, doido e engraçado que o primeiro. Neste livro, Zaphod e seus companheiros intergalácticos estão mortos de fome depois de tantas aventuras e resolvem parar em um restaurante, que obviamente, é o restaurante no fim do universo. Nesse restaurante, excêntrico como tudo no livro, a própria comida se oferece para ser comida, sim, o próprio boi se oferece e faz propaganda dele mesmo para que os clientes o comam e para fechar a noite com chave de ouro os clientes são convidados a assistir a explosão do fim do universo. Quando resolvem voltar à nave Arthur faz uma trapalhada e pede para que ela faça uma xícara de chá para ele, mas o chá exatamente do &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc02937.jpg?w=650'
+  url: '/wp-content/uploads/2014/06/dsc02937.jpg?w=650'
   width: null
   height: null
 # </extra>

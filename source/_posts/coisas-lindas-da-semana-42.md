@@ -8,7 +8,7 @@ date: 2015-11-21 12:08:51
 # <extra>
 description: 'Oi, gente, bom dia. Bom final de semana para quem começou o final de semana agora e bom feriadão para quem mora em cidades onde ontem foi feriado do dia da consciência negra. Vamos lá ver coisas lindas? Essa sala Geralmente eu não gosto muito de exageros de estampas e estilos tudo em um lugar só, mas confesso que amei essa sala, apesar de várias coisas estampadas ficou bem delicado e romântico. Esse look Gente, necessito desse look boho chic anos 70 maravilhoso. Tão tudo tão perfeito, vou em busca de algum look assim já. Essa sombrinha Ai quanto amor em uma sombrinha só.  Eu adoro sombrinha, sério, uso o ano todo, se esta sol uso e se ta chovendo também, essa da foto absurdamente delicada e romântica ficaria linda para passear em um dia de sol.  Esses caixotes Adoro &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/11/estampa-floral-dcoração-de-sala.jpg'
+  url: '/wp-content/uploads/2015/11/estampa-floral-dcoração-de-sala.jpg'
   width: null
   height: null
 # </extra>

@@ -12,7 +12,7 @@ date: 2016-09-26 08:53:21
 # <extra>
 description: 'Como a gente sempre fala: a moda sempre volta! E umas dessas modas que estão de volta são os maxi brincos de acrílico. Eles fizeram muito sucesso nas décadas de 80 e 90 e agora voltaram com tudo. Modernos, coloridos e divertidos os brincos de acrílico vieram para agradar todos os gostos, podemos encontra-los com temas bem divertidos como boca, frutas ou animais e também tem os mais geométricos e menos coloridos (meus prediletos). A forma que eu acho mais legal de se usar os maxi brincos de acrílico é com o cabelo preso com um belo rabo de cavalo ou um coque, porque já que eu estou usando um brinco super diferente desses, com certeza quero que todo mundo veja, mas também fica muito charmoso usa-lo com os cabelos soltos, porque de qualquer forma, eles sempre vão aparecer hehe. &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/09/Como-usar-brincos-de-acrílico.jpg'
+  url: '/wp-content/uploads/2016/09/Como-usar-brincos-de-acrílico.jpg'
   width: '828'
   height: '828'
 # </extra>

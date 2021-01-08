@@ -8,7 +8,7 @@ date: 2014-10-21 20:18:24
 # <extra>
 description: 'O livro “O lado bom da vida” conta a história do ex-professor Pat Peoples, que acaba de sair de uma instituição psiquiátrica, que ele chamava de “o lugar ruim”, onde ele ficou por muitos anos, apesar de acreditar que passou apenas alguns meses internado e de ele não se lembrar do porque foi parar lá. Quando sua mãe, Jeanie, vai buscá-lo e o leva pra casa, Pat descobre que seu pai não fala mais com ele, que ele tem que tomar diversos medicamentos todos os dias, que uma vez por semana ele tem que ir ao consultório do Dr. Cliff, seu terapeuta, que todos evitam falar de Nikki (sua ex-esposa) e de como ele foi para no “lugar ruim” e ele resolve começar a arrumar sua vida sempre vendo o lado bom de tudo. Quando Pat foi internado, ele era &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/10/DSC03254-1024x768.jpg'
+  url: '/wp-content/uploads/2014/10/DSC03254-1024x768.jpg'
   width: null
   height: null
 # </extra>

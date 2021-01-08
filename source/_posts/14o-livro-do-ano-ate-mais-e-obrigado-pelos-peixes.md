@@ -8,7 +8,7 @@ date: 2014-06-25 08:39:39
 # <extra>
 description: '“Até mais, e obrigado pelos peixes” é o quarto livro da série “O guia do mochileiro das galáxias”, nesse livro Arthur volta pra Terra após anos viajando pelas galáxias e conhece Fenchurch, uma garota que tem lembranças do fim da Terra (que realmente acabou), e com quem ele tem uma história amorosa. A história gira em torno do misterioso desaparecimento de todos os golfinhos da Terra, e ao contrário dos outros livros da série, toma uma direção mais para a comédia romântica do que para a ficção científica. Esse com certeza foi o livro que mais gostei da série (ainda não li o quinto), a história de Arthur e Fenchurch é muito fofa e cheia de piruetas pelo céu, a única coisa que senti muita falta foi de Zaphod, que não aparece no livro e da participação de outros personagens, &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/06/dsc02987.jpg?w=650'
+  url: '/wp-content/uploads/2014/06/dsc02987.jpg?w=650'
   width: null
   height: null
 # </extra>

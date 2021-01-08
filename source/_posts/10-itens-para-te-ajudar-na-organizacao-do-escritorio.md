@@ -12,7 +12,7 @@ date: 2017-09-28 14:49:55
 # <extra>
 description: 'Utilizando alguns itens básicos você vai conseguir um escritório mais organizado e fazer com que sua produtividade e trabalho aumentem.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/01/clean-desktop.jpg'
+  url: '/wp-content/uploads/2017/01/clean-desktop.jpg'
   width: '828'
   height: '828'
 # </extra>

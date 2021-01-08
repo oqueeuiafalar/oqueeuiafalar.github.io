@@ -8,7 +8,7 @@ date: 2015-01-19 17:53:03
 # <extra>
 description: 'Gente, finalmente eu li um livro da Marian Keyes. Desde que ela lançou “Melancia” (que eu ainda não li :O)  eu tenho vontade de ler livros dela, e comecei por Sushi. Esse livro conta a história de três mulheres que apesar de uma vida estável, uma com uma bela família, outra com ótimos amigos e outra com uma carreira de sucesso, todas não se sentem completas e são insatisfeitas. Ashling que mora em Dublin, é supersticiosa, sempre lendo horóscopo, vendo taro, e sempre que acha necessário ela e seus amigos Joy e Ted dão uma esfregada no Buda da sorte. Ela trabalhava em uma revista bem pequena onde ela era redatora de quase tudo como: moda, saúde, culinária, artesanato, terapeuta e por ai vai. Clodagh, melhor amiga da Ashling que também mora em Dublin, tem uma família podemos dizer que &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/01/DSC03507-1024x768.jpg'
+  url: '/wp-content/uploads/2015/01/DSC03507-1024x768.jpg'
   width: null
   height: null
 # </extra>

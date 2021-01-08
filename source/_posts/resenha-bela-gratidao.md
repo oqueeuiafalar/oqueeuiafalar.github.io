@@ -15,7 +15,7 @@ date: 2018-01-11 08:25:35
 # <extra>
 description: 'Bela Gratidão da autora Corey Ann Haydu é um livro que fala sobre transformações e crescimento e nele conhecemos Montana e sua família. Montana é uma adolescente de 17 anos que foi abandonada pela mãe ainda criança e viveu até os 16 anos com o pai e a irmã Arizona, mas agora que Arizona foi para a faculdade Montana mora apenas com o pai na maior parte do ano. Montana passou boa parte de sua vida vendo seu pai, um cirurgião plástico, entrar e sair de relacionamentos amorosos com alguns casamentos bem curtos. Com tantos casamentos, Montana e Arizona sentem que suas vidas é uma série de perdas com tantas madrastas chegando e partindo e elas se sentem bem confusas e frustradas com isso. Após Arizona ir para a faculdade, Montana começou a se sentir sozinha e durante as aulas &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/resumo-do-livro-bela-gratidão.jpg'
+  url: '/wp-content/uploads/2018/01/resumo-do-livro-bela-gratidão.jpg'
   width: '828'
   height: '828'
 # </extra>

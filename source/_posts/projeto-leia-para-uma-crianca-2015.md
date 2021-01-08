@@ -9,7 +9,7 @@ date: 2015-10-28 08:46:39
 # <extra>
 description: 'Pelo segundo ano seguido venho aqui falar pra vocês do projeto “Leia para uma criança” da Fundação Itaú Social. “Leia para uma criança” é um projeto de incentivo a leitura para crianças para que elas já cresçam com esse hábito. Esse ano os dois livrinhos são: “Dorme, menino, dorme” de De Laura Herrera; e “Tatu-Balão” escrito por Sônia Barros. “Em Dorme, menino, dorme” conta-se a história de um menino que fica acordado durante a noite e não consegue dormir e para isso lhe trazem leite morno, música e cobertores quentinhos, porém, só uma coisa o fará de fato dormir. No livro “Tatu-balão” lemos a história de um tatu-bola que tinha o sonho de não ser bola e sim um balão, até a hora que ele conhece um menino e vê seu sonho se realizando. Um coisa que tenho que comentar &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/projeto-leia-para-uma-criança-2015-1024x768.jpg'
+  url: '/wp-content/uploads/2015/10/projeto-leia-para-uma-criança-2015-1024x768.jpg'
   width: null
   height: null
 # </extra>

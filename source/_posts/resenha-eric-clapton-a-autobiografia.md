@@ -15,7 +15,7 @@ date: 2017-10-02 10:36:53
 # <extra>
 description: 'Eric Clapton a Autobiografia é um relato dolorido de toda a trajetória difícil do cantor que teve seu nome grafado em muros de Londres como Clapton is God.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/09/capa-livro-eric-clapton-a-autobiografia.jpg'
+  url: '/wp-content/uploads/2017/09/capa-livro-eric-clapton-a-autobiografia.jpg'
   width: '828'
   height: '828'
 # </extra>

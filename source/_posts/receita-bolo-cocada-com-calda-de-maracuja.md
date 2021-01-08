@@ -8,7 +8,7 @@ date: 2016-01-09 11:28:06
 # <extra>
 description: 'Oi gente, tudo bem? Eu sou apaixonada por cocada desde que eu me conheço por gente. Lembro que quando criança minha tia Cida fazia uma cocada de comer rezando, e minha mãe faz uma cocada de comer de colher que meu Deus, é gostoso demais, não há dieta que resista haha, fora essas cocadas deliciosas dos mais diversos sabores que são vendidas nas ruas/parques. E além de toda essas cocadas mais tradicionais, minha mãe resolve as vezes fazer esse bolo cocada que é divino ( sério, vocês precisam experimentar) principalmente por causa dessa calda de maracujá que dá um azedinho todo especial. E claro eu não podia deixar de compartilhar essa gostosura toda com vocês, né. Papel e caneta na mão e bora anotar a receita. Para o bolo: 1 lata de leite condensado 300 ml de leite 2 ovos &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracujá-1024x768.jpg'
+  url: '/wp-content/uploads/2016/01/receita-bolo-de-coco-com-calda-de-maracujá-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -8,7 +8,7 @@ date: 2014-02-27 09:30:50
 # <extra>
 description: ' “O Último Imperador” é um filme de Bernardo Bertolucci que conta a história de Pu Yi, o último imperador da China. O filme nos mostra o fim da dinastia Ching e a ascensão da República Popular da China, passando pela segunda  guerra mundial. Pu Yi foi declarado imperador aos três anos de idade e a partir daí foi viver na Cidade Proibida, que ficava situada no centro de Pequim, de onde ele não podia sair nunca. Quando Pu Yi ainda era adolescente os comunistas tomaram o poder e ele foi deposto e finalmente veio a conhecer o mundo fora dos muros da Cidade Proibida, tendo de se adaptar ao novo regime. De tão obcecado pelo poder, chegou a ajudar os japoneses na invasão da Manchúria na tentativa de se reestabelecer como Imperador. Em 1945 os soviéticos invadiram os territórios ocupados &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/02/dsc022412.jpg?w=650'
+  url: '/wp-content/uploads/2014/02/dsc022412.jpg?w=650'
   width: null
   height: null
 # </extra>

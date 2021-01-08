@@ -8,7 +8,7 @@ date: 2014-08-15 18:39:05
 # <extra>
 description: 'Todas as pessoas que me conhecem sabem o quanto eu amo pinguins, é um amor de infância. Desde a primeira vez que assisti “O pinguim arteiro” (um desenho que eu devo ter feito meu pai alugar umas mil vezes na locadora quando eu era criança) eu peguei esses bichinhos, lindos, fofos, encantadores pra ter amor eterno por eles. E pensando nisso eu resolvi fazer essa wish list de coisas de pinguins que eu adoraria ter, pra poder olhar e ter eles sempre comigo. 1.  Pijamas com estampa de pinguins 2.  Porta sabonetes 3.  Pen-drive 4.  Porta escova de dentes 5.  Descanso de pescoço pra viagem 6.  Fronha de pinguim 7.  Pingente de pinguim 8.  Cofrinho sonoro 9.  Caneca com pelucia 10. Bolsa termica E aí, qual desses vocês queriam? &nbsp;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/08/pinguim_rei_01.jpg'
+  url: '/wp-content/uploads/2014/08/pinguim_rei_01.jpg'
   width: null
   height: null
 # </extra>

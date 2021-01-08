@@ -8,7 +8,7 @@ date: 2016-01-22 11:50:57
 # <extra>
 description: '&nbsp; A cidade de São Paulo comemora 462 anos nessa segunda-feira dia 25 de Janeiro e o &#8220;O que que eu ia falar?&#8221; não poderia deixar de prestigiar essa data tão importante para a cidade mais populosa do Brasil. Por isso separamos 13 eventos entre os dias 23 de Janeiro e 25 de Janeiro para quem quer aproveitar e curtir a cidade maravilhosa. Clique aqui para compartilhar esses eventos com seus amigos. 13 &#8211; Grátis na Vila Madalena: as músicas mais românticas do jazz 12 &#8211; Aniversário de São Paulo no Mirante 11 &#8211; Maria Gadú apresenta show &#8220;Guelã&#8221; 10 &#8211; 1º Festival do Pastel &#8211; Memorial da América Latina 9 &#8211; 3º Festival Gastronômico até R$ 10,00 &#8211; Memorial da América Latina 8 &#8211; 462 fotos mostram a beleza encontrada no caos paulistano 7 &#8211; Daniela Mercury no Aniversário &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/1-Grátis-na-Vila-Madalena-as-músicas-mais-românticas-do-jazz.png'
+  url: '/wp-content/uploads/2016/01/1-Grátis-na-Vila-Madalena-as-músicas-mais-românticas-do-jazz.png'
   width: null
   height: null
 # </extra>

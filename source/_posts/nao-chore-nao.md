@@ -14,7 +14,7 @@ date: 2018-07-25 18:49:36
 # <extra>
 description: 'Assim que eu recebi o livro Não Chore, Não  da Editora Planeta confesso que fiquei super ansiosa pela leitura, afinal, Não Chore, Não é o segundo livro da autora Mary Kubica que eu leio, o primeiro foi A Garota Perfeita e eu amei demais aquele livro. Em Não Chore, Não conhecemos Quinn, uma jovem que após uma noite de farra e bebedeira ao acordar em seu apartamento percebe que Ester, sua amiga e roommate desapareceu. Nisso Quinn começa a buscar pistas para tentar descobrir se sua amiga Ester realmente desapareceu ou se apenas resolveu ir embora sem avisar. Em paralelo a história de Quinn, Não Chore, Não nos apresenta Alex, um jovem que mora em uma pequena cidade e decidiu desistir da faculdade para ficar cuidando do pai alcoólatra. Em mais um dia de trabalho na lanchonete, Alex avista uma moça que atrai sua atenção de forma que ele &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/07/capa-livro-não-chore-não.jpg'
+  url: '/wp-content/uploads/2018/07/capa-livro-não-chore-não.jpg'
   width: '1000'
   height: '1000'
 # </extra>

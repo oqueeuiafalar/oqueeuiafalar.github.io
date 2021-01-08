@@ -13,7 +13,7 @@ date: 2018-01-29 08:07:53
 # <extra>
 description: 'É possível fazer uma pool party de maneira bem rápida e sem precisar gastar muito. Confira as dicas e inspirações para você fazer sua festa na piscina.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/01/decoração-festa-na-piscina.jpg'
+  url: '/wp-content/uploads/2018/01/decoração-festa-na-piscina.jpg'
   width: '800'
   height: '800'
 # </extra>

@@ -8,7 +8,7 @@ date: 2015-09-20 22:24:25
 # <extra>
 description: 'Depois que comecei a fazer aulas de francês meu interesse por coisas relacionadas a França aumentou muito e claro, eu como a maioria das pessoas do mundo que ainda não foram a Paris, faço planos de um dia ir, mas enquanto esses planos não se tornam realidade, que tal viajar pra lá e conhecer essa cidade linda através de filmes, hein? Bora conferir a lista que fiz de alguns filmes que eu adoro e que se passam em Paris. O Código Da Vinci Sem duvida “O código Da Vinci” é um dos meus suspenses favoritos. Nele vemos Robert Langdom, um simbologista, ser levado até o Museu do Louvre após o curador ser assassinado. A morte do curador é repleta de símbolos e pistas estranhas e Langdom está lá pra ajudar a criptógrafa da policia. Langdom é ajudado por Sophie Neveu &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/09/filmes_que_se_passam_na_franca_capa.png'
+  url: '/wp-content/uploads/2015/09/filmes_que_se_passam_na_franca_capa.png'
   width: null
   height: null
 # </extra>

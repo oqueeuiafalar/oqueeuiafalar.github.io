@@ -8,7 +8,7 @@ date: 2014-09-23 23:34:26
 # <extra>
 description: '“O sofá estampado” é um livro infantil da gaúcha Lygia Bojunga que começa assim: “É pequeno, tem só dois lugares. E fica perto da janela, Pro sol não desbotar o estampado&#8230;”. O livro conta a história de Vitor, um tatu muito quieto que sempre cavava buraco pra poder esconder seus acessos de tosse nervosa e que era apaixonado por uma gata chamada Dalva, que pra ganhar um concurso de quem assiste mais televisão, ela passa todos seus dias sentada no sofá estampando em frente à TV. Vitor pra conseguir chamar sua atenção resolve aceitar o convite da Dona Popô, uma hipopótamo produtora de TV, e começa a fazer vários comerciais, até que toma coragem e pede a Dalva em namoro e ela aceita, porém, Vitor quer se casar com Dalva e também resolve pedi-la em casamento. No entanto, a Dalva &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/DSC03219.jpg'
+  url: '/wp-content/uploads/2014/09/DSC03219.jpg'
   width: null
   height: null
 # </extra>

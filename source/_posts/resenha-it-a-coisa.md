@@ -8,7 +8,7 @@ date: 2016-01-11 10:44:44
 # <extra>
 description: 'Alguma força estranha, podemos chamar até de sobrenatural, reside na cidade de Derry,  e essa força se alimenta dos piores medos das pessoas, de seus pesadelos, suas angustias, e a cada vinte e sete anos muitas mortes e coisas estranhas acontecem nessa cidade, mas como acabar com tudo isso? Em 1958 um grupo de sete crianças tentou matar a Coisa, mas a duvida acabou ficando nas suas mentes e por isso o grupo resolveu fazer um pacto de sangue, que se algum dia a Coisa voltasse para Derry e recomeçasse o mal eles também voltariam lá para acabar de vez com ela. Na maioria das vezes a Coisa aparece na forma de um palhaço chamado Pennywise, afinal, qual o jeito mais fácil de atrair as crianças para perto dela? As crianças são suas presas favorita porque elas tem a mente &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/01/Capa-do-livro-It-A-Coisa-1024x768.jpg'
+  url: '/wp-content/uploads/2016/01/Capa-do-livro-It-A-Coisa-1024x768.jpg'
   width: null
   height: null
 # </extra>

@@ -13,7 +13,7 @@ date: 2016-10-06 08:36:54
 # <extra>
 description: 'A australiana Hanna é uma talentosa restauradora de livros que é chamada para restaurar a Hagadá de Saravejo, um manuscrito religioso judeu do século XV que era proibido naquela época e que foi salva por um bibliotecário muçulmano. Ao examinar o livro, Hanna encontra alguns fragmentos como um pelo branco, manchas vermelhas, a asa de um inseto, entro outros, e é assim que “As memórias do livro” vai nos mostrando suas histórias através do tempo. O livro vai intercalando entre a vida de Hanna e a história da Hagadá, mostrando como cada um daqueles fragmentos foi parar no livro através de todos aqueles anos. Quando o livro fala sobre Hanna, ele não se limita a mostrar sua vida apenas como restauradora, ele também mostra vários conflitos que ela tem com a mãe, uma famosa médica que nunca aceitou a filha &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/10/livro-As-memórias-do-livro-resumo.jpg'
+  url: '/wp-content/uploads/2016/10/livro-As-memórias-do-livro-resumo.jpg'
   width: '828'
   height: '828'
 # </extra>

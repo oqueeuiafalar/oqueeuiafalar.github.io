@@ -12,7 +12,7 @@ date: 2018-04-19 08:15:01
 # <extra>
 description: '&quot; O tamanho do céu &quot; é um livro lindo que nos leva mais a fundo na cultura da Índia, através de trágicos acontecimentos, super recomendo a leitura.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/03/resenha-livro-o-tamanho-do-céu.jpg'
+  url: '/wp-content/uploads/2017/03/resenha-livro-o-tamanho-do-céu.jpg'
   width: '828'
   height: '828'
 # </extra>

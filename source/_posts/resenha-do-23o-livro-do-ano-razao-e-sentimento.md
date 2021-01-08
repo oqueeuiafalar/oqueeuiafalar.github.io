@@ -8,7 +8,7 @@ date: 2014-09-15 20:29:42
 # <extra>
 description: '“Razão e Sentimento” é um livro de Jane Austen, mesma autora de “Orgulho e Preconceito” e pra variar, ela continua primorosa na sua escrita. O livro começa com a morte do Sr. Dashwood e sua casa em Norland Park sendo transferida automaticamente para seu filho do primeiro casamento, John Dashwood, e este, incentivado pela mulher, resolve se mudar imediatamente para lá com sua família, fazendo com que a segunda esposa, a Sra Dashwood e suas três filhas Elinor, Margaret e Marianne, se sintam mais confortáveis indo morar em um  chalé em  Devonshire. Lá neste novo lar a família faz novos amigos, as irmãs se apaixonam e se envolvem em relacionamentos complicados, envoltos em traições e diferenças sociais. As irmãs têm personalidades bem diferentes, Elinor, uma jovem de dezenove anos muito madura, sensível e serena que age movida pela razão, Margaret, &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2014/09/DSC03189-1024x768.jpg'
+  url: '/wp-content/uploads/2014/09/DSC03189-1024x768.jpg'
   width: null
   height: null
 # </extra>

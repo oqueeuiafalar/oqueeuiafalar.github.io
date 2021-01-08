@@ -12,7 +12,7 @@ date: 2018-06-09 11:06:03
 # <extra>
 description: 'Quer aprender como usar moletom no trabalho e em looks casuais? Confira nossas dicas e veja fotos para se inspirar e arrasar.'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2018/06/mulher-de-saia-e-moletom-laranja.jpg'
+  url: '/wp-content/uploads/2018/06/mulher-de-saia-e-moletom-laranja.jpg'
   width: '596'
   height: '596'
 # </extra>

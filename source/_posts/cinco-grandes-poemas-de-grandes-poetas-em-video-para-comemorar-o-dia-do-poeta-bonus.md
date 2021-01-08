@@ -10,7 +10,7 @@ date: 2015-10-20 12:08:35
 # <extra>
 description: 'Desde muito cedo a poesia teve um grande impacto na minha formação pessoal. Leio poesia há tanto tempo quanto sou capaz de ler, e escrevo poesia há tanto tempo quanto sou capaz de escrever. À parte, é claro, a qualidade da minha produção poética não ser comparável com o dos meus ídolos poéticos, sempre gostei de ler grandes autores como Pablo Neruda, Vinícius de Moraes, Mario de Andrade, Carlos Drummond de Andrade, Fernando Pessoa e Walt Whitman. Lembro de quando eu era criança e passava algumas noites tentando criar novas palavras, do incentivo do meu irmão à poesia, ou de como me sentí depois de mais velho ao ter contato com Fernando Pessoa. Por isso, quis lembrar a data de 20 de Outubro, dia do poeta separando alguns dos meus poemas preferidos dos meus poetas favoritos. Aí vão 5 deles, &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2015/10/cinco-grandes-poemas-de-grandes-poetas-natalia.blog-br-1024x512.png'
+  url: '/wp-content/uploads/2015/10/cinco-grandes-poemas-de-grandes-poetas-natalia.blog-br-1024x512.png'
   width: null
   height: null
 # </extra>

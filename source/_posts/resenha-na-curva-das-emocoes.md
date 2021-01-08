@@ -8,7 +8,7 @@ date: 2016-07-18 14:33:59
 # <extra>
 description: 'Recebi da Editora Biruta o livro “Na curva das emoções” de Jorge Miguel Marinho. Nesse livro encontramos sete contos bem sensíveis e com bastante jogo de palavras, onde o autor às vezes dialoga com Clarice Lispector, usa de várias metáforas e quase sempre faz referencias a borboletas. Pra resenha não se tornar muito longa e cansativa, resolvi falar apenas dos dois contos que mais gostei (foi difícil escolher, porque todos são ótimos!) O primeiro conto é “A libertinagem das mães”, nesse conto a gente conhece uma família, mas especificamente mãe e filha que não dialogam muito, é aquela típica família onde a mãe tem mil coisas pra fazer e a filha está sempre cheia de trabalhos do colégio e por causa disso tudo acaba tento uma confusão quando Cristina resolve contar para sua mãe que ela foi mal em física &hellip;'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2016/07/livro-Na-curva-das-emoções-Jorge-Miguel-Marinho-1024x768.jpg'
+  url: '/wp-content/uploads/2016/07/livro-Na-curva-das-emoções-Jorge-Miguel-Marinho-1024x768.jpg'
   width: null
   height: null
 # </extra>

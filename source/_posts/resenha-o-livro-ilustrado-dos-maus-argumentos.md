@@ -12,7 +12,7 @@ date: 2017-12-14 13:10:57
 # <extra>
 description: 'O Livro Ilustrados dos Maus Argumentos é uma leitura prazerosa e necessária e o conhecimento que ela oferece abre nossos olhos e oferece um escudo'
 featured_image: 
-  url: 'https://oqueeuiafalar.github.io/wp-content/uploads/2017/06/resenha-o-livro-dos-maus-argumentos.jpg'
+  url: '/wp-content/uploads/2017/06/resenha-o-livro-dos-maus-argumentos.jpg'
   width: '828'
   height: '828'
 # </extra>
