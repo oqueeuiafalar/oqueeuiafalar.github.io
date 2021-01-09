@@ -39,7 +39,7 @@
 </head>
 
 <body>
-    <div class="<%- is_post() || is_page() ? 'page--post' : 'page' %>">
+    <div class="<%- is_post() ? 'page--post' : 'page' %>">
         <header class="page__header">
             <a class="page__header__logo" href="<%- url_for(config.url) %>">
                 <img
